@@ -1,0 +1,1701 @@
+districtNumber;districtName;listOrder;name;age;votes;nomParty
+31;Hl.m.Praha;1;Škoda Jan;54;5 894;ÈSS
+31;Hl.m.Praha;2;Èejka Èestmír;62;3 956;ÈSS
+31;Hl.m.Praha;3;Štìpán David;27;1 811;ÈSS
+31;Hl.m.Praha;4;Bátora Ladislav;38;1 772;ÈSS
+31;Hl.m.Praha;5;Menšík Radim;44;1 118;ÈSS
+31;Hl.m.Praha;6;Obst Jan;38;1 877;ÈSS
+31;Hl.m.Praha;7;Kopeckı Jan;51;1 765;ÈSS
+31;Hl.m.Praha;8;Pak Jiøí;60;337;ÈSS
+31;Hl.m.Praha;9;Šedivı Milan;52;224;ÈSS
+31;Hl.m.Praha;10;Mišoòová Rùena;50;1 471;ÈSS
+31;Hl.m.Praha;11;Balašová Lenka;26;1 160;ÈSS
+31;Hl.m.Praha;13;Macháèek Stanislav;55;428;ÈSS
+31;Hl.m.Praha;14;Chvojka Miloš;47;675;ÈSS
+31;Hl.m.Praha;15;Šafr Jan;47;394;ÈSS
+31;Hl.m.Praha;16;Koskuba Jiøí;35;1 790;ÈSS
+31;Hl.m.Praha;17;Svoboda Vladislav;40;434;ÈSS
+31;Hl.m.Praha;18;Šolle Vít;28;234;ÈSS
+31;Hl.m.Praha;19;Englc Miloslav;67;104;ÈSS
+31;Hl.m.Praha;20;Kulhavı Václav;46;92;ÈSS
+31;Hl.m.Praha;21;Vostøel Darek;61;1 348;ÈSS
+31;Hl.m.Praha;22;Tesaø Jiøí;46;236;ÈSS
+31;Hl.m.Praha;23;Obdrálek Petr;49;201;ÈSS
+31;Hl.m.Praha;24;Drnec Jaroslav;52;61;ÈSS
+31;Hl.m.Praha;25;Hampl Jiøí;52;364;ÈSS
+31;Hl.m.Praha;26;Kozák Jaromír;71;27;ÈSS
+31;Hl.m.Praha;27;Tichá Alena;38;157;ÈSS
+31;Hl.m.Praha;28;Šebelík Petr;38;73;ÈSS
+31;Hl.m.Praha;29;Danìk Svatopluk;53;72;ÈSS
+31;Hl.m.Praha;30;Dousek Josef;44;305;ÈSS
+31;Hl.m.Praha;31;Chládek Milan;60;30;ÈSS
+31;Hl.m.Praha;32;Pecka Vladimír;47;70;ÈSS
+31;Hl.m.Praha;33;Fiøtík Josef;55;32;ÈSS
+31;Hl.m.Praha;34;Kalua Miroslav;52;37;ÈSS
+31;Hl.m.Praha;35;Šejna Miroslav;32;153;ÈSS
+31;Hl.m.Praha;36;Pospíšil František;59;126;ÈSS
+32;Støedoèeskı;1;Hrabaò Josef;56;1 653;ÈSS
+32;Støedoèeskı;2;Dekoj Stanislav;43;1 369;ÈSS
+32;Støedoèeskı;3;Marek Jaroslav;30;971;ÈSS
+32;Støedoèeskı;4;Skøivan Karel;47;944;ÈSS
+32;Støedoèeskı;5;Vacek Karel;47;792;ÈSS
+32;Støedoèeskı;6;Brandejskı Miroslav;47;1 261;ÈSS
+32;Støedoèeskı;7;Blaej Petr;43;721;ÈSS
+32;Støedoèeskı;8;Marek Pavel;50;550;ÈSS
+32;Støedoèeskı;9;Albrecht Miloslav;31;1 206;ÈSS
+32;Støedoèeskı;10;Èervák Ivo;38;826;ÈSS
+32;Støedoèeskı;11;Slavík Jiøí;22;518;ÈSS
+32;Støedoèeskı;12;Korf Kvìtoslav;56;165;ÈSS
+32;Støedoèeskı;13;Zenkl Jan;24;776;ÈSS
+32;Støedoèeskı;14;Sobotka Pøemysl;42;1 331;ÈSS
+32;Støedoèeskı;15;Cibulka Jaroslav;35;395;ÈSS
+32;Støedoèeskı;16;Hofta Dalibor;66;496;ÈSS
+32;Støedoèeskı;17;Nìmeckı Miroslav;58;167;ÈSS
+32;Støedoèeskı;18;Sedláèek Roman;39;843;ÈSS
+32;Støedoèeskı;19;Šenfeld Antonín;52;430;ÈSS
+32;Støedoèeskı;20;Kühnel Josef;59;526;ÈSS
+32;Støedoèeskı;21;Ondráèek Pavel;44;203;ÈSS
+32;Støedoèeskı;22;Stuna Zdenìk;54;276;ÈSS
+32;Støedoèeskı;23;Nauš Bohumil;51;255;ÈSS
+32;Støedoèeskı;24;Šimáèek Petr;42;557;ÈSS
+32;Støedoèeskı;25;Pernièka Miloš;37;441;ÈSS
+32;Støedoèeskı;26;Daòková Irena;42;202;ÈSS
+32;Støedoèeskı;27;Pospíchal Jiøí;32;138;ÈSS
+32;Støedoèeskı;28;Štìpánek Josef;36;70;ÈSS
+32;Støedoèeskı;29;Peška Milan;34;189;ÈSS
+32;Støedoèeskı;30;Kebrle Vladimír;66;103;ÈSS
+33;Jihoèeskı;1;Horkı Josef;49;717;ÈSS
+33;Jihoèeskı;2;Maøíková Jana;29;1 264;ÈSS
+33;Jihoèeskı;3;Tichava Vlastimil;43;564;ÈSS
+33;Jihoèeskı;4;Chlaò Miloslav;48;511;ÈSS
+33;Jihoèeskı;5;Zeman Emil;56;785;ÈSS
+33;Jihoèeskı;6;Toušek Jaroslav;47;230;ÈSS
+33;Jihoèeskı;7;Pašava Josef;49;139;ÈSS
+33;Jihoèeskı;8;Hezina Karel;45;273;ÈSS
+33;Jihoèeskı;9;Volnı Miroslav;46;624;ÈSS
+33;Jihoèeskı;10;Stráskı František;34;368;ÈSS
+33;Jihoèeskı;11;Štìbeták Jan;58;118;ÈSS
+33;Jihoèeskı;12;Pavelka Zdenìk;64;282;ÈSS
+33;Jihoèeskı;13;Stejskal Eduard;42;555;ÈSS
+33;Jihoèeskı;14;Habeš Petr;32;213;ÈSS
+33;Jihoèeskı;15;Èervenı Zlatko;69;331;ÈSS
+33;Jihoèeskı;16;Havel Václav;22;447;ÈSS
+33;Jihoèeskı;17;Hrubeš Václav;50;152;ÈSS
+33;Jihoèeskı;18;Mareš Karel;35;246;ÈSS
+34;Západoèeskı;1;Král Jaroslav;39;1 060;ÈSS
+34;Západoèeskı;2;Kováøík Jindøich;44;2 255;ÈSS
+34;Západoèeskı;3;Dranko Ivan;43;698;ÈSS
+34;Západoèeskı;4;Strasser Jiøí;23;1 111;ÈSS
+34;Západoèeskı;5;Šolc Tomáš;53;1 311;ÈSS
+34;Západoèeskı;6;Suchomel Zdenìk;30;427;ÈSS
+34;Západoèeskı;7;Sobota Jiøí;53;557;ÈSS
+34;Západoèeskı;8;Šístek Tomáš;44;628;ÈSS
+34;Západoèeskı;9;Ryšavı Jiøí;52;457;ÈSS
+34;Západoèeskı;10;Polauf Stanislav;49;456;ÈSS
+34;Západoèeskı;11;Vydra Arnošt;48;379;ÈSS
+34;Západoèeskı;12;Kajlik Petr;42;352;ÈSS
+34;Západoèeskı;13;Valenta Jiøí;52;249;ÈSS
+34;Západoèeskı;14;Jánošík Pavel;33;768;ÈSS
+34;Západoèeskı;15;Tothová Ivana;34;1 348;ÈSS
+34;Západoèeskı;16;Mainz Josef;58;918;ÈSS
+34;Západoèeskı;17;Šunda Vladimír;48;295;ÈSS
+34;Západoèeskı;18;Krš Zdenìk;48;216;ÈSS
+34;Západoèeskı;19;Jeek Josef;53;357;ÈSS
+34;Západoèeskı;20;Pšenièková Zuzana;28;641;ÈSS
+34;Západoèeskı;21;Kazda Milan;59;196;ÈSS
+34;Západoèeskı;22;Horák Bohuslav;47;332;ÈSS
+34;Západoèeskı;23;Holá Jana;51;333;ÈSS
+35;Severoèeskı;1;Šafaøík Jaroslav;48;8 289;ÈSS
+35;Severoèeskı;2;Pochová Karla;46;3 276;ÈSS
+35;Severoèeskı;3;Koleèek Michal;24;2 532;ÈSS
+35;Severoèeskı;4;Šíma Václav;34;2 488;ÈSS
+35;Severoèeskı;5;Mikulù Stanislav;49;1 342;ÈSS
+35;Severoèeskı;6;Schiefner Václav;40;1 650;ÈSS
+35;Severoèeskı;7;Svoboda Pravoslav;65;1 658;ÈSS
+35;Severoèeskı;8;Tomèová Marie;35;2 111;ÈSS
+35;Severoèeskı;9;Krauskopf Karel;64;441;ÈSS
+35;Severoèeskı;10;Sodomka Lubomír;60;1 565;ÈSS
+35;Severoèeskı;11;Rác Jaromír;36;1 474;ÈSS
+35;Severoèeskı;12;Dobrodinskı Zdenìk;60;433;ÈSS
+35;Severoèeskı;13;Beneš Jiøí;37;765;ÈSS
+35;Severoèeskı;14;Adolf Jaroslav;40;434;ÈSS
+35;Severoèeskı;15;Kotlaba Radek;23;727;ÈSS
+35;Severoèeskı;16;Vondráš Richard;28;877;ÈSS
+35;Severoèeskı;17;Ullrich Valdemar;54;706;ÈSS
+35;Severoèeskı;18;Pecková Jarmila;45;2 241;ÈSS
+35;Severoèeskı;19;Øehák Alexandr;49;610;ÈSS
+35;Severoèeskı;20;Janù Vladimír;42;987;ÈSS
+36;Vıchodoèeskı;1;Poár Jaroslav;49;1 584;ÈSS
+36;Vıchodoèeskı;2;Prudil Slavomil;58;851;ÈSS
+36;Vıchodoèeskı;3;Rádl Miloš;52;954;ÈSS
+36;Vıchodoèeskı;4;Kuèera Liboslav;33;1 538;ÈSS
+36;Vıchodoèeskı;5;Šedaj Miroslav;54;756;ÈSS
+36;Vıchodoèeskı;6;Sedláèek Jan;39;637;ÈSS
+36;Vıchodoèeskı;7;Koblíek František;47;476;ÈSS
+36;Vıchodoèeskı;8;Broulíková Slavìna;42;1 122;ÈSS
+36;Vıchodoèeskı;9;Zeman František;37;1 428;ÈSS
+36;Vıchodoèeskı;10;Švanda Josef;46;995;ÈSS
+36;Vıchodoèeskı;11;Balcar Josef;49;599;ÈSS
+36;Vıchodoèeskı;12;Švec Václav;50;267;ÈSS
+36;Vıchodoèeskı;13;Hrubı Vladimír;51;241;ÈSS
+36;Vıchodoèeskı;14;Vaòouèek František;52;495;ÈSS
+36;Vıchodoèeskı;15;Stolín Bedøich;53;480;ÈSS
+36;Vıchodoèeskı;16;Trejtnar Ladislav;47;363;ÈSS
+36;Vıchodoèeskı;17;Komárek Vladimír;61;885;ÈSS
+36;Vıchodoèeskı;18;Martinek Vladimír;47;351;ÈSS
+36;Vıchodoèeskı;19;Kocourek Miroslav;56;423;ÈSS
+37;Jihomoravskı;1;Coufal Dalibor;60;1 703;ÈSS
+37;Jihomoravskı;2;Kleiner Jindøich;51;1 017;ÈSS
+37;Jihomoravskı;3;Kleska Milan;58;1 659;ÈSS
+37;Jihomoravskı;4;Luska Tomáš;43;943;ÈSS
+37;Jihomoravskı;5;Kapsová Anna;43;1 229;ÈSS
+37;Jihomoravskı;6;Škoda Vladimír;37;1 259;ÈSS
+37;Jihomoravskı;7;Jaroš Jaroslav;44;424;ÈSS
+37;Jihomoravskı;8;Bracek Vladimír;38;296;ÈSS
+37;Jihomoravskı;9;Regula Petr;35;394;ÈSS
+37;Jihomoravskı;10;Šupina Zdenìk;38;583;ÈSS
+37;Jihomoravskı;11;Vidlák Karel;62;223;ÈSS
+37;Jihomoravskı;12;Šanovec Jaroslav;55;299;ÈSS
+37;Jihomoravskı;13;Krupa Stanislav;38;368;ÈSS
+37;Jihomoravskı;14;Beutlová Ila;60;306;ÈSS
+37;Jihomoravskı;15;Ošlejšek Karel;33;449;ÈSS
+37;Jihomoravskı;16;Venclík Jiøí;52;1 635;ÈSS
+37;Jihomoravskı;17;Kyzlink Rostislav;35;243;ÈSS
+37;Jihomoravskı;18;Vaverka Petr;31;353;ÈSS
+37;Jihomoravskı;19;Slavík Tomáš;46;331;ÈSS
+37;Jihomoravskı;20;Bøezina Vojtìch;61;294;ÈSS
+37;Jihomoravskı;21;Melichar Vladimír;45;232;ÈSS
+37;Jihomoravskı;22;Èimáø Miloš;46;297;ÈSS
+37;Jihomoravskı;23;Illová Stanislava;37;687;ÈSS
+37;Jihomoravskı;24;Frühbauer Ladislav;48;216;ÈSS
+37;Jihomoravskı;25;Musil Vladimír;48;396;ÈSS
+37;Jihomoravskı;26;Pøíkaskı František;31;684;ÈSS
+37;Jihomoravskı;27;Kolodìj Tomáš;49;360;ÈSS
+37;Jihomoravskı;28;Pokorná Dana;48;245;ÈSS
+37;Jihomoravskı;29;Hendl Zdenìk;43;84;ÈSS
+37;Jihomoravskı;30;Pummer Vladimír;34;106;ÈSS
+37;Jihomoravskı;31;Zigo Antonín;40;101;ÈSS
+37;Jihomoravskı;32;Verbík Bohuslav;36;100;ÈSS
+37;Jihomoravskı;33;Lán Jan;29;125;ÈSS
+37;Jihomoravskı;34;Lukáš Jiøí;47;193;ÈSS
+37;Jihomoravskı;35;Prokeš Karel;54;94;ÈSS
+37;Jihomoravskı;36;Karlová Ladislava;47;71;ÈSS
+37;Jihomoravskı;37;Procházka Pavel;32;103;ÈSS
+37;Jihomoravskı;38;Klanica Jiøí;44;135;ÈSS
+37;Jihomoravskı;39;Magni Milan;58;103;ÈSS
+37;Jihomoravskı;40;Novák Petr;50;130;ÈSS
+37;Jihomoravskı;41;Køíek Vítìzslav;45;90;ÈSS
+37;Jihomoravskı;42;Pavlíèková Ludmila;44;160;ÈSS
+37;Jihomoravskı;43;Bochníèek Bohumil;57;103;ÈSS
+37;Jihomoravskı;44;Tomanec Jaroslav;62;227;ÈSS
+37;Jihomoravskı;45;Kubátová Jarmila;42;118;ÈSS
+37;Jihomoravskı;46;Øehoøová Jitka;43;122;ÈSS
+37;Jihomoravskı;47;Janovskı Antonín;39;59;ÈSS
+37;Jihomoravskı;48;Janìková Jana;35;366;ÈSS
+37;Jihomoravskı;49;Trojan Zdenìk;46;123;ÈSS
+37;Jihomoravskı;50;Fejt Pavel;48;167;ÈSS
+37;Jihomoravskı;51;Tichı Zdenìk;53;164;ÈSS
+37;Jihomoravskı;52;Hora Vladimír;49;55;ÈSS
+37;Jihomoravskı;53;Bohata Ivan;51;53;ÈSS
+37;Jihomoravskı;54;Prokeš Pavel;22;259;ÈSS
+37;Jihomoravskı;55;Coufal Neklan;22;199;ÈSS
+37;Jihomoravskı;56;Koláèek Jaroslav;61;30;ÈSS
+37;Jihomoravskı;57;Brandtner Josef;32;66;ÈSS
+37;Jihomoravskı;58;Švihálek Zdenìk;51;142;ÈSS
+38;Severomoravskı;1;Adam Milan;62;2 949;ÈSS
+38;Severomoravskı;2;Sedláèek Josef;43;1 468;ÈSS
+38;Severomoravskı;3;Morávek Svatopluk;42;1 358;ÈSS
+38;Severomoravskı;4;Skopal Jaroslav;54;716;ÈSS
+38;Severomoravskı;5;Kvapil Vlastimil;47;726;ÈSS
+38;Severomoravskı;6;Dolníèek Jaromír;51;851;ÈSS
+38;Severomoravskı;7;Málková Jarmila;49;656;ÈSS
+38;Severomoravskı;8;Ivan Pavel;43;293;ÈSS
+38;Severomoravskı;10;Kalousek Jaroslav;37;353;ÈSS
+38;Severomoravskı;11;Jašek Jiøí;33;512;ÈSS
+38;Severomoravskı;12;Beneš Milota;54;287;ÈSS
+38;Severomoravskı;13;Radvanská Pavla;44;364;ÈSS
+38;Severomoravskı;14;Poštulka Miroslav;46;233;ÈSS
+38;Severomoravskı;15;Martinát František;39;275;ÈSS
+38;Severomoravskı;16;Rychlı Mojmír;57;223;ÈSS
+38;Severomoravskı;17;Køivánek Jaroslav;57;1 051;ÈSS
+38;Severomoravskı;18;Váòa Oldøich;33;365;ÈSS
+38;Severomoravskı;19;Kluèka Pavel;39;563;ÈSS
+38;Severomoravskı;20;Janoušek Karel;55;271;ÈSS
+38;Severomoravskı;21;Babík Jiøí;46;206;ÈSS
+38;Severomoravskı;22;Kapitán Jan;58;408;ÈSS
+38;Severomoravskı;23;Sirùèek Zdenìk;50;217;ÈSS
+38;Severomoravskı;24;Fojtík Karel;45;417;ÈSS
+31;Hl.m.Praha;2;Hála Jan;45;839;SB
+31;Hl.m.Praha;3;Klimoviè Igor;30;2 278;SB
+31;Hl.m.Praha;4;Nìmec Kamil;32;1 221;SB
+31;Hl.m.Praha;5;Tùma Prokop;45;1 406;SB
+31;Hl.m.Praha;6;Fantová-Beránková Helena;65;269;SB
+31;Hl.m.Praha;7;Pìnièka Zdenìk;49;1 033;SB
+31;Hl.m.Praha;8;Klepetková Vlasta;35;874;SB
+32;Støedoèeskı;1;Havlíèek Vladimír;43;853;SB
+32;Støedoèeskı;2;Záhorskı Martin;25;1 022;SB
+32;Støedoèeskı;3;Køeèek Josef;40;1 583;SB
+32;Støedoèeskı;4;Zajíèek Petr;36;1 110;SB
+32;Støedoèeskı;5;Ondráèek Eduard;43;414;SB
+32;Støedoèeskı;6;Blaek Ladislav;40;870;SB
+33;Jihoèeskı;1;Holovskı Radim;33;776;SB
+33;Jihoèeskı;2;Krátkı Ivo;28;507;SB
+33;Jihoèeskı;3;Vávra Radovan;27;927;SB
+33;Jihoèeskı;4;Bartùnìk Jiøí;39;800;SB
+33;Jihoèeskı;5;Procházka Milan;33;575;SB
+33;Jihoèeskı;6;Karvánek Milan;29;770;SB
+34;Západoèeskı;1;Kovaøík Petr;37;892;SB
+34;Západoèeskı;2;Brodskı Petr;51;1 165;SB
+34;Západoèeskı;3;Suchı Karel;42;770;SB
+34;Západoèeskı;4;Jankovec Karel;46;966;SB
+35;Severoèeskı;1;Rùièka Milan;48;2 492;SB
+35;Severoèeskı;2;Fišer Václav;56;950;SB
+35;Severoèeskı;3;Koutská Marcela;35;1 286;SB
+35;Severoèeskı;4;Svatoš Martin;27;2 323;SB
+35;Severoèeskı;5;Frydrych Jan;47;967;SB
+35;Severoèeskı;6;Bro Jiøí;41;1 626;SB
+35;Severoèeskı;7;Díl Jan;40;1 460;SB
+36;Vıchodoèeskı;1;Soukup Jaroslav;42;1 880;SB
+36;Vıchodoèeskı;2;Rosa Miroslav;58;594;SB
+36;Vıchodoèeskı;3;Turina Alois;48;980;SB
+36;Vıchodoèeskı;4;Kyncl František;48;860;SB
+36;Vıchodoèeskı;6;Zbudil Miroslav;54;1 198;SB
+36;Vıchodoèeskı;7;Sokol Lumír;31;1 633;SB
+37;Jihomoravskı;1;Havel Jiøí;52;722;SB
+37;Jihomoravskı;2;Chaloupková Dagmar;42;742;SB
+37;Jihomoravskı;3;Schopf Stanislav;48;452;SB
+37;Jihomoravskı;5;Klobása Karel;31;541;SB
+37;Jihomoravskı;6;Puk Jaromír;45;372;SB
+37;Jihomoravskı;7;erava Hynek;30;386;SB
+38;Severomoravskı;1;Klabal Radomír;54;930;SB
+38;Severomoravskı;2;Stojar Jiøí;65;1 512;SB
+38;Severomoravskı;3;Kolaøík Petr;40;522;SB
+38;Severomoravskı;4;Mrázek Lubomír;36;1 833;SB
+38;Severomoravskı;5;Kaláb Ladislav;42;1 348;SB
+38;Severomoravskı;6;Opletal Zdenìk;39;1 320;SB
+31;Hl.m.Praha;1;Moldan Bedøich;54;114 448;OF
+31;Hl.m.Praha;2;Lom Petr;54;57 525;OF
+31;Hl.m.Praha;3;Payne Jiøí;33;24 526;OF
+31;Hl.m.Praha;4;Marvanová Hana;28;51 570;OF
+31;Hl.m.Praha;5;Bursík Martin;30;15 773;OF
+31;Hl.m.Praha;6;Štindl Karel;52;7 254;OF
+31;Hl.m.Praha;7;Gjuriè Andrej;51;10 677;OF
+31;Hl.m.Praha;8;Piverka Walter;48;3 230;OF
+31;Hl.m.Praha;9;Palkoska Ivo;34;11 576;OF
+31;Hl.m.Praha;10;Kuílek Oldøich;34;6 271;OF
+31;Hl.m.Praha;11;Jakl Ladislav;30;11 909;OF
+31;Hl.m.Praha;12;Nìmcová Helena;68;13 610;OF
+31;Hl.m.Praha;13;Zeman Rudolf;51;43 800;OF
+31;Hl.m.Praha;14;Krejèová Zdenka;47;4 642;OF
+31;Hl.m.Praha;15;Dobal Viktor;43;3 634;OF
+31;Hl.m.Praha;16;Èechová Hedvika;61;42 819;OF
+31;Hl.m.Praha;17;Popoviè Pavel;42;8 082;OF
+31;Hl.m.Praha;19;Koláøová Daniela;43;112 877;OF
+31;Hl.m.Praha;20;Koháèek Petr;38;16 811;OF
+31;Hl.m.Praha;21;Hochová Dagmar;64;5 577;OF
+31;Hl.m.Praha;22;Fröhlich Vladimír;42;2 383;OF
+31;Hl.m.Praha;23;Trojan Jakub;62;7 600;OF
+31;Hl.m.Praha;24;Drábek Vladimír;37;7 128;OF
+31;Hl.m.Praha;25;Ruml Vladimír;38;18 411;OF
+32;Støedoèeskı;1;Klener Pavel;53;93 769;OF
+32;Støedoèeskı;2;Povolnı Václav;45;20 705;OF
+32;Støedoèeskı;3;Šuman Vladimír;54;17 242;OF
+32;Støedoèeskı;4;Dušek Pavel;29;34 338;OF
+32;Støedoèeskı;5;Mašatová Milada;45;14 640;OF
+32;Støedoèeskı;6;Kolmistr Vladimír;60;15 020;OF
+32;Støedoèeskı;7;Chromı Heøman;43;15 454;OF
+32;Støedoèeskı;8;Šabata Miloslav;60;18 189;OF
+32;Støedoèeskı;9;Veselı Josef;47;14 535;OF
+32;Støedoèeskı;10;Giòa Ondøej;27;6 600;OF
+32;Støedoèeskı;11;Stieber Václav;54;10 554;OF
+32;Støedoèeskı;13;Pospíšil Petr;33;14 080;OF
+32;Støedoèeskı;14;Køí Karel;46;8 132;OF
+32;Støedoèeskı;15;Domas Josef;38;19 362;OF
+32;Støedoèeskı;16;Svoboda Ivo;42;3 930;OF
+32;Støedoèeskı;17;Rozlivka Vladimír;53;6 795;OF
+32;Støedoèeskı;19;Hásek Miroslav;56;4 727;OF
+32;Støedoèeskı;20;Tupı Jaromír;56;5 171;OF
+32;Støedoèeskı;21;Chalupeckı Jiøí;46;8 104;OF
+32;Støedoèeskı;22;Kalaš Miloslav;46;6 217;OF
+32;Støedoèeskı;23;Koneènı Petr;38;8 258;OF
+32;Støedoèeskı;24;Šplíchal Václav;54;11 137;OF
+32;Støedoèeskı;25;Srdínko Jaroslav;56;2 325;OF
+32;Støedoèeskı;26;Boloòskı Stanislav;42;2 304;OF
+32;Støedoèeskı;28;Petíra Jiøí;45;6 798;OF
+32;Støedoèeskı;29;Pánek Zdenìk;40;3 651;OF
+32;Støedoèeskı;30;Majer Jindøich;44;1 621;OF
+32;Støedoèeskı;31;Silber Jan;45;7 876;OF
+33;Jihoèeskı;1;Štìpová Vlasta;52;112 706;OF
+33;Jihoèeskı;2;Vlach Jiøí;38;38 733;OF
+33;Jihoèeskı;3;Litomiskı Jan;47;16 693;OF
+33;Jihoèeskı;4;Kvìt Jan;57;16 425;OF
+33;Jihoèeskı;5;Kantùrková Eva;60;55 781;OF
+33;Jihoèeskı;6;Matìjka František;42;13 077;OF
+33;Jihoèeskı;7;Pecháèek Karel;49;9 940;OF
+33;Jihoèeskı;9;Mašek Ivan;42;2 490;OF
+33;Jihoèeskı;10;Máca Zbynìk;30;4 091;OF
+33;Jihoèeskı;11;Rùièka Jan;65;4 177;OF
+33;Jihoèeskı;12;Pouch Zdenìk;42;10 439;OF
+33;Jihoèeskı;13;Bedøich Václav;58;11 692;OF
+33;Jihoèeskı;14;Zenkl Lumír;47;5 985;OF
+33;Jihoèeskı;15;Zvìøina Jaroslav;48;12 357;OF
+33;Jihoèeskı;16;Horník Vasil;43;5 172;OF
+33;Jihoèeskı;17;Nìmec František;47;32 726;OF
+33;Jihoèeskı;18;Chlanda Václav;46;4 252;OF
+33;Jihoèeskı;19;Kalmus Jaroslav;63;1 200;OF
+33;Jihoèeskı;20;Škácha Karel;46;5 839;OF
+34;Západoèeskı;1;Röschová Anna;38;52 559;OF
+34;Západoèeskı;2;Kalvoda Jan;37;36 012;OF
+34;Západoèeskı;3;Volák Stanislav;43;23 093;OF
+34;Západoèeskı;4;Líbal Vladimír;36;15 657;OF
+34;Západoèeskı;5;Hájek Richard;37;25 555;OF
+34;Západoèeskı;6;Váca Oldøich;38;9 113;OF
+34;Západoèeskı;7;Ryšlinková Jana;39;13 084;OF
+34;Západoèeskı;8;Karych Alexandr;38;13 259;OF
+34;Západoèeskı;10;Balog Dezider;28;6 967;OF
+34;Západoèeskı;11;Bubeník Jan;21;85 811;OF
+34;Západoèeskı;12;Kraus Petr;41;7 000;OF
+34;Západoèeskı;13;Šebor Jindøich;61;20 070;OF
+34;Západoèeskı;14;Havloviè Pavel;32;10 410;OF
+34;Západoèeskı;15;Nerad František;39;4 973;OF
+34;Západoèeskı;16;Svobodová Jiøina;54;9 122;OF
+34;Západoèeskı;17;Pillmann František;34;12 557;OF
+34;Západoèeskı;18;Baroch František;44;6 119;OF
+34;Západoèeskı;19;Charvátová Rùena;41;4 508;OF
+34;Západoèeskı;20;Marek Jiøí;31;15 692;OF
+34;Západoèeskı;22;Thoma Jan;55;14 138;OF
+34;Západoèeskı;23;Ambro Miroslav;30;10 093;OF
+34;Západoèeskı;24;Jelínek Jan;43;5 332;OF
+34;Západoèeskı;25;Kraus Jaroslav;55;19 678;OF
+35;Severoèeskı;1;Moserová Jaroslava;60;102 013;OF
+35;Severoèeskı;2;Laštùvka Vladimír;47;36 000;OF
+35;Severoèeskı;4;Bárta Zdenìk;41;37 651;OF
+35;Severoèeskı;5;Benda Marek;22;53 921;OF
+35;Severoèeskı;6;Èermák Petr;37;54 316;OF
+35;Severoèeskı;8;Jeek Josef;50;9 527;OF
+35;Severoèeskı;9;Tatár Milan;40;20 215;OF
+35;Severoèeskı;10;Jeek Tomaš;50;20 866;OF
+35;Severoèeskı;11;Šepsová Lenka;35;32 210;OF
+35;Severoèeskı;12;Mišík Vladimír;43;22 129;OF
+35;Severoèeskı;13;Vacek Eduard;43;29 475;OF
+35;Severoèeskı;14;Budinskı Vladimír;30;8 833;OF
+35;Severoèeskı;15;Ratiborskı Tomáš;37;19 448;OF
+35;Severoèeskı;17;Janèáry Julius;29;17 431;OF
+35;Severoèeskı;18;Pøikryl Ivo;54;10 068;OF
+35;Severoèeskı;19;Danneberg Leonard;63;16 073;OF
+35;Severoèeskı;20;Kalfus Jiøí;52;6 940;OF
+35;Severoèeskı;21;Vrchlavská Hana;41;15 543;OF
+35;Severoèeskı;22;Hluštík Antonín;44;9 712;OF
+35;Severoèeskı;23;Hornièek Jan;55;10 488;OF
+36;Vıchodoèeskı;1;Lukeš Milan;57;49 619;OF
+36;Vıchodoèeskı;2;Vondráèek Josef;59;14 772;OF
+36;Vıchodoèeskı;3;Dohnal Vojtìch;50;11 024;OF
+36;Vıchodoèeskı;4;Preclík Vladimír;61;14 548;OF
+36;Vıchodoèeskı;5;Kozel František;46;18 018;OF
+36;Vıchodoèeskı;6;ák Václav;45;2 782;OF
+36;Vıchodoèeskı;7;Šplíchal Václav;58;10 318;OF
+36;Vıchodoèeskı;8;Stibic Jaromír;60;13 493;OF
+36;Vıchodoèeskı;9;Effenberger Josef;56;1 546;OF
+36;Vıchodoèeskı;10;Novák Libor;32;14 468;OF
+36;Vıchodoèeskı;11;Ledvinka Karel;49;8 132;OF
+36;Vıchodoèeskı;12;Hejsek Josef;42;9 687;OF
+36;Vıchodoèeskı;13;Sedláèek Michal;23;15 571;OF
+36;Vıchodoèeskı;14;Èech Vladimír;39;28 054;OF
+36;Vıchodoèeskı;15;Nìmeèek Rudolf;41;15 117;OF
+36;Vıchodoèeskı;16;Gui Zdenìk;41;4 227;OF
+36;Vıchodoèeskı;17;Kalousová Eva;49;9 379;OF
+36;Vıchodoèeskı;18;Moravec Jan;53;5 024;OF
+36;Vıchodoèeskı;19;Biben Vasil;46;15 169;OF
+36;Vıchodoèeskı;21;Jaroš Emil;47;14 468;OF
+36;Vıchodoèeskı;22;Schneider Jan;35;5 535;OF
+36;Vıchodoèeskı;23;Holásek Oldøich;52;4 785;OF
+36;Vıchodoèeskı;24;Vacek Jiøí;45;3 000;OF
+36;Vıchodoèeskı;25;Pivoòka Josef;43;13 602;OF
+36;Vıchodoèeskı;26;Hrudka Jan;34;2 939;OF
+36;Vıchodoèeskı;27;Nentvich Tomáš;38;1 871;OF
+36;Vıchodoèeskı;28;Šubert Eduard;61;2 791;OF
+36;Vıchodoèeskı;29;Vajrauch Michal;42;3 146;OF
+36;Vıchodoèeskı;30;Slabı Julius;58;2 483;OF
+36;Vıchodoèeskı;31;Pittner Josef;53;836;OF
+36;Vıchodoèeskı;32;Liška Jiøí;41;3 788;OF
+36;Vıchodoèeskı;33;Špùr Václav;41;2 924;OF
+36;Vıchodoèeskı;34;Stejskal Alois;54;1 160;OF
+36;Vıchodoèeskı;35;Kusı František;56;4 099;OF
+36;Vıchodoèeskı;36;Kment Miloslav;61;1 141;OF
+37;Jihomoravskı;1;Pithart Petr;47;185 061;OF
+37;Jihomoravskı;2;Honajzer Jiøí;34;24 553;OF
+37;Jihomoravskı;4;Müller Jiøí;47;28 823;OF
+37;Jihomoravskı;5;Hofhanzl Èestmír;49;12 074;OF
+37;Jihomoravskı;6;Sapák Jan;33;16 591;OF
+37;Jihomoravskı;7;Klimeš Stanislav;40;12 706;OF
+37;Jihomoravskı;8;Holomek Karel;53;5 977;OF
+37;Jihomoravskı;9;Zajíèek Stanislav;28;13 706;OF
+37;Jihomoravskı;10;Kozánek Petr;41;13 163;OF
+37;Jihomoravskı;11;Nedbálek Lubomír;52;6 021;OF
+37;Jihomoravskı;12;Cabal Jaroslav;37;8 204;OF
+37;Jihomoravskı;13;Vaòák Vladislav;46;3 346;OF
+37;Jihomoravskı;14;Wolf Miroslav;36;7 014;OF
+37;Jihomoravskı;15;Kelnar Jaroslav;37;5 257;OF
+37;Jihomoravskı;16;Fejfar Tomáš;39;13 466;OF
+37;Jihomoravskı;17;Šimeèek Josef;57;2 829;OF
+37;Jihomoravskı;18;Vašíèek Pavel;51;5 813;OF
+37;Jihomoravskı;19;Toufarová Zuzana;45;12 076;OF
+37;Jihomoravskı;20;Syka Martin;41;14 987;OF
+37;Jihomoravskı;21;Muzikáøová Dagmar;37;7 339;OF
+37;Jihomoravskı;22;Klak Pavel;46;3 493;OF
+37;Jihomoravskı;23;Kocman Ladislav;55;6 893;OF
+37;Jihomoravskı;24;Zajda Miroslav;39;5 058;OF
+37;Jihomoravskı;25;Halíèek Jan;44;2 806;OF
+37;Jihomoravskı;26;Kasáèek Miroslav;53;1 223;OF
+37;Jihomoravskı;27;Zeman Miloslav;36;13 265;OF
+37;Jihomoravskı;28;Zapletal Zdenìk;39;12 845;OF
+37;Jihomoravskı;29;Knedlová Sylva;56;3 984;OF
+37;Jihomoravskı;30;Vojta Milan;37;1 021;OF
+37;Jihomoravskı;31;Dvoøák Leo;36;7 040;OF
+37;Jihomoravskı;33;Špidla Josef;40;2 749;OF
+37;Jihomoravskı;34;Marek Josef;43;4 991;OF
+37;Jihomoravskı;35;Filipenskı Jan;42;4 497;OF
+37;Jihomoravskı;36;Šeda Karel;47;2 982;OF
+37;Jihomoravskı;37;Svìtík Václav;38;2 237;OF
+37;Jihomoravskı;38;Hejcman Pavel;63;3 106;OF
+37;Jihomoravskı;39;ika Petr;56;1 191;OF
+37;Jihomoravskı;40;Modrák Zdenìk;68;1 262;OF
+37;Jihomoravskı;41;Rynešová Marie;35;3 839;OF
+37;Jihomoravskı;42;Vencálek Tomáš;25;5 165;OF
+37;Jihomoravskı;43;Kováø František;59;1 162;OF
+37;Jihomoravskı;44;Bartoš Jiøí;56;15 916;OF
+37;Jihomoravskı;45;Vaverka František;63;612;OF
+37;Jihomoravskı;46;Køí Zdenìk;36;6 858;OF
+37;Jihomoravskı;47;Filípek Roman;40;2 560;OF
+37;Jihomoravskı;48;Jaroò Zdenìk;30;4 249;OF
+37;Jihomoravskı;49;Grulich Václav;58;1 802;OF
+37;Jihomoravskı;50;Hráèek Jiøí;36;2 998;OF
+37;Jihomoravskı;51;Vaculíková Anna;45;1 833;OF
+37;Jihomoravskı;52;Drahola Ivan;46;1 606;OF
+37;Jihomoravskı;54;Pavlištík Karel;61;14 800;OF
+38;Severomoravskı;1;Burešová Dagmar;60;241 429;OF
+38;Severomoravskı;2;Biòovec Karel;66;94 936;OF
+38;Severomoravskı;3;Pavlíková Jiøina;37;33 734;OF
+38;Severomoravskı;4;Kotrlı Zdenìk;44;16 939;OF
+38;Severomoravskı;5;Bereza Rudolf;48;19 156;OF
+38;Severomoravskı;7;Nìmèík Jindøich;40;12 470;OF
+38;Severomoravskı;8;Wantula Tadeusz;39;10 674;OF
+38;Severomoravskı;9;Maleòáková Jarmila;53;15 505;OF
+38;Severomoravskı;10;Fiedor Jiøí;24;18 122;OF
+38;Severomoravskı;11;Novák Jiøí;39;18 102;OF
+38;Severomoravskı;12;Vorlová Milada;42;5 662;OF
+38;Severomoravskı;13;Klega Miroslav;64;9 208;OF
+38;Severomoravskı;14;Vlk Miloslav;42;11 994;OF
+38;Severomoravskı;15;Zubek Leopold;39;9 479;OF
+38;Severomoravskı;16;Válek Alois;51;9 867;OF
+38;Severomoravskı;17;Hába René;25;6 236;OF
+38;Severomoravskı;18;Èulíková Vìra;38;17 613;OF
+38;Severomoravskı;19;Koráb Jaroslav;50;10 141;OF
+38;Severomoravskı;20;Hoøínek Milan;52;21 340;OF
+38;Severomoravskı;21;Reèková Jarmila;54;9 030;OF
+38;Severomoravskı;22;Vejmelka Radoslav;33;5 281;OF
+38;Severomoravskı;23;Švidrnoch Bøetislav;58;3 194;OF
+38;Severomoravskı;24;Boháè Jaroslav;48;5 582;OF
+38;Severomoravskı;25;Posker Karel;42;6 223;OF
+38;Severomoravskı;26;Sokolová Hana;39;4 138;OF
+38;Severomoravskı;27;Zdaøil Jan;36;2 190;OF
+38;Severomoravskı;28;Koska Jindøich;31;13 026;OF
+38;Severomoravskı;29;Horváth Jaroslav;26;4 008;OF
+38;Severomoravskı;30;Planièka Vojtìch;58;2 695;OF
+38;Severomoravskı;31;Norskı Dalibor;58;3 627;OF
+38;Severomoravskı;32;Veèeø Jan;30;4 859;OF
+38;Severomoravskı;33;Branny Jan;50;4 425;OF
+38;Severomoravskı;34;Vilímec Jiøí;58;1 561;OF
+38;Severomoravskı;35;Adamík František;57;2 331;OF
+38;Severomoravskı;36;Oplt Vladimír;52;6 586;OF
+38;Severomoravskı;37;Svierkosz Josef;49;3 312;OF
+38;Severomoravskı;38;Musál Irka;57;5 055;OF
+38;Severomoravskı;39;Blahuta Tomáš;28;2 652;OF
+38;Severomoravskı;40;Èernı František;42;1 635;OF
+38;Severomoravskı;41;Korger Jan;52;8 351;OF
+38;Severomoravskı;42;Vencl František;39;2 360;OF
+38;Severomoravskı;43;Kuèera Jaroslav;34;2 952;OF
+38;Severomoravskı;44;Caras Jaroslav;44;6 442;OF
+38;Severomoravskı;45;Princová Kvìtoslava;39;2 167;OF
+38;Severomoravskı;46;Pøikryl František;47;1 785;OF
+38;Severomoravskı;47;Paroulek Jan;67;989;OF
+38;Severomoravskı;48;Stará Ludmila;51;894;OF
+38;Severomoravskı;49;Hyblerová Jana;28;3 264;OF
+38;Severomoravskı;50;Papoušek Pavel;47;1 828;OF
+31;Hl.m.Praha;1;Hruda Miloš;44;1 208;VDSSPR
+31;Hl.m.Praha;2;Bambas Ludìk;66;861;VDSSPR
+31;Hl.m.Praha;3;Stadlerová Jaroslava;42;1 051;VDSSPR
+31;Hl.m.Praha;4;Kapr Roman;25;1 342;VDSSPR
+32;Støedoèeskı;2;Meinhard Alois;43;1 612;VDSSPR
+32;Støedoèeskı;4;Pomajzl Jan;54;1 289;VDSSPR
+32;Støedoèeskı;5;Marušèáková Bohumila;38;1 118;VDSSPR
+33;Jihoèeskı;1;Šárka Josef;72;346;VDSSPR
+33;Jihoèeskı;2;Horba Valentin;38;457;VDSSPR
+33;Jihoèeskı;3;Valach Vítìzslav;32;727;VDSSPR
+34;Západoèeskı;1;Valeèka Václav;43;946;VDSSPR
+34;Západoèeskı;2;Støelka Jan;38;1 622;VDSSPR
+34;Západoèeskı;3;Belling Jiøí Alexandr;38;1 612;VDSSPR
+35;Severoèeskı;1;Šuma Jiøí;40;1 831;VDSSPR
+35;Severoèeskı;2;Tauer Vladimír;41;1 419;VDSSPR
+36;Vıchodoèeskı;1;Doubrava Josef;56;740;VDSSPR
+36;Vıchodoèeskı;2;Peèinka Vítìzslav;26;1 527;VDSSPR
+36;Vıchodoèeskı;3;Ulrych Antonín;41;792;VDSSPR
+36;Vıchodoèeskı;4;Kohút Jiøí;32;1 071;VDSSPR
+36;Vıchodoèeskı;5;Hejzlar Zdenìk;34;1 281;VDSSPR
+37;Jihomoravskı;1;Marek Jiøí;44;645;VDSSPR
+37;Jihomoravskı;3;Kopùnec Josef;48;484;VDSSPR
+37;Jihomoravskı;4;Pavlíèek Jan;46;1 100;VDSSPR
+38;Severomoravskı;1;Swider Even;52;846;VDSSPR
+38;Severomoravskı;2;Zeák Karel;49;790;VDSSPR
+38;Severomoravskı;3;Reich Roman;42;933;VDSSPR
+31;Hl.m.Praha;1;Devera Vlastimil;56;345;VSZS
+31;Hl.m.Praha;3;Kubart Jaromír;67;281;VSZS
+31;Hl.m.Praha;4;Matouš Jaroslav;51;455;VSZS
+32;Støedoèeskı;1;Gruncl Václav;50;738;VSZS
+32;Støedoèeskı;2;Ovesná Boena;49;774;VSZS
+32;Støedoèeskı;3;Kerhart František;58;746;VSZS
+33;Jihoèeskı;1;Køivanec Karel;42;546;VSZS
+33;Jihoèeskı;2;Vránek Jaroslav;48;537;VSZS
+34;Západoèeskı;1;Kadanì Josef;45;777;VSZS
+34;Západoèeskı;2;Zroun Jan;48;757;VSZS
+34;Západoèeskı;3;Gáspar Emil;48;646;VSZS
+35;Severoèeskı;1;Kryl Vladimír;59;1 024;VSZS
+35;Severoèeskı;2;Šmelhaus Roman;35;1 241;VSZS
+35;Severoèeskı;3;Urych Miloš;56;1 167;VSZS
+36;Vıchodoèeskı;1;Horáèek Václav;61;345;VSZS
+36;Vıchodoèeskı;2;Blahník Petr;29;1 105;VSZS
+37;Jihomoravskı;1;Jurák Miroslav;68;377;VSZS
+37;Jihomoravskı;2;Procházka Bohdan;46;423;VSZS
+37;Jihomoravskı;4;Zapletal Milan;57;424;VSZS
+38;Severomoravskı;1;Bilík Lumír;56;942;VSZS
+38;Severomoravskı;2;Durèák Vladimír;51;935;VSZS
+38;Severomoravskı;3;Smítal Vladimír;65;431;VSZS
+38;Severomoravskı;4;Kubánková Dagmar;32;881;VSZS
+38;Severomoravskı;5;Lichoò Jiøí;65;602;VSZS
+31;Hl.m.Praha;1;Šlouf Miroslav;42;13 674;KSÈ
+31;Hl.m.Praha;2;Jirásek Jiøí;39;9 881;KSÈ
+31;Hl.m.Praha;3;Stiborová Marie;40;7 410;KSÈ
+31;Hl.m.Praha;4;Exner Václav;48;6 819;KSÈ
+31;Hl.m.Praha;5;Frkal Jiøí;41;8 883;KSÈ
+31;Hl.m.Praha;6;Radová Jiøina;43;2 650;KSÈ
+31;Hl.m.Praha;7;Prokeš Miroslav;43;2 778;KSÈ
+31;Hl.m.Praha;8;Plotzar Jindøich;53;2 898;KSÈ
+31;Hl.m.Praha;9;Hrouzková Vìra;36;3 231;KSÈ
+31;Hl.m.Praha;10;Kos Josef;45;3 907;KSÈ
+31;Hl.m.Praha;11;Jirka Milan;41;2 015;KSÈ
+31;Hl.m.Praha;12;Antony František;43;6 795;KSÈ
+31;Hl.m.Praha;13;Linc Michal;24;2 667;KSÈ
+31;Hl.m.Praha;14;Vilhelm Petr;38;5 362;KSÈ
+31;Hl.m.Praha;15;Šimùnková Jana;25;3 582;KSÈ
+31;Hl.m.Praha;16;Procházková Danuše;45;3 801;KSÈ
+31;Hl.m.Praha;17;Semera Miroslav;35;1 397;KSÈ
+31;Hl.m.Praha;18;Melnièák Jan;66;1 682;KSÈ
+32;Støedoèeskı;1;Sùvová Hana;32;11 775;KSÈ
+32;Støedoèeskı;2;Body Ladislav;41;9 474;KSÈ
+32;Støedoèeskı;3;Adámek František;35;12 977;KSÈ
+32;Støedoèeskı;4;Sojka Tomáš;42;6 954;KSÈ
+32;Støedoèeskı;5;Šikola Vladimír;53;7 204;KSÈ
+32;Støedoèeskı;8;Ortman Jaroslav;38;9 449;KSÈ
+32;Støedoèeskı;9;Doleal Jaroslav;42;3 147;KSÈ
+32;Støedoèeskı;10;Bláha Josef;36;3 771;KSÈ
+32;Støedoèeskı;11;Fotr František;42;2 374;KSÈ
+32;Støedoèeskı;12;Pošmournı Josef;54;4 038;KSÈ
+32;Støedoèeskı;13;Šuda Jiøí;58;1 949;KSÈ
+32;Støedoèeskı;14;Martin Karel;54;3 222;KSÈ
+32;Støedoèeskı;15;Rıpar Augustin;39;2 938;KSÈ
+33;Jihoèeskı;1;Bumbová Stanislava;42;5 556;KSÈ
+33;Jihoèeskı;2;Hájek Jiøí;39;7 693;KSÈ
+33;Jihoèeskı;3;Køivanec Václav;47;4 418;KSÈ
+33;Jihoèeskı;4;Pangl Jaroslav;29;3 573;KSÈ
+33;Jihoèeskı;5;Musil Josef;57;3 533;KSÈ
+33;Jihoèeskı;6;Kapplerová Hana;43;3 984;KSÈ
+33;Jihoèeskı;7;Šimeèek Václav;34;4 308;KSÈ
+33;Jihoèeskı;8;Hrubı Rudolf;41;4 511;KSÈ
+33;Jihoèeskı;9;Kroupa Petr;34;2 267;KSÈ
+33;Jihoèeskı;10;Trtílek Radek;27;4 222;KSÈ
+33;Jihoèeskı;11;Štìpán Václav;50;2 659;KSÈ
+34;Západoèeskı;1;Váchalová Anna;58;9 939;KSÈ
+34;Západoèeskı;2;Lagová Hana;49;4 075;KSÈ
+34;Západoèeskı;3;Maryt Jiøí;26;9 115;KSÈ
+34;Západoèeskı;4;Jurásek Vítìzslav;59;2 609;KSÈ
+34;Západoèeskı;5;Vejskalová Miloslava;47;7 684;KSÈ
+34;Západoèeskı;6;Kašparová Libuše;35;5 431;KSÈ
+34;Západoèeskı;7;Zelmanoviè Josef;37;6 179;KSÈ
+34;Západoèeskı;8;Mudra Jan;45;7 109;KSÈ
+34;Západoèeskı;9;Štangl Jaroslav;36;3 280;KSÈ
+34;Západoèeskı;11;Takáè Zdenìk;47;2 740;KSÈ
+34;Západoèeskı;12;Toman Vladimír;33;4 037;KSÈ
+34;Západoèeskı;13;Kozová Zdeòka;35;3 751;KSÈ
+34;Západoèeskı;14;Houdek Zdenìk;37;1 058;KSÈ
+34;Západoèeskı;15;Barth Jan;41;3 906;KSÈ
+34;Západoèeskı;16;Frána Jan;29;3 006;KSÈ
+34;Západoèeskı;17;Fiala Jiøí;41;2 950;KSÈ
+34;Západoèeskı;18;Segeè Jiøí;41;1 845;KSÈ
+35;Severoèeskı;1;Èelišová Kvìtoslava;44;13 407;KSÈ
+35;Severoèeskı;2;ika Jaroslav;39;10 844;KSÈ
+35;Severoèeskı;3;Øezáè Vladimír;42;12 200;KSÈ
+35;Severoèeskı;5;Èapek Miroslav;29;13 001;KSÈ
+35;Severoèeskı;6;Honickı Ivo;27;10 820;KSÈ
+35;Severoèeskı;7;Bednáø Jiøí;43;6 557;KSÈ
+35;Severoèeskı;9;Krubl Pavel;51;8 051;KSÈ
+35;Severoèeskı;10;Vaòurová Vìra;39;5 458;KSÈ
+35;Severoèeskı;11;Košek Václav;42;5 880;KSÈ
+35;Severoèeskı;12;Nosek Jaroslav;49;10 585;KSÈ
+35;Severoèeskı;13;Poláèek Daniel;37;2 925;KSÈ
+35;Severoèeskı;14;Milec František;44;6 587;KSÈ
+35;Severoèeskı;15;Hrabec Jaroslav;42;3 321;KSÈ
+35;Severoèeskı;16;Grössl Jiøí;60;6 566;KSÈ
+35;Severoèeskı;17;Krèmarik Karel;42;5 571;KSÈ
+36;Vıchodoèeskı;1;Kraus Michal;33;11 846;KSÈ
+36;Vıchodoèeskı;2;Hájek Josef;45;6 442;KSÈ
+36;Vıchodoèeskı;3;Štrait Jaroslav;48;6 949;KSÈ
+36;Vıchodoèeskı;4;Petr Jan;40;7 053;KSÈ
+36;Vıchodoèeskı;5;Rymeš Ladislav;44;11 002;KSÈ
+36;Vıchodoèeskı;6;Procházka Vladimír;46;4 308;KSÈ
+36;Vıchodoèeskı;7;Horskı Václav;57;5 758;KSÈ
+36;Vıchodoèeskı;8;Kodytek Petr;38;3 570;KSÈ
+36;Vıchodoèeskı;9;Velíšková Ivana;37;6 623;KSÈ
+36;Vıchodoèeskı;10;Rus Vladimír;39;5 926;KSÈ
+36;Vıchodoèeskı;11;Svoboda Jiøí;40;1 324;KSÈ
+36;Vıchodoèeskı;12;Domonkoš Jozef;41;1 603;KSÈ
+36;Vıchodoèeskı;13;Vítková Marie;38;2 886;KSÈ
+36;Vıchodoèeskı;14;Géc Jan;43;2 431;KSÈ
+36;Vıchodoèeskı;15;Pavlišová Jindra;34;1 845;KSÈ
+36;Vıchodoèeskı;16;Fejk Zbynìk;42;2 451;KSÈ
+36;Vıchodoèeskı;17;Dolejš Vladimír;49;2 387;KSÈ
+36;Vıchodoèeskı;18;Sauer Jiøí;34;2 623;KSÈ
+37;Jihomoravskı;1;Hrazdíra Antonín;50;24 088;KSÈ
+37;Jihomoravskı;2;Komárek Vladimír;50;9 666;KSÈ
+37;Jihomoravskı;3;Èundrle Václav;46;11 356;KSÈ
+37;Jihomoravskı;4;Kašuba Josef;28;19 304;KSÈ
+37;Jihomoravskı;5;Matìjka Jaroslav;50;9 060;KSÈ
+37;Jihomoravskı;6;Èièák Josef;38;3 141;KSÈ
+37;Jihomoravskı;7;Otruba Vítìzslav;38;4 036;KSÈ
+37;Jihomoravskı;8;Èajka Jaroslav;38;6 103;KSÈ
+37;Jihomoravskı;9;Šebela Vladimír;50;9 713;KSÈ
+37;Jihomoravskı;10;Jurèa Ladislav;54;2 464;KSÈ
+37;Jihomoravskı;11;Pavlíèek Viktor;41;5 961;KSÈ
+37;Jihomoravskı;12;Tomášek Jan;52;2 635;KSÈ
+37;Jihomoravskı;13;Hakl Rostislav;39;4 720;KSÈ
+37;Jihomoravskı;14;Hanáková Marie;42;4 490;KSÈ
+37;Jihomoravskı;15;Chrást Viktor;38;5 474;KSÈ
+37;Jihomoravskı;16;Nìmec Jaromír;45;2 707;KSÈ
+37;Jihomoravskı;17;Pospiech Alfréd;40;1 859;KSÈ
+37;Jihomoravskı;18;Sprinz Antonín;41;4 713;KSÈ
+37;Jihomoravskı;19;Szabó Dezider;40;2 386;KSÈ
+37;Jihomoravskı;20;Hubièka Lubomír;31;3 144;KSÈ
+37;Jihomoravskı;21;Páral Ctibor;38;2 024;KSÈ
+37;Jihomoravskı;22;Sova Miroslav;42;2 654;KSÈ
+37;Jihomoravskı;23;Šafránek Kvìtoslav;37;2 996;KSÈ
+37;Jihomoravskı;24;Eibel Jiøí;37;2 019;KSÈ
+37;Jihomoravskı;25;Blaek Miloš;41;1 343;KSÈ
+38;Severomoravskı;1;Machalík Jiøí;45;39 622;KSÈ
+38;Severomoravskı;2;Soural Jaroslav;37;15 217;KSÈ
+38;Severomoravskı;3;Hofrová Jarmila;32;10 571;KSÈ
+38;Severomoravskı;4;Raška Miroslav;32;10 065;KSÈ
+38;Severomoravskı;5;Dušek Rudolf;60;3 543;KSÈ
+38;Severomoravskı;6;Recman Svatomír;38;7 544;KSÈ
+38;Severomoravskı;7;Klíma Josef;52;3 808;KSÈ
+38;Severomoravskı;8;Martínek Milan;42;4 496;KSÈ
+38;Severomoravskı;9;Jirásek Ivo;26;6 144;KSÈ
+38;Severomoravskı;10;Èernovskı Václav;55;1 285;KSÈ
+38;Severomoravskı;11;Krè Josef;42;9 684;KSÈ
+38;Severomoravskı;12;Horák Jaroslav;39;4 602;KSÈ
+38;Severomoravskı;13;Novák Rudolf;42;3 712;KSÈ
+38;Severomoravskı;14;Kuchaø Vlastislav;30;10 969;KSÈ
+38;Severomoravskı;15;Koval František;42;9 477;KSÈ
+38;Severomoravskı;16;Rokyta Lubomír;27;3 393;KSÈ
+38;Severomoravskı;17;Kvìtoò Even;45;2 935;KSÈ
+38;Severomoravskı;18;Chytil Jan;43;2 811;KSÈ
+38;Severomoravskı;19;Juchelka Pavel;45;2 192;KSÈ
+38;Severomoravskı;20;Demek Jaromír;60;4 504;KSÈ
+38;Severomoravskı;21;Majèák Josef;42;5 573;KSÈ
+38;Severomoravskı;22;Zámeèníková Milena;41;4 151;KSÈ
+38;Severomoravskı;23;Hlaváè Milan;45;1 899;KSÈ
+38;Severomoravskı;24;Maøádek Vladimír;40;1 905;KSÈ
+38;Severomoravskı;25;Bruckner Michal;40;3 263;KSÈ
+38;Severomoravskı;26;Geryk Rudolf;62;1 696;KSÈ
+38;Severomoravskı;28;Benda Václav;56;1 758;KSÈ
+38;Severomoravskı;29;Vojáèek Ladislav;51;1 204;KSÈ
+38;Severomoravskı;30;Pavlík Ivo;49;904;KSÈ
+38;Severomoravskı;31;Vidláø Jaroslav;47;1 090;KSÈ
+38;Severomoravskı;32;Kluèka Václav;37;1 646;KSÈ
+31;Hl.m.Praha;1;Bro Jaroslav;63;310;SZV
+31;Hl.m.Praha;2;Janda František;49;420;SZV
+31;Hl.m.Praha;3;Bébr Jan;45;605;SZV
+31;Hl.m.Praha;4;Mráèková Eva;36;1 045;SZV
+31;Hl.m.Praha;5;Baxa Petr;28;673;SZV
+31;Hl.m.Praha;6;Plešák Stanislav;31;378;SZV
+31;Hl.m.Praha;7;Perlin Ctibor;53;168;SZV
+31;Hl.m.Praha;8;Bøezina Karel;42;321;SZV
+31;Hl.m.Praha;9;Škaloudová Jitka;57;479;SZV
+31;Hl.m.Praha;10;Mareèek František;77;101;SZV
+31;Hl.m.Praha;11;Doubková Dobromila;38;343;SZV
+31;Hl.m.Praha;12;Skopec Jan;52;288;SZV
+31;Hl.m.Praha;13;Janíèek Josef;60;469;SZV
+31;Hl.m.Praha;14;Tvrzskı Josef;46;205;SZV
+31;Hl.m.Praha;15;Šmejkal Josef;64;354;SZV
+31;Hl.m.Praha;16;Kocourek Emil;58;106;SZV
+31;Hl.m.Praha;17;Tempír Zdenìk;64;100;SZV
+31;Hl.m.Praha;18;Balabán Libor;40;555;SZV
+31;Hl.m.Praha;19;Èernı Jaroslav;58;257;SZV
+31;Hl.m.Praha;20;Kolaja Vladimír;35;239;SZV
+31;Hl.m.Praha;21;Petr Vladimír;60;89;SZV
+31;Hl.m.Praha;22;Hosa Zdenìk;62;60;SZV
+31;Hl.m.Praha;23;Rejdák Zdenìk;55;67;SZV
+31;Hl.m.Praha;24;Pech Ilja;59;14;SZV
+31;Hl.m.Praha;25;Ploc Ivan;39;56;SZV
+31;Hl.m.Praha;26;Najbrt Tomáš;38;10;SZV
+31;Hl.m.Praha;27;Hušek Petr;47;41;SZV
+31;Hl.m.Praha;28;Veselovská Marie;57;212;SZV
+31;Hl.m.Praha;29;Koneènı Petr;37;70;SZV
+31;Hl.m.Praha;30;Stránská Kvìta;52;61;SZV
+32;Støedoèeskı;1;Chlapec Jaromír;66;1 893;SZV
+32;Støedoèeskı;2;Labounek Stanislav;52;2 327;SZV
+32;Støedoèeskı;3;Machová Jitka;41;4 278;SZV
+32;Støedoèeskı;4;Horák Jiøí;36;2 465;SZV
+32;Støedoèeskı;5;Dvoøák Miroslav;44;2 149;SZV
+32;Støedoèeskı;6;Souèek František;42;2 652;SZV
+32;Støedoèeskı;7;Matouš Pavel;36;2 209;SZV
+32;Støedoèeskı;8;Hostounskı Antonín;42;1 360;SZV
+32;Støedoèeskı;9;Jäger Vladimír;60;1 189;SZV
+32;Støedoèeskı;10;Janák Pavel;25;1 886;SZV
+32;Støedoèeskı;11;Uzel Václav;57;609;SZV
+32;Støedoèeskı;12;Horník Antonín;52;940;SZV
+32;Støedoèeskı;13;Havelková Marie;40;2 275;SZV
+32;Støedoèeskı;14;Valentová Iva;34;1 840;SZV
+32;Støedoèeskı;15;Kypta Tomáš;32;2 702;SZV
+32;Støedoèeskı;16;Beran Jiøí;41;1 094;SZV
+32;Støedoèeskı;17;Košál František;49;983;SZV
+32;Støedoèeskı;18;Høíbal Karel;46;1 281;SZV
+32;Støedoèeskı;19;Mraèno Zdenìk;50;991;SZV
+32;Støedoèeskı;20;Jánskı Ivan;29;1 899;SZV
+32;Støedoèeskı;21;Macháèek Václav;48;643;SZV
+32;Støedoèeskı;22;Hofer Milan;47;214;SZV
+32;Støedoèeskı;23;Prejza Jiøí;42;491;SZV
+32;Støedoèeskı;24;Moravec Slavomír;59;395;SZV
+32;Støedoèeskı;25;Horák Václav;68;267;SZV
+32;Støedoèeskı;26;Prokùpek František;38;533;SZV
+32;Støedoèeskı;27;Rákosník Ivan;38;404;SZV
+32;Støedoèeskı;28;Šantrùèek Václav;40;623;SZV
+32;Støedoèeskı;29;Macek Zdenìk;76;66;SZV
+32;Støedoèeskı;30;Vít Miroslav;40;331;SZV
+32;Støedoèeskı;31;Skøivánek Zdenìk;42;501;SZV
+33;Jihoèeskı;1;Èudka Jan;45;1 977;SZV
+33;Jihoèeskı;2;Vaèkáø Jiøí;46;1 149;SZV
+33;Jihoèeskı;3;Šteker František;33;1 145;SZV
+33;Jihoèeskı;4;Kuèera Josef;38;1 419;SZV
+33;Jihoèeskı;5;Baštıø Miroslav;33;1 684;SZV
+33;Jihoèeskı;6;Jonáš František;33;1 273;SZV
+33;Jihoèeskı;7;Valová Jaroslava;43;2 075;SZV
+33;Jihoèeskı;8;Sixta Vlastimil;63;1 316;SZV
+33;Jihoèeskı;9;Frána Blahoslav;48;649;SZV
+33;Jihoèeskı;10;Beran Jiøí;46;718;SZV
+33;Jihoèeskı;11;Šolín Vladimír;47;750;SZV
+33;Jihoèeskı;12;Polívka Dalibor;32;1 412;SZV
+33;Jihoèeskı;13;Bína Bedøich;38;1 105;SZV
+33;Jihoèeskı;14;Zach Vladislav;30;1 239;SZV
+33;Jihoèeskı;15;Langová Milena;50;991;SZV
+33;Jihoèeskı;16;Tollingerová Drahomíra;28;1 324;SZV
+33;Jihoèeskı;17;Lacina Jan;47;468;SZV
+33;Jihoèeskı;18;Zajíèek Jan;46;886;SZV
+33;Jihoèeskı;19;Šulc Josef;62;655;SZV
+33;Jihoèeskı;20;Marešová Hana;36;1 148;SZV
+34;Západoèeskı;1;Melich František;55;2 108;SZV
+34;Západoèeskı;3;Ševèík Jan;52;1 378;SZV
+34;Západoèeskı;4;Pašek Zdenìk;45;1 105;SZV
+34;Západoèeskı;5;Hejduk Josef;43;1 489;SZV
+34;Západoèeskı;6;Jonáková Emilie;48;893;SZV
+34;Západoèeskı;7;Turková Marie;52;1 195;SZV
+34;Západoèeskı;8;Chára Josef;43;954;SZV
+34;Západoèeskı;9;Langmajer Miloslav;57;1 819;SZV
+34;Západoèeskı;10;Opatrnı Václav;46;590;SZV
+34;Západoèeskı;11;Myslivec Vladimír;50;809;SZV
+34;Západoèeskı;12;Bouda Karel;50;794;SZV
+34;Západoèeskı;13;Stodola Petr;47;973;SZV
+34;Západoèeskı;14;Helebrant Jiøí;49;1 168;SZV
+34;Západoèeskı;15;Vrtišková Boena;38;1 561;SZV
+34;Západoèeskı;16;Tykvart Karel;49;1 109;SZV
+34;Západoèeskı;17;Kolmaèka Josef;46;484;SZV
+34;Západoèeskı;18;Petrelka Jiøí;43;1 098;SZV
+34;Západoèeskı;19;Štìrba Tomáš;44;1 688;SZV
+34;Západoèeskı;20;Jelínek Petr;23;1 396;SZV
+34;Západoèeskı;21;Dušková Jarmila;34;1 255;SZV
+34;Západoèeskı;22;Veselá Romana;22;1 193;SZV
+34;Západoèeskı;23;Plecitı Miloslav;21;1 572;SZV
+34;Západoèeskı;24;Kohout František;43;1 281;SZV
+34;Západoèeskı;25;Puej Vojtìch;53;516;SZV
+35;Severoèeskı;1;Bernášek Vít;53;1 963;SZV
+35;Severoèeskı;2;Øehoø Václav;51;1 455;SZV
+35;Severoèeskı;3;Staòková Miluše;42;2 945;SZV
+35;Severoèeskı;4;Zika Vlastimil;57;1 514;SZV
+35;Severoèeskı;5;Netolickı Jiøí;49;1 407;SZV
+35;Severoèeskı;6;Krátkı Miroslav;65;954;SZV
+35;Severoèeskı;7;Mohelskı Josef;38;2 165;SZV
+35;Severoèeskı;8;Severa Ladislav;49;1 427;SZV
+35;Severoèeskı;9;Pojerová Miluše;33;2 169;SZV
+35;Severoèeskı;10;Pìnièka Miloslav;51;2 359;SZV
+35;Severoèeskı;11;Dráb Miroslav;56;921;SZV
+35;Severoèeskı;12;Cháb Jaroslav;54;1 051;SZV
+35;Severoèeskı;13;Vrba Jaroslav;52;800;SZV
+35;Severoèeskı;14;Kraus Karel;38;1 650;SZV
+35;Severoèeskı;15;Machotková Zdeòka;47;1 207;SZV
+35;Severoèeskı;16;Netolickı Josef;61;784;SZV
+35;Severoèeskı;17;Skramuskı Jaroslav;40;809;SZV
+35;Severoèeskı;18;Koláø Pavel;53;1 091;SZV
+35;Severoèeskı;19;Klaus František;44;1 025;SZV
+35;Severoèeskı;20;Zitko Jan;43;997;SZV
+35;Severoèeskı;21;Maglen Pavel;50;1 261;SZV
+35;Severoèeskı;22;Koèárková Eva;48;980;SZV
+35;Severoèeskı;23;Ládr Ivo;52;421;SZV
+35;Severoèeskı;24;Báèa Jaroslav;56;577;SZV
+35;Severoèeskı;25;Kalina Jaroslav;46;1 090;SZV
+35;Severoèeskı;26;Petráò Emanuel;50;268;SZV
+35;Severoèeskı;27;Peøinová Petra;27;321;SZV
+35;Severoèeskı;28;Glavica Branko;67;37;SZV
+35;Severoèeskı;29;Scháno Jan;59;134;SZV
+35;Severoèeskı;30;Janák Jindøich;44;155;SZV
+35;Severoèeskı;31;Veselı Stanislav;55;162;SZV
+35;Severoèeskı;32;Heroldová Zdeòka;36;58;SZV
+35;Severoèeskı;33;Eder Pavel;32;186;SZV
+36;Vıchodoèeskı;1;Plhal Milan;49;2 698;SZV
+36;Vıchodoèeskı;2;Šeda Vlastislav;66;1 480;SZV
+36;Vıchodoèeskı;3;Kohoutek Alfred;56;1 487;SZV
+36;Vıchodoèeskı;5;Lopourová Jarmila;45;3 679;SZV
+36;Vıchodoèeskı;6;Hubáèek František;44;2 060;SZV
+36;Vıchodoèeskı;7;Beránek Vladimír;39;800;SZV
+36;Vıchodoèeskı;8;Zehnálek Miroslav;38;1 648;SZV
+36;Vıchodoèeskı;9;Voltr Josef;56;873;SZV
+36;Vıchodoèeskı;10;Votava Josef;40;868;SZV
+36;Vıchodoèeskı;11;Rùièka Jiøí;61;1 058;SZV
+36;Vıchodoèeskı;12;Vranı Jan;44;1 279;SZV
+36;Vıchodoèeskı;13;Kalous Jindøich;52;936;SZV
+36;Vıchodoèeskı;14;Vrána Josef;58;807;SZV
+36;Vıchodoèeskı;15;Matìjovskı František;48;894;SZV
+36;Vıchodoèeskı;16;Kutnar Jiøí;42;901;SZV
+36;Vıchodoèeskı;17;Kopeckı Miroslav;45;1 654;SZV
+36;Vıchodoèeskı;18;Doubrava Petr;31;923;SZV
+36;Vıchodoèeskı;19;Bárta Josef;55;1 223;SZV
+36;Vıchodoèeskı;20;Moravec Vratislav;37;738;SZV
+36;Vıchodoèeskı;21;Sıkora Ivo;57;766;SZV
+36;Vıchodoèeskı;22;Divíšek Václav;47;1 248;SZV
+36;Vıchodoèeskı;23;Víšek Josef;48;365;SZV
+36;Vıchodoèeskı;24;Bašek Jiøí;38;735;SZV
+36;Vıchodoèeskı;25;Rejsa Ludìk;28;1 471;SZV
+36;Vıchodoèeskı;26;Vìrteláø Jiøí;58;73;SZV
+36;Vıchodoèeskı;27;Voòka Miroslav;29;277;SZV
+36;Vıchodoèeskı;28;Bláha Milan;33;251;SZV
+36;Vıchodoèeskı;29;Krchòák Milan;62;142;SZV
+36;Vıchodoèeskı;30;Stecoviè Josef;47;204;SZV
+36;Vıchodoèeskı;31;Hanušová Jarmila;43;270;SZV
+36;Vıchodoèeskı;32;Musil Jaromír;31;376;SZV
+36;Vıchodoèeskı;33;Labaška Ivan;56;170;SZV
+36;Vıchodoèeskı;34;Zitko Miloslav;49;194;SZV
+36;Vıchodoèeskı;35;Fink Jiøí;48;497;SZV
+36;Vıchodoèeskı;36;Marek Vojtìch;36;242;SZV
+37;Jihomoravskı;1;Fencl Jan;47;2 159;SZV
+37;Jihomoravskı;2;Mikulášek Jaroslav;54;1 709;SZV
+37;Jihomoravskı;3;Straòák Antonín;64;877;SZV
+37;Jihomoravskı;4;Maniš Jindøich;47;636;SZV
+37;Jihomoravskı;5;Špièáková Hana;35;1 585;SZV
+37;Jihomoravskı;6;Sklenák Radomír;57;637;SZV
+37;Jihomoravskı;7;Fiala Emil;57;1 101;SZV
+37;Jihomoravskı;8;Trávníèek Pavel;43;1 173;SZV
+37;Jihomoravskı;9;Luèka Václav;58;904;SZV
+37;Jihomoravskı;10;Kristek Maxmilián;55;549;SZV
+37;Jihomoravskı;11;Nešpor František;45;1 095;SZV
+37;Jihomoravskı;12;Pelan Vladimír;40;808;SZV
+37;Jihomoravskı;13;Rotrekl Radomil;58;441;SZV
+37;Jihomoravskı;14;Chroust Jan;43;1 077;SZV
+37;Jihomoravskı;15;Rašovskı Jiøí;47;741;SZV
+37;Jihomoravskı;16;Richter Zdenìk;30;349;SZV
+37;Jihomoravskı;17;Zahradníèek František;38;403;SZV
+37;Jihomoravskı;18;Èernohubová Jana;47;701;SZV
+37;Jihomoravskı;19;Hruška Vladimír;43;383;SZV
+37;Jihomoravskı;20;Kròanskı Petr;26;746;SZV
+37;Jihomoravskı;21;Hron Josef;48;726;SZV
+37;Jihomoravskı;22;Øepka Miloslav;27;728;SZV
+37;Jihomoravskı;23;Hasala Zdenìk;44;424;SZV
+37;Jihomoravskı;24;Zelinka Zdenìk;32;504;SZV
+37;Jihomoravskı;25;Dokoupil Oldøich;45;420;SZV
+37;Jihomoravskı;26;Gajdùšková Alena;36;544;SZV
+37;Jihomoravskı;27;Lízal Vít;38;278;SZV
+37;Jihomoravskı;28;Mìchura Josef;49;312;SZV
+37;Jihomoravskı;29;Machálek Jan;56;197;SZV
+37;Jihomoravskı;30;Støíteøskı Otto;38;471;SZV
+37;Jihomoravskı;31;Skácel Karel;55;352;SZV
+37;Jihomoravskı;32;Koan Radek;55;34;SZV
+37;Jihomoravskı;33;Valíèek Ludvík;57;301;SZV
+37;Jihomoravskı;34;Èurda Zdenìk;58;370;SZV
+37;Jihomoravskı;35;Rozmahelová Miroslava;40;553;SZV
+38;Severomoravskı;1;Vychodil Vojtìch;46;3 190;SZV
+38;Severomoravskı;2;Pavlík Josef;49;1 249;SZV
+38;Severomoravskı;3;Obrusník Josef;51;840;SZV
+38;Severomoravskı;4;Cenková Marcela;44;3 296;SZV
+38;Severomoravskı;5;Golka Pavel;48;821;SZV
+38;Severomoravskı;6;Kaprál Stanislav;57;624;SZV
+38;Severomoravskı;7;Burian Josef;58;1 031;SZV
+38;Severomoravskı;8;Dvouletı František;50;565;SZV
+38;Severomoravskı;9;Chudoba Milan;41;1 321;SZV
+38;Severomoravskı;11;Bro Rudolf;36;958;SZV
+38;Severomoravskı;12;Èernı Miroslav;61;501;SZV
+38;Severomoravskı;13;Musil Zdenìk;50;623;SZV
+38;Severomoravskı;14;Pechatı František;57;448;SZV
+38;Severomoravskı;15;Veèerka Josef;46;409;SZV
+38;Severomoravskı;16;Krakówka Jan;36;320;SZV
+38;Severomoravskı;17;Polanskı Jaroslav;68;146;SZV
+38;Severomoravskı;18;Trèálek Zdenìk;45;1 423;SZV
+38;Severomoravskı;19;Velèovskı Bohumír;42;546;SZV
+38;Severomoravskı;20;Kubienka Jindøich;48;335;SZV
+38;Severomoravskı;21;Volnı Rudolf;48;332;SZV
+38;Severomoravskı;22;Pavlek Rostislav;43;371;SZV
+38;Severomoravskı;23;Novák Antonín;48;515;SZV
+38;Severomoravskı;24;Šrubaø Vítìzslav;55;425;SZV
+38;Severomoravskı;25;Hurník Pavel;27;794;SZV
+38;Severomoravskı;26;Kilhof Josef;35;244;SZV
+38;Severomoravskı;27;Havel Josef;59;178;SZV
+38;Severomoravskı;28;Kylarová Anna;42;342;SZV
+38;Severomoravskı;29;Heldes Jaroslav;44;155;SZV
+38;Severomoravskı;30;Hendrych Vladislav;40;239;SZV
+38;Severomoravskı;31;Harna Zdenìk;53;233;SZV
+38;Severomoravskı;32;Recmaník Karol;64;150;SZV
+38;Severomoravskı;33;Wilczek Jan;44;322;SZV
+38;Severomoravskı;34;Krišková Jolanka;29;359;SZV
+38;Severomoravskı;35;Šturala Ludìk;29;274;SZV
+38;Severomoravskı;36;Hutaø Martin;31;137;SZV
+38;Severomoravskı;37;Prausek Stanislav;38;142;SZV
+38;Severomoravskı;38;Zicha František;48;272;SZV
+38;Severomoravskı;39;Baèík Pavel;51;185;SZV
+38;Severomoravskı;40;Doleel Miroslav;31;301;SZV
+38;Severomoravskı;41;Zedníèek Jaroslav;49;199;SZV
+38;Severomoravskı;42;Tomašèák Petr;34;501;SZV
+38;Severomoravskı;43;Doleílek Karel;33;200;SZV
+38;Severomoravskı;44;Vajnar Rostislav;29;418;SZV
+38;Severomoravskı;45;Palánek Lubomír;55;115;SZV
+38;Severomoravskı;46;Duda František;31;257;SZV
+38;Severomoravskı;47;Koza Stanislav;56;213;SZV
+38;Severomoravskı;48;Labiak Stanislav;59;178;SZV
+31;Hl.m.Praha;1;Prášil Zdenìk;31;221;ÈSDF
+32;Støedoèeskı;1;Kuèera Miroslav;33;314;ÈSDF
+32;Støedoèeskı;2;Hejduk Jan;33;190;ÈSDF
+33;Jihoèeskı;1;ïárskı Lubomír;63;62;ÈSDF
+34;Západoèeskı;1;Líkaø Stanislav;34;176;ÈSDF
+35;Severoèeskı;1;Maršálek Milan;42;336;ÈSDF
+35;Severoèeskı;2;Šustek Pavel;33;530;ÈSDF
+36;Vıchodoèeskı;1;Kaiser Vlastimil;31;160;ÈSDF
+36;Vıchodoèeskı;2;Šváb Václav;41;166;ÈSDF
+37;Jihomoravskı;1;Indruch Lotar;50;92;ÈSDF
+38;Severomoravskı;1;Høebíèek Vladimír;27;311;ÈSDF
+38;Severomoravskı;2;Guzovskı Miroslav;68;146;ÈSDF
+38;Severomoravskı;3;Vyzina Vladimír;38;262;ÈSDF
+31;Hl.m.Praha;1;Dušek Josef;34;3 425;SZ
+31;Hl.m.Praha;2;Štìpánek Miroslav;64;1 871;SZ
+31;Hl.m.Praha;3;Nesvadba Jindøich;68;2 814;SZ
+31;Hl.m.Praha;4;Bukolskı Milan;29;4 827;SZ
+31;Hl.m.Praha;5;Rypota Miloslav;37;629;SZ
+31;Hl.m.Praha;6;Štursová Dagmar;58;372;SZ
+31;Hl.m.Praha;7;Kuèerová Marie;37;846;SZ
+31;Hl.m.Praha;8;Šmíd Otakar;51;152;SZ
+31;Hl.m.Praha;9;Šoler Jiøí;43;1 482;SZ
+31;Hl.m.Praha;10;Hykman Bohumír;61;251;SZ
+31;Hl.m.Praha;11;Jetmar Vladimír;34;1 834;SZ
+31;Hl.m.Praha;12;Kardová Marie;43;161;SZ
+31;Hl.m.Praha;13;Klimešová Rùena;39;245;SZ
+31;Hl.m.Praha;14;Soukup Josef;27;669;SZ
+31;Hl.m.Praha;15;Ziml Libor;34;760;SZ
+31;Hl.m.Praha;16;Kabylová Ivana;26;573;SZ
+31;Hl.m.Praha;17;Jeek Petr;44;1 219;SZ
+31;Hl.m.Praha;18;Kramoliš Jan;39;504;SZ
+31;Hl.m.Praha;19;Slezák František;45;400;SZ
+31;Hl.m.Praha;20;Lajblová Lada;21;526;SZ
+32;Støedoèeskı;1;Franìk Vít;30;4 179;SZ
+32;Støedoèeskı;2;Kaòka Jaroslav;35;4 097;SZ
+32;Støedoèeskı;3;Dvoøák Antonín;59;1 790;SZ
+32;Støedoèeskı;4;Fencl Ivan;52;1 206;SZ
+32;Støedoèeskı;5;Malina Oldøich;56;2 323;SZ
+32;Støedoèeskı;6;Váòová Alena;31;4 417;SZ
+32;Støedoèeskı;7;Martínek Miroslav;58;2 076;SZ
+32;Støedoèeskı;8;Pulec Radim;36;2 081;SZ
+33;Jihoèeskı;1;Sıkorová Helena;50;1 602;SZ
+33;Jihoèeskı;2;Veèerka Jaroslav;38;1 578;SZ
+33;Jihoèeskı;3;Macha Miroslav;32;1 614;SZ
+33;Jihoèeskı;4;Lohonka Pavel;44;3 136;SZ
+33;Jihoèeskı;5;Danìk Josef;43;2 356;SZ
+33;Jihoèeskı;6;Mlèoch Svatomír;35;2 811;SZ
+34;Západoèeskı;1;Hadrava Jan;35;3 003;SZ
+34;Západoèeskı;2;Ševèík Vladimír;34;977;SZ
+34;Západoèeskı;3;Štìpánek Zdenìk;43;1 493;SZ
+34;Západoèeskı;4;Benda Václav;42;1 326;SZ
+34;Západoèeskı;5;Havlíèek Josef;44;1 237;SZ
+34;Západoèeskı;6;Pinl Jan;59;4 632;SZ
+34;Západoèeskı;7;Vilhelm Petr;58;1 162;SZ
+34;Západoèeskı;8;Kùrka Milan;28;3 020;SZ
+34;Západoèeskı;9;Jonáková Jana;34;1 883;SZ
+34;Západoèeskı;10;Freislebenová Marie;40;445;SZ
+34;Západoèeskı;11;Ruskı Ivan;32;732;SZ
+34;Západoèeskı;12;Záhora Pavel;26;1 422;SZ
+34;Západoèeskı;13;Janèík Antonín;59;931;SZ
+34;Západoèeskı;14;Kaòák Karel;68;1 632;SZ
+34;Západoèeskı;15;Rùièka Jiøí;44;901;SZ
+34;Západoèeskı;16;Zemanová Jaroslava;37;512;SZ
+34;Západoèeskı;17;Pilnı Jiøí;56;1 107;SZ
+34;Západoèeskı;18;Kulhánek Bohumil;49;511;SZ
+34;Západoèeskı;19;Burianová Libuše;42;1 462;SZ
+34;Západoèeskı;20;Moric Miroslav;28;1 036;SZ
+34;Západoèeskı;21;Förster Karel;59;435;SZ
+34;Západoèeskı;22;Macek Tomáš;22;2 339;SZ
+35;Severoèeskı;1;Sineckı Jaroslav;43;5 152;SZ
+35;Severoèeskı;2;Machoviè Ivo;28;3 995;SZ
+35;Severoèeskı;3;Bláha Zdenìk;42;2 831;SZ
+35;Severoèeskı;4;Netolickı Václav;40;4 913;SZ
+35;Severoèeskı;5;Pokornı Ludvík;39;1 172;SZ
+35;Severoèeskı;6;Janovcová Jarmila;40;1 963;SZ
+35;Severoèeskı;7;Ptáèník Petr;43;3 530;SZ
+35;Severoèeskı;8;Sopko Kamil;50;3 976;SZ
+35;Severoèeskı;9;Èerná Marie;40;2 578;SZ
+35;Severoèeskı;10;Koníèek František;55;6 305;SZ
+35;Severoèeskı;11;Kulhánek Jaroslav;45;1 323;SZ
+35;Severoèeskı;12;Kozák Miroslav;33;1 991;SZ
+35;Severoèeskı;13;Pelouchová Ivana;38;1 697;SZ
+35;Severoèeskı;14;Pucová Zdenka;42;1 827;SZ
+35;Severoèeskı;15;Beneš Eduard;29;1 867;SZ
+35;Severoèeskı;16;Sopr Milan;32;2 118;SZ
+35;Severoèeskı;17;Øíha Jaroslav;28;8 715;SZ
+35;Severoèeskı;18;Nìmec Vladimír;28;4 311;SZ
+35;Severoèeskı;19;Reindl Jindøich;38;2 925;SZ
+35;Severoèeskı;20;Sembner Jan;28;1 892;SZ
+35;Severoèeskı;21;Zdrail Milan;52;1 467;SZ
+35;Severoèeskı;22;Kováø František;62;862;SZ
+35;Severoèeskı;23;Jungmannová Danuše;35;1 248;SZ
+36;Vıchodoèeskı;1;Skála Bohumil;35;3 513;SZ
+36;Vıchodoèeskı;2;Svoboda Miroslav;32;1 876;SZ
+36;Vıchodoèeskı;3;Linhart Jan;39;1 418;SZ
+36;Vıchodoèeskı;4;Hejna Jiøí;34;1 350;SZ
+36;Vıchodoèeskı;5;Zajíc Jiøí;28;3 521;SZ
+36;Vıchodoèeskı;6;Mazánek Mojmír;37;561;SZ
+36;Vıchodoèeskı;7;Kuèera Mario;43;1 180;SZ
+36;Vıchodoèeskı;8;Duba Václav;42;773;SZ
+36;Vıchodoèeskı;9;Svoboda Milan;39;791;SZ
+36;Vıchodoèeskı;10;Fogl Pavel;44;814;SZ
+36;Vıchodoèeskı;11;Hovorka Karel;34;871;SZ
+36;Vıchodoèeskı;12;Sosnová Kvìta;23;808;SZ
+36;Vıchodoèeskı;13;egklitzová Leona;28;1 495;SZ
+36;Vıchodoèeskı;14;Hutník Vasil;32;1 973;SZ
+36;Vıchodoèeskı;15;Briš Petr;35;400;SZ
+36;Vıchodoèeskı;16;Zigalová Irena;41;351;SZ
+36;Vıchodoèeskı;17;Mach Zbynìk;44;332;SZ
+36;Vıchodoèeskı;18;Straková Marcela;34;1 054;SZ
+36;Vıchodoèeskı;19;Petrová Marta;45;1 348;SZ
+37;Jihomoravskı;1;Bachr Jiøí;37;2 037;SZ
+37;Jihomoravskı;2;Rokos Miroslav;32;1 776;SZ
+37;Jihomoravskı;3;Nimrichtr Jaroslav;47;512;SZ
+37;Jihomoravskı;4;Poláchová Vìra;46;603;SZ
+37;Jihomoravskı;5;Šebík Jaromír;38;1 336;SZ
+37;Jihomoravskı;6;Pospíchal Zdenìk;50;635;SZ
+37;Jihomoravskı;7;Macurová Dana;32;3 671;SZ
+37;Jihomoravskı;8;Olša Josef;75;255;SZ
+37;Jihomoravskı;9;Ptáèek Jaroslav;37;412;SZ
+37;Jihomoravskı;10;Balák Libor;29;515;SZ
+37;Jihomoravskı;11;Vlašín Mojmír;36;3 794;SZ
+37;Jihomoravskı;12;Suchomel Jan;55;147;SZ
+37;Jihomoravskı;13;Novák Karel;37;1 087;SZ
+37;Jihomoravskı;14;Machovskı Matìj;51;221;SZ
+37;Jihomoravskı;15;Synáková Iva;36;446;SZ
+37;Jihomoravskı;16;Novosad Pavel;44;1 920;SZ
+37;Jihomoravskı;17;Dvoøáèek Jiøí;48;217;SZ
+37;Jihomoravskı;18;Štefaník František;39;962;SZ
+37;Jihomoravskı;19;Sıkora Jiøí;31;1 752;SZ
+37;Jihomoravskı;20;Turna Jiøí;27;1 141;SZ
+37;Jihomoravskı;21;Petrelka Jan;26;860;SZ
+37;Jihomoravskı;22;Látal Oldøich;39;290;SZ
+38;Severomoravskı;1;Sedláèek Josef;39;4 948;SZ
+38;Severomoravskı;2;Haken Roman;27;4 883;SZ
+38;Severomoravskı;3;Mucha Aleš;28;2 727;SZ
+38;Severomoravskı;4;Teplárek Petr;51;1 388;SZ
+38;Severomoravskı;5;Sebera Václav;53;811;SZ
+38;Severomoravskı;6;Mátl Milan;54;2 066;SZ
+38;Severomoravskı;7;Zimèík Miroslav;46;1 823;SZ
+38;Severomoravskı;8;Navrátil Radomír;56;1 071;SZ
+38;Severomoravskı;9;Grendziok Petr;22;1 780;SZ
+38;Severomoravskı;10;Hladíková Anna;35;1 269;SZ
+38;Severomoravskı;11;Lampar Miroslav;55;1 464;SZ
+38;Severomoravskı;12;Hadrych Rudolf;67;365;SZ
+38;Severomoravskı;13;Boovskı Aleš;39;1 269;SZ
+38;Severomoravskı;14;Hruška Jindøich;42;890;SZ
+38;Severomoravskı;15;Schneider Rudolf;34;946;SZ
+38;Severomoravskı;16;Frydrychová Vìra;51;1 194;SZ
+38;Severomoravskı;17;Hájek Jiøí;41;1 076;SZ
+38;Severomoravskı;18;Górská Libuše;41;1 315;SZ
+38;Severomoravskı;19;Brtnová Iveta;33;1 599;SZ
+38;Severomoravskı;20;Bárta Lumír;53;1 265;SZ
+38;Severomoravskı;21;Doèkal Lubomír;33;643;SZ
+38;Severomoravskı;22;Szurman Zdenìk;43;654;SZ
+38;Severomoravskı;23;Opletal Jaroslav;53;535;SZ
+38;Severomoravskı;24;Horynová Alena;45;1 519;SZ
+33;Jihoèeskı;1;Pøikryl Radoslav;34;292;HSD-SMS
+36;Vıchodoèeskı;1;Horák Jindøich;51;840;HSD-SMS
+37;Jihomoravskı;1;Malík Zdenìk;68;13 197;HSD-SMS
+37;Jihomoravskı;2;Balcárek Pavel;50;18 121;HSD-SMS
+37;Jihomoravskı;3;Kryèer Jan;35;40 747;HSD-SMS
+37;Jihomoravskı;4;Macháèek Jiøí;32;29 375;HSD-SMS
+37;Jihomoravskı;5;Havlíèek Miroslav;32;10 373;HSD-SMS
+37;Jihomoravskı;7;Homola František;50;5 575;HSD-SMS
+37;Jihomoravskı;8;Pruša Oto;39;15 425;HSD-SMS
+37;Jihomoravskı;9;Zatloukal Bøetislav;35;19 385;HSD-SMS
+37;Jihomoravskı;10;Procházka Kamil;56;2 545;HSD-SMS
+37;Jihomoravskı;11;Andrle Antonín;52;8 847;HSD-SMS
+37;Jihomoravskı;12;Mazalová Gerta;45;14 006;HSD-SMS
+37;Jihomoravskı;13;Švec Vlastislav;61;1 840;HSD-SMS
+37;Jihomoravskı;14;Pøíkaská Zdeòka;37;20 130;HSD-SMS
+37;Jihomoravskı;15;Studenı Milan;53;2 577;HSD-SMS
+37;Jihomoravskı;16;Hrbek Jiøí;39;5 066;HSD-SMS
+37;Jihomoravskı;17;Jánská Kristína;45;5 563;HSD-SMS
+37;Jihomoravskı;18;Vyzina Pavel;33;7 635;HSD-SMS
+37;Jihomoravskı;19;Baòouchová Hana;44;7 239;HSD-SMS
+38;Severomoravskı;1;Kaèenka František;42;39 560;HSD-SMS
+38;Severomoravskı;2;Fendrych Ludìk;60;13 129;HSD-SMS
+38;Severomoravskı;3;Bezdìk Josef;45;23 783;HSD-SMS
+38;Severomoravskı;4;Dudešek Petr;51;31 106;HSD-SMS
+38;Severomoravskı;5;Šperka Zdenìk;36;19 247;HSD-SMS
+38;Severomoravskı;6;Foniok Karel;35;32 785;HSD-SMS
+38;Severomoravskı;7;Zeman Vladimír;42;25 435;HSD-SMS
+38;Severomoravskı;8;Kadlec Jan;41;14 712;HSD-SMS
+38;Severomoravskı;9;Kapusta Jaromír;48;12 173;HSD-SMS
+38;Severomoravskı;10;Stodùlka Zbyšek;43;26 988;HSD-SMS
+38;Severomoravskı;11;Krèma Ladislav;73;5 314;HSD-SMS
+38;Severomoravskı;12;Crhák Ladislav;66;6 086;HSD-SMS
+38;Severomoravskı;13;Volf Zdenìk;43;11 520;HSD-SMS
+38;Severomoravskı;14;Šastnı Vladimír;48;13 068;HSD-SMS
+31;Hl.m.Praha;1;Krampera Václav;46;2 969;SD
+31;Hl.m.Praha;2;Tesaø Jiøí;58;1 375;SD
+31;Hl.m.Praha;3;Landergottová Zuzana;39;1 481;SD
+31;Hl.m.Praha;4;Plichta Dalibor;69;869;SD
+31;Hl.m.Praha;5;Wagner Václav;64;278;SD
+31;Hl.m.Praha;6;Toušek Jan;46;1 219;SD
+31;Hl.m.Praha;7;Rychlík Jan;36;1 459;SD
+31;Hl.m.Praha;8;Smolík Josef;54;540;SD
+31;Hl.m.Praha;9;Kouba Ladislav;44;2 367;SD
+31;Hl.m.Praha;10;Plocek Karel;60;238;SD
+31;Hl.m.Praha;11;Rùek Zdenìk;33;924;SD
+31;Hl.m.Praha;12;Hoffmann Petr;49;524;SD
+31;Hl.m.Praha;13;Karasová Slávka;68;325;SD
+31;Hl.m.Praha;14;Bauch Jan;91;570;SD
+31;Hl.m.Praha;15;Baláš Vladimír;56;862;SD
+31;Hl.m.Praha;16;Kalaè Petr;54;298;SD
+31;Hl.m.Praha;17;Vacek Vladimír;35;1 097;SD
+31;Hl.m.Praha;18;Chomèová Marta;26;704;SD
+31;Hl.m.Praha;19;Kalaš Josef;45;195;SD
+31;Hl.m.Praha;20;Hovorka Bohuslav;58;818;SD
+31;Hl.m.Praha;21;Smetana Jan;31;635;SD
+31;Hl.m.Praha;22;Štroner Josef;53;1 475;SD
+31;Hl.m.Praha;23;Kaiser Tomáš;45;591;SD
+31;Hl.m.Praha;24;Svoboda Milan;51;266;SD
+31;Hl.m.Praha;25;Bízek Jan;53;221;SD
+31;Hl.m.Praha;26;Dostál Miroslav;51;64;SD
+31;Hl.m.Praha;27;Krbec Jiøí;48;59;SD
+31;Hl.m.Praha;28;Martenková Jana;27;276;SD
+31;Hl.m.Praha;29;Richterová Vìra;55;84;SD
+31;Hl.m.Praha;30;Šultysová Lenka;34;115;SD
+31;Hl.m.Praha;31;Hendrych Jan;60;79;SD
+31;Hl.m.Praha;32;Pokornı Daniel;31;90;SD
+31;Hl.m.Praha;33;Gergel Pavel;27;109;SD
+31;Hl.m.Praha;34;Jelínek Alois;28;67;SD
+31;Hl.m.Praha;35;Wagner Jaroslav;59;89;SD
+31;Hl.m.Praha;36;Slamka Josef;71;77;SD
+32;Støedoèeskı;1;Kneidl Stanislav;47;3 080;SD
+32;Støedoèeskı;2;Brabec Miroslav;55;1 040;SD
+32;Støedoèeskı;3;Hora Miroslav;70;639;SD
+32;Støedoèeskı;4;Zuska Václav;40;1 496;SD
+32;Støedoèeskı;5;Vejvodová Jana;59;812;SD
+32;Støedoèeskı;6;Holát Roman;68;671;SD
+32;Støedoèeskı;7;Šimarek Robert;28;1 261;SD
+32;Støedoèeskı;8;Øíha Roman;25;994;SD
+32;Støedoèeskı;9;Baxa Milan;29;658;SD
+32;Støedoèeskı;10;Hausner Josef;45;1 295;SD
+32;Støedoèeskı;11;Ottová Jiøina;41;1 237;SD
+32;Støedoèeskı;12;Prokopová Libuše;44;1 235;SD
+32;Støedoèeskı;13;Abrhám Karel;50;1 610;SD
+32;Støedoèeskı;14;Hrabánek Emil;69;402;SD
+32;Støedoèeskı;15;Dvoøák Václav;35;1 359;SD
+32;Støedoèeskı;16;Trgiòa Jan;40;1 732;SD
+32;Støedoèeskı;17;Knotek Pavel;25;2 293;SD
+32;Støedoèeskı;18;Danielis Ondøej;38;1 370;SD
+32;Støedoèeskı;19;Pressler Antonín;83;109;SD
+32;Støedoèeskı;20;Tesaøík Jaroslav;43;599;SD
+32;Støedoèeskı;21;Neumann Viktor;61;363;SD
+32;Støedoèeskı;22;Vik Ladislav;36;1 088;SD
+32;Støedoèeskı;23;Uher Václav;52;492;SD
+32;Støedoèeskı;24;Kováø Jiøí;28;661;SD
+32;Støedoèeskı;25;Korf Jan;34;673;SD
+32;Støedoèeskı;26;Kováø Milan;33;363;SD
+32;Støedoèeskı;28;Vašek Jan;49;205;SD
+32;Støedoèeskı;29;Èernı Jan;49;214;SD
+32;Støedoèeskı;30;Herman Petr;29;257;SD
+33;Jihoèeskı;1;Jarošek Herbert;65;1 518;SD
+33;Jihoèeskı;2;Trägerova Alena;64;618;SD
+33;Jihoèeskı;3;Plocek Jindøich;40;1 178;SD
+33;Jihoèeskı;4;Chuchel Miloslav;57;796;SD
+33;Jihoèeskı;5;Prokeš Miroslav;48;982;SD
+33;Jihoèeskı;6;Konrád František;52;794;SD
+33;Jihoèeskı;7;Fák Jaroslav;64;300;SD
+33;Jihoèeskı;8;Tyrpeklová Jaroslava;28;638;SD
+33;Jihoèeskı;9;Rùièka Jan;59;749;SD
+33;Jihoèeskı;10;Mašek Libor;66;239;SD
+33;Jihoèeskı;11;Boèan František;38;650;SD
+33;Jihoèeskı;12;Gründl Arnošt;38;458;SD
+33;Jihoèeskı;13;Blatskı Zbynìk;26;601;SD
+33;Jihoèeskı;14;Kovaèièin František;52;259;SD
+33;Jihoèeskı;15;Tomica Josef;45;574;SD
+33;Jihoèeskı;16;Hostková Svatava;54;128;SD
+33;Jihoèeskı;17;Prokeš Jiøí;43;601;SD
+33;Jihoèeskı;18;Sluka Jan;36;707;SD
+33;Jihoèeskı;19;áèek Miroslav;67;178;SD
+33;Jihoèeskı;20;Lust Jan;59;367;SD
+34;Západoèeskı;1;Mudra Milan;47;2 539;SD
+34;Západoèeskı;2;Vystyd Ludìk;54;2 632;SD
+34;Západoèeskı;3;Nìmec Otto;49;2 063;SD
+34;Západoèeskı;4;Maøík Josef;58;717;SD
+34;Západoèeskı;5;Bláha Karel;42;973;SD
+34;Západoèeskı;6;Boøík Václav;50;2 145;SD
+34;Západoèeskı;7;Pöpperl Jiøí;62;1 745;SD
+34;Západoèeskı;8;Tlustı Jaroslav;39;750;SD
+34;Západoèeskı;9;Pokornı Jaroslav;52;1 260;SD
+34;Západoèeskı;10;Zuckermann Tomáš;47;1 089;SD
+34;Západoèeskı;11;Mareš Richard;60;1 297;SD
+34;Západoèeskı;12;Hozová Anna;35;2 341;SD
+34;Západoèeskı;13;Pachovskı Zdenìk;32;1 256;SD
+34;Západoèeskı;14;Sova Petr;25;1 561;SD
+34;Západoèeskı;15;Pelikán Josef;42;873;SD
+34;Západoèeskı;16;Wolf Heinz;51;452;SD
+34;Západoèeskı;17;Novák Jiøí;48;1 293;SD
+34;Západoèeskı;18;Stárková Marie;42;1 413;SD
+34;Západoèeskı;19;Hudeèek Milan;52;474;SD
+34;Západoèeskı;20;Hanzlík Jaroslav;48;724;SD
+34;Západoèeskı;21;Mrva Miloš;35;1 478;SD
+34;Západoèeskı;22;Fremr Vítìzslav;58;307;SD
+34;Západoèeskı;23;Nedvìd František;72;262;SD
+34;Západoèeskı;24;Cajthaml Josef;70;239;SD
+34;Západoèeskı;25;Kraus Josef;36;795;SD
+35;Severoèeskı;1;Karen Oto;55;3 393;SD
+35;Severoèeskı;2;anda Josef;42;4 686;SD
+35;Severoèeskı;3;Rašková Marie;44;6 461;SD
+35;Severoèeskı;4;Brejcha Jiøí;35;4 246;SD
+35;Severoèeskı;5;Kuchyòka Jaromír;62;1 752;SD
+35;Severoèeskı;6;Táborskı Miroslav;34;5 279;SD
+35;Severoèeskı;7;Zinga Peter;44;2 478;SD
+35;Severoèeskı;8;Marijczuk Klaus;48;1 212;SD
+35;Severoèeskı;9;Kovanda Václav;50;2 819;SD
+35;Severoèeskı;10;Šlapáková Marie;42;3 244;SD
+35;Severoèeskı;11;Randus Petr;36;1 375;SD
+35;Severoèeskı;12;Svatošová OLga;58;630;SD
+35;Severoèeskı;13;Verhun Vladimír;60;2 941;SD
+35;Severoèeskı;14;Bohdal Miloslav;47;674;SD
+35;Severoèeskı;15;Bezucha František;39;3 444;SD
+35;Severoèeskı;16;Trávníèek Ivan;41;1 465;SD
+35;Severoèeskı;17;Mráz Jaromír;49;785;SD
+35;Severoèeskı;18;Urbanová Jana;47;3 403;SD
+35;Severoèeskı;19;Chmel Jiøí;43;1 282;SD
+35;Severoèeskı;20;Zejda Ján;35;1 420;SD
+35;Severoèeskı;21;Havelec Jaroslav;44;791;SD
+35;Severoèeskı;22;Mlèák Jiøí;45;558;SD
+35;Severoèeskı;23;Hısek Vladimír;65;440;SD
+35;Severoèeskı;24;Ksandrová Cecilie;45;1 030;SD
+35;Severoèeskı;25;Technik Ján;42;2 450;SD
+35;Severoèeskı;26;Melnikov Jiøí;47;170;SD
+35;Severoèeskı;27;Kašparová Jana;40;329;SD
+35;Severoèeskı;28;Praus Petr;27;315;SD
+35;Severoèeskı;29;Sehnal Libor;32;462;SD
+36;Vıchodoèeskı;1;Ledvina Miroslav;65;3 243;SD
+36;Vıchodoèeskı;2;Stanìk Stanislav;42;1 792;SD
+36;Vıchodoèeskı;3;Kratochvíl Milan;62;2 388;SD
+36;Vıchodoèeskı;4;Gildain Mikuláš;21;958;SD
+36;Vıchodoèeskı;5;Málek Stanislav;57;942;SD
+36;Vıchodoèeskı;6;Kuèera Ladislav;38;1 021;SD
+36;Vıchodoèeskı;7;Malı Zdenìk;47;745;SD
+36;Vıchodoèeskı;8;Staòková Sylva;48;826;SD
+36;Vıchodoèeskı;9;Bureš Zdenìk;60;267;SD
+36;Vıchodoèeskı;10;Kálenskı Miroslav;47;505;SD
+36;Vıchodoèeskı;11;Kozáková Ivana;27;1 697;SD
+36;Vıchodoèeskı;12;Mikle Jaroslav;44;639;SD
+36;Vıchodoèeskı;13;Èervinka Ladislav;68;369;SD
+36;Vıchodoèeskı;14;Svoboda Karel;51;927;SD
+36;Vıchodoèeskı;15;Berg Jiøí;43;1 970;SD
+36;Vıchodoèeskı;16;Vašíèek Petr;39;461;SD
+36;Vıchodoèeskı;17;Husák Petr;43;598;SD
+36;Vıchodoèeskı;18;Sokol Lumír;57;721;SD
+36;Vıchodoèeskı;19;Kuák Milan;37;561;SD
+36;Vıchodoèeskı;20;Titz Miloš;51;460;SD
+36;Vıchodoèeskı;21;Kuel Jaromír;58;273;SD
+36;Vıchodoèeskı;22;Janásek Václav;48;277;SD
+36;Vıchodoèeskı;23;Koláø Petr;53;1 792;SD
+36;Vıchodoèeskı;24;Uzel Petr;46;813;SD
+36;Vıchodoèeskı;25;Kábrt Jiøí;47;795;SD
+36;Vıchodoèeskı;26;Karlíèková Jitka;40;141;SD
+36;Vıchodoèeskı;27;Navrátil František;46;232;SD
+36;Vıchodoèeskı;28;Lakatoš Milan;31;33;SD
+36;Vıchodoèeskı;29;Petrílková Renata;33;178;SD
+36;Vıchodoèeskı;30;Balog Jiøí;33;116;SD
+36;Vıchodoèeskı;31;Jambor Jiøí;44;118;SD
+36;Vıchodoèeskı;32;Hlaváèová Stanislava;38;78;SD
+36;Vıchodoèeskı;33;Halamková Ilona;34;120;SD
+36;Vıchodoèeskı;34;Dlesek Jindøich;65;36;SD
+36;Vıchodoèeskı;35;Dernerová Ladislava;32;103;SD
+36;Vıchodoèeskı;36;Makeš Miroslav;30;217;SD
+37;Jihomoravskı;1;Cygánek František;58;779;SD
+37;Jihomoravskı;2;Vrbka Pavel;58;585;SD
+37;Jihomoravskı;3;Smutek Lubomír;46;498;SD
+37;Jihomoravskı;4;Andrle Petr;28;769;SD
+37;Jihomoravskı;5;Slabı Zdenìk;60;435;SD
+37;Jihomoravskı;6;Solnièka Michal;23;625;SD
+37;Jihomoravskı;7;Strıèková Vìra;47;362;SD
+37;Jihomoravskı;8;Suchá Magda;38;616;SD
+37;Jihomoravskı;9;Dvoøáèková Marie;68;137;SD
+37;Jihomoravskı;10;Novotnı Vladimír;24;726;SD
+37;Jihomoravskı;11;Borková Jaroslava;39;240;SD
+37;Jihomoravskı;12;Poláèek Karel;46;527;SD
+37;Jihomoravskı;13;Doèkal Miloslav;59;540;SD
+37;Jihomoravskı;14;Šesták Jiøí;47;339;SD
+37;Jihomoravskı;15;Pospíšilová Vlasta;48;207;SD
+37;Jihomoravskı;16;Suchánek Eduard;53;183;SD
+37;Jihomoravskı;17;Jašek Pavel;35;581;SD
+37;Jihomoravskı;18;Pohanková Dana;48;281;SD
+37;Jihomoravskı;19;Bajerová Nadìda;55;99;SD
+37;Jihomoravskı;20;Gerneš Martin;29;188;SD
+37;Jihomoravskı;21;Procházka Jan;32;477;SD
+37;Jihomoravskı;22;Švestka Ladislav;41;258;SD
+37;Jihomoravskı;23;Dvoøáèková Soòa;38;162;SD
+37;Jihomoravskı;24;Švehla Karel;42;200;SD
+37;Jihomoravskı;25;íla Karel;35;111;SD
+37;Jihomoravskı;26;Hejl Jaromír;47;204;SD
+37;Jihomoravskı;27;Vlasák Josef;55;138;SD
+37;Jihomoravskı;28;Vaculoviè František;76;60;SD
+37;Jihomoravskı;29;Pazourek Miroslav;56;32;SD
+37;Jihomoravskı;30;Prudilová Kvìta;58;19;SD
+37;Jihomoravskı;31;Hakl Lubomír;47;128;SD
+37;Jihomoravskı;32;Veselı Tomáš;41;139;SD
+37;Jihomoravskı;33;Grejtáková Jaroslava;32;126;SD
+37;Jihomoravskı;34;Hronová Anna;43;12;SD
+37;Jihomoravskı;35;Kaczorová Vìra;31;18;SD
+37;Jihomoravskı;36;Killar Petr;33;139;SD
+37;Jihomoravskı;37;Cigánek František;57;23;SD
+37;Jihomoravskı;38;Chládek Ivan;49;163;SD
+37;Jihomoravskı;39;Chvátal Jaroslav;55;84;SD
+37;Jihomoravskı;40;Sedlák Jiøí;44;177;SD
+37;Jihomoravskı;41;Auer Dobroslav;64;79;SD
+37;Jihomoravskı;42;Zelenı Jiøí;50;43;SD
+37;Jihomoravskı;43;Krajíèková Marie;40;24;SD
+37;Jihomoravskı;44;Prokešová Martina;23;59;SD
+37;Jihomoravskı;45;Sikorová Alena;38;15;SD
+37;Jihomoravskı;46;Smutková Zdeòka;44;65;SD
+37;Jihomoravskı;47;Janulík Jan;48;78;SD
+37;Jihomoravskı;48;Patera František;63;30;SD
+37;Jihomoravskı;49;Smutková Radmila;25;105;SD
+37;Jihomoravskı;50;Heinz Vojtìch;44;16;SD
+37;Jihomoravskı;51;Holubík Jan;37;96;SD
+37;Jihomoravskı;52;Andìl Stanislav;52;71;SD
+37;Jihomoravskı;53;Mrština Pavel;27;61;SD
+38;Severomoravskı;1;Muík Miroslav;55;3 447;SD
+38;Severomoravskı;2;Bakala Jaroslav;59;1 939;SD
+38;Severomoravskı;3;Sıkora Robert;25;2 980;SD
+38;Severomoravskı;4;Stìhulka Vratislav;59;618;SD
+38;Severomoravskı;5;Horskı Jaromír;61;629;SD
+38;Severomoravskı;6;Bro Jiøí;31;1 653;SD
+38;Severomoravskı;7;Urbánek Jaroslav;52;1 135;SD
+38;Severomoravskı;8;Kuøec Tomáš;42;1 588;SD
+38;Severomoravskı;9;Bensch Boris;53;321;SD
+38;Severomoravskı;10;Doleel Albín;50;1 275;SD
+38;Severomoravskı;12;Bernatskı Radomír;53;672;SD
+38;Severomoravskı;13;Tvrzník Alexander;42;743;SD
+38;Severomoravskı;14;Dlouhı Jan;48;718;SD
+38;Severomoravskı;15;Špùrek Josef;44;362;SD
+38;Severomoravskı;16;Martínek Lubomír;64;489;SD
+38;Severomoravskı;17;Jeková Vìra;46;2 459;SD
+38;Severomoravskı;18;Èich Vlastimil;47;569;SD
+38;Severomoravskı;19;Richtár Ladislav;38;665;SD
+38;Severomoravskı;20;Peturová Miloslava;35;954;SD
+38;Severomoravskı;21;Hercig Josef;43;675;SD
+38;Severomoravskı;22;Suchomel Richard;27;1 249;SD
+38;Severomoravskı;23;Zedník Aleš;32;1 092;SD
+38;Severomoravskı;24;Gilar Oldøich;57;171;SD
+38;Severomoravskı;25;Kubla Richard;48;708;SD
+38;Severomoravskı;26;Koutnı Jan;31;345;SD
+38;Severomoravskı;27;Skøivanová Milada;49;193;SD
+38;Severomoravskı;28;Øeha František;46;409;SD
+38;Severomoravskı;29;Vykydal Pavel;35;334;SD
+32;Støedoèeskı;1;Šmíd Miloslav;31;1 274;SPP
+33;Jihoèeskı;1;Jírava Jiøí;28;581;SPP
+33;Jihoèeskı;2;Janeèek Jaroslav;28;702;SPP
+34;Západoèeskı;1;Vondryska Josef;46;737;SPP
+35;Severoèeskı;1;Kedl Vladimír;35;1 082;SPP
+36;Vıchodoèeskı;1;Vaníèek Viktor;36;790;SPP
+37;Jihomoravskı;1;Fikeis Jan;25;691;SPP
+37;Jihomoravskı;2;Havlík Petr;26;686;SPP
+31;Hl.m.Praha;1;Janù Ivana;44;3 400;KDU
+31;Hl.m.Praha;3;Eliáš Petr;30;4 384;KDU
+31;Hl.m.Praha;4;Duchek Karel;47;1 756;KDU
+31;Hl.m.Praha;5;Vrána Václav;46;3 592;KDU
+31;Hl.m.Praha;6;Holeèek Michal;34;3 628;KDU
+31;Hl.m.Praha;7;Ševèík František;56;1 252;KDU
+31;Hl.m.Praha;8;Danda Bedøich;51;1 663;KDU
+31;Hl.m.Praha;9;Malı Ladislav;44;2 193;KDU
+31;Hl.m.Praha;10;Bastlová Helena;41;2 958;KDU
+31;Hl.m.Praha;11;Vápeník Václav;52;1 308;KDU
+31;Hl.m.Praha;12;Studnièka Jan;53;1 569;KDU
+31;Hl.m.Praha;13;Škrábek Josef;62;577;KDU
+31;Hl.m.Praha;15;Jaroš Milan;67;428;KDU
+31;Hl.m.Praha;16;Leroch Albert;67;573;KDU
+31;Hl.m.Praha;18;Šolc Jaroslav;49;939;KDU
+31;Hl.m.Praha;19;Makarius Roman  In;52;695;KDU
+31;Hl.m.Praha;20;Barták Vladislav;54;416;KDU
+31;Hl.m.Praha;21;Nenadál Jan;56;298;KDU
+31;Hl.m.Praha;22;Kubát Jiøí;37;1 792;KDU
+31;Hl.m.Praha;23;Mráèek Karel;47;635;KDU
+31;Hl.m.Praha;24;Brynychová Drahomíra;40;1 190;KDU
+31;Hl.m.Praha;25;Velek Jiøí;47;464;KDU
+31;Hl.m.Praha;26;Pittnerová Zuzana;31;179;KDU
+31;Hl.m.Praha;27;Voronov Petr;50;262;KDU
+31;Hl.m.Praha;28;Dolejš Vìkoslav;60;106;KDU
+31;Hl.m.Praha;29;Kadlèíková Irena;40;208;KDU
+31;Hl.m.Praha;30;Šimek Jan;52;538;KDU
+31;Hl.m.Praha;31;Pavlík Petr;45;111;KDU
+31;Hl.m.Praha;32;Virc František;40;138;KDU
+31;Hl.m.Praha;33;Øehoø Miroslav;65;113;KDU
+31;Hl.m.Praha;34;Slabı Jan;36;167;KDU
+31;Hl.m.Praha;35;Rychlı Antonín;58;145;KDU
+31;Hl.m.Praha;36;Kellner Alexandr;41;89;KDU
+32;Støedoèeskı;1;Janeèek Josef;37;4 789;KDU
+32;Støedoèeskı;2;Dušek Jiøí;44;2 544;KDU
+32;Støedoèeskı;3;Krátkı Hynek;29;3 656;KDU
+32;Støedoèeskı;4;Bican Karel;40;3 252;KDU
+32;Støedoèeskı;5;Marek Pavel;61;1 012;KDU
+32;Støedoèeskı;6;Prinz Jiøí;55;2 006;KDU
+32;Støedoèeskı;7;Zítko Petr;41;3 688;KDU
+32;Støedoèeskı;8;Køíková Anna;30;1 498;KDU
+32;Støedoèeskı;9;Sochor Antonín;48;2 288;KDU
+32;Støedoèeskı;10;Wiesnerová Milena;43;1 911;KDU
+32;Støedoèeskı;11;Šastnı Milan;50;920;KDU
+32;Støedoèeskı;12;Kostelka Miroslav;62;897;KDU
+32;Støedoèeskı;13;Andrlík Jiøí;47;675;KDU
+32;Støedoèeskı;14;Vorlíèková Jaroslava;28;1 515;KDU
+32;Støedoèeskı;15;Prošek František;53;1 712;KDU
+32;Støedoèeskı;16;Èapla Eduard;50;755;KDU
+32;Støedoèeskı;17;Fanta Pavel;48;785;KDU
+32;Støedoèeskı;18;Vopaøil Jiøí;39;717;KDU
+32;Støedoèeskı;20;Chaloupková Marie;49;899;KDU
+32;Støedoèeskı;21;Pinkas Vladislav;39;660;KDU
+32;Støedoèeskı;22;Burda Vladislav;57;358;KDU
+32;Støedoèeskı;23;Limpouch Alfons;53;394;KDU
+32;Støedoèeskı;24;Chvál Václav;36;1 342;KDU
+32;Støedoèeskı;25;Vrtiška Miroslav;35;2 728;KDU
+32;Støedoèeskı;26;Štorkánová Daniela;57;179;KDU
+32;Støedoèeskı;28;Štechr Vladimír;48;190;KDU
+32;Støedoèeskı;29;Láznièka Miroslav;42;214;KDU
+32;Støedoèeskı;30;Kolín Vojtìch;67;440;KDU
+32;Støedoèeskı;31;Bartoš Karel;42;380;KDU
+33;Jihoèeskı;1;Cibuzar Václav;59;3 229;KDU
+33;Jihoèeskı;2;Kalbáè Josef;50;2 321;KDU
+33;Jihoèeskı;3;Èech Josef;65;2 613;KDU
+33;Jihoèeskı;4;Hotaø Zdenìk;39;3 256;KDU
+33;Jihoèeskı;5;Viktora Bohuslav;36;1 614;KDU
+33;Jihoèeskı;6;Dvoøák Václav;47;1 639;KDU
+33;Jihoèeskı;7;Ryèovskı Stanislav;41;2 001;KDU
+33;Jihoèeskı;8;Blaek Jiøí;28;2 468;KDU
+33;Jihoèeskı;9;Trpák Pavel;48;1 152;KDU
+33;Jihoèeskı;10;Jelínek Jan;46;1 423;KDU
+33;Jihoèeskı;11;Vondrášek Adolf;53;594;KDU
+33;Jihoèeskı;12;Peroutka František;26;1 431;KDU
+33;Jihoèeskı;13;Pešek Karel;37;1 790;KDU
+33;Jihoèeskı;14;Válek Libor;29;2 092;KDU
+33;Jihoèeskı;15;Novotnı Jan;58;761;KDU
+33;Jihoèeskı;16;Vykypìl Jiøí;56;1 016;KDU
+33;Jihoèeskı;17;Beutl Miloš;29;1 214;KDU
+33;Jihoèeskı;18;Jílek Vladislav;65;522;KDU
+33;Jihoèeskı;19;Kubíková Jana;42;1 321;KDU
+33;Jihoèeskı;20;Malík Stanislav;41;1 884;KDU
+34;Západoèeskı;1;Strašek Jiøí;39;4 393;KDU
+34;Západoèeskı;2;Meier Josef;45;2 121;KDU
+34;Západoèeskı;3;Háze Karel;63;2 262;KDU
+34;Západoèeskı;4;Hrbotická Jana;44;2 673;KDU
+34;Západoèeskı;5;Èechová Alena;43;1 730;KDU
+34;Západoèeskı;6;Valíèek Karel;39;1 549;KDU
+34;Západoèeskı;7;Hauer Pavel;26;1 101;KDU
+34;Západoèeskı;8;Fojtíèek Ctibor;52;1 352;KDU
+34;Západoèeskı;9;Martínek Jiøí;58;627;KDU
+34;Západoèeskı;10;Volenec Václav;39;1 850;KDU
+34;Západoèeskı;11;Ryšlink Karel;62;690;KDU
+34;Západoèeskı;12;Blaek Milan;58;2 483;KDU
+34;Západoèeskı;13;Lego Ladislav;37;498;KDU
+34;Západoèeskı;14;Skøivánek Bronislav;29;2 148;KDU
+34;Západoèeskı;15;Blumentritová Zdeòka;43;464;KDU
+34;Západoèeskı;16;Prokop Antonín;32;991;KDU
+34;Západoèeskı;17;Bernard Josef;60;1 416;KDU
+34;Západoèeskı;18;Pešek Miroslav;53;1 339;KDU
+34;Západoèeskı;19;Bunda Petr;26;693;KDU
+34;Západoèeskı;20;Stupka František;44;1 184;KDU
+34;Západoèeskı;21;Haas Petr;32;480;KDU
+34;Západoèeskı;22;Blaek Miloslav;40;553;KDU
+34;Západoèeskı;23;eule Václav;45;2 163;KDU
+34;Západoèeskı;24;Blaková Drahomíra;37;563;KDU
+34;Západoèeskı;25;Hruška Luboš;63;1 072;KDU
+35;Severoèeskı;1;Šedivı Josef;57;2 073;KDU
+35;Severoèeskı;2;Haringer Jiøí;51;2 153;KDU
+35;Severoèeskı;3;Kubín Stanislav;47;1 574;KDU
+35;Severoèeskı;4;Krejza Ladislav;56;950;KDU
+35;Severoèeskı;5;Chutnı Antonín;48;1 863;KDU
+35;Severoèeskı;6;Záhora Jiøí;52;749;KDU
+35;Severoèeskı;7;Adamec Josef;52;817;KDU
+35;Severoèeskı;10;Slováèek Vladimír;42;1 233;KDU
+35;Severoèeskı;11;Mikl Josef;77;132;KDU
+35;Severoèeskı;12;Biòovec Karel;34;661;KDU
+35;Severoèeskı;13;Øehoøek Milan;27;3 108;KDU
+35;Severoèeskı;15;Škodová Hana;30;1 389;KDU
+35;Severoèeskı;16;Smrèka Jaroslav;42;1 014;KDU
+35;Severoèeskı;17;Blaek Bohuslav;26;641;KDU
+35;Severoèeskı;18;Vejlupek Miroslav;69;351;KDU
+35;Severoèeskı;19;Krupka Pavel;37;1 376;KDU
+35;Severoèeskı;21;Henke Bøetislav;40;427;KDU
+35;Severoèeskı;22;Zahradníèková Marie;22;2 055;KDU
+35;Severoèeskı;23;Barabáš Ivo;35;1 139;KDU
+35;Severoèeskı;24;Herrmannová Eva;46;600;KDU
+35;Severoèeskı;26;Bohuslav Václav;36;204;KDU
+35;Severoèeskı;27;Škoda Bohuslav;64;171;KDU
+35;Severoèeskı;28;Štekrt Vladimír;31;116;KDU
+35;Severoèeskı;29;Podzimková Ivanka;44;217;KDU
+35;Severoèeskı;30;Resl Jiøí;66;107;KDU
+35;Severoèeskı;31;Scheybalová Jana;50;133;KDU
+35;Severoèeskı;33;Andrš Jaroslav;44;159;KDU
+36;Vıchodoèeskı;1;Wajsar Miroslav;33;5 952;KDU
+36;Vıchodoèeskı;2;Moskal Václav;65;2 786;KDU
+36;Vıchodoèeskı;3;Vıbornı Miroslav;38;7 336;KDU
+36;Vıchodoèeskı;4;Svoboda Tomáš;24;2 128;KDU
+36;Vıchodoèeskı;5;Hanuš Jiøí;42;3 635;KDU
+36;Vıchodoèeskı;6;Krejèí Josef;60;1 802;KDU
+36;Vıchodoèeskı;7;Hylmar Petr;32;2 880;KDU
+36;Vıchodoèeskı;8;Línek Radislav;58;1 354;KDU
+36;Vıchodoèeskı;9;Jílek Ladislav;50;1 829;KDU
+36;Vıchodoèeskı;10;Èiinskı Pavel;55;1 232;KDU
+36;Vıchodoèeskı;11;Benešová Irena;42;2 998;KDU
+36;Vıchodoèeskı;12;Zajíèková Jana;46;5 348;KDU
+36;Vıchodoèeskı;13;Macourek Vladimír;56;649;KDU
+36;Vıchodoèeskı;14;Dudek Václav;47;1 555;KDU
+36;Vıchodoèeskı;15;Vojáèek Jan;36;1 527;KDU
+36;Vıchodoèeskı;16;Ducháè Jan;43;669;KDU
+36;Vıchodoèeskı;17;Bro Petr;26;1 402;KDU
+36;Vıchodoèeskı;18;Novák Eduard;55;640;KDU
+36;Vıchodoèeskı;19;Kábrt Jiøí;47;1 482;KDU
+36;Vıchodoèeskı;20;Bartoš František;37;3 770;KDU
+36;Vıchodoèeskı;21;Juza Jan;52;1 302;KDU
+36;Vıchodoèeskı;22;Jirásko Jaroslav;56;1 594;KDU
+36;Vıchodoèeskı;23;Èada Bohumil;50;1 611;KDU
+36;Vıchodoèeskı;24;Talácko Zdenìk;25;1 653;KDU
+36;Vıchodoèeskı;25;Hladkı Josef;49;2 027;KDU
+36;Vıchodoèeskı;26;Filip Zdenìk;48;646;KDU
+36;Vıchodoèeskı;27;Šlechta Miroslav;33;354;KDU
+36;Vıchodoèeskı;28;Erbrtová Helena;49;283;KDU
+36;Vıchodoèeskı;29;Mišoò Petr;45;658;KDU
+36;Vıchodoèeskı;30;Faistauer Petr;29;852;KDU
+36;Vıchodoèeskı;31;Fábera Tomáš;46;577;KDU
+36;Vıchodoèeskı;32;Šír Bohuslav;50;433;KDU
+36;Vıchodoèeskı;33;Sucharda Pavel;42;319;KDU
+36;Vıchodoèeskı;34;Rovner Antonín;59;367;KDU
+36;Vıchodoèeskı;35;Novotná Zdeòka;57;267;KDU
+36;Vıchodoèeskı;36;Novotná Vìra;55;338;KDU
+37;Jihomoravskı;1;Zahradníèek Jan;41;9 251;KDU
+37;Jihomoravskı;2;Bìlehrádek Stanislav;46;7 746;KDU
+37;Jihomoravskı;3;Karas Jiøí;47;15 331;KDU
+37;Jihomoravskı;4;Tollner Pavel;41;3 482;KDU
+37;Jihomoravskı;5;Kasal Jan;38;6 220;KDU
+37;Jihomoravskı;6;Smìlík Zdenìk;54;2 313;KDU
+37;Jihomoravskı;7;Košíèková Svìtluše;38;6 432;KDU
+37;Jihomoravskı;8;Zemek František;58;4 031;KDU
+37;Jihomoravskı;10;Marek Jiøí;21;5 077;KDU
+37;Jihomoravskı;11;Sedlák Jan;56;4 296;KDU
+37;Jihomoravskı;12;Kaòa Josef;47;7 647;KDU
+37;Jihomoravskı;13;Filip Aleš;25;5 004;KDU
+37;Jihomoravskı;14;Zapomìl Oldøich;49;1 679;KDU
+37;Jihomoravskı;15;Mareš Lubomír;56;1 918;KDU
+37;Jihomoravskı;16;Kubíèek Ottokar;46;7 168;KDU
+37;Jihomoravskı;17;Javora Pavel;24;2 200;KDU
+37;Jihomoravskı;18;Havlík Lubomír;65;2 766;KDU
+37;Jihomoravskı;19;Petráš Karel;46;2 574;KDU
+37;Jihomoravskı;20;Honè Ivan;43;2 115;KDU
+37;Jihomoravskı;22;Škopík Jan;44;4 683;KDU
+37;Jihomoravskı;23;Mifka František;55;1 889;KDU
+37;Jihomoravskı;24;Benda Jan;56;4 828;KDU
+37;Jihomoravskı;25;Szufnarowski Pavel;38;1 155;KDU
+37;Jihomoravskı;26;Lednickı Václav;47;1 771;KDU
+37;Jihomoravskı;27;Støí František;59;1 489;KDU
+37;Jihomoravskı;28;Novák Stanislav;32;1 728;KDU
+37;Jihomoravskı;29;Košál Svatopluk;64;422;KDU
+37;Jihomoravskı;30;Suchı Karel;48;1 340;KDU
+37;Jihomoravskı;31;Palcr Jiøí;44;798;KDU
+37;Jihomoravskı;32;Køehlík Karel;34;701;KDU
+37;Jihomoravskı;33;Šedivı František;48;887;KDU
+37;Jihomoravskı;34;Máca František;47;1 293;KDU
+37;Jihomoravskı;35;Slavotínek Ivo;41;1 990;KDU
+37;Jihomoravskı;36;Sovadník Ferdinand;57;752;KDU
+37;Jihomoravskı;37;Fiala Jan;45;1 221;KDU
+37;Jihomoravskı;38;Brauner Jiøí;53;739;KDU
+37;Jihomoravskı;39;Havíø František;33;1 139;KDU
+37;Jihomoravskı;40;Mikel Jindøich;52;831;KDU
+37;Jihomoravskı;41;Buèková Marie;52;1 232;KDU
+37;Jihomoravskı;42;Borák Josef;32;1 622;KDU
+37;Jihomoravskı;43;Balabánová Magdalena;43;1 080;KDU
+37;Jihomoravskı;44;Šíma Jiøí;43;1 336;KDU
+37;Jihomoravskı;45;Franc Petr;40;734;KDU
+37;Jihomoravskı;46;Janata Pavel;29;1 713;KDU
+37;Jihomoravskı;47;Høib Libor;25;922;KDU
+37;Jihomoravskı;48;Šponar Ladislav;40;473;KDU
+37;Jihomoravskı;49;Buzzi Mario;43;555;KDU
+37;Jihomoravskı;50;Bleša Jan;41;972;KDU
+37;Jihomoravskı;51;Štefka Jan;45;522;KDU
+37;Jihomoravskı;52;Houš František;39;822;KDU
+37;Jihomoravskı;53;Hlaváèková Marie;31;1 499;KDU
+37;Jihomoravskı;54;Blaek Jan;43;2 196;KDU
+37;Jihomoravskı;55;Petratur Josef;43;855;KDU
+37;Jihomoravskı;56;Štaudová Eliška;38;1 755;KDU
+37;Jihomoravskı;57;Kubíèek Jan;56;587;KDU
+37;Jihomoravskı;58;Kubát Miloslav;56;819;KDU
+38;Severomoravskı;1;Procházka Antonín;63;7 732;KDU
+38;Severomoravskı;2;Pavela Josef;57;5 161;KDU
+38;Severomoravskı;3;Kubiš Josef;47;3 461;KDU
+38;Severomoravskı;4;Marek Antonín;46;4 393;KDU
+38;Severomoravskı;5;Krumniklová Ladislava;61;4 540;KDU
+38;Severomoravskı;6;Švejnoha Václav;54;2 660;KDU
+38;Severomoravskı;7;Podgrabinski Miloš;35;2 605;KDU
+38;Severomoravskı;8;Krystyník Pavel;50;3 703;KDU
+38;Severomoravskı;9;Potìšil Vladimír;58;4 681;KDU
+38;Severomoravskı;10;Bujnoch Petr;44;1 967;KDU
+38;Severomoravskı;11;Kalman Josef;49;1 783;KDU
+38;Severomoravskı;12;Vašina Bohumil;56;2 924;KDU
+38;Severomoravskı;13;Tomášek Ladislav;43;2 174;KDU
+38;Severomoravskı;14;Breník Jan;45;1 233;KDU
+38;Severomoravskı;15;Duda Rudolf;34;2 081;KDU
+38;Severomoravskı;16;Ševèík František;55;1 646;KDU
+38;Severomoravskı;17;Zimola Ivan;26;4 834;KDU
+38;Severomoravskı;18;Èuport Ondøej;42;896;KDU
+38;Severomoravskı;19;Carbol Marián;36;2 394;KDU
+38;Severomoravskı;20;Cibulec Ludvík;42;1 729;KDU
+38;Severomoravskı;21;Drábek Ivan;44;7 417;KDU
+38;Severomoravskı;22;Stuchlı Jiøí;41;1 282;KDU
+38;Severomoravskı;23;Šiška Otakar;41;2 112;KDU
+38;Severomoravskı;24;Vráelová Bohumila;53;1 718;KDU
+38;Severomoravskı;25;Bazala Josef;56;4 890;KDU
+38;Severomoravskı;26;Koneènı Bohuslav;41;552;KDU
+38;Severomoravskı;27;Jílek Adolf;41;2 113;KDU
+38;Severomoravskı;28;Menšík Jaroslav;56;1 688;KDU
+38;Severomoravskı;29;Bezpalec Jaroslav;55;498;KDU
+38;Severomoravskı;30;Miketa Jiøí;28;3 098;KDU
+38;Severomoravskı;31;Štìpanèík Stanislav;28;2 511;KDU
+38;Severomoravskı;33;Mièková Silvia;44;481;KDU
+38;Severomoravskı;35;Vitoslavskı Jaroslav;52;284;KDU
+38;Severomoravskı;36;Tomiczek Ervin;39;1 412;KDU
+38;Severomoravskı;37;Worm Otto;31;741;KDU
+38;Severomoravskı;39;Michut Jiøí;26;1 038;KDU
+38;Severomoravskı;40;Lakomı Zdenìk;27;541;KDU
+38;Severomoravskı;41;Hubálovskı Vladimír;44;419;KDU
+38;Severomoravskı;42;Køupka Václav;61;874;KDU
+38;Severomoravskı;43;Házová Zdislava;41;347;KDU
+38;Severomoravskı;44;Obrusník Jiøí;41;849;KDU
+38;Severomoravskı;45;Klabaèka Josef;50;259;KDU
+38;Severomoravskı;46;Klímek Josef;39;932;KDU

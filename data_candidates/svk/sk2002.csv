@@ -1,0 +1,2620 @@
+nomPartyNumber;nomParty;orderList;name1;name2;acadTitle;age;occupation;residency;membParty;name
+1;SZS;1;Pavol;Petrík;Ing.;47;lesnı ininier;Povaská Bystrica;SZS;Pavol Petrík
+1;SZS;2;Ladislav;Ambróš;RNDr.;46;biológ;Ve¾kı Krtíš;SZS;Ladislav Ambróš
+1;SZS;3;Miloš;Macho;Ing.;42;po¾noh. manaér;Nitra;SZS;Miloš Macho
+1;SZS;4;Milan;Branickı;RNDr. CSc.;61;vysokošk. pedagóg;ilina;SZS;Milan Branickı
+1;SZS;5;Pavol;Kormuth;;38;manaér;Bratislava;SZS;Pavol Kormuth
+1;SZS;6;Jozef;Pokornı;MVDr.;47;veterinárny lekár;Košice;SZS;Jozef Pokornı
+1;SZS;7;Jozef;Ceperko;;45;podnikate¾;Dubovica;SZS;Jozef Ceperko
+1;SZS;8;Eva;Kováèová;Ing.;32;manaérka;Piešany;SZS;Eva Kováèová
+1;SZS;9;Slávka;Martinková;Mgr.;27;uèite¾ka;Povaská Bystrica;SZS;Slávka Martinková
+1;SZS;10;Danka;Gašparová;Ing.;35;kult. pracovníèka;Ilava;SZS;Danka Gašparová
+1;SZS;11;Eduard;Bezaòuk;Ing.;49;technik - ekonóm;Banská Bystrica;SZS;Eduard Bezaòuk
+1;SZS;12;Dušan;Hruška;Ing.;42;podnikate¾;Bratislava;SZS;Dušan Hruška
+1;SZS;13;Milan;Lichı;Ing.;41;lesnı ininier;Banská Bystrica;SZS;Milan Lichı
+1;SZS;14;Martin;Èulen;MUDr.;52;lekár;Senica;SZS;Martin Èulen
+1;SZS;15;¼ubica;Krištofová;RNDr.;42;kult. pracovníèka;Senica;SZS;¼ubica Krištofová
+1;SZS;16;Peter;Nováèik;Ing.;43;environmentalista;Nové Mesto nad Váhom;SZS;Peter Nováèik
+1;SZS;17;Ján;Zelenay;;56;robotník;Ivanka pri Nitre;SZS;Ján Zelenay
+1;SZS;18;Karol;Kaèala;;35;manaér;Košice;SZS;Karol Kaèala
+1;SZS;19;Peter;Juriš;Dr.;46;vedeckı pracovník;Košice;SZS;Peter Juriš
+1;SZS;20;Pavol;Deutsch;Ing.;53;ivnostník;Nové Zámky;SZS;Pavol Deutsch
+1;SZS;21;František;Pavel;MUDr.;57;lekár;Prešov;SZS;František Pavel
+1;SZS;22;Daniel;Lukáè;MUDr.;42;lekár;Lipany;SZS;Daniel Lukáè
+1;SZS;23;Milan;Palèisko;;36;eleznièiar;Kysucké Nové Mesto;SZS;Milan Palèisko
+1;SZS;24;Alojz;Sobol;;43;agronóm;Stará Bystrica;SZS;Alojz Sobol
+1;SZS;25;Miroslav;Gálik;PaedDr.;40;pedagóg;Zvolen;SZS;Miroslav Gálik
+1;SZS;26;Igor;Novohradskı;Mgr.;48;podnikate¾;Povaská Bystrica;SZS;Igor Novohradskı
+1;SZS;27;Dobroslav;Kosorínsky;MVDr.;45;veterin. lekár;Martin;SZS;Dobroslav Kosorínsky
+1;SZS;28;Zuzana;Vajdíková;Ing.;53;environmentalistka;Nitra;SZS;Zuzana Vajdíková
+1;SZS;29;Eduard;Lupták;Ing.;37;lesnı ininier;Košice;SZS;Eduard Lupták
+1;SZS;30;Tivadar;Tuhársky;MUDr.;49;lekár;Banská Bystrica;SZS;Tivadar Tuhársky
+1;SZS;31;Milan;Gergely;Ing.;49;ekonóm;Dubnica nad Váhom;SZS;Milan Gergely
+1;SZS;32;Jana;Mandová;;23;zdrav. sestra;ilina;BEZPP;Jana Mandová
+1;SZS;33;Peter;Mladı;Ing.;48;primátor mesta;Sabinov;SZS;Peter Mladı
+1;SZS;34;Milan;Kyse¾;Ing.;37;starosta obce;Santovka;SZS;Milan Kyse¾
+1;SZS;35;Peter;Ušiak;Mgr.;35;archeológ;Banská Bystrica;SZS;Peter Ušiak
+1;SZS;36;Eva;Boèincová;Bc.;42;vychovávate¾;Dubnica nad Váhom;SZS;Eva Boèincová
+1;SZS;37;Boena;Jacko-Lysáková;Ing.;41;starostka;Brezovica;SZS;Boena Jacko-Lysáková
+1;SZS;38;ofia;Kruièová;;48;ekonómka;Košice;SZS;ofia Kruièová
+1;SZS;39;Pavel;Roba;;56;hasiè;Dubovica;SZS;Pavel Roba
+1;SZS;40;Ivan;Cehelskı;;62;dôchodca;Povaská Bystrica;SZS;Ivan Cehelskı
+1;SZS;41;Lenka;Valentová;;23;operátor PC;Dobrá Niva;SZS;Lenka Valentová
+1;SZS;42;Daniela;Kramáriková;RNDr.;42;zást. riadite¾a SOU;ilina;BEZPP;Daniela Kramáriková
+1;SZS;43;Imrich;Sipina;;56;podnikate¾;Ivanka pri Nitre;SZS;Imrich Sipina
+1;SZS;44;Katarína;Jurská;Pharm. Dr.;39;lekárnik;Niné Repaše;SZS;Katarína Jurská
+1;SZS;45;Lenka;Hlaváèová;RNDr.;24;študentka;Partizánske;SZS;Lenka Hlaváèová
+1;SZS;46;Pavel;Kukuèka;;23;študent TU Zvolen;Zvolen;SZS;Pavel Kukuèka
+1;SZS;47;Dana;Kašparová;Ing.;40;environmentalistka;Nové Mesto nad Váhom;BEZPP;Dana Kašparová
+1;SZS;48;Ján;Komada;;39;ivnostník;Ve¾ké Rovné;BEZPP;Ján Komada
+1;SZS;49;Daniel;Lesòák;;39;manaér;Prešov;SZS;Daniel Lesòák
+1;SZS;50;Jaroslav;Ivan;Ing.;33;podnikate¾;Luèenec;SZS;Jaroslav Ivan
+1;SZS;51;Jozef;Šmrhola;;53;vedúci servisu;Santovka;BEZPP;Jozef Šmrhola
+1;SZS;52;František;Horvát;;53;ivnostník;ilina;BEZPP;František Horvát
+1;SZS;53;Jozef;Špánik;;58;podnikate¾;Ivanka pri Nitre;SZS;Jozef Špánik
+1;SZS;54;Milan;Soldán;;58;vychovávate¾;Betliar;SZS;Milan Soldán
+1;SZS;55;Pavol;Hanušovskı;Ing.;42;starosta obce;Poloma;SZS;Pavol Hanušovskı
+1;SZS;56;Marián;Èimár;;50;projektant;Banská Bystrica;SZS;Marián Èimár
+1;SZS;57;Alexander;Hutòan;Mgr.;40;uèite¾;Prešov;SZS;Alexander Hutòan
+1;SZS;58;František;Špírek;;57;dôchodca;Ivanka pri Nitre;SZS;František Špírek
+1;SZS;59;Drahomíra;Hladká;Ing.;36;pedagóg;Banská Bystrica;SZS;Drahomíra Hladká
+1;SZS;60;Arpád;Koszta;;47;robotník;Handlová;SZS;Arpád Koszta
+1;SZS;61;Jaroslava;Nagyová;;39;úètovník;Nitra;SZS;Jaroslava Nagyová
+1;SZS;62;Anna;Krafèíková;Ing.;26;ekonómka;Jakubany;SZS;Anna Krafèíková
+1;SZS;63;Ján;F¾ak;Ing. PhD.;38;THP;Povaská Bystrica;SZS;Ján F¾ak
+1;SZS;64;Ivan;Ïurík;;48;inv. dôchodca;Nitra;SZS;Ivan Ïurík
+1;SZS;65;Vladimír;Balá;Ing.;45;uèite¾;Prešov;SZS;Vladimír Balá
+1;SZS;66;Tibor;Kramár;Bc.;39;tech. pracovník;Nová Dubnica;SZS;Tibor Kramár
+1;SZS;67;Marta;Horníková;;32;asist. riadite¾a;Ivanka pri Nitre;SZS;Marta Horníková
+1;SZS;68;Linda;Novohradská;;21;študentka;Povaská Bystrica;SZS;Linda Novohradská
+1;SZS;69;Andrea;Lukáèiová;Mgr.;27;uèite¾ka ZŠ SŠ;Vrádište;SZS;Andrea Lukáèiová
+1;SZS;70;Ján;Fendek;Ing.;44;obch. manaér;Tisovec;SZS;Ján Fendek
+1;SZS;71;Rastislav;Ševèík;Mgr.;29;informatik;Senica;SZS;Rastislav Ševèík
+1;SZS;72;Alena;Pienèíková;;21;admin. pracovníèka;Senica;SZS;Alena Pienèíková
+1;SZS;73;Dana;Vaculová;;30;prac. kontrolingu;Senica;SZS;Dana Vaculová
+1;SZS;74;Tomáš;Jurovatı;;27;informatik;Senica;SZS;Tomáš Jurovatı
+1;SZS;75;Július;Kniesner;;45;technik;Ve¾kı Krtíš;SZS;Július Kniesner
+1;SZS;76;Ján;Masliš;;55;starosta obce;Ninı Slavkov;SZS;Ján Masliš
+1;SZS;77;Dušan;Lazor;;47;podnikate¾;Prešov;SZS;Dušan Lazor
+1;SZS;78;Ivan;Slámka;;39;tech. pracovník;Ilava;SZS;Ivan Slámka
+1;SZS;79;Július;Bognár;MUDr.;64;rehabil. lekár;Nové Mesto nad Váhom;SZS;Július Bognár
+1;SZS;80;Juraj;Gavula;;62;lesník;Sobrance;SZS;Juraj Gavula
+1;SZS;81;Jozef;Horkavı;;52;technik;Svidník;SZS;Jozef Horkavı
+2;SDKÚ;1;Mikuláš;Dzurinda;Ing. CSc.;47;dopravnı ininier;Bratislava;SDKÚ;Mikuláš Dzurinda
+2;SDKÚ;2;Eduard;Kukan;JUDr.;62;diplomat;Bratislava;SDKÚ;Eduard Kukan
+2;SDKÚ;3;Ivan;Mikloš;Ing.;42;ekonóm;Bratislava;SDKÚ;Ivan Mikloš
+2;SDKÚ;4;Ivan;Šimko;JUDr. Ing.;47;právnik;Bratislava;SDKÚ;Ivan Šimko
+2;SDKÚ;5;Zuzana;Martináková;;41;novinárka;Bratislava;SDKÚ;Zuzana Martináková
+2;SDKÚ;6;Jozef;Mikuš;Ing.;42;technik;Zvolen;SDKÚ;Jozef Mikuš
+2;SDKÚ;7;Milan;Ga¾a;MUDr.;49;stomatológ;Lipany;SDKÚ;Milan Ga¾a
+2;SDKÚ;8;Milan;Hort;Ing.;49;ekonóm;Nová Dubnica;SDKÚ;Milan Hort
+2;SDKÚ;9;Roman;Vavrík;Ing.;43;strojnı ininier;Bratislava;SDKÚ;Roman Vavrík
+2;SDKÚ;10;Ferdinand;Devínsky;Dr. h. c. prof. Ing. DrSc.;54;vysokoškolskı uèite¾;Bratislava;BEZPP;Ferdinand Devínsky
+2;SDKÚ;11;Tomáš;Galbavı;;44;podnikate¾;Nitra;SDKÚ;Tomáš Galbavı
+2;SDKÚ;12;Peter;Miššík;JUDr.;44;právnik;Nitra;SDKÚ;Peter Miššík
+2;SDKÚ;13;Juraj;Liška;Ing.;37;strojnı ininier;Trenèín;SDKÚ;Juraj Liška
+2;SDKÚ;14;Pavol;Prokopoviè;Ing.;47;ekonóm;Stropkov;SDKÚ;Pavol Prokopoviè
+2;SDKÚ;15;Peter;Bódy;Mgr.;47;manager;Bratislava;BEZPP;Peter Bódy
+2;SDKÚ;16;Ján;Rusnák;Ing.;46;ekonóm;Michalovce;SDKÚ;Ján Rusnák
+2;SDKÚ;17;Karol;Mitrík;Ing.;55;po¾nohosp. ininier;Spišská Nová Ves;SDKÚ;Karol Mitrík
+2;SDKÚ;18;Pavol;Kuboviè;Ing.;42;stavebnı ininier;Bratislava;SDKÚ;Pavol Kuboviè
+2;SDKÚ;19;Zuzana;Plháková;Mgr.;26;právnièka;Nové Zámky;SDKÚ;Zuzana Plháková
+2;SDKÚ;20;¼ubica;Navrátilová;Prom. mat.;56;informatik;Bratislava;SDKÚ;¼ubica Navrátilová
+2;SDKÚ;21;Zoltán;Horváth;;33;štátny zamestnanec;Galanta;SDKÚ;Zoltán Horváth
+2;SDKÚ;22;Libuša;Martinèeková;;41;hlavnı manager;Suèany;SDKÚ;Libuša Martinèeková
+2;SDKÚ;23;Jarmila;Tkáèová;Ing.;41;fytolekár;Košice;SDKÚ;Jarmila Tkáèová
+2;SDKÚ;24;Alexej;Ivanko;JUDr.;53;právnik;Michalovce;SDKÚ;Alexej Ivanko
+2;SDKÚ;25;Stanislav;Janiš;Ing.;43;stavebnı ininier;Martin;SDKÚ;Stanislav Janiš
+2;SDKÚ;26;Stanislav;Škoda;Mgr.;60;odbornı uèite¾;Partizánske;SDKÚ;Stanislav Škoda
+2;SDKÚ;27;Tibor;Tóth;Ing.;44;elektroininier;Vráble;SDKÚ;Tibor Tóth
+2;SDKÚ;28;Eva;Rusnáková;;44;pedagóg;Luèenec;SDKÚ;Eva Rusnáková
+2;SDKÚ;29;Peter;Ošváth;Ing.;49;leteckı ininier;Piešany;SDKÚ;Peter Ošváth
+2;SDKÚ;30;Jozef;Hurban;Ing.;46;finanènı riadite¾;Poprad;SDKÚ;Jozef Hurban
+2;SDKÚ;31;Petra;Masácová;Mgr.;28;tlmoèníèka prekladate¾ka;Bratislava;SDKÚ;Petra Masácová
+2;SDKÚ;32;Miroslav;Matúška;;36;súkromnı podnikate¾;Dolná Strehová;SDKÚ;Miroslav Matúška
+2;SDKÚ;33;Vladimír;Horák;Ing.;46;strojnı ininier;Holíè;SDKÚ;Vladimír Horák
+2;SDKÚ;34;Viliam;Novotnı;MUDr.;29;lekár;Košice;SDKÚ;Viliam Novotnı
+2;SDKÚ;35;Rudolf;Kulman;Ing.;43;štátny zamestnanec;Turany;SDKÚ;Rudolf Kulman
+2;SDKÚ;36;Ján;Odzgan;Ing.;59;ekonóm;Bratislava;SDKÚ;Ján Odzgan
+2;SDKÚ;37;Eva;Hlaváèová;JUDr.;53;advokátka;Nitra;SDKÚ;Eva Hlaváèová
+2;SDKÚ;38;Štefan;Škultéty;PhDr.;27;manaér;Trenèianske Teplice;SDKÚ;Štefan Škultéty
+2;SDKÚ;39;Ján;Pataky;JUDr.;47;komerènı právnik;Hertník;SDKÚ;Ján Pataky
+2;SDKÚ;40;Michal;Harvánek;Ing.;28;ekonóm;Púchov;SDKÚ;Michal Harvánek
+2;SDKÚ;41;Peter;Prokopoviè;MUDr.;47;lekár;Bardejov;SDKÚ;Peter Prokopoviè
+2;SDKÚ;42;Terézia;Lengyelová;;52;zdravotná sestra;Košice;SDKÚ;Terézia Lengyelová
+2;SDKÚ;43;¼udovít;Dauèo;Ing.;53;stavebnı ininier;Trnava;SDKÚ;¼udovít Dauèo
+2;SDKÚ;44;Peter;Jerge;Ing.;54;informatik;Prešov;SDKÚ;Peter Jerge
+2;SDKÚ;45;Karol;Schlifka;Ing.;49;ekonóm;Košice;SDKÚ;Karol Schlifka
+2;SDKÚ;46;¼uboš;Pastor;Ing.;32;fytotechnik;Košice;SDKÚ;¼uboš Pastor
+2;SDKÚ;47;Martin;Kuruc;Ing.;28;stavebnı ininier;Bratislava;SDKÚ;Martin Kuruc
+2;SDKÚ;48;Martin;Baník;Ing.;47;štátny zamestnanec;Banská Bystrica;SDKÚ;Martin Baník
+2;SDKÚ;49;Ferdinand;Vítek;Mgr.;42;pedagóg;Nitra;SDKÚ;Ferdinand Vítek
+2;SDKÚ;50;Gabriela;Markovièová;PhDr.;43;psychologièka;Prešov;SDKÚ;Gabriela Markovièová
+2;SDKÚ;51;Zita;Pleštinská;Ing. arch.;41;architekt;Chme¾nica;SDKÚ;Zita Pleštinská
+2;SDKÚ;52;Karol;Géè;MUDr.;36;lekár;Haliè;SDKÚ;Karol Géè
+2;SDKÚ;53;Milan;Vaškor;;51;pedagóg;Plaveckı Štvrtok;SDKÚ;Milan Vaškor
+2;SDKÚ;54;Ján;Hurnı;RNDr. CSc.;56;geológ;Smiany;SDKÚ;Ján Hurnı
+2;SDKÚ;55;Anton;Straka;Mgr.;60;uèite¾;Krásno nad Kysucou;SDKÚ;Anton Straka
+2;SDKÚ;56;Jaroslav;Ivanèo;Mgr.;31;uèite¾;Svidník;SDKÚ;Jaroslav Ivanèo
+2;SDKÚ;57;Rudolf;Ragas;Ing.;47;ekonóm;Zlaté Moravce;SDKÚ;Rudolf Ragas
+2;SDKÚ;58;Eva;Bombová;PhDr.;60;novinárka;Košice;SDKÚ;Eva Bombová
+2;SDKÚ;59;Oto;Nevickı;RNDr.;39;ekológ - prírodovedec;Bratislava;SDKÚ;Oto Nevickı
+2;SDKÚ;60;Klára;Malejèíková;Mgr.;53;pedagóg;Nitra;SDKÚ;Klára Malejèíková
+2;SDKÚ;61;Martin;Pado;Ing.;43;technik;Michalovce;SDKÚ;Martin Pado
+2;SDKÚ;62;Tibor;Maaš;RNDr.;38;uèite¾;Torna¾a;SDKÚ;Tibor Maaš
+2;SDKÚ;63;Jozef;Molnár;;44;energetik;Šamorín;SDKÚ;Jozef Molnár
+2;SDKÚ;64;Mária;Porubèinová;;47;komerènı právnik;Domania;SDKÚ;Mária Porubèinová
+2;SDKÚ;65;Slávka;Súlovská;;29;ekonóm;Pai;SDKÚ;Slávka Súlovská
+2;SDKÚ;66;Jozef;Topo¾skı;Mgr.;51;manaér;Prievidza;SDKÚ;Jozef Topo¾skı
+2;SDKÚ;67;Ondrej;Divinskı;Ing.;48;štátny úradník;Púchov;SDKÚ;Ondrej Divinskı
+2;SDKÚ;68;Michal;Bucek;MUDr.;47;lekár;Banská Bystrica;SDKÚ;Michal Bucek
+2;SDKÚ;69;Jana;Lanèarièová;;39;personálna riadite¾ka;Ilava;SDKÚ;Jana Lanèarièová
+2;SDKÚ;70;Anna;Almašiová;Ing.;44;ekonóm;Svidník;SDKÚ;Anna Almašiová
+2;SDKÚ;71;Eduard;Filo;Dr.;65;pedagóg;Bratislava;SDKÚ;Eduard Filo
+2;SDKÚ;72;Viera;Èeplíková;RNDr.;47;mikrobiológ;Bratislava;SDKÚ;Viera Èeplíková
+2;SDKÚ;73;Mária;Gašparíková;Mgr.;44;právnik;Piešany;SDKÚ;Mária Gašparíková
+2;SDKÚ;74;Peter;Ottinger;MUDr.;49;odb. lekár - ortopéd;Piešany;SDKÚ;Peter Ottinger
+2;SDKÚ;75;Milan;Gore;;47;štátny zamestnanec;Slovenské Nové Mesto;SDKÚ;Milan Gore
+2;SDKÚ;76;Allan;Sághy;;36;podnikate¾;Levice;SDKÚ;Allan Sághy
+2;SDKÚ;77;Ladislav;Lumtzer;Ing.;42;elektroininier;Košice;SDKÚ;Ladislav Lumtzer
+2;SDKÚ;78;Peter;Pavlík;JUDr.;43;právnik;Rimavská Sobota;SDKÚ;Peter Pavlík
+2;SDKÚ;79;Ondrej;Hrivòák;;26;analytik;Snina;SDKÚ;Ondrej Hrivòák
+2;SDKÚ;80;Štefan;Kišš;Ing. arch.;47;technik;Kemarok;SDKÚ;Štefan Kišš
+2;SDKÚ;81;Ján;Ondriaš;;23;študent;Machulince;SDKÚ;Ján Ondriaš
+2;SDKÚ;82;Andrej;Mede;Mgr.;30;pedagóg;Bratislava;SDKÚ;Andrej Mede
+2;SDKÚ;83;František;Bobeniè;Ing.;35;informatik;ilina;SDKÚ;František Bobeniè
+2;SDKÚ;84;Alena;Krištofièová;Ing.;46;ekonóm;Bratislava;SDKÚ;Alena Krištofièová
+2;SDKÚ;85;Yveta;Erdélyiová;Ing.;40;informatik;Bratislava;SDKÚ;Yveta Erdélyiová
+2;SDKÚ;86;Eugen;Èuòo;JUDr.;49;právnik;Košice;SDKÚ;Eugen Èuòo
+2;SDKÚ;87;Miroslav;Glonek;Ing.;43;po¾nohosp. ininier;Martin;SDKÚ;Miroslav Glonek
+2;SDKÚ;88;Zoltán;Sarkány;;21;študent;Trstice;SDKÚ;Zoltán Sarkány
+2;SDKÚ;89;Anton;Kretter;doc. Ing. PhD.;58;vysokoškolskı pedagóg;Nitra;SDKÚ;Anton Kretter
+2;SDKÚ;90;Silvia;Šafárová;JUDr.;28;právnièka;Košice;SDKÚ;Silvia Šafárová
+2;SDKÚ;91;Vladislav;Oravec;Ing.;42;strojnı ininier;Bojnice;SDKÚ;Vladislav Oravec
+2;SDKÚ;92;Ján;Danek;doc. PaedDr. CSc.;50;vysokoškolskı uèite¾;Bratislava;SDKÚ;Ján Danek
+2;SDKÚ;93;Viera;Gajdošová;;42;pedagóg;Nitra;SDKÚ;Viera Gajdošová
+2;SDKÚ;94;Janka;Tomašovièová;Mgr.;52;uèite¾ka;Dunajská Streda;SDKÚ;Janka Tomašovièová
+2;SDKÚ;95;Milica;Cocu¾ová;;45;starostka;Vyšnı Mirošov;SDKÚ;Milica Cocu¾ová
+2;SDKÚ;96;Milan;Kraus;MUDr.;48;gynekológ;Námestovo;SDKÚ;Milan Kraus
+2;SDKÚ;97;Ladislav;Bulák;Ing.;47;súkromnı podnikate¾;Brezno;SDKÚ;Ladislav Bulák
+2;SDKÚ;98;Ladislav;Pecho;RNDr. CSc.;45;manaér;Prievidza;SDKÚ;Ladislav Pecho
+2;SDKÚ;99;Ján;Horvát;Ing.;46;dopravnı ininier;Kysucké Nové Mesto;SDKÚ;Ján Horvát
+2;SDKÚ;100;Jana;Ragasová;;23;študentka;Zlaté Moravce;SDKÚ;Jana Ragasová
+2;SDKÚ;101;Erik;Štefák;Mgr.;27;právnik;Turèianske Teplice;SDKÚ;Erik Štefák
+2;SDKÚ;102;Ján;Antolik;MUDr.;50;lekár;Levice;SDKÚ;Ján Antolik
+2;SDKÚ;103;Anton;Boc;Ing.;39;dopravnı ininier;Trenèín;SDKÚ;Anton Boc
+2;SDKÚ;104;Ján;Koiak;MVDr.;52;veterinárny lekár;Poltár;SDKÚ;Ján Koiak
+2;SDKÚ;105;Michal;Ambroviè;Mgr.;26;právnik;Bratislava;SDKÚ;Michal Ambroviè
+2;SDKÚ;106;Jozef;Kováè;Ing.;45;lesnı ininier;Margecany;SDKÚ;Jozef Kováè
+2;SDKÚ;107;Albert;Bystrièan;Ing.;49;stavebnı ininier;Bratislava;SDKÚ;Albert Bystrièan
+2;SDKÚ;108;Andrea;Gulyásová;;34;uèite¾ka MŠ;Hurbanovo;SDKÚ;Andrea Gulyásová
+2;SDKÚ;109;Peter;Marosz;Ing.;28;ininier chémie;ilina;SDKÚ;Peter Marosz
+2;SDKÚ;110;¼ubica;Holešová;Ing.;43;ekonóm;Bratislava;SDKÚ;¼ubica Holešová
+2;SDKÚ;111;Vladimír;Minx;Ing.;41;technik;Senica;SDKÚ;Vladimír Minx
+2;SDKÚ;112;Andrej;Huorka;JUDr.;50;bankovı právnik;Bratislava;SDKÚ;Andrej Huorka
+2;SDKÚ;113;Richard;Dospel;;34;elektrotechnik;Vrútky;SDKÚ;Richard Dospel
+2;SDKÚ;114;Anton;Ïarfáš;;48;robotník;Hlohovec;SDKÚ;Anton Ïarfáš
+2;SDKÚ;115;Ján;Šušaník;Ing.;50;odbornı inšpektor;Nová Dubnica;SDKÚ;Ján Šušaník
+2;SDKÚ;116;Jozef;Chynoranskı;Ing.;39;technickı manaér;Pezinok;SDKÚ;Jozef Chynoranskı
+2;SDKÚ;117;Ladislav;Bošiak;Ing.;38;inšpektor fyzickej ochrany;Levice;SDKÚ;Ladislav Bošiak
+2;SDKÚ;118;Michal;Maliarik;;53;technik;Myjava;SDKÚ;Michal Maliarik
+2;SDKÚ;119;Miroslav;Kuèík;Ing.;51;konštruktér - projektant;Dubnica nad Váhom;SDKÚ;Miroslav Kuèík
+2;SDKÚ;120;Miroslav;Klaèko;Ing.;43;ekonóm;Nitra;SDKÚ;Miroslav Klaèko
+2;SDKÚ;121;Peter;Šulej;MUDr.;49;lekár;Dolnı Kubín;SDKÚ;Peter Šulej
+2;SDKÚ;122;Anna;Draxlerová;Mgr.;52;stredoškolská uèite¾ka;Èaòa;SDKÚ;Anna Draxlerová
+2;SDKÚ;123;Vladimír;Stano;RNDr.;51;odbornı pracovník;Košice;SDKÚ;Vladimír Stano
+2;SDKÚ;124;Jaroslav;Kubinskı;Mgr.;45;mgr. bezpeèn. sluieb;Banská Belá;SDKÚ;Jaroslav Kubinskı
+2;SDKÚ;125;Marián;Dunka;;43;sociálny pracovník;Kolinovce;SDKÚ;Marián Dunka
+2;SDKÚ;126;Mária;Letková;MUDr.;53;lekárka;Nitra;SDKÚ;Mária Letková
+2;SDKÚ;127;Ján;Hruška;Ing.;46;riadite¾;Kysucké Nové Mesto;SDKÚ;Ján Hruška
+2;SDKÚ;128;Rastislav;Mikuláš;;48;technik;Liptovskı Trnovec;SDKÚ;Rastislav Mikuláš
+2;SDKÚ;129;Dušan;Kisuckı;Ing.;33;informatik;Košice;SDKÚ;Dušan Kisuckı
+2;SDKÚ;130;Tibor;Mintál;Ing.;55;stavebnı ininier;Teplièka nad Váhom;SDKÚ;Tibor Mintál
+2;SDKÚ;131;Marián;Rakovskı;Mgr.;28;štátny úradník;Ša¾a;SDKÚ;Marián Rakovskı
+2;SDKÚ;132;Vladimír;Raslavskı;Ing.;53;stavebnı ininier;Košice;SDKÚ;Vladimír Raslavskı
+2;SDKÚ;133;Ladislav;Lajèiak;Ing.;56;odb. pracovník v kultúre;Ruomberok;SDKÚ;Ladislav Lajèiak
+2;SDKÚ;134;Marián;Fúrik;Mgr.;49;pedagóg;Èadca;SDKÚ;Marián Fúrik
+2;SDKÚ;135;František;Halás;Ing.;34;technik;Nitra;SDKÚ;František Halás
+2;SDKÚ;136;Ján;Bohon;PaedDr.;63;ved. marketingu;Nitra;SDKÚ;Ján Bohon
+2;SDKÚ;137;Marián;Pugel;Ing.;42;strojnı ininier;Iliašovce;SDKÚ;Marián Pugel
+2;SDKÚ;138;Zoltán;Stopiak;Ing.;50;ekonóm;Nová Dubnica;SDKÚ;Zoltán Stopiak
+2;SDKÚ;139;Milan;Ignácik;Ing.;46;tech. - hosp. pracovník;Povaská Bystrica;SDKÚ;Milan Ignácik
+2;SDKÚ;140;¼ubomír;Fraòo;Ing.;50;technik;Nitra;SDKÚ;¼ubomír Fraòo
+2;SDKÚ;141;Jozef;Èuboò;Ing.;49;manaér;Nitra;SDKÚ;Jozef Èuboò
+3;SDPO;1;Štefan;Va¾oèík;Dpt.;67;dôchodca;Košice;SDPO;Štefan Va¾oèík
+3;SDPO;2;Ladislav;Skala;Ing.;61;ekonóm;Rozhanovce;SDPO;Ladislav Skala
+3;SDPO;3;Jaroslav;Ruinskı;;41;kuch-èašník;Košice;SDPO;Jaroslav Ruinskı
+3;SDPO;4;Vincent;Jasaò;prof. Ing. DrSc.;76;dôchodca;Košice;SDPO;Vincent Jasaò
+3;SDPO;5;Bartolomej;Jakubèák;JUDr.;59;právnik;Michalovce;SDPO;Bartolomej Jakubèák
+3;SDPO;6;Jaroslav;Sihelskı;;43;technik;Vidiná;SDPO;Jaroslav Sihelskı
+3;SDPO;7;Ladislav;Bartoš;;60;dôchodca;Bohdanovce nad Trnavou;SDPO;Ladislav Bartoš
+3;SDPO;8;Ján;Filip;;59;technik;Hlohovec;SDPO;Ján Filip
+3;SDPO;9;Marián;Dudinskı;;53;novinár;Bratislava;SDPO;Marián Dudinskı
+3;SDPO;10;František;Bednár;;45;technik;Poprad;SDPO;František Bednár
+3;SDPO;11;Štefan;Cseri;;48;uèite¾;Ve¾kı Krtíš;SDPO;Štefan Cseri
+3;SDPO;12;Dušan;Lajèiak;Ing.;60;technik;Bystrièka;SDPO;Dušan Lajèiak
+3;SDPO;13;Juraj;Ferenèík;;25;študent;Ludanice;SDPO;Juraj Ferenèík
+3;SDPO;14;Pavel;Jánošík;Mgr.;47;uèite¾;Poltár;SDPO;Pavel Jánošík
+3;SDPO;15;Milan;Marèek;;52;geológ;Košice;SDPO;Milan Marèek
+3;SDPO;16;Jozef;Ruinskı;Ing.;67;dôchodca;Košice;SDPO;Jozef Ruinskı
+3;SDPO;17;Albeta;Chahrourová;PaedDr.;54;riadite¾ka ZŠ;Jasov;SDPO;Albeta Chahrourová
+3;SDPO;18;Štefan;Eštok;;52;ivnostník;Košice;SDPO;Štefan Eštok
+3;SDPO;19;Jozef;Kalász;;46;podnikate¾;Moldava nad Bodvou;SDPO;Jozef Kalász
+3;SDPO;20;Marián;Kušnír;Ing.;43;ekonóm;Michalovce;SDPO;Marián Kušnír
+3;SDPO;21;¼udmila;Strapková;;55;pedagóg;Vidiná;SDPO;¼udmila Strapková
+3;SDPO;22;Pavol;Melichárek;;46;súkr. podnikat.;Trnava;SDPO;Pavol Melichárek
+3;SDPO;23;Marie;Bellovièová;Ing.;44;podnikate¾ka;Nové Mesto nad Váhom;SDPO;Marie Bellovièová
+3;SDPO;24;Viktória;Petrašovièová;;66;dôchodkyòa;Bratislava;SDPO;Viktória Petrašovièová
+3;SDPO;25;Lenka;Dymová;Mgr.;33;uèite¾ka;Luèenec;SDPO;Lenka Dymová
+3;SDPO;26;Štefan;Lukáè;MUDr.;49;lekár;Ve¾kı Krtíš;SDPO;Štefan Lukáè
+3;SDPO;27;Milan;Kokoška;;62;dôchodca;Vrútky;SDPO;Milan Kokoška
+3;SDPO;28;Lubica;Guothová;Ing.;35;THP;Košice;SDPO;Lubica Guothová
+3;SDPO;29;¼ubica;Sitorová;;43;súkr. podnikate¾;Poltár;SDPO;¼ubica Sitorová
+3;SDPO;30;Anton;Múdry;Ing.;67;dôchodca;Košice;SDPO;Anton Múdry
+3;SDPO;31;Jozef;Világi;Ing.;62;dôchodca;Košice;SDPO;Jozef Világi
+3;SDPO;32;Ján;Valiga;Ing.;57;dôchodca;Moldava nad Bodvou;SDPO;Ján Valiga
+3;SDPO;33;Milan;Kiš-Butka;;38;pois. poradca;Pavlovce nad Uhom;SDPO;Milan Kiš-Butka
+3;SDPO;34;Anna;Štefanièová;;40;predavaèka;Michalovce;SDPO;Anna Štefanièová
+3;SDPO;35;Gejza;Hilèanskı;;71;dôchodca;Michalovce;SDPO;Gejza Hilèanskı
+3;SDPO;36;Július;Janèkár;;56;pedagóg;Trebe¾ovce;SDPO;Július Janèkár
+3;SDPO;37;Edgar;Beòovskı;;54;súkr. podnikate¾;Smolenice;SDPO;Edgar Beòovskı
+3;SDPO;38;Magdaléna;Malíková;Mgr.;53;uèite¾ka;Piešany;SDPO;Magdaléna Malíková
+3;SDPO;39;Ján;Juhász;;48;uèite¾;Bratislava;SDPO;Ján Juhász
+3;SDPO;40;Stanislav;Škultéty;;66;dôchodca;Levoèa;SDPO;Stanislav Škultéty
+3;SDPO;41;Albeta;Èóriová;Mgr.;51;uèite¾ka;Ve¾kı Krtíš;SDPO;Albeta Èóriová
+3;SDPO;42;Tibor;Perina;;48;THP;Martin;SDPO;Tibor Perina
+3;SDPO;43;ofia;Fortunová;;55;dôchodkyòa;Košice;SDPO;ofia Fortunová
+3;SDPO;44;Peter;Petík;;28;súkr. podnikat.;Ve¾ká Ves;SDPO;Peter Petík
+3;SDPO;45;Magda;Gašková;;61;dôchodkyòa;Košice;SDPO;Magda Gašková
+3;SDPO;46;Matej;Kaminskı;;64;dôchodca;Košice;SDPO;Matej Kaminskı
+3;SDPO;47;Dionız;Mydlík;Ing.;68;dôchodca;Košice;SDPO;Dionız Mydlík
+3;SDPO;48;Milan;Sendek;;58;elektrikár;Michalovce;SDPO;Milan Sendek
+3;SDPO;49;Marta;Bystrianska;;30;zdrav. sestra;Divín;SDPO;Marta Bystrianska
+3;SDPO;50;František;Šimko;;62;dôchodca;Trnava;SDPO;František Šimko
+3;SDPO;51;Ján;Marek;Ing.;52;rev. technik;Nové Mesto nad Váhom;SDPO;Ján Marek
+3;SDPO;52;Beáta;Luknárová;;52;úradníèka;Bratislava;SDPO;Beáta Luknárová
+3;SDPO;53;¼uboša;Bednarèíková;;55;THP;Vrútky;SDPO;¼uboša Bednarèíková
+3;SDPO;54;Zdenka;Podhorcová;;33;súkr. podnikat.;Hradište;SDPO;Zdenka Podhorcová
+3;SDPO;55;Július;Palenesár;;47;podnikate¾;Èeèejovce;SDPO;Július Palenesár
+3;SDPO;56;Irena;Hegedüsová;Ing.;49;THP;Košice;SDPO;Irena Hegedüsová
+3;SDPO;57;Ján;Pitek;Ing.;49;ininier;Biely Kostol;SDPO;Ján Pitek
+3;SDPO;58;Dušan;Malovec;;36;operátor;Piešany;SDPO;Dušan Malovec
+3;SDPO;59;Ladislav;Kovács;;52;st. technik;Dunajská Streda;SDPO;Ladislav Kovács
+3;SDPO;60;Milan;Okša;;48;robotník;Kalinovo;SDPO;Milan Okša
+3;SDPO;61;Miroslav;Perun;;39;technik;Košice;SDPO;Miroslav Perun
+3;SDPO;62;Alojz;Šimkoviè;;65;dôchodca;Trnava;SDPO;Alojz Šimkoviè
+3;SDPO;63;Martin;Bobok;;41;technik;Bratislava;SDPO;Martin Bobok
+3;SDPO;64;Drahomíra;Kròanová;Ing.;45;uèite¾ka;Poltár;SDPO;Drahomíra Kròanová
+3;SDPO;65;Emil;Nosko;;80;dôchodca;Hradište pod Vrátnom;SDPO;Emil Nosko
+3;SDPO;66;Jozef;Šolc;Ing.;74;dôchodca;Košice;SDPO;Jozef Šolc
+3;SDPO;67;Ján;Èomaj;;67;dôchodca;Bratislava;SDPO;Ján Èomaj
+3;SDPO;68;Jolana;Magerová;;42;inv. dôchodca;Lipovany;SDPO;Jolana Magerová
+3;SDPO;69;Tibor;Valent;;54;technik;Hlohovec;SDPO;Tibor Valent
+3;SDPO;70;Zita;Gurská;Ing.;61;dôchodkyòa;Košice;SDPO;Zita Gurská
+3;SDPO;71;Gabriela;Likérová;;48;vychovávate¾ka;Košice;SDPO;Gabriela Likérová
+4;SD¼;1;Pavel;Koncoš;Ing.;55;po¾nohospodár;Hnúša;SD¼;Pavel Koncoš
+4;SD¼;2;Irina;Šebová;MUDr. CSc.;45;lekárka;Bratislava;SD¼;Irina Šebová
+4;SD¼;3;¼ubomír;Fogaš;doc. JUDr. CSc.;51;vysokoškolskı uèite¾;Bratislava;SD¼;¼ubomír Fogaš
+4;SD¼;4;¼ubomír;Andrassy;Ing. Bc.;29;manaér;Spišská Nová Ves;SD¼;¼ubomír Andrassy
+4;SD¼;5;Jozef;Migaš;doc. PhDr. CSc.;48;politik;Mošovce;SD¼;Jozef Migaš
+4;SD¼;6;Pavol;Hamík;JUDr.;48;diplomat;Bratislava;SOP;Pavol Hamík
+4;SD¼;7;Peter;Baráth;Ing.;45;riadite¾ spoloènosti;Nitra;SDSS;Peter Baráth
+4;SD¼;8;Peter;Ponickı;doc. Ing. PhD.;45;pedagóg;Povaská Bystrica;SD¼;Peter Ponickı
+4;SD¼;9;Boris;Hanušèak;MUDr.;47;lekár;Bardejov;SD¼;Boris Hanušèak
+4;SD¼;10;Judita;Takáèová;Mgr.;27;štátny zamestnanec;Streda nad Bodrogom;SD¼;Judita Takáèová
+4;SD¼;11;¼ubomír;Dzurák;;52;elektrikár;Nováky;SD¼;¼ubomír Dzurák
+4;SD¼;12;¼udmila;Lysinová;MUDr.;42;lekárka;Zvolen;SD¼;¼udmila Lysinová
+4;SD¼;13;František;Hajnoviè;RNDr.;53;vıskumnı pracovník;Bratislava;SD¼;František Hajnoviè
+4;SD¼;14;Mária;Angelovièová;doc. Ing. CSc.;49;vysokoškolská uèite¾ka;Nitra;SD¼;Mária Angelovièová
+4;SD¼;15;Jaroslav;Riha;JUDr.;55;prednosta OÚ;Holíè;SDSS;Jaroslav Riha
+4;SD¼;16;Ivan;Budiak;Ing.;57;ekonóm;Dolnı Kubín;SOP;Ivan Budiak
+4;SD¼;17;Marian;Anteckı;;54;poslanec NR SR;Kysucké Nové Mesto;SD¼;Marian Anteckı
+4;SD¼;18;Peter;Bohunickı;RSDr.;50;poslanec NR SR;Trnava;SD¼;Peter Bohunickı
+4;SD¼;19;Anton;Hoffmann;RSDr.;53;technik;Banská Bystrica;SD¼;Anton Hoffmann
+4;SD¼;20;Štefan;Rusnák;RSDr.;54;baník;Prešov;SD¼;Štefan Rusnák
+4;SD¼;21;Ondrej;Tkáè;JUDr.;51;právnik;Bratislava;SD¼;Ondrej Tkáè
+4;SD¼;22;Cyril;Betuš;JUDr.;51;právnik;Košice;SD¼;Cyril Betuš
+4;SD¼;23;Rastislav;Blaško;Mgr.;31;publicista;Chorvátsky Grob;SDSS;Rastislav Blaško
+4;SD¼;24;Marián;Mesiarik;RSDr.;57;baník;Bratislava;SOP;Marián Mesiarik
+4;SD¼;25;Rudolf;Lacko;Ing.;51;prednosta OÚ;Nová Dubnica;SD¼;Rudolf Lacko
+4;SD¼;26;Stanislav;Bartoš;PhDr. CSc.;59;súkromnı podnikate¾;ilina;SD¼;Stanislav Bartoš
+4;SD¼;27;Ján;Weis;doc. Ing. CSc.;50;vysokoškolskı uèite¾;Nitra;SD¼;Ján Weis
+4;SD¼;28;Emília;Wágnerová;Ing.;54;ekonóm;Senica;SD¼;Emília Wágnerová
+4;SD¼;29;Pavel;Struhár;JUDr.;45;starosta;Klenovec;SD¼;Pavel Struhár
+4;SD¼;30;Ján;Kerekaniè;;44;technik;Stakèín;SD¼;Ján Kerekaniè
+4;SD¼;31;Jozef;Škultéty;Ing. PhD.;51;auditor;Košice;SOP;Jozef Škultéty
+4;SD¼;32;Milan;Slivenskı;MUDr.;60;lekár;Humenné;SDSS;Milan Slivenskı
+4;SD¼;33;Dušan;Vilim;Mgr.;56;právnik;Pezinok;SD¼;Dušan Vilim
+4;SD¼;34;Benjamín;Banèej;MUDr.;52;lekár;Michalovce;SD¼;Benjamín Banèej
+4;SD¼;35;Ladislav;Pavlík;Mgr.;49;redaktor;Trenèín;SD¼;Ladislav Pavlík
+4;SD¼;36;Roman;Kopka;;29;asistent;Martin;SD¼;Roman Kopka
+4;SD¼;37;Tibor;Matuška;MUDr. CSc.;49;primár;Nové Zámky;SD¼;Tibor Matuška
+4;SD¼;38;Jozef;Behúl;Mgr.;47;úradník;Hlohovec;SD¼;Jozef Behúl
+4;SD¼;39;Roman;Lupták;;47;podnikate¾;Košice;SDSS;Roman Lupták
+4;SD¼;40;Dušan;Drozda;;41;hlavnı kontrolór;Galanta;SOP;Dušan Drozda
+4;SD¼;41;Jana;Borgu¾ová;PaedDr.;51;zástupkyòa primátora;Banská Bystrica;SD¼;Jana Borgu¾ová
+4;SD¼;42;Milan;Antaš;PhDr.;46;vedúci odboru OÚ;Poprad;SD¼;Milan Antaš
+4;SD¼;43;Janka;Drobová;Mgr.;57;publicistka;Bratislava;SD¼;Janka Drobová
+4;SD¼;44;Stanislav;Èurnı;Ing.;43;zástupca primátora;Spišská Nová Ves;SD¼;Stanislav Èurnı
+4;SD¼;45;Ján;Podmanickı;Ing.;50;primátor;Partizánske;SD¼;Ján Podmanickı
+4;SD¼;46;Jozef;Matis;RSDr. PhD.;49;vysokoškolskı uèite¾;Liptovskı Mikuláš;SD¼;Jozef Matis
+4;SD¼;47;Milan;Gášek;;42;starosta;Vydrná;SOP;Milan Gášek
+4;SD¼;48;Marián;Potaš;Ing.;51;ekonóm;Martin;SDSS;Marián Potaš
+4;SD¼;49;Vladislav;Borík;Ing. PhD.;32;riadite¾ po¾nohospodárskeho podniku;Ve¾ká Dolina;SD¼;Vladislav Borík
+4;SD¼;50;Anton;Èerveòanskı;;27;skladník;Vrbové;SD¼;Anton Èerveòanskı
+4;SD¼;51;Milan;Capko;Ing.;53;generálny riadite¾ a. s.;Závadka nad Hronom;SD¼;Milan Capko
+4;SD¼;52;Peter;Pichoòskı;Ing.;29;lesnı ininier;Dedaèov;SD¼;Peter Pichoòskı
+4;SD¼;53;Štefan;Sopóci;RSDr. CSc.;54;systémovı špecialista;Malacky;SD¼;Štefan Sopóci
+4;SD¼;54;Michal;Reèka;;48;starosta;Èaòa;SD¼;Michal Reèka
+4;SD¼;55;Lıdia;Rybárová;Ing.;45;námestník riadite¾a;Lehota pod Vtáènikom;SD¼;Lıdia Rybárová
+4;SD¼;56;Štefan;Lieskovskı;Ing.;45;súkromnı podnikate¾;Banská Bystrica;SOP;Štefan Lieskovskı
+4;SD¼;57;Miroslav;Palatinus;Ing.;51;podnikate¾;Trenèín;SDSS;Miroslav Palatinus
+4;SD¼;58;Jozef;Cech;;50;technik;Skalité;SD¼;Jozef Cech
+4;SD¼;59;Imrich;Tóth;RSDr.;58;poslanec NR SR;Kolárovo;SD¼;Imrich Tóth
+4;SD¼;60;Miroslav;Klè;Mgr.;50;uèite¾;Holíè;SD¼;Miroslav Klè
+4;SD¼;61;Ján;Slosiarik;Mgr.;42;riadite¾ školy;Dobrá Niva;SD¼;Ján Slosiarik
+4;SD¼;62;Danica;Baranová;Ing.;45;uèite¾ka;Spišské Podhradie;SD¼;Danica Baranová
+4;SD¼;63;Helena;Wágnerová;MUDr.;52;lekárka;Bánovce nad Bebravou;SOP;Helena Wágnerová
+4;SD¼;64;Miroslav;Kocián;Mgr.;51;pedagóg;Trenèín;SDSS;Miroslav Kocián
+4;SD¼;65;Boena;Reingraberová;;38;knihovníèka;Dunajská Luná;SD¼;Boena Reingraberová
+4;SD¼;66;Eva;Pappová;Mgr.;48;uèite¾ka;Sobrance;BEZPP;Eva Pappová
+4;SD¼;67;Ladislav;Rauèina;Ing.;41;prednosta OÚ;Bánovce nad Bebravou;SD¼;Ladislav Rauèina
+4;SD¼;68;František;Jedinák;;50;štátny úradník;Sedliacka Dubová;SD¼;František Jedinák
+4;SD¼;69;Jozef;Vanèo;Ing.;44;riadite¾;Bojná;SD¼;Jozef Vanèo
+4;SD¼;70;Roman;Súkeník;Ing.;36;starosta;Zemianske Sady;SD¼;Roman Súkeník
+4;SD¼;71;Richard;Novák;Ing.;61;úradník;Èadca;SDSS;Richard Novák
+4;SD¼;72;Ladislav;Hromada;Bc.;46;podnikate¾;Majerovce;SOP;Ladislav Hromada
+4;SD¼;73;Mária;Beáková;Ing.;55;starostka;Šumiac;SD¼;Mária Beáková
+4;SD¼;74;Vladimír;Popík;Ing.;49;elektroininier;Svidník;SD¼;Vladimír Popík
+4;SD¼;75;Viliam;Janèek;RSDr. CSc.;59;robotník;Bratislava;SD¼;Viliam Janèek
+4;SD¼;76;Zoltán;Šalamon;;55;technik;Roòava;SD¼;Zoltán Šalamon
+4;SD¼;77;Rudolf;Podoba;Ing.;38;banskı technik;Handlová;SD¼;Rudolf Podoba
+4;SD¼;78;Daniela;Javošová;MUDr.;41;lekárka;Niná;SD¼;Daniela Javošová
+4;SD¼;79;Ladislav;Setnickı;Ing.;45;ekonóm;Bratislava;SOP;Ladislav Setnickı
+4;SD¼;80;Ivan;Gu¾a;Ing.;50;manaér;Košice;SDSS;Ivan Gu¾a
+4;SD¼;81;Ján;Kadleèík;Bc.;43;technik - operátor;Levice;SD¼;Ján Kadleèík
+4;SD¼;82;Eleonóra;Fogelová;PaedDr.;52;pedagóg;Trnava;SD¼;Eleonóra Fogelová
+4;SD¼;83;Juraj;Michòa;Ing.;53;elektroininier;Zvolen;SD¼;Juraj Michòa
+4;SD¼;84;Michal;Drobòák;Ing.;43;manaér;Stará ¼ubovòa;SD¼;Michal Drobòák
+4;SD¼;85;Štefan;Hajduch;RSDr.;53;prednosta OÚ;Rovinka;SD¼;Štefan Hajduch
+4;SD¼;86;Marián;Palinskı;MUDr. CSc.;51;lekár;Košice;SD¼;Marián Palinskı
+4;SD¼;87;Alica;Prùšová;;44;súkromnı podnikate¾;Humenné;SDSS;Alica Prùšová
+4;SD¼;88;Alena;Glajchová;JUDr.;49;advokátka;Práznovce;SOP;Alena Glajchová
+4;SD¼;89;Dominik;Gahér;;55;štátny úradník;Bánovce nad Bebravou;SD¼;Dominik Gahér
+4;SD¼;90;Jana;Halušková;;50;pracovník verejnej sluby;Ruomberok;SD¼;Jana Halušková
+4;SD¼;91;Peter;Gomboš;RSDr.;49;štátny zamestnanec;Ša¾a;SD¼;Peter Gomboš
+4;SD¼;92;Milina;Rosová;RSDr.;69;tajomníèka OV SZPB;Bratislava;SD¼;Milina Rosová
+4;SD¼;93;Zuzana;Klasová;Ing. arch.;42;pracovník verejnej správy;Banská Štiavnica;SD¼;Zuzana Klasová
+4;SD¼;94;Michal;Malina;Ing.;41;stavebnı ininier;Stropkov;SD¼;Michal Malina
+4;SD¼;95;Helena;Novotná;Mgr.;41;riadite¾ka;Roòava;SOP;Helena Novotná
+4;SD¼;96;Viliam;Friè;Ing.;42;súkromnı podnikate¾;Pezinok;SDSS;Viliam Friè
+4;SD¼;97;Jozef;Torba;Ing.;42;technik;Trebišov;SD¼;Jozef Torba
+4;SD¼;98;Anton;Gašparík;Ing.;49;zamestnanec štátnej správy;Partizánske;SD¼;Anton Gašparík
+4;SD¼;99;Jozef;Országh;RSDr.;51;prednosta OÚ;Martin;SD¼;Jozef Országh
+4;SD¼;100;Eva;Balogová;Ing.;39;daòová poradkyòa;Bojná;BEZPP;Eva Balogová
+4;SD¼;101;Jozef;Burcl;Ing.;59;riadite¾ závodu;Hlohovec;SD¼;Jozef Burcl
+4;SD¼;102;Renáta;Pere¾ová;Bc.;26;pracovníèka verejnej správy;Luèenec;SD¼;Renáta Pere¾ová
+4;SD¼;103;Mária;Zeleòáková;;50;pedagóg;Jarok;SDSS;Mária Zeleòáková
+4;SD¼;104;Jozef;Jurkoviè;Ing.;33;štátny zamestnanec;Unín;SOP;Jozef Jurkoviè
+4;SD¼;105;Vladimír;Michniewicz;MUDr.;60;neštátny lekár;Èabalovce;SD¼;Vladimír Michniewicz
+4;SD¼;106;Magdaléna;Nemèíková;PaedDr.;49;uèite¾ka;Spišská Nová Ves;SD¼;Magdaléna Nemèíková
+4;SD¼;107;Anton;Palider;Ing.;57;po¾nohospodársky ininier;Námestovo;SD¼;Anton Palider
+4;SD¼;108;Henrich;Gašparík;MUDr.;37;lekár;Myjava;SD¼;Henrich Gašparík
+4;SD¼;109;Agáta;Záhorská;Ing.;45;ekonóm;Šurany;SD¼;Agáta Záhorská
+4;SD¼;110;Vladimír;Kubo;;52;podnikate¾;Piešany;SD¼;Vladimír Kubo
+4;SD¼;111;Peter;Zorvan;Ing.;42;prednosta OÚ;Banská Štiavnica;SOP;Peter Zorvan
+4;SD¼;112;Pavol;Vermeš;Bc.;38;súkromnı podnikate¾;Dubovany;SDSS;Pavol Vermeš
+4;SD¼;113;Štefan;Šulek;Ing.;32;ekonóm;Prenèov;SD¼;Štefan Šulek
+4;SD¼;114;Jozef;Kaòuk;Ing.;53;elektrotechnik;Prešov;SD¼;Jozef Kaòuk
+4;SD¼;115;Ján;Sabadoš;RSDr.;51;starosta;Ruskov;SD¼;Ján Sabadoš
+4;SD¼;116;Anton;Janèi;Ing. CSc.;55;štátny zamestnanec;Dolnı Kubín;SD¼;Anton Janèi
+4;SD¼;117;Stanislav;Masár;JUDr.;58;právnik;Stará Turá;SD¼;Stanislav Masár
+4;SD¼;118;Milan;Kokavec;Ing.;47;strojnı ininier;Komárno;SD¼;Milan Kokavec
+4;SD¼;119;Ladislav;Bakša;Ing. arch.;51;autorizovanı architekt;Nové Zámky;SDSS;Ladislav Bakša
+4;SD¼;120;Andrej;Mokriš;PaedDr.;45;uèite¾;Stará ¼ubovòa;SOP;Andrej Mokriš
+4;SD¼;121;Miroslav;Brešanskı;JUDr.;56;štátny zamestnanec;Sereï;SD¼;Miroslav Brešanskı
+4;SD¼;122;Anna;ureková;Mgr.;48;starostka;Môlèa;SD¼;Anna ureková
+4;SD¼;123;Ján;Franko;;55;zváraè kovov;Udavské;SD¼;Ján Franko
+4;SD¼;124;Pavol;Hanušin;Ing.;52;ekonóm;Košice;SD¼;Pavol Hanušin
+4;SD¼;125;Tatiana;Štrbová;Ing.;40;technik;ilina;SD¼;Tatiana Štrbová
+4;SD¼;126;Štefan;Adamec;Ing.;47;zootechnik;Brestovec;SD¼;Štefan Adamec
+4;SD¼;127;Elena;Šuteková;Ing.;37;ekonóm;Kotešová;SOP;Elena Šuteková
+4;SD¼;128;Dušan;Krian;;44;súkromnı podnikate¾;Ve¾ké Bierovce;SDSS;Dušan Krian
+4;SD¼;129;¼ubomír;Pastucha;Ing.;53;úradník;Piešany;SD¼;¼ubomír Pastucha
+4;SD¼;130;Marián;Kudrík;Mgr.;45;uèite¾;Streda nad Bodrogom;SD¼;Marián Kudrík
+4;SD¼;131;Judita;Jarošová;Ing.;56;po¾nohospodársky ininier;Hubová;SD¼;Judita Jarošová
+4;SD¼;132;Peter;Zrubec;;59;starosta;Michal nad itavou;SD¼;Peter Zrubec
+4;SD¼;133;Alexander;Bacso;;22;projektovı manaér;Rimavská Sobota;SD¼;Alexander Bacso
+4;SD¼;134;Pavol;Marchevskı;Mgr.;27;politológ;Bardejov;SD¼;Pavol Marchevskı
+4;SD¼;135;Marián;Hreòo;;30;manaér;Košice;SD¼;Marián Hreòo
+4;SD¼;136;Peter;Lariš;Mgr.;47;politológ;Bratislava;SOP;Peter Lariš
+4;SD¼;137;Mária;Tóthová;;40;ekonómka;Jur nad Hronom;SDSS;Mária Tóthová
+4;SD¼;138;Marián;Severín;;28;technik;Bytèa;SD¼;Marián Severín
+4;SD¼;139;Alexander;Vereš;JUDr.;51;riadite¾ obchodnej spoloènosti;Ve¾kı Kır;SD¼;Alexander Vereš
+4;SD¼;140;Pavol;Krá¾;Mgr.;24;internı doktorand;Mıtna;BEZPP;Pavol Krá¾
+4;SD¼;141;Ivan;Kleban;Mgr.;38;vedúci odboru OÚ;Stropkov;SD¼;Ivan Kleban
+4;SD¼;142;Bartolomej;Pokol;;55;ivnostník;Zatín;SD¼;Bartolomej Pokol
+4;SD¼;143;Lubomír;Mikita;Ing.;50;elektrotechnickı ininier;Liptovskı Mikuláš;SOP;Lubomír Mikita
+4;SD¼;144;Marián;Petriè;;46;montér - zámoèník;Košice;SDSS;Marián Petriè
+4;SD¼;145;Juraj;Tomeèek;;55;starosta;Ih¾any;SD¼;Juraj Tomeèek
+4;SD¼;146;Norbert;Boldiš;;39;manager;Kremnica;SD¼;Norbert Boldiš
+4;SD¼;147;Vladimír;Sumbal;Bc.;37;obchodnı námestník;Dubnica nad Váhom;SD¼;Vladimír Sumbal
+4;SD¼;148;Gustáv;Illeš;;53;profesor hudby skladate¾;Bratislava;BEZPP;Gustáv Illeš
+4;SD¼;149;Milan;Aberštik;Ing.;39;manaér;Topo¾èany;SOP;Milan Aberštik
+4;SD¼;150;Juraj;Veselı;Mgr.;25;manaér;Holíè;SDSS;Juraj Veselı
+5;SMER;1;Robert;Fico;doc. JUDr. CSc.;37;poslanec NR SR;Bratislava;SMER;Robert Fico
+5;SMER;2;Monika;Beòová;;33;podpredsedníèka SMERu;Bratislava;SMER;Monika Beòová
+5;SMER;3;Dušan;Èaploviè;PhDr. DrSc.;55;historik - archeológ;Nitra;SMER;Dušan Èaploviè
+5;SMER;4;Milan;Murgaš;doc. Ing. CSc.;51;rektor univerzity;Banská Bystrica;SMER;Milan Murgaš
+5;SMER;5;Boris;Zala;doc. PhDr. CSc.;47;vysokoškolskı uèite¾;Bratislava;SMER;Boris Zala
+5;SMER;6;Pavol;Paška;Mgr.;44;súkromnı podnikate¾;Košice;SMER;Pavol Paška
+5;SMER;7;Robert;Kaliòák;JUDr.;31;advokát;Bratislava;SMER;Robert Kaliòák
+5;SMER;8;Bohumil;Hanzel;;54;generálny riadite¾;Trenèín;SMER;Bohumil Hanzel
+5;SMER;9;Dušan;Muòko;Ing.;57;generálny riadite¾;Bratislava;SMER;Dušan Muòko
+5;SMER;10;¼ubomír;Vány;Ing.;44;riadite¾;Banská Bystrica;SMER;¼ubomír Vány
+5;SMER;11;Igor;Šulaj;Ing.;38;audítor;Banská Bystrica;SMER;Igor Šulaj
+5;SMER;12;Renáta;Zmajkovièová;;40;riadite¾ka úradu VÚC;Trnava;SMER;Renáta Zmajkovièová
+5;SMER;13;Maroš;Kondrót;Ing.;41;ekonóm;Bratislava;SMER;Maroš Kondrót
+5;SMER;14;Miroslav;Chovanec;MUDr.;53;lekár;Trenèín;SMER;Miroslav Chovanec
+5;SMER;15;Jozef;Burian;Ing.;40;ekonóm;Košice;SMER;Jozef Burian
+5;SMER;16;Darina;Gabániová;MUDr. PhD.;46;stomatológ;Bratislava;SMER;Darina Gabániová
+5;SMER;17;Miroslav;Èí;JUDr.;48;právnik;Štiavnické Bane;SMER;Miroslav Èí
+5;SMER;18;Edita;Angyalová;Ing.;22;ekonómka;Niná Myš¾a;SMER;Edita Angyalová
+5;SMER;19;Róbert;Madej;;21;študent;Zvolen;SMER;Róbert Madej
+5;SMER;20;Jozef;Buèek;Mgr.;42;generálny riadite¾;Košice;SMER;Jozef Buèek
+5;SMER;21;Jaroslav;Baška;Ing.;27;riadiaci pracovník;Púchov;SMER;Jaroslav Baška
+5;SMER;22;Igor;Federiè;Ing.;39;stavebnı ininier;Bratislava;SMER;Igor Federiè
+5;SMER;23;Juraj;Blanár;Ing.;36;riadite¾ marketingu;ilina;SMER;Juraj Blanár
+5;SMER;24;Ivan;Varga;Ing.;49;riadite¾;Hlohovec;SMER;Ivan Varga
+5;SMER;25;Jana;Laššáková;JUDr.;50;komerèná právnièka;Vlkanová;SMER;Jana Laššáková
+5;SMER;26;Jaroslav;Muríò;Ing.;49;elektrotechnickı ininier;Trenèín;SMER;Jaroslav Muríò
+5;SMER;27;Marián;Záhumenskı;Ing.;38;po¾nohospodársky manaér;Dvory nad itavou;SMER;Marián Záhumenskı
+5;SMER;28;Peter;Oremus;Ing.;52;manaér;Nitra;SMER;Peter Oremus
+5;SMER;29;Stanislav;Kubánek;;50;elektrotechnik;Ve¾kı Šariš;SMER;Stanislav Kubánek
+5;SMER;30;Richard;Demoviè;MUDr. PhD.;42;lekár;Pezinok;SMER;Richard Demoviè
+5;SMER;31;Monika;Smolková;Mgr.;45;ekonómka;Košice;SMER;Monika Smolková
+5;SMER;32;Dušan;Galis;Mgr.;52;futbalovı tréner;Bratislava;BEZPP;Dušan Galis
+5;SMER;33;Ján;Senko;PhDr.;43;riadite¾;Oèová;SMER;Ján Senko
+5;SMER;34;Viera;Tomanová;Ing.;54;zamestnanec štátnej správy;Bratislava;SMER;Viera Tomanová
+5;SMER;35;Viliam;Holeva;Ing.;52;strojnı ininier;Bardejov;SMER;Viliam Holeva
+5;SMER;36;Juraj;Zervan;JUDr.;47;právnik;Bratislava;SMER;Juraj Zervan
+5;SMER;37;Tibor;Lebockı;Ing.;38;lesnı ininier;Budèa;SMER;Tibor Lebockı
+5;SMER;38;Oto;Majzlan;prof. RNDr. PhD.;51;vysokoškolskı profesor;Bratislava;SMER;Oto Majzlan
+5;SMER;39;Marián;Kovaèócy;Ing.;43;manaér;Trnava;SMER;Marián Kovaèócy
+5;SMER;40;Robert;Lenárt;;32;manaér;Bratislava;SMER;Robert Lenárt
+5;SMER;41;Peter;Pelegrini;Ing.;26;riadiaci pracovník;Banská Bystrica;SMER;Peter Pelegrini
+5;SMER;42;Ján;Èech;Ing.;50;riadiaci pracovník;Pezinok;SMER;Ján Èech
+5;SMER;43;Ján;Vaculèiak;Ing.;32;riadiaci pracovník;Luèenec;SMER;Ján Vaculèiak
+5;SMER;44;¼ubica;Burdová;;40;marketingovı pracovník;Levice;SMER;¼ubica Burdová
+5;SMER;45;Ladislav;Szabo;JUDr.;51;právnik;Bratislava;SMER;Ladislav Szabo
+5;SMER;46;Katarína;Tarašová;Bc.;21;administratívna pracovníèka;Mošovce;SMER;Katarína Tarašová
+5;SMER;47;¼ubica;Rošková;PhDr.;47;psychologièka;Michalovce;SMER;¼ubica Rošková
+5;SMER;48;Juraj;Hudáè;Ing.;39;ekonóm;Prešov;SMER;Juraj Hudáè
+5;SMER;49;Vladimír;Jánoš;PaedDr.;33;pedagóg;Prievidza;SMER;Vladimír Jánoš
+5;SMER;50;Pavol;Adamec;Ing. arch.;42;architekt;Trnava;SMER;Pavol Adamec
+5;SMER;51;Martin;Sabela;Mgr.;27;právnik;Nitra;SMER;Martin Sabela
+5;SMER;52;Ján;Zvonár;MUDr. CSc.;51;lekár;Bratislava;SMER;Ján Zvonár
+5;SMER;53;Igor;Choma;Ing.;38;stavebnı ininier;ilina;SMER;Igor Choma
+5;SMER;54;Slavomír;Illeš;Ing.;37;strojnı ininier;Trebišov;SMER;Slavomír Illeš
+5;SMER;55;Ivica;Hiròáková;MUDr.;46;lekárka;Poprad;SMER;Ivica Hiròáková
+5;SMER;56;Mário;Zajac;Ing.;31;technickı ininier;Dubnica nad Váhom;SMER;Mário Zajac
+5;SMER;57;Emília;Müllerová;MUDr.;48;lekárka;Kremnica;SMER;Emília Müllerová
+5;SMER;58;Eva;Bornayová;JUDr.;40;právnièka;Rimavská Sobota;SMER;Eva Bornayová
+5;SMER;59;Ivan;Boháè;Ing. arch.;37;iniinier - architekt;Bratislava;SMER;Ivan Boháè
+5;SMER;60;Pavol;Valárik;Ing.;51;súkromnı podnikate¾;Èadca;SMER;Pavol Valárik
+5;SMER;61;Ondrej;Majerník;Ing.;50;stredoškolskı uèite¾;Spišská Nová Ves;SMER;Ondrej Majerník
+5;SMER;62;Jaroslav;Ševèík;Ing.;42;lesnı ininier;Povaská Bystrica;SMER;Jaroslav Ševèík
+5;SMER;63;Juraj;Moško;Ing.;40;súkromnı podnikate¾;Beluša;SMER;Juraj Moško
+5;SMER;64;Jozef;Valockı;MUDr.;45;lekár;Galanta;SMER;Jozef Valockı
+5;SMER;65;Helena;Tvrdá;Mgr.;34;pedagóg;Povaská Bystrica;BEZPP;Helena Tvrdá
+5;SMER;66;Tibor;Glenda;;46;súkromnı podnikate¾;Alekšince;SMER;Tibor Glenda
+5;SMER;67;Viera;Tereková;RNDr. CSc.;53;geochemik;Liptovskı Mikuláš;SMER;Viera Tereková
+5;SMER;68;Vladislav;Laciak;MUDr.;47;lekár;Roòava;BEZPP;Vladislav Laciak
+5;SMER;69;Jozef;Tarkaniè;;40;súkromnı podnikate¾;Vranov nad Top¾ou;SMER;Jozef Tarkaniè
+5;SMER;70;Mária;Janíková;Bc.;31;personálna manaérka;Partizánske;SMER;Mária Janíková
+5;SMER;71;¼ubomír;Burda;Ing.;51;ekonóm;Hlohovec;SMER;¼ubomír Burda
+5;SMER;72;¼ubomír;Obroèník;;38;súkromnı podnikate¾;Poltár;SMER;¼ubomír Obroèník
+5;SMER;73;Milan;Halúz;;35;technik;Levice;SMER;Milan Halúz
+5;SMER;74;Tatiana;Kopecká;JUDr.;44;právnièka;Bratislava;SMER;Tatiana Kopecká
+5;SMER;75;Jozef;Rapèo;Ing.;41;ekonóm;Michalovce;SMER;Jozef Rapèo
+5;SMER;76;Jana;Va¾ová;;37;súkromnı podnikate¾;Humenné;SMER;Jana Va¾ová
+5;SMER;77;Branislav;Pavloviè;Ing.;29;súkromnı podnikate¾;Nové Mesto nad Váhom;SMER;Branislav Pavloviè
+5;SMER;78;Eva;Kolláriková;Ing.;44;manaérka;Piešany;SMER;Eva Kolláriková
+5;SMER;79;Marián;Láslo;Ing.;42;zamestnanec verejnej správy;Štiavnické Bane;SMER;Marián Láslo
+5;SMER;80;Karol;Suchan;Ing.;39;súkromnı podnikate¾;Nové Zámky;SMER;Karol Suchan
+5;SMER;81;Peter;Reucha;PhDr.;58;riadite¾;Blatné;SMER;Peter Reucha
+5;SMER;82;Milan;Mojš;Ing.;45;technickı riadite¾;Likavka;SMER;Milan Mojš
+5;SMER;83;Ján;Ferenèák;PhDr.;28;pedagóg;Kemarok;SMER;Ján Ferenèák
+5;SMER;84;Alena;Paulová;Ing.;36;manaérka;Bánovce nad Bebravou;SMER;Alena Paulová
+5;SMER;85;Viera;Kuèerová;JUDr.;46;právnièka;Holíè;SMER;Viera Kuèerová
+5;SMER;86;Ján;Raèák;;44;súkromnı podnikate¾;Brezno;SMER;Ján Raèák
+5;SMER;87;Vlastimil;Samek;;48;súkromnı podnikate¾;Topo¾èany;SMER;Vlastimil Samek
+5;SMER;88;Peter;Danoviè;Ing.;43;ekonóm;Ve¾kı Biel;SMER;Peter Danoviè
+5;SMER;89;Viera;Mazúrová;;41;súkromná podnikate¾ka;Oravská Lesná;SMER;Viera Mazúrová
+5;SMER;90;Jozef;Andrejèák;;21;študent;Košice;SMER;Jozef Andrejèák
+5;SMER;91;Juraj;Hamaj;Ing.;49;elektrotechnickı ininier;Dolné Srnie;SMER;Juraj Hamaj
+5;SMER;92;Vladimír;Hromada;Ing.;50;technik;Èerveník;SMER;Vladimír Hromada
+5;SMER;93;Ján;Jech;prof. Ing. CSc.;63;vysokoškolskı profesor;Nitra;SMER;Ján Jech
+5;SMER;94;Marián;Lehner;Ing.;41;strojnı ininier;Komárno;SMER;Marián Lehner
+5;SMER;95;Boris;Hradeckı;Ing.;58;strojnı ininier;Bratislava;SMER;Boris Hradeckı
+5;SMER;96;Štefan;Mihál;Ing.;32;manaér;Dolnı Kubín;SMER;Štefan Mihál
+5;SMER;97;Jozef;Vrábe¾;Ing.;43;ekonóm;Košice;SMER;Jozef Vrábe¾
+5;SMER;98;Jozef;Kancír;;55;zamestnanec verejnej správy;Uzovce;SMER;Jozef Kancír
+5;SMER;99;Peter;Pacalaj;Mgr. Ing.;36;právnik;Trnava;SMER;Peter Pacalaj
+5;SMER;100;Milan;Be¾a;Mgr.;43;personálny riadite¾;Detva;SMER;Milan Be¾a
+5;SMER;101;Helena;Bohátová;Ing.;41;stredoškolská profesorka;Nové Zámky;SMER;Helena Bohátová
+5;SMER;102;Štefan;Zozu¾ák;JUDr.;52;právnik;Bratislava;SMER;Štefan Zozu¾ák
+5;SMER;103;Vladimír;Macášek;Ing.;43;súkromnı podnikate¾;Kysucké Nové Mesto;SMER;Vladimír Macášek
+5;SMER;104;Ján;Mitterpák;RSDr.;60;manaér;Košice;SMER;Ján Mitterpák
+5;SMER;105;Marcela;Fabianová;Mgr.;24;uèite¾ka;Stará ¼ubovòa;SMER;Marcela Fabianová
+5;SMER;106;Vladislav;Petráš;Ing.;38;súkromnı podnikate¾;Myjava;SMER;Vladislav Petráš
+5;SMER;107;Peter;Lièko;Ing.;50;technik;Krupina;SMER;Peter Lièko
+5;SMER;108;Peter;Strıèek;Ing.;40;technik;Nitra;SMER;Peter Strıèek
+5;SMER;109;Milan;Latta;JUDr.;54;právnik;Malinovo;SMER;Milan Latta
+5;SMER;110;Jozef;Parec;Ing.;54;technik;Trstená;SMER;Jozef Parec
+5;SMER;111;Peter;Basanda;MVDr.;40;zverolekár;Tibava;SMER;Peter Basanda
+5;SMER;112;Ján;Šrenkel;Mgr.;35;súkromnı podnikate¾;Snina;SMER;Ján Šrenkel
+5;SMER;113;Dušan;Bublavı;;38;obchodnı riadite¾;Èastkovce;SMER;Dušan Bublavı
+5;SMER;114;Peter;Šedivı;;49;súkromnı podnikate¾;Senica;SMER;Peter Šedivı
+5;SMER;115;¼ubica;Juríková;Ing.;37;kontrolór;Nové Zámky;SMER;¼ubica Juríková
+5;SMER;116;Milan;Magát;JUDr.;38;právnik;Bratislava;SMER;Milan Magát
+5;SMER;117;Milan;Balá;Ing.;40;vırobnı riadite¾;Bytèa;SMER;Milan Balá
+5;SMER;118;Ján;Klein;Mgr.;53;právnik;Košice;SMER;Ján Klein
+5;SMER;119;Jaroslav;Kušnír;Ing.;43;ekonóm;Kraèúnovce;SMER;Jaroslav Kušnír
+5;SMER;120;Magda;Košútová;Ing.;46;po¾nohospodárska ininierka;Trenèín;SMER;Magda Košútová
+5;SMER;121;Iveta;Lenická;PhDr.;37;kunzhistorièka;Galanta;SMER;Iveta Lenická
+5;SMER;122;Imrich;Héel;Ing.;43;riadite¾;Revúca;SMER;Imrich Héel
+5;SMER;123;Jozef;Behıl;PaedDr.;45;súkromnı podnikate¾;Bratislava;SMER;Jozef Behıl
+5;SMER;124;Anton;Báthory;Ing.;50;technik;Martin;SMER;Anton Báthory
+5;SMER;125;Jozef;Mihok;Ing. PhD.;52;manaér;Košice;SMER;Jozef Mihok
+5;SMER;126;Štefan;Rusòák;;47;vedúci prevádzky;Levoèa;SMER;Štefan Rusòák
+5;SMER;127;Norbert;Turanoviè;MVDr.;36;riadite¾ spoloènosti;Prievidza;SMER;Norbert Turanoviè
+5;SMER;128;Mária;Beòová;;50;ekonómka;Piešany;SMER;Mária Beòová
+5;SMER;129;Roman;Wagner;Ing.;36;lesnı ininier;Ve¾kı Krtíš;SMER;Roman Wagner
+5;SMER;130;Martin;Bièian;RNDr.;40;ekológ;Komárno;SMER;Martin Bièian
+5;SMER;131;Dušan;Petrík;Ing.;47;manaér;ilina;SMER;Dušan Petrík
+5;SMER;132;Ján;Borovskı;Ing.;52;riadite¾;Novı Ruskov;SMER;Ján Borovskı
+5;SMER;133;Jozef;Jurèišin;;54;súkromnı podnikate¾;Stropkov;SMER;Jozef Jurèišin
+5;SMER;134;Jozef;Štefkoviè;Ing.;37;po¾nohospodársky ininier;Partizánske;SMER;Jozef Štefkoviè
+5;SMER;135;Štefan;Dostál;JUDr.;46;advokát;Senica;SMER;Štefan Dostál
+5;SMER;136;Štefan;Levrinc;Ing.;38;chemickı ininier;Nová Baòa;SMER;Štefan Levrinc
+5;SMER;137;Miloš;Lipovskı;Ing.;34;ekonóm;Ša¾a;SMER;Miloš Lipovskı
+5;SMER;138;Peter;Hargaš;Ing.;51;súkromnı podnikate¾;Bratislava;SMER;Peter Hargaš
+5;SMER;139;Milan;Geci;Mgr.;50;súkromnı podnikate¾;Košice;SMER;Milan Geci
+5;SMER;140;Slavomír;Rusinko;Ing.;34;riadite¾ spoloènosti;Medzilaborce;SMER;Slavomír Rusinko
+5;SMER;141;Jarmila;Miakišová;;53;stavbyvedúca;Dubnica nad Váhom;SMER;Jarmila Miakišová
+5;SMER;142;Viliam;Staník;Ing.;41;manaér;Holíè;SMER;Viliam Staník
+5;SMER;143;Kamil;Kalèok;Ing.;42;ekonóm;Banská Bystrica;SMER;Kamil Kalèok
+5;SMER;144;Jozef;Bastyur;;46;murár;Moldava nad Bodvou;BEZPP;Jozef Bastyur
+5;SMER;145;Eleonóra;Nekorancová;PaedDr.;38;riadite¾ka ZŠ;Turzovka;SMER;Eleonóra Nekorancová
+5;SMER;146;Jaroslav;Popoviè;Mgr.;54;riadite¾ spoloènosti;Banská Bystrica;SMER;Jaroslav Popoviè
+5;SMER;147;Marián;Balá;Mgr.;29;štátny zamestnanec;Bánovce nad Bebravou;SMER;Marián Balá
+5;SMER;148;Tomáš;Novanskı;;30;špecialista bankovıch obchodov;Banská Bystrica;SMER;Tomáš Novanskı
+5;SMER;149;¼uboš;Racko;JUDr.;47;advokát;Liptovskı Mikuláš;SMER;¼uboš Racko
+5;SMER;150;Peter;Hrbá¾;Ing.;45;riadite¾ mestskıch lesov;Muráò;SMER;Peter Hrbá¾
+6;HZDS;1;Vladimír;Meèiar;JUDr.;60;právnik;Bratislava;HZDS;Vladimír Meèiar
+6;HZDS;2;Eva;Antošová;Ing.;37;primátorka mesta;Nová Dubnica;HZDS;Eva Antošová
+6;HZDS;3;Sergej;Kozlík;Ing.;52;poslanec NR SR;Bratislava;HZDS;Sergej Kozlík
+6;HZDS;4;Rudolf;iak;Mgr.;47;manaér;Stará ¼ubovòa;HZDS;Rudolf iak
+6;HZDS;5;Vojtech;Tkáè;doc. JUDr. CSc.;53;poslanec NR SR;Bratislava;HZDS;Vojtech Tkáè
+6;HZDS;6;Ján;Mikolaj;prof. Ing. CSc.;48;univerzitnı profesor;Rajecké Teplice;HZDS;Ján Mikolaj
+6;HZDS;7;Ján;Jasovskı;doc. Ing. CSc.;53;poslanec NR SR;Zvolenská Slatina;HZDS;Ján Jasovskı
+6;HZDS;8;Tibor;Mikuš;Ing.;49;generálny riadite¾;Trnava;HZDS;Tibor Mikuš
+6;HZDS;9;Viliam;Soboòa;MUDr.;54;radca riadite¾a;Nové Zámky;HZDS;Viliam Soboòa
+6;HZDS;10;Viliam;Veteška;JUDr.;49;podnikate¾;Púchov;HZDS;Viliam Veteška
+6;HZDS;11;Ján;Kovarèík;Ing.;51;ekonóm;Nitra;HZDS;Ján Kovarèík
+6;HZDS;12;Ján;Gabriel;Ing.;46;poslanec NR SR;Trnava;HZDS;Ján Gabriel
+6;HZDS;13;¼udmila;Mušková;Mgr.;53;poslankyòa NR SR;Kysucké Nové Mesto;HZDS;¼udmila Mušková
+6;HZDS;14;Anton;Blajsko;PaedDr.;46;vedúci odboru;Bardejov;HZDS;Anton Blajsko
+6;HZDS;15;Ivan;Kiòo;Ing.;47;audítor;Banská Bystrica;HZDS;Ivan Kiòo
+6;HZDS;16;Ladislav;Polka;JUDr.;50;advokát;Bratislava;HZDS;Ladislav Polka
+6;HZDS;17;Gustáv;Krajèi;Mgr.;51;poslanec NR SR;Spišská Nová Ves;HZDS;Gustáv Krajèi
+6;HZDS;18;Milan;Rehák;Ing.;55;poslanec NR SR;Kostolná - Zárieèie;HZDS;Milan Rehák
+6;HZDS;19;Igor;Pinkava;Ing.;45;manaér;Trnava;HZDS;Igor Pinkava
+6;HZDS;20;Tibor;Cabaj;;48;poslanec NR SR;Kuzmice;HZDS;Tibor Cabaj
+6;HZDS;21;Stanislav;Husár;JUDr.;62;poslanec NR SR;Bratislava;HZDS;Stanislav Husár
+6;HZDS;22;Jozef;Elsner;JUDr.;42;podnikate¾;Lipany;HZDS;Jozef Elsner
+6;HZDS;23;Miroslav;Abelovskı;JUDr.;54;komerènı právnik;Zvolen;HZDS;Miroslav Abelovskı
+6;HZDS;24;Eduard;Kolesár;;31;asistent;Košice;HZDS;Eduard Kolesár
+6;HZDS;25;Jozef;Brhel;Ing.;41;poslanec NR SR;Bratislava;HZDS;Jozef Brhel
+6;HZDS;26;Miroslav;Maxon;Ing.;51;poslanec NR SR;Trenèín;HZDS;Miroslav Maxon
+6;HZDS;27;Ján;Mikuš;Ing.;50;riadite¾ firmy;Pribylina;HZDS;Ján Mikuš
+6;HZDS;28;Jaroslav;Jaduš;Ing.;35;podnikate¾;Prešov;HZDS;Jaroslav Jaduš
+6;HZDS;29;Milan;Urbáni;MUDr. CSc. MPH;58;lekár;Banská Bystrica;HZDS;Milan Urbáni
+6;HZDS;30;Irena;Belohorská;MUDr.;54;poslankyòa NR SR;Bratislava;HZDS;Irena Belohorská
+6;HZDS;31;Karol;Dupa;MUDr. CSc.;49;lekár;Michalovce;HZDS;Karol Dupa
+6;HZDS;32;Dušan;Jarjabek;Mgr.;49;poslanec NR SR;Bratislava;HZDS;Dušan Jarjabek
+6;HZDS;33;Diana;Dubovská;Ing.;29;poslankyòa NR SR;Bratislava;HZDS;Diana Dubovská
+6;HZDS;34;Milan;Cagala;Ing. CSc.;53;poslanec NR SR;Nové Mesto nad Váhom;HZDS;Milan Cagala
+6;HZDS;35;Dana;Podracká;PhDr.;48;spisovate¾ka;Bratislava;HZDS;Dana Podracká
+6;HZDS;36;Gabriel;Karlin;MVDr.;55;poslanec NR SR;Ve¾kı Krtíš;HZDS;Gabriel Karlin
+6;HZDS;37;Vladimír;Pavelka;Ing.;42;poslanec NR SR;Dolnı Kubín;HZDS;Vladimír Pavelka
+6;HZDS;38;Jana;Štefanková;JUDr.;49;riadite¾ka DSS;Nitra;HZDS;Jana Štefanková
+6;HZDS;39;Dagmar;Gasperová;;48;zdravotná sestra;¼ubochòa;HZDS;Dagmar Gasperová
+6;HZDS;40;Elena;Magdolenová;Mgr.;42;právnièka;Nedašovce;HZDS;Elena Magdolenová
+6;HZDS;41;František;Blanárik;Ing.;50;obchodnı riadite¾;Bratislava;HZDS;František Blanárik
+6;HZDS;42;Ján;Cuper;doc. JUDr. CSc.;55;poslanec NR SR;Bratislava;HZDS;Ján Cuper
+6;HZDS;43;Jozef;Boik;PaedDr.;26;pedagóg;Partizánske;HZDS;Jozef Boik
+6;HZDS;44;Ján;Danko;PhDr. CSc.;52;poslanec NR SR;Trebišov;HZDS;Ján Danko
+6;HZDS;45;Ján;Dlhopolèek;PhDr.;50;obchodnı manaér;Hlohovec;HZDS;Ján Dlhopolèek
+6;HZDS;46;Gabriela;Sedláková;Ing.;43;generálna riadite¾ka;Bratislava;HZDS;Gabriela Sedláková
+6;HZDS;47;Peter;Pavlák;;37;konate¾ spoloènosti;Námestovo;HZDS;Peter Pavlák
+6;HZDS;48;Iveta;Leòová;MUDr.;42;lekárka;Humenné;HZDS;Iveta Leòová
+6;HZDS;49;Daniel;Andráško;PhDr.;49;riadite¾ MsKs;Snina;HZDS;Daniel Andráško
+6;HZDS;50;¼uboš;Lackoviè;Ing.;45;primátor mesta;Povaská Bystrica;HZDS;¼uboš Lackoviè
+6;HZDS;51;Beata;Sániová;doc. MUDr. PhD.;54;lekárka;Martin;HZDS;Beata Sániová
+6;HZDS;52;Ladislav;Kosztanko;PaedDr.;42;riadite¾ podniku;Trnovec nad Váhom;HZDS;Ladislav Kosztanko
+6;HZDS;53;Peter;Šuca;PaedDr.;34;pedagóg;Nová Lesná;HZDS;Peter Šuca
+6;HZDS;54;Miroslav;Jureòa;Ing.;48;manaér;Gbely;HZDS;Miroslav Jureòa
+6;HZDS;55;Jozef;Vrael;Ing.;40;manaér;Èadca;HZDS;Jozef Vrael
+6;HZDS;56;Ján;Bodnár;Ing.;41;podnikate¾;Prievidza;HZDS;Ján Bodnár
+6;HZDS;57;Petra;Polievková;;23;študentka;Banská Bystrica;HZDS;Petra Polievková
+6;HZDS;58;Marta;Hlaváèová;MUDr.;48;lekárka;Roòavské Bystré;HZDS;Marta Hlaváèová
+6;HZDS;59;Peter;Baco;Ing.;57;poslanec NR SR;Trenèín;HZDS;Peter Baco
+6;HZDS;60;Katarína;Tóthová;prof. JUDr. DrSc.;62;poslankyòa NR SR;Bratislava;HZDS;Katarína Tóthová
+6;HZDS;61;Štefan;Pucko;Ing.;41;starosta;Štiavnik;HZDS;Štefan Pucko
+6;HZDS;62;Štefan;Balá;JUDr.;60;riadite¾ MsKs;Rimavská Sobota;HZDS;Štefan Balá
+6;HZDS;63;Janka;Gantnerová;Ing.;42;obchodná riadite¾ka;Kemarok;HZDS;Janka Gantnerová
+6;HZDS;64;Ladislav;Lukáè;;49;riadite¾ spoloènosti;Holíè;HZDS;Ladislav Lukáè
+6;HZDS;65;Alena;Šišková;JUDr.;43;komerèná právnièka;Hrušovany;HZDS;Alena Šišková
+6;HZDS;66;Martin;Podmajerskı;Ing.;46;stavebnı ininier;Myjava;HZDS;Martin Podmajerskı
+6;HZDS;67;Štefan;Holešèák;Ing.;55;zástupca riadite¾a školy;Èadca;HZDS;Štefan Holešèák
+6;HZDS;68;Jozef;Haleckı;MUDr.;52;lekár;Bardejov;HZDS;Jozef Haleckı
+6;HZDS;69;Tatiana;Houdeková;JUDr.;47;právnièka;Košice;HZDS;Tatiana Houdeková
+6;HZDS;70;Peter;Hudák;MUDr.;58;lekár;Nové Zámky;HZDS;Peter Hudák
+6;HZDS;71;Mária;Èemerièková;Mgr.;48;riadite¾ka školy;Hriòová;HZDS;Mária Èemerièková
+6;HZDS;72;Ján;Dreisig;Ing.;55;podnikate¾;Martin;HZDS;Ján Dreisig
+6;HZDS;73;Jozef;Huljak;Ing.;56;konate¾ spoloènosti;Prievidza;HZDS;Jozef Huljak
+6;HZDS;74;Pavol;Kaèic;Ing.;44;poslanec NR SR;Stropkov;HZDS;Pavol Kaèic
+6;HZDS;75;Alexander;Patkoló;;45;ivnostník;Bratislava;RIS;Alexander Patkoló
+6;HZDS;76;Július;Höffer;MUDr.;47;lekár;Luèenec;HZDS;Július Höffer
+6;HZDS;77;¼ubica;Mandáková;;45;starostka;Ve¾ké Vozokany;HZDS;¼ubica Mandáková
+6;HZDS;78;Hana;Pravdová;Mgr.;42;šéfredaktorka;Kaplna;HZDS;Hana Pravdová
+6;HZDS;79;Alena;Ondièová;Ing.;31;manaérka;Povaská Bystrica;HZDS;Alena Ondièová
+6;HZDS;80;Eva;Kocová;Ing.;43;vıskumná pracovníèka;ilina;HZDS;Eva Kocová
+6;HZDS;81;Ján;Šimko;MUDr.;53;lekár;Vranov nad Top¾ou;HZDS;Ján Šimko
+6;HZDS;82;Eleonóra;Kašaiová;;43;podnikate¾ka;Košice;HZDS;Eleonóra Kašaiová
+6;HZDS;83;Tibor;Pethö;Ing.;33;riadite¾ odboru;Sládkovièovo;HZDS;Tibor Pethö
+6;HZDS;84;Ján;Šeševièka;MVDr.;47;veterinárny lekár;Revúcka Lehota;HZDS;Ján Šeševièka
+6;HZDS;85;Jozef;Trstenskı;Ing.;42;primátor;Nové Mesto nad Váhom;HZDS;Jozef Trstenskı
+6;HZDS;86;Vladimír;Struhár;Mgr.;60;pedagóg;Ruomberok;HZDS;Vladimír Struhár
+6;HZDS;87;Jaroslav;Tiško;Ing.;40;technik;Svidník;HZDS;Jaroslav Tiško
+6;HZDS;88;Emília;Barkociová;RNDr.;43;podnikate¾ka;Nesvady;HZDS;Emília Barkociová
+6;HZDS;89;Ján;Turòa;doc. RNDr. CSc.;47;vedúci katedry;Bratislava;HZDS;Ján Turòa
+6;HZDS;90;Alojz;Engliš;Ing.;55;poslanec NR SR;Nováèany;HZDS;Alojz Engliš
+6;HZDS;91;Milan;Staòo;Ing.;39;vedúci odboru;Dubnica nad Váhom;HZDS;Milan Staòo
+6;HZDS;92;Marián;Tuchscher;Ing.;55;vedúci odboru;ilina;HZDS;Marián Tuchscher
+6;HZDS;93;Jozefína;Obšitníková;;50;pracovníèka Nadácie;Snina;HZDS;Jozefína Obšitníková
+6;HZDS;94;¼ubomír;Kropil;MVDr.;42;predseda PD;iar nad Hronom;HZDS;¼ubomír Kropil
+6;HZDS;95;Jana;Staòová;Ing.;31;lesná ininierka;emberovce;HZDS;Jana Staòová
+6;HZDS;96;Monika;Krištofièová;Ing.;28;manaérka;Trnava;HZDS;Monika Krištofièová
+6;HZDS;97;Imrich;Andrejèák;Ing.;61;poslanec NR SR;Bratislava;HZDS;Imrich Andrejèák
+6;HZDS;98;Milan;Mertoš;Mgr.;57;uèite¾;Bobrovec;HZDS;Milan Mertoš
+6;HZDS;99;Andrej;Bega;MUDr.;46;lekár;Medzilaborce;HZDS;Andrej Bega
+6;HZDS;100;Vasil;Kolesár;Ing.;33;konate¾ spoloènosti;Spišská Nová Ves;HZDS;Vasil Kolesár
+6;HZDS;101;aneta;Pittnerová;Mgr.;30;riadite¾ka odboru;Humenné;HZDS;aneta Pittnerová
+6;HZDS;102;Zuzana;Lenická;MUDr.;32;lekárka;Moèenok;HZDS;Zuzana Lenická
+6;HZDS;103;¼ubica;Haraka¾ová;Ing.;38;tajomníèka fakulty;Trenèín;HZDS;¼ubica Haraka¾ová
+6;HZDS;104;Eva;Bollová;MVDr.;45;hygienièka;Èadca;HZDS;Eva Bollová
+6;HZDS;105;Ladislav;Kalafa;Ing.;49;chemik - špecialista;Èièava;HZDS;Ladislav Kalafa
+6;HZDS;106;¼ubomír;Novotnı;MVDr.;40;veterinárny lekár;Krupina;HZDS;¼ubomír Novotnı
+6;HZDS;107;Marián;Kováè;;37;riadite¾ firmy;Trnava;HZDS;Marián Kováè
+6;HZDS;108;Václav;Petrovèik;Mgr.;43;riadite¾ školy;Horòa;HZDS;Václav Petrovèik
+6;HZDS;109;Elena;Valenteje;;25;asistentka riadite¾a;Radobica;HZDS;Elena Valenteje
+6;HZDS;110;Jozef;Vierik;;42;súkromnı podnikate¾;Horná Štubòa;HZDS;Jozef Vierik
+6;HZDS;111;Karol;Jurík;Ing.;25;finanènı poradca;Obyce;HZDS;Karol Jurík
+6;HZDS;112;Eva;Krahulcová;Ing.;46;vedúca kontroly;Podbrezová;HZDS;Eva Krahulcová
+6;HZDS;113;Maroš;Hedera;;33;informatik;Bratislava;HZDS;Maroš Hedera
+6;HZDS;114;Anna;Hoštáková;Ing.;44;ekonómka;Povaská Bystrica;HZDS;Anna Hoštáková
+6;HZDS;115;Anton;Radolskı;Ing.;45;ivnostník;Ochodnica;HZDS;Anton Radolskı
+6;HZDS;116;Eva;Grossingerová;Mgr.;51;zástupkyòa riadite¾a hotela;Poprad;HZDS;Eva Grossingerová
+6;HZDS;117;Tibor;Theis;;38;starosta obce;Helcmanovce;HZDS;Tibor Theis
+6;HZDS;118;Július;Beník;Ing.;64;starosta obce;Sušany;HZDS;Július Beník
+6;HZDS;119;Monika;Širková;;28;referentka;Komárno;HZDS;Monika Širková
+6;HZDS;120;Adriana;Adamicová;;31;referentka;Bobrov;HZDS;Adriana Adamicová
+6;HZDS;121;Peter;Bulík;Mgr.;44;riadite¾ školy;Bánovce nad Bebravou;HZDS;Peter Bulík
+6;HZDS;122;Anna;Zákutná;PhDr.;41;odborná referentka;Prešov;HZDS;Anna Zákutná
+6;HZDS;123;Ivana;Kapráliková;Mgr.;28;odborná referentka;Dunajská Streda;HZDS;Ivana Kapráliková
+6;HZDS;124;Peter;Horváth;MUDr. MPH;53;námestník riadite¾a;Bratislava;HZDS;Peter Horváth
+6;HZDS;125;Gabriela;Maèaiová;PaedDr.;53;pedagogièka;Bernolákovo;HZDS;Gabriela Maèaiová
+6;HZDS;126;Marián;Horváth;Ing.;30;ivnostník;Tvrdošín;HZDS;Marián Horváth
+6;HZDS;127;Mária;Dvorská;;50;ekonómka;Púchov;HZDS;Mária Dvorská
+6;HZDS;128;Andrej;Semanco;Ing. arch.;47;zástupca primátora;Humenné;HZDS;Andrej Semanco
+6;HZDS;129;¼ubomír;Síke¾a;Ing.;47;riadite¾ firmy;Suché Brezovo;HZDS;¼ubomír Síke¾a
+6;HZDS;130;Lıdia;Bušanièová;Bc.;47;riadite¾ka DSS;Stráske;HZDS;Lıdia Bušanièová
+6;HZDS;131;Stanislav;Mièko;Bc.;48;manaér logistiky;Nemšová;HZDS;Stanislav Mièko
+6;HZDS;132;Milan;Lištiak;Ing.;58;riadite¾ školy;Vaec;HZDS;Milan Lištiak
+6;HZDS;133;Ladislav;Magyar;Mgr.;33;vedúci kancelárie;Sabinov;HZDS;Ladislav Magyar
+6;HZDS;134;František;Tamašoviè;Ing.;49;riadite¾ SOU;Šurany;HZDS;František Tamašoviè
+6;HZDS;135;Miroslav;Zaèko;Ing.;33;ivnostník;Hlohovec;HZDS;Miroslav Zaèko
+6;HZDS;136;Julián;Pitoòák;Ing.;62;súkromnı podnikate¾;Limbach;HZDS;Julián Pitoòák
+6;HZDS;137;Eva;Hejduková;;46;starostka obce;Tuchyòa;HZDS;Eva Hejduková
+6;HZDS;138;Jozefa;Šamánková;;49;referentka;Bytèa;HZDS;Jozefa Šamánková
+6;HZDS;139;Marta;Pajonková;Mgr.;41;pedagogièka;Stará ¼ubovòa;HZDS;Marta Pajonková
+6;HZDS;140;Eva;Moravèíková;;49;súkromná podnikate¾ka;arnovica;HZDS;Eva Moravèíková
+6;HZDS;141;¼uboš;Ïurdiak;Mgr.;26;generálny riadite¾;Obyce;HZDS;¼uboš Ïurdiak
+6;HZDS;142;Štefan;Horváth;MUDr.;47;lekár;Košice;HZDS;Štefan Horváth
+6;HZDS;143;Ivana;Polláková;;38;asistentka;Skalica;HZDS;Ivana Polláková
+6;HZDS;144;Peter;Regina;;35;agronóm;Púchov;HZDS;Peter Regina
+6;HZDS;145;Margita;Slíová;;35;ekonómka;Èadca;HZDS;Margita Slíová
+6;HZDS;146;Štefan;Èarnı;PaedDr.;38;pedagóg;Svidník;HZDS;Štefan Èarnı
+6;HZDS;147;Štefan;Vinca;Ing.;32;súkromnı podnikate¾;Poproè;HZDS;Štefan Vinca
+6;HZDS;148;Peter;Mervart;;32;ivnostník;Topo¾èany;HZDS;Peter Mervart
+6;HZDS;149;Nadeda;Kvaková;RNDr.;44;odborná asistentka;Banská Štiavnica;HZDS;Nadeda Kvaková
+6;HZDS;150;¼udmila;Laurová;;35;pedagogièka;Levoèa;HZDS;¼udmila Laurová
+7;OKS;1;Peter;Tatár;MUDr. CSc.;49;lekár;Bratislava;OKS;Peter Tatár
+7;OKS;2;František;Šebej;PhDr. CSc.;55;psychológ;Bratislava;OKS;František Šebej
+7;OKS;3;Peter;Osuskı;MUDr. CSc.;48;vysokoškolskı pedagóg;Bratislava;OKS;Peter Osuskı
+7;OKS;4;Katarína;Adamicová;doc. MUDr. PhD.;49;vysokoškolskı pedagóg;Martin;OKS;Katarína Adamicová
+7;OKS;5;Ondrej;Dostál;Mgr.;31;sociológ;Bratislava;OKS;Ondrej Dostál
+7;OKS;6;Peter;Zajac;prof. PhDr. DrSc.;56;literárny vedec;Bratislava;OKS;Peter Zajac
+7;OKS;7;René;Bílik;PaedDr. CSc.;42;literárny vedec;Pezinok;OKS;René Bílik
+7;OKS;8;Tibor;Takáè;Ing.;48;geodet - súkromnı podnikate¾;Roòava;OKS;Tibor Takáè
+7;OKS;9;Peter;Svıba;Mgr.;33;technik;Nitra;OKS;Peter Svıba
+7;OKS;10;Radovan;Kazda;Ing.;30;krajinnı ininier;Stará Turá;OKS;Radovan Kazda
+7;OKS;11;Peter;Sloboda;;48;psychológ;Stará ¼ubovòa;OKS;Peter Sloboda
+7;OKS;12;Peter;Kalmár;Ing.;50;pracovník vıpoètovej techniky;Nitra;OKS;Peter Kalmár
+7;OKS;13;Pavel;Vlèek;Ing.;52;stavebnı ininier;Bratislava;OKS;Pavel Vlèek
+7;OKS;14;Miloš;Ševec;Ing.;51;štátny zamestnanec;Kysucké Nové Mesto;OKS;Miloš Ševec
+7;OKS;15;Miroslav;Timár;Ing. arch.;32;architekt;Štítnik;OKS;Miroslav Timár
+7;OKS;16;Marieta;Büngerová;Ing;65;chemickı ininier;Nitra;OKS;Marieta Büngerová
+7;OKS;17;Svetozár;Gavora;Ing.;41;prekladate¾;Nová Baòa;OKS;Svetozár Gavora
+7;OKS;18;Miroslav;Malaník;Ing.;52;vysokoškolskı uèite¾;Trenèín;OKS;Miroslav Malaník
+7;OKS;19;Ján;Tokár;Ing.;38;ekonóm;Prešov;OKS;Ján Tokár
+7;OKS;20;Ivan;Braník;Mgr.;54;uèite¾;Ša¾a;OKS;Ivan Braník
+7;OKS;21;Zuzana;Dzivjaková;Ing.;45;ekonómka;Humenné;OKS;Zuzana Dzivjaková
+7;OKS;22;Jozef;Kováè;Mgr.;52;uèite¾;Bytèa;OKS;Jozef Kováè
+7;OKS;23;Štefan;Tomáš;;32;manaér;Michalovce;OKS;Štefan Tomáš
+7;OKS;24;Elígia;Turi Nagyová;JUDr. CSc.;77;sociológ;Nitra;OKS;Elígia Turi Nagyová
+7;OKS;25;Jozef;Brezina;;24;študent práva;Banská Bystrica;OKS;Jozef Brezina
+7;OKS;26;Marián;Beták;Ing. arch.;39;architekt;Trenèianska Turná;OKS;Marián Beták
+7;OKS;27;Dušan;Sloboda;RNDr.;24;regionálny geograf;Prešov;OKS;Dušan Sloboda
+7;OKS;28;Peter;Frasch;Ing.;27;sieovı špecialista;Levice;OKS;Peter Frasch
+7;OKS;29;Dušan;Francù;Ing.;36;technik;Bratislava;OKS;Dušan Francù
+7;OKS;30;Vladislav;Janiš;;48;súkromnı podnikate¾;Kysucké Nové Mesto;OKS;Vladislav Janiš
+7;OKS;31;Pavel;Vaško;;55;technik;Košice;OKS;Pavel Vaško
+7;OKS;32;Peter;Lièák;Mgr.;26;právnik;Kapušany;OKS;Peter Lièák
+7;OKS;33;Alica;Möller;;27;študentka;Povaská Bystrica;OKS;Alica Möller
+7;OKS;34;Branislav;Bateško;Ing.;39;ekonóm;Prešov;OKS;Branislav Bateško
+7;OKS;35;Vlastislav;Svododa;;47;ivnostník;Kosto¾any pod Tribeèom;OKS;Vlastislav Svododa
+7;OKS;36;Juraj;Melicher;Ing.;36;finanèník;Piešany;OKS;Juraj Melicher
+7;OKS;37;Anton;Ferenèík;;53;podnikate¾;Liptovské Sliaèe;OKS;Anton Ferenèík
+7;OKS;38;Ladislav;Ondrášek;;53;riadiaci pracovník;Košice;OKS;Ladislav Ondrášek
+7;OKS;39;Darina;Svobodová;Mgr.;47;súkromnı podnikate¾;Kosto¾any pod Tribeèom;OKS;Darina Svobodová
+7;OKS;40;Eduard;Blatnickı;Ing.;65;kontrolór;Banská Bystrica;OKS;Eduard Blatnickı
+7;OKS;41;Radovan;Gyõri;Mgr.;28;uèite¾;Podolínec;OKS;Radovan Gyõri
+7;OKS;42;Vladimír;Ševèík;;41;údrbár;Tesárske Mlyòany;OKS;Vladimír Ševèík
+7;OKS;43;Pavol;Balgavı;prof. CSc.;58;vysokoškolskı uèite¾;Bratislava;OKS;Pavol Balgavı
+7;OKS;44;Štefan;Slabej;Ing.;28;manaér;Košice;OKS;Štefan Slabej
+7;OKS;45;Eugen;Zaujec;;43;technik;Nitra;OKS;Eugen Zaujec
+7;OKS;46;Michal;Kapusta;;27;študent;Banská Bystrica;OKS;Michal Kapusta
+7;OKS;47;Milan;Tomkuliak;JUDr.;45;právnik;Bratislava;OKS;Milan Tomkuliak
+7;OKS;48;Ivica;Vidrová;akad. soch.;59;vysokoškolskı uèite¾;Bratislava;OKS;Ivica Vidrová
+7;OKS;49;Roman;Hegedûs;;24;študent;Bratislava;OKS;Roman Hegedûs
+8;HZD;1;Ivan;Gašparoviè;doc. JUDr. CSc.;61;vysokoškol. pedagóg;Bratislava;HZD;Ivan Gašparoviè
+8;HZD;2;Mojmír;Mamojka;prof. JUDr.;52;vysokoškol. pedagóg;Bratislava;BEZPP;Mojmír Mamojka
+8;HZD;3;Marta;Aibeková;PhDr.;55;psychologièka;Bratislava;HZD;Marta Aibeková
+8;HZD;4;Ján;Benèat;prof. Ing. CSc.;58;vysokoškol. pedagóg;ilina;HZD;Ján Benèat
+8;HZD;5;Ján;Koršó;;52;primátor;Poltár;HZD;Ján Koršó
+8;HZD;6;Vladimír;Vranoviè;Mgr.;55;primátor;Sereï;HZD;Vladimír Vranoviè
+8;HZD;7;Jozef;Grapa;Ing.;44;elektrotechnickı ininier;Krásno nad Kysucou;HZD;Jozef Grapa
+8;HZD;8;Martin;Sarvaš;Ing. arch.;41;manaér;Bratislava;HZD;Martin Sarvaš
+8;HZD;9;Jozef;Šimko;JUDr.;51;právnik;Rimavská Sobota;HZD;Jozef Šimko
+8;HZD;10;Dušan;Smatana;Ing.;49;podnikate¾;Topo¾èianky;HZD;Dušan Smatana
+8;HZD;11;Peter;Szabo;Mgr.;39;riadite¾ MKS;Senec;HZD;Peter Szabo
+8;HZD;12;Jozef;Studeniè;Dipl. tech.;50;manaér;Bratislava;HZD;Jozef Studeniè
+8;HZD;13;Anna;Brodanská;PhDr.;44;SZÈO;Prešov;HZD;Anna Brodanská
+8;HZD;14;Igor;Tinka;;39;riadite¾;Nové Mesto nad Váhom;HZD;Igor Tinka
+8;HZD;15;Viera;Tomèíková;;43;starostka obce;Liptovské K¾aèany;HZD;Viera Tomèíková
+8;HZD;16;Gerd;Sabo;Mgr.;29;ivnostník;Košice;HZD;Gerd Sabo
+8;HZD;17;Ján;Godál;;52;št. zamestnanec;Trnava;HZD;Ján Godál
+8;HZD;18;Ivan;Šaško;Ing.;55;primátor;Tvrdošín;HZD;Ivan Šaško
+8;HZD;19;Ján;Chromek;Ing.;38;št. zamestnanec;Kokava nad Rimavicou;HZD;Ján Chromek
+8;HZD;20;Marián;Kollár;MUDr.;43;lekár;Bratislava;HZD;Marián Kollár
+8;HZD;21;Katarína;Chajdáková;Mgr.;29;spisovate¾ka publicistka;ilina;HZD;Katarína Chajdáková
+8;HZD;22;Marian;Jaroš;;55;podnikate¾;Košice;HZD;Marian Jaroš
+8;HZD;23;Jozef;Krnáè;;23;študent;Detva;HZD;Jozef Krnáè
+8;HZD;24;Mikuláš;Hašan;Ing.;53;podnikate¾;Banka;HZD;Mikuláš Hašan
+8;HZD;25;Robert;Kováè;;34;poradca;Nové Zámky;HZD;Robert Kováè
+8;HZD;26;¼ubomír;Martinka;Mgr.;38;pedagóg;Nitra;HZD;¼ubomír Martinka
+8;HZD;27;Marta;Podhradská;;53;novinárka;Bratislava;HZD;Marta Podhradská
+8;HZD;28;Ivan;Sıkora;;39;podnikate¾;Nitra;HZD;Ivan Sıkora
+8;HZD;29;Ján;Zátek;;37;predseda drustva;Krásno nad Kysucou;HZD;Ján Zátek
+8;HZD;30;Jozef;Kyzek;Bc.;43;námestník gen. riadite¾a;Èadca;HZD;Jozef Kyzek
+8;HZD;31;Dáša;Machalová;;49;tlmoèníèka;Bratislava;HZD;Dáša Machalová
+8;HZD;32;Alojz;Hanèin;;33;riadite¾;eliezovce;HZD;Alojz Hanèin
+8;HZD;33;Peter;Pethõ;Ing.;33;starosta;Partizánska ¼upèa;HZD;Peter Pethõ
+8;HZD;34;Jozef;Zima;Ing.;52;ekonóm;Levice;HZD;Jozef Zima
+8;HZD;35;¼uboš;Štrba;;35;novinár;Hlohovec;HZD;¼uboš Štrba
+8;HZD;36;Mariana;Mocáková;Ing.;34;podnikate¾;Humenné;HZD;Mariana Mocáková
+8;HZD;37;Juraj;Choma;;44;riadite¾;Dolnı Kubín;HZD;Juraj Choma
+8;HZD;38;Jarmila;Michalovová;PhDr.;46;sociologièka;Gelnica;HZD;Jarmila Michalovová
+8;HZD;39;Mária;Galiková;Ing.;46;ekonómka;Kemarok;HZD;Mária Galiková
+8;HZD;40;Peter;Marèek;;48;manaér;Bratislava;HZD;Peter Marèek
+8;HZD;41;Dušan;Karaba;Ing.;48;technik;Piešany;HZD;Dušan Karaba
+8;HZD;42;¼ubica;Juranová;;53;technickı pracovník;Bratislava;BEZPP;¼ubica Juranová
+8;HZD;43;Jozef;Štefánik;;23;študent;Trnava;HZD;Jozef Štefánik
+8;HZD;44;Dezider;Szabó;;57;podnikate¾;Dunajská Streda;HZD;Dezider Szabó
+9;ROMA;1;Ladislav;Fízik;Mgr.;48;podnikate¾;Banská Bystrica;ROMA;Ladislav Fízik
+9;ROMA;2;Zdenek;Bogdan;;43;podnikate¾;Banská Bystrica;ROMA;Zdenek Bogdan
+9;ROMA;3;Ivan;Horváth;;50;podnikate¾;Medzev;BEZPP;Ivan Horváth
+9;ROMA;4;Nataša;Slobodníková;Mgr.;50;úradníèka;Banská Bystrica;BEZPP;Nataša Slobodníková
+9;ROMA;5;Jozef;Berki;Ing.;47;pedagogickı pracovník;Rimavská Sobota;ROMA;Jozef Berki
+9;ROMA;6;Vojtech;Kökény;Bc.;45;úradník;Rimavská Sobota;ROMA;Vojtech Kökény
+9;ROMA;7;Vojtech;György;;56;úradník;Rimavská Sobota;ROMA;Vojtech György
+9;ROMA;8;Mária;Bertóková;;44;úradníèka;Dunajská Streda;BEZPP;Mária Bertóková
+9;ROMA;9;Jozef;Šándor;;45;úradník;Trnava;ROMA;Jozef Šándor
+9;ROMA;10;Viktor;Nagy;;51;úradník;Drahòov;ROMA;Viktor Nagy
+9;ROMA;11;Jozef;Kónya;;38;robotník;Turòa nad Bodvou;BEZPP;Jozef Kónya
+9;ROMA;12;Irena;Jancsová;Mgr.;39;pedagogická pracovníèka;Nitra;BEZPP;Irena Jancsová
+9;ROMA;13;Július;Berky;;48;manaér;Luèenec;BEZPP;Július Berky
+9;ROMA;14;Miroslav;Gai;;37;robotník;Èaòa;BEZPP;Miroslav Gai
+9;ROMA;15;Adrian;Berki;;30;manaér;Ve¾kı Krtíš;BEZPP;Adrian Berki
+9;ROMA;16;Július;Gábor;;37;zdravotnı pracovník;Jelšava;ROMA;Július Gábor
+9;ROMA;17;Alexander;Várady;;45;zámoèník;Pavlovce;ROMA;Alexander Várady
+9;ROMA;18;Juraj;Baran;;37;technik;Valaská;BEZPP;Juraj Baran
+9;ROMA;19;Ondrej;Berki;;55;automechanik;Hostice;ROMA;Ondrej Berki
+9;ROMA;20;Magdaléna;Karáèová;;38;podnikate¾ka;arnovica;BEZPP;Magdaléna Karáèová
+9;ROMA;21;Július;Bartoš;;47;robotník;Banská Belá;ROMA;Július Bartoš
+9;ROMA;22;Bartolomej;Baštúr;;36;robotník;Moldava nad Bodvou;BEZPP;Bartolomej Baštúr
+9;ROMA;23;Roman;Balá;;26;študent;Banská Bystrica;BEZPP;Roman Balá
+9;ROMA;24;František;Rigó;;38;vodiè;Turòa nad Bodvou;BEZPP;František Rigó
+9;ROMA;25;Jozef;Mao;;33;asistent uèite¾a;Brezno;ROMA;Jozef Mao
+9;ROMA;26;Ján;Plachetka;;52;podnikate¾;Švedlár;BEZPP;Ján Plachetka
+9;ROMA;27;Marián;Jonáš;;45;vojak z povolania;Zvolen;BEZPP;Marián Jonáš
+9;ROMA;28;Vojtech;Váradi;;48;robotník;Lenartovce;ROMA;Vojtech Váradi
+9;ROMA;29;Ján;Lièko;;25;èašník;Banská Štiavnica;BEZPP;Ján Lièko
+9;ROMA;30;Pavla;Cicková;;44;úradník;Zvolen;BEZPP;Pavla Cicková
+9;ROMA;31;Vladimír;Daniel;;33;robotník;Helcmanovce;ROMA;Vladimír Daniel
+9;ROMA;32;Eva;Plachetková;;27;predavaèka;Švedlár;BEZPP;Eva Plachetková
+9;ROMA;33;Pavol;Balá;;32;robotník;Turòa nad Bodvou;BEZPP;Pavol Balá
+9;ROMA;34;Dalibor;Bikár;;40;robotník;Prakovce;ROMA;Dalibor Bikár
+9;ROMA;35;Igor;Plachetka;;39;robotník;Helcmanovce;ROMA;Igor Plachetka
+9;ROMA;36;Viliam;Beòák;;45;robotník;Michalovce;ROMA;Viliam Beòák
+9;ROMA;37;Karol;Lakatoš;;46;podnikate¾;Ve¾ké Kapušany;ROMA;Karol Lakatoš
+9;ROMA;38;Arpád;Rigó;;54;podnikate¾;Bratislava;ROMA;Arpád Rigó
+9;ROMA;39;Štefan;Pišák;;53;podnikate¾;Drahòov;ROMA;Štefan Pišák
+9;ROMA;40;Daniel;Tancoš;;40;podnikate¾;Trebišov;ROMA;Daniel Tancoš
+9;ROMA;41;Andrej;Tatar;;51;robotník;Lastomír;ROMA;Andrej Tatar
+9;ROMA;42;Vojtech;Kolár;;46;robotník;Pavlovce nad Uhom;ROMA;Vojtech Kolár
+9;ROMA;43;František;Oláh;;47;uèite¾;Drahòov;ROMA;František Oláh
+9;ROMA;44;Mikuláš;Kondík;;51;robotník;Michalovce;ROMA;Mikuláš Kondík
+10;KSS;1;Jozef;Ševc;Ing. CSc.;54;predseda ÚV KSS;Bratislava;KSS;Jozef Ševc
+10;KSS;2;Ivan;Hopta;PhDr. CSc.;44;šéfredaktor Úsvitu;Humenné;KSS;Ivan Hopta
+10;KSS;3;Vladimír;Ïaïo;RSDr.;54;obch. námestník;Martin;KSS;Vladimír Ïaïo
+10;KSS;4;Michal;Vajda;MUDr.;46;súkr. lekár;Vojany;KSS;Michal Vajda
+10;KSS;5;Karol;Ondriaš;RNDr. DrSc.;50;vedeckı pracovník;Bratislava;KSS;Karol Ondriaš
+10;KSS;6;Jozef;Hrdlièka;PhDr.;25;historik;Trenèín;KSS;Jozef Hrdlièka
+10;KSS;7;Dagmar;Bollová;PaedDr.;59;pedagogièka;Senica;KSS;Dagmar Bollová
+10;KSS;8;Herman;Arvay;;38;manaér;Bratislava;KSS;Herman Arvay
+10;KSS;9;Mikuláš;Jušèík;;54;podnikate¾;Habura;KSS;Mikuláš Jušèík
+10;KSS;10;Samuel;Zubo;RSDr. CSc.;53;pedag. pracovník;Rimavská Sobota;KSS;Samuel Zubo
+10;KSS;11;Karol;Fajnor;Ing.;47;dopr. ininier;Bratislava;KSS;Karol Fajnor
+10;KSS;12;Dušan;Saksa;Mgr.;48;uèite¾;Ladce;KSS;Dušan Saksa
+10;KSS;13;Tibor;Mátyás;Ing.;59;banskı ininier;Košice;KSS;Tibor Mátyás
+10;KSS;14;Jozef;Šiška;Ing.;55;riadite¾ závodu;Nitra;KSS;Jozef Šiška
+10;KSS;15;Anton;Trebu¾a;;51;elektrikár;Hriòová;KSS;Anton Trebu¾a
+10;KSS;16;Ján;Gregor;RSDr.;60;politológ;Ruomberok;KSS;Ján Gregor
+10;KSS;17;Zuzana;Remetová;Ing.;54;po¾n. technik;Raslavice;KSS;Zuzana Remetová
+10;KSS;18;Štefan;Tatranskı;;51;starosta;Micha¾any;KSS;Štefan Tatranskı
+10;KSS;19;Jozef;Kriško;Ing.;56;starosta;Duplín;KSS;Jozef Kriško
+10;KSS;20;Martin;Bujan;RSDr.;56;eleznièiar;Trnava;KSS;Martin Bujan
+10;KSS;21;Štefan;Miklúš;JUDr.;48;právnik;Košice;KSS;Štefan Miklúš
+10;KSS;22;Milan;Bencúr;;50;ivnostník;Jasenová;KSS;Milan Bencúr
+10;KSS;23;Jozef;Bošanskı;;49;vodiè;Nitrianska Streda;KSS;Jozef Bošanskı
+10;KSS;24;Ján;Janoèko;Ing.;57;hutnı ininier;Snina;KSS;Ján Janoèko
+10;KSS;25;Juraj;Kubiš;MVDr.;58;veter. lekár;Oèová;KSS;Juraj Kubiš
+10;KSS;26;Jozef;Fuèek;;42;automechanik;Vrchteplá;KSS;Jozef Fuèek
+10;KSS;27;Ján;Adamoviè;;57;prev. zámoèník;Gajary;KSS;Ján Adamoviè
+10;KSS;28;Viera;Duchoslavová;;59;dôchodca;Holíè;KSS;Viera Duchoslavová
+10;KSS;29;Juraj;Obert;;29;ivnostník;Zlaté Moravce;KSS;Juraj Obert
+10;KSS;30;Mikuláš;Benko;;54;robotník;Stará ¼ubovòa;KSS;Mikuláš Benko
+10;KSS;31;Július;Makó;Ing. CSc.;44;ivnostník;elovce;KSS;Július Makó
+10;KSS;32;Albert;Albert;RSDr.;56;riad. závodu;Pavlova Ves;KSS;Albert Albert
+10;KSS;33;Miroslav;Samiec;PhDr.;55;uèite¾;Prievidza;KSS;Miroslav Samiec
+10;KSS;34;Eduard;Rovenskı;RSDr.;55;manaér;Bratislava;KSS;Eduard Rovenskı
+10;KSS;35;Andrea;Bíliková;Ing.;29;str. ininierka;Trnava;BEZPP;Andrea Bíliková
+10;KSS;36;Michal;Popovec;Mgr.;51;stredošk. profesor;Bardejov;KSS;Michal Popovec
+10;KSS;37;Pavol;Paulišin;RSDr. CSc.;57;politológ;Košice;KSS;Pavol Paulišin
+10;KSS;38;Jozef;Petráš;Ing.;52;elektroininier;Komárno;KSS;Jozef Petráš
+10;KSS;39;Stanislav;Horskı;;54;súkr. podnikate¾;Turzovka;KSS;Stanislav Horskı
+10;KSS;40;Milan;Šlapka;RSDr.;57;THP;Povaská Bystrica;KSS;Milan Šlapka
+10;KSS;41;Milan;Gubier;;58;robotník;Poltár;KSS;Milan Gubier
+10;KSS;42;Mária;Marušicová;;52;ekonómka;Pezinok;KSS;Mária Marušicová
+10;KSS;43;Štefan;Borovskı;dpt.;49;elektrotechnik;Ve¾ké Ú¾any;KSS;Štefan Borovskı
+10;KSS;44;Ján;Hamar;RSDr.;57;politológ;Levice;KSS;Ján Hamar
+10;KSS;45;Ján;Ševc;RSDr. CSc.;54;politológ;Banská Bystrica;KSS;Ján Ševc
+10;KSS;46;Pavol;Filipèan;Ing.;50;drev. ininier;Turèek;KSS;Pavol Filipèan
+10;KSS;47;Milan;Katušèák;;50;elektrotechnik;Prešov;KSS;Milan Katušèák
+10;KSS;48;Zdenko;Marton;RSDr.;53;technik;Senec;KSS;Zdenko Marton
+10;KSS;49;Viliam;Belica;;53;po¾n. technik;Ješkova Ves;KSS;Viliam Belica
+10;KSS;50;Vladimír;Herda;Mgr.;39;stredošk. profesor;Banská Štiavnica;BEZPP;Vladimír Herda
+10;KSS;51;Milan;Hajtmanskı;;62;baník (dôchodca);Ruomberok;KSS;Milan Hajtmanskı
+10;KSS;52;Ivan;Múdry;;56;technik;Hlohovec;KSS;Ivan Múdry
+10;KSS;53;Jozef;Balla;;46;technik;Nové Zámky;KSS;Jozef Balla
+10;KSS;54;Viliam;Fraòo;;53;strojník;Bratislava;KSS;Viliam Fraòo
+10;KSS;55;Emília;Bukovèíková;;58;úètovníèka;Moravské Lieskové;KSS;Emília Bukovèíková
+10;KSS;56;Jozef;Bacher;;55;prednosta stanice;Lipany;KSS;Jozef Bacher
+10;KSS;57;Peter;Koval;Ing.;54;strojnı ininier;Krompachy;KSS;Peter Koval
+10;KSS;58;Ján;Machoviè;;55;súkr. podnikate¾;Krupina;KSS;Ján Machoviè
+10;KSS;59;Vladislav;Èervenik;;51;majster;Kysucké Nové Mesto;KSS;Vladislav Èervenik
+10;KSS;60;Ján;Breznickı;;56;vodoh. robotník;Kostolná - Zárieèie;KSS;Ján Breznickı
+10;KSS;61;Karol;Sopko;Ing.;59;manaér;Nitra;KSS;Karol Sopko
+10;KSS;62;Ladislav;Vojtko;Mgr.;45;starosta obce;Èakanovce;KSS;Ladislav Vojtko
+10;KSS;63;František;Kasanickı;Ing.;58;in. spojov;Bratislava;KSS;František Kasanickı
+10;KSS;64;Peter;Jakubèák;;57;agronóm;Poprad;KSS;Peter Jakubèák
+10;KSS;65;Marián;Kakalejèík;;27;robotník;Helcmanovce;KSS;Marián Kakalejèík
+10;KSS;66;Ján;Karman;;50;starosta obce;Praha;KSS;Ján Karman
+10;KSS;67;Jaroslav;Machovèák;;56;podnikate¾;Staškov;KSS;Jaroslav Machovèák
+10;KSS;68;Ivan;Remeò;;55;starosta obce;Nitrianska Streda;KSS;Ivan Remeò
+10;KSS;69;Miroslav;Palkoviè;Ing.;61;technik;Prievidza;KSS;Miroslav Palkoviè
+10;KSS;70;Ján;Kudla;;49;zam. SBS;Senica;KSS;Ján Kudla
+10;KSS;71;O¾ga;Fábryová;;55;zam. pre prípravu dát;Bratislava;KSS;O¾ga Fábryová
+10;KSS;72;Štefan;Straka;;42;ivnostník;Èierne nad Top¾ou;KSS;Štefan Straka
+10;KSS;73;Miroslav;Èurma;PhDr.;49;kult-osv. pracovník;Košice;KSS;Miroslav Èurma
+10;KSS;74;Michal;Gaúr;;64;dôchodca;Revúca;KSS;Michal Gaúr
+10;KSS;75;¼ubomír;Kubis;;46;fin. referent;Martin;KSS;¼ubomír Kubis
+10;KSS;76;Vojtech;Babic;Mgr.;70;dôchodca;Valaská;KSS;Vojtech Babic
+10;KSS;77;Anton;Šipoš;;46;technik;Nitra;KSS;Anton Šipoš
+10;KSS;78;Jaroslav;Fábian;;56;technik;Adamovské Kochanovce;KSS;Jaroslav Fábian
+10;KSS;79;Ivan;Horn;;61;ivnostník;Stupava;KSS;Ivan Horn
+10;KSS;80;Pavel;Olah;;48;robotník;Šúrovce;KSS;Pavel Olah
+10;KSS;81;Marcel;Sidor;;22;podnikate¾;Humenné;BEZPP;Marcel Sidor
+10;KSS;82;Ján;Mikloš;;45;starosta;Vyšná Kamenica;KSS;Ján Mikloš
+10;KSS;83;Milan;Povaan;RSDr.;57;politológ;iar nad Hronom;KSS;Milan Povaan
+10;KSS;84;Anton;Matejko;Ing.;50;ved. predajne;ilina;KSS;Anton Matejko
+10;KSS;85;Ján;Hollı;RSDr.;54;technik;Bratislava;KSS;Ján Hollı
+10;KSS;86;Milan;Šebeò;;41;sústruník;Uhrovec;KSS;Milan Šebeò
+10;KSS;87;Jaroslav;Studenı;Ing.;54;ved. dielne;Holíè;BEZPP;Jaroslav Studenı
+10;KSS;88;Václav;Lachyta;;43;inšpektor;Blatné Remety;KSS;Václav Lachyta
+10;KSS;89;Emil;Ïuroviè;RNDr.;65;in. geológ;Brehy;KSS;Emil Ïuroviè
+10;KSS;90;Martin;Graòák;;35;súkr. podnikate¾;Námestovo;BEZPP;Martin Graòák
+10;KSS;91;Milan;Krošlák;Mgr.;58;stredošk. uèite¾;Partizánske;KSS;Milan Krošlák
+10;KSS;92;Marián;Švihran;;42;vıèapník - èašník;Krá¾ová pri Senci;KSS;Marián Švihran
+10;KSS;93;František;Murín;Ing.;49;vojak vo vısl.;Levice;KSS;František Murín
+10;KSS;94;Igor;Laclav;Ing.;46;lesnı ininier;Uliè;KSS;Igor Laclav
+10;KSS;95;Viera;Šokoková;Mgr.;49;majster OV;Banská Bystrica;KSS;Viera Šokoková
+10;KSS;96;Ivan;Bugáò;;49;dispeèer;Dolnı Kubín;KSS;Ivan Bugáò
+10;KSS;97;Jaroslav;Lacko;;50;elektromontér;Košeca;KSS;Jaroslav Lacko
+10;KSS;98;Dušan;Mašèuch;;55;vinohradník;Modra;KSS;Dušan Mašèuch
+10;KSS;99;Jozef;Kovaroviè;RSDr.;57;technik;Sereï;KSS;Jozef Kovaroviè
+10;KSS;100;Juraj;Fábián;;47;majster OV;Nové Zámky;KSS;Juraj Fábián
+10;KSS;101;Fedor;Šandor;MUDr.;52;chirurg;Humenné;BEZPP;Fedor Šandor
+10;KSS;102;Pavol;Gráè;;44;robotník;Omastiná;KSS;Pavol Gráè
+10;KSS;103;Ján;Chamko;Mgr.;59;uèite¾;Banská Bystrica;KSS;Ján Chamko
+10;KSS;104;Pavel;Chovanec;Ing.;50;vys. dôchodca;Slatinské Lazy;KSS;Pavel Chovanec
+10;KSS;105;Ivan;Marèák;Ing.;54;nezamestnanı;ilina;KSS;Ivan Marèák
+10;KSS;106;Milena;Steèáková;;44;úradníèka;Bratislava;KSS;Milena Steèáková
+10;KSS;107;Jozef;Kováè;PhDr.;63;ped. pracovník;Skalica;BEZPP;Jozef Kováè
+10;KSS;108;Milan;Ryban;;52;ivnostník;Kovarce;KSS;Milan Ryban
+10;KSS;109;Stanislav;Duda;;44;manaér;Zámutov;KSS;Stanislav Duda
+10;KSS;110;Šimon;Ganišin;JUDr.;60;právnik;Košice;KSS;Šimon Ganišin
+10;KSS;111;Milan;Jaïuï;;52;starosta obce;Svätı Anton;KSS;Milan Jaïuï
+10;KSS;112;Vendelín;Paniak;;49;vodiè;Tvrdošín;BEZPP;Vendelín Paniak
+10;KSS;113;Vlasta;Sedliaèiková;PhDr.;59;vychovávate¾ka;Bratislava;KSS;Vlasta Sedliaèiková
+10;KSS;114;Štefan;Zemko;;54;frézar;Trnava;KSS;Štefan Zemko
+10;KSS;115;Stanislav;Cebo;;47;elektrotechnik;Alekšince;KSS;Stanislav Cebo
+10;KSS;116;Andrej;Tudor;;48;robotník;Prešov;KSS;Andrej Tudor
+10;KSS;117;Štefan;Ircha;;58;ivnostník;Lastomír;KSS;Štefan Ircha
+10;KSS;118;Ján;Štefanickı;;54;has. záchranár;Dudince;KSS;Ján Štefanickı
+10;KSS;119;Vasi¾;Grundza;;48;vodiè;Svidník;KSS;Vasi¾ Grundza
+10;KSS;120;Miroslav;Molík;;52;inv. dôchodca;Bytèa;KSS;Miroslav Molík
+10;KSS;121;Ladislav;Zahradník;Ing.;54;technik;Malacky;KSS;Ladislav Zahradník
+10;KSS;122;Pavol;Tausk;dpt.;58;technik;Komárno;KSS;Pavol Tausk
+10;KSS;123;Milan;Hlohinec;;51;starosta;Volica;KSS;Milan Hlohinec
+10;KSS;124;Alica;Tesarèíková;;50;kaderníèka;Košice;KSS;Alica Tesarèíková
+10;KSS;125;Ján;Fanèi;;60;starosta;Lovinobaòa;KSS;Ján Fanèi
+10;KSS;126;Marek;Kopeckı;;27;colnı deklarant;Bratislava;KSS;Marek Kopeckı
+10;KSS;127;Ladislav;Gašparik;;64;dôchodca;Selice;KSS;Ladislav Gašparik
+10;KSS;128;Štefan;Solèiansky;;33;mechanik;Levice;KSS;Štefan Solèiansky
+10;KSS;129;Jozef;Demjanoviè;;45;robotník;Prešov;KSS;Jozef Demjanoviè
+10;KSS;130;Miroslav;Èuj;;37;maliar - natieraè;Spišská Nová Ves;KSS;Miroslav Èuj
+10;KSS;131;Juraj;Andrášik;Ing.;61;dôchodca;Cinobaòa;KSS;Juraj Andrášik
+10;KSS;132;Vladimír;Lazor;Ing.;56;stav. iniinier;Bratislava;KSS;Vladimír Lazor
+10;KSS;133;Konštantín;Berdis;;49;spoj. mechan.;Sabinov;KSS;Konštantín Berdis
+10;KSS;134;Eduard;Mašèák;;62;ekonóm;Fekišovce;KSS;Eduard Mašèák
+10;KSS;135;Milan;Hudina;;54;mechanizátor;Ve¾kı Krtíš;KSS;Milan Hudina
+10;KSS;136;Jozef;Solèanskı;Ing.;54;kontrolór;Bratislava;KSS;Jozef Solèanskı
+10;KSS;137;O¾ga;Sopková;;49;zdr. sestra;Stará ¼ubovòa;KSS;O¾ga Sopková
+10;KSS;138;Ján;Vilim;;52;inv. dôchodca;Vyšná Slaná;KSS;Ján Vilim
+10;KSS;139;Ladislav;Harnovskı;;42;THP;Poprad;KSS;Ladislav Harnovskı
+10;KSS;140;Eva;Vaváková;Ing.;44;ekonómka;Zvolen;BEZPP;Eva Vaváková
+10;KSS;141;¼ubica;Kleniarová;Mgr.;45;ekonómka;Banská Bystrica;KSS;¼ubica Kleniarová
+10;KSS;142;Stanislav;Hudák;;49;robotník;Prešov;KSS;Stanislav Hudák
+10;KSS;143;Anton;Badaè;RSDr.;48;THP;Rimavská Sobota;KSS;Anton Badaè
+10;KSS;144;Stanislav;Hajtman;;54;chemik;Tisovec;KSS;Stanislav Hajtman
+10;KSS;145;Róbert;Oravec;;36;pekár;Banská Bystrica;KSS;Róbert Oravec
+10;KSS;146;¼ubomír;Michna;Mgr.;46;uèite¾;Ve¾ká Lomnica;KSS;¼ubomír Michna
+10;KSS;147;Eugen;Kramár;RNDr.;48;ekonóm;Dubové;KSS;Eugen Kramár
+10;KSS;148;Vladimír;Nociar;;54;mechanik;Ve¾kı Krtíš;KSS;Vladimír Nociar
+10;KSS;149;Milan;Vredík;RSDr.;54;nezamestnanı;Banská Bystrica;KSS;Milan Vredík
+10;KSS;150;Miloslava;Necpalová;;47;novinárka;Bratislava;BEZPP;Miloslava Necpalová
+11;SMK-MKP;1;Béla;Bugár;Ing.;44;strojnı ininier;Šamorín;SMK-MKP;Béla Bugár
+11;SMK-MKP;2;Pál;Csáky;Ing.;46;chemickı ininier;Levice;SMK-MKP;Pál Csáky
+11;SMK-MKP;3;Gyula;Bárdos;;44;pedagóg;Senec;SMK-MKP;Gyula Bárdos
+11;SMK-MKP;4;László;Gyurovszky;Ing.;42;elektroininier;Ša¾a;SMK-MKP;László Gyurovszky
+11;SMK-MKP;5;Pál;Farkas;Ing.;49;ekonóm;Novı ivot;SMK-MKP;Pál Farkas
+11;SMK-MKP;6;László;Szigeti;;45;pedagóg;Štúrovo;SMK-MKP;László Szigeti
+11;SMK-MKP;7;László;Köteles;;45;technik;Moldava nad Bodvou;SMK-MKP;László Köteles
+11;SMK-MKP;8;László;Nagy;PhDr.;54;sociológ;Bratislava;SMK-MKP;László Nagy
+11;SMK-MKP;9;Miklós;Duray;RNDr.;57;geológ;Bratislava;SMK-MKP;Miklós Duray
+11;SMK-MKP;10;Zsolt;Komlósy;;47;teoretickı kybernetik;Rimavská Sobota;SMK-MKP;Zsolt Komlósy
+11;SMK-MKP;11;József;Berényi;;35;politológ;Dolné Saliby;SMK-MKP;József Berényi
+11;SMK-MKP;12;Tibor;Bastrnák;MUDr.;37;lekár;Komárno;SMK-MKP;Tibor Bastrnák
+11;SMK-MKP;13;László;Miklós;prof. RNDr. DrSc.;53;vysokoškolskı profesor;Bratislava;SMK-MKP;László Miklós
+11;SMK-MKP;14;Iván;Farkas;Ing.;36;ekonomickı ininier;Mula;SMK-MKP;Iván Farkas
+11;SMK-MKP;15;István;Harna;doc. Ing. PhD.;62;ekonóm;Ohrady;SMK-MKP;István Harna
+11;SMK-MKP;16;Sándor;Albert;doc. Ing. PhD.;59;vysokoškolskı uèite¾;Košice;SMK-MKP;Sándor Albert
+11;SMK-MKP;17;Edit;Bauer;Ing. CSc.;55;vedeckı pracovník;Šamorín;SMK-MKP;Edit Bauer
+11;SMK-MKP;18;Gábor;Gál;Mgr.;27;právnik;Ve¾ká Maèa;SMK-MKP;Gábor Gál
+11;SMK-MKP;19;Richárd;Hamerlik;Ing.;35;strojnı ininier;Vinica;SMK-MKP;Richárd Hamerlik
+11;SMK-MKP;20;Erzsébet;Dolník;;62;pedagóg;Levice;SMK-MKP;Erzsébet Dolník
+11;SMK-MKP;21;Klára;Sárközy;MUDr.;49;lekár;Ve¾kı Meder;SMK-MKP;Klára Sárközy
+11;SMK-MKP;22;Lajos;Ladányi;;44;informatik;Klasov;SMK-MKP;Lajos Ladányi
+11;SMK-MKP;23;Árpád;Duka-Zólyomi;Ing.;61;jadrovı fyzik;Bratislava;SMK-MKP;Árpád Duka-Zólyomi
+11;SMK-MKP;24;János;Szigeti;;49;ekonóm;Búè;SMK-MKP;János Szigeti
+11;SMK-MKP;25;István;Pásztor;Ing.;45;elektroininier;Krá¾ovskı Chlmec;SMK-MKP;István Pásztor
+11;SMK-MKP;26;József;Kvarda;PhDr.;53;kulturológ - sociológ;Èenkovce;SMK-MKP;József Kvarda
+11;SMK-MKP;27;György;Juhász;PaedDr.;32;vysokoškolskı uèite¾;Tvrdošovce;SMK-MKP;György Juhász
+11;SMK-MKP;28;Pál;Keszegh;Ing.;54;chemickı ininier;Dunajská Streda;SMK-MKP;Pál Keszegh
+11;SMK-MKP;29;József;Solymos;;50;podnikate¾;Torna¾a;SMK-MKP;József Solymos
+11;SMK-MKP;30;László;Pomothy;Ing.;44;elektroininier;Galanta;SMK-MKP;László Pomothy
+11;SMK-MKP;31;Péter;Csúsz;Mgr.;36;pedagóg;Luèenec;SMK-MKP;Péter Csúsz
+11;SMK-MKP;32;Béla;Angyal;Ing.;44;elektroininier;Kolárovo;SMK-MKP;Béla Angyal
+11;SMK-MKP;33;Frigyes;Matus;;42;technik;Baloò;SMK-MKP;Frigyes Matus
+11;SMK-MKP;34;László;Forró;Ing.;49;elektroininier - pedagóg;Nové Zámky;SMK-MKP;László Forró
+11;SMK-MKP;35;Mária;Czapová;JUDr.;56;právnik;Maovské Vojkovce;SMK-MKP;Mária Czapová
+11;SMK-MKP;36;Gábor;Rusznák;Ing.;43;pedagóg;Ša¾a;SMK-MKP;Gábor Rusznák
+11;SMK-MKP;37;Erzsébet;Pogány;Ing.;43;ekonóm;Šamorín;SMK-MKP;Erzsébet Pogány
+11;SMK-MKP;38;Ján;Szõllõs;Ing.;47;strojnı ininier;Roòava;SMK-MKP;Ján Szõllõs
+11;SMK-MKP;39;Imre;Andruskó;Mgr.;33;pedagóg-riadite¾;Komárno;SMK-MKP;Imre Andruskó
+11;SMK-MKP;40;Zoltán;Boros;Ing.;57;chemickı ininier;Rimavská Sobota;SMK-MKP;Zoltán Boros
+11;SMK-MKP;41;Fedor;Vico;;57;vıtvarník;Prešov;BEZPP;Fedor Vico
+11;SMK-MKP;42;Štefan;Babindák;;38;osvetovı pracovník;Èata;BEZPP;Štefan Babindák
+11;SMK-MKP;43;Ján;Tištán;;43;poiarnik;Vysoké Tatry;BEZPP;Ján Tištán
+11;SMK-MKP;44;Peter;Krajòák;JUDr.;50;komerènı právnik;Prešov;BEZPP;Peter Krajòák
+11;SMK-MKP;45;Ján;Rigó;;46;kultúrny pracovník;Zlaté Klasy;BEZPP;Ján Rigó
+11;SMK-MKP;46;Mojmír;Kováø;Ing.;63;regionalista;Trnava;BEZPP;Mojmír Kováø
+11;SMK-MKP;47;Leontin;Dohoviè;Mgr.;66;pedagóg;Košice;BEZPP;Leontin Dohoviè
+11;SMK-MKP;48;Adela;Strieencová;;45;úètovníèka;Bratislava;BEZPP;Adela Strieencová
+11;SMK-MKP;49;Štefan;Maršala;;45;manaér;Trnava;BEZPP;Štefan Maršala
+11;SMK-MKP;50;Albeta;Èaplárová;;55;ekonómka;Kemarok;SMK-MKP;Albeta Èaplárová
+11;SMK-MKP;51;Ladislav;Bíró;Mgr.;33;pedagóg;Galanta;SMK-MKP;Ladislav Bíró
+11;SMK-MKP;52;Jozef;Balkó;Ing.;39;po¾nohosp. ininier;Kolíòany;SMK-MKP;Jozef Balkó
+11;SMK-MKP;53;Izabella;Jégh;;52;úradník;Bratislava;SMK-MKP;Izabella Jégh
+11;SMK-MKP;54;olt;Tárnok;MVDr.;42;veterinárny lekár;Humenné;SMK-MKP;olt Tárnok
+11;SMK-MKP;55;Ladislav;Eke;;50;strojnı technik;Gabèíkovo;SMK-MKP;Ladislav Eke
+11;SMK-MKP;56;József;Nagy;Ing.;41;starosta;Dolinka;SMK-MKP;József Nagy
+11;SMK-MKP;57;Pavel;Zachar;Ing.;46;elektroininier;Šahy;SMK-MKP;Pavel Zachar
+11;SMK-MKP;58;József;Kopasz;;45;pedagóg;Ve¾ké Trakany;SMK-MKP;József Kopasz
+11;SMK-MKP;59;Imrich;Bartal;;52;starosta;Sap;SMK-MKP;Imrich Bartal
+11;SMK-MKP;60;Olga;Szabó;JUDr.;44;právnik;Patince;SMK-MKP;Olga Szabó
+11;SMK-MKP;61;Béla;Zsille;Bc.;46;úradník;Sládkovièovo;SMK-MKP;Béla Zsille
+11;SMK-MKP;62;László;Könözsi;Ing.;43;agronóm;Obid;SMK-MKP;László Könözsi
+11;SMK-MKP;63;Ladislav;Bartók;Ing.;50;strojnı ininier;Turòa nad Bodvou;SMK-MKP;Ladislav Bartók
+11;SMK-MKP;64;Ladislav;Molnár;;40;po¾nohospodár;Ipe¾ské Ú¾any;SMK-MKP;Ladislav Molnár
+11;SMK-MKP;65;István;Mázik;;45;riadite¾ MsKS;Fi¾akovo;SMK-MKP;István Mázik
+11;SMK-MKP;66;Miklós;Fehér;;42;matematik;Komárno;SMK-MKP;Miklós Fehér
+11;SMK-MKP;67;Fridrich;Nagy;Mgr.;57;dipl. zubnı technik;Dunajská Streda;SMK-MKP;Fridrich Nagy
+11;SMK-MKP;68;Dezider;Borbély;;43;technik;Tvrdošovce;SMK-MKP;Dezider Borbély
+11;SMK-MKP;69;János;Juhász;Ing.;46;zamestnanec št. správy;Krá¾ovskı Chlmec;SMK-MKP;János Juhász
+11;SMK-MKP;70;Ladislav;Korèok;Ing.;44;stavebnı ininier;Plášovce;SMK-MKP;Ladislav Korèok
+11;SMK-MKP;71;László;Bacsó;;28;organizaènı tajomník;Topo¾níky;SMK-MKP;László Bacsó
+11;SMK-MKP;72;Štefan;Pomichal;Ing.;37;po¾nohosp. ininier;Tomášov;SMK-MKP;Štefan Pomichal
+11;SMK-MKP;73;Gyula;Veszelei;Mgr.;53;právnik;Hurbanovo;SMK-MKP;Gyula Veszelei
+11;SMK-MKP;74;Lajos;Balajti;;51;pedagóg;Torna¾a;SMK-MKP;Lajos Balajti
+11;SMK-MKP;75;János;Fekete;Ing.;49;starosta;Vrakúò;SMK-MKP;János Fekete
+11;SMK-MKP;76;Imre;Nagy;Ing.;47;strojnı ininier;Nové Zámky;SMK-MKP;Imre Nagy
+11;SMK-MKP;77;Ernest;Básti;Ing.;54;podnikate¾;Košice;SMK-MKP;Ernest Básti
+11;SMK-MKP;78;György;Batta;;31;novinár;Komárno;SMK-MKP;György Batta
+11;SMK-MKP;79;Ernõ;Rózsa;JUDr.;72;advokát;Galanta;SMK-MKP;Ernõ Rózsa
+11;SMK-MKP;80;Márta;Stubendek;;40;farmaceut. laborantka;Rimavská Seè;SMK-MKP;Márta Stubendek
+11;SMK-MKP;81;Endre;Mészáros;Ing.;36;informatik;Tešedíkovo;SMK-MKP;Endre Mészáros
+11;SMK-MKP;82;Árpád;Petrik;Ing.;40;ekonóm ininier;Malé Trakany;SMK-MKP;Árpád Petrik
+11;SMK-MKP;83;Dénes;Miklós;Ing.;42;záhradnícky ininier;Òárad;SMK-MKP;Dénes Miklós
+11;SMK-MKP;84;Zoltán;Sebõk;MUDr.;56;lekár;Komárno;SMK-MKP;Zoltán Sebõk
+11;SMK-MKP;85;Julianna;Hideghétiová;;48;farmaceut;Kyselica;SMK-MKP;Julianna Hideghétiová
+11;SMK-MKP;86;Vojtech;Magyar;;50;katechéta-uèite¾;Nové Zámky;SMK-MKP;Vojtech Magyar
+11;SMK-MKP;87;Karol;Fellinger;;38;agronóm;Jelka;SMK-MKP;Karol Fellinger
+11;SMK-MKP;88;Štefan;Vitál;;48;starosta;Mıtne Ludany;SMK-MKP;Štefan Vitál
+11;SMK-MKP;89;Zoltán;Bán;Ing.;49;elektroininier;Rimavská Sobota;SMK-MKP;Zoltán Bán
+11;SMK-MKP;90;Sándor;Bastrnák;MUDr.;64;lekár;Pribeta;SMK-MKP;Sándor Bastrnák
+11;SMK-MKP;91;Ladislav;Matiaško;Ing.;59;ekonóm;Zlaté Klasy;SMK-MKP;Ladislav Matiaško
+11;SMK-MKP;92;Štefan;Laczika;Ing.;53;stavebnı ininier;Jelenec;SMK-MKP;Štefan Laczika
+11;SMK-MKP;93;Karol;Katrenics;;57;leteckı technik;Roòava;SMK-MKP;Karol Katrenics
+11;SMK-MKP;94;Károly;Drapák;Ing.;52;strojnı ininier;Mula;SMK-MKP;Károly Drapák
+11;SMK-MKP;95;Jozef;Marczell;Ing.;43;strojnı ininier;Krá¾ovièove Kraèany;SMK-MKP;Jozef Marczell
+11;SMK-MKP;96;József;Jordán;MVDr.;52;zverolekár;Kemarok;SMK-MKP;József Jordán
+11;SMK-MKP;97;Alajos;Baranyay;;47;starosta;ihárec;SMK-MKP;Alajos Baranyay
+11;SMK-MKP;98;Zoltán;Kónya;JUDr.;51;právnik-podnikate¾;Rimavská Sobota;SMK-MKP;Zoltán Kónya
+11;SMK-MKP;99;Vojtech;Varga;MUDr.;50;lekár;Dunajská Streda;SMK-MKP;Vojtech Varga
+11;SMK-MKP;100;Béla;Szabó;Ing.;46;pedagóg;Komárno;SMK-MKP;Béla Szabó
+11;SMK-MKP;101;László;Lakatos;;36;podnikate¾;Ruská;SMK-MKP;László Lakatos
+11;SMK-MKP;102;Štefan;Bencze;;46;ekonóm;Tvrdošovce;SMK-MKP;Štefan Bencze
+11;SMK-MKP;103;Ladislav;Mészáros;;52;podnikate¾;Jelka;SMK-MKP;Ladislav Mészáros
+11;SMK-MKP;104;Béla;Hrubík;;38;podnikate¾;Vinica;SMK-MKP;Béla Hrubík
+11;SMK-MKP;105;Magdaléna;Zsiga;Ing.;34;úradníèka;Horná Seè;SMK-MKP;Magdaléna Zsiga
+11;SMK-MKP;106;Peter;Jakuš;;46;starosta;Ve¾kı Kamenec;SMK-MKP;Peter Jakuš
+11;SMK-MKP;107;Zoltán;Marczell;Ing.;34;stavebnı ininier;Malé Dvorníky;SMK-MKP;Zoltán Marczell
+11;SMK-MKP;108;Gábor;Cséplõ;Ing.;48;podnikate¾;Komárno;SMK-MKP;Gábor Cséplõ
+11;SMK-MKP;109;Ján;Perhács;univ. prof.;65;vysokoškolskı profesor;Báè;SMK-MKP;Ján Perhács
+11;SMK-MKP;110;Endre;Hogenbuch;Ing.;29;ekonóm ininier;Štúrovo;SMK-MKP;Endre Hogenbuch
+11;SMK-MKP;111;Jozef;Mohòanskı;Ing.;36;starosta;Buzica;SMK-MKP;Jozef Mohòanskı
+11;SMK-MKP;112;Mária;Morauszká;MUDr.;39;stomatológ;eliezovce;SMK-MKP;Mária Morauszká
+11;SMK-MKP;113;Sándor;Papp;;38;stavebnı technik;Kalonda;SMK-MKP;Sándor Papp
+11;SMK-MKP;114;Peter;Békési;Ing.;44;po¾nohosp. ininier;Komárno;SMK-MKP;Peter Békési
+11;SMK-MKP;115;Štefan;Lukovics;;55;starosta;Èierna Voda;SMK-MKP;Štefan Lukovics
+11;SMK-MKP;116;Ladislav;Csanda;Ing.;49;ekonóm;Nové Zámky;SMK-MKP;Ladislav Csanda
+11;SMK-MKP;117;Agnesa;Mátéová;;40;starosta;Malı Kamenec;SMK-MKP;Agnesa Mátéová
+11;SMK-MKP;118;János;Bachorecz;Ing.;47;elektroininier;Bátorove Kosihy;SMK-MKP;János Bachorecz
+11;SMK-MKP;119;Ilona;Bugár;;45;osvetovı pracovník;Bratislava;SMK-MKP;Ilona Bugár
+11;SMK-MKP;120;Atilla;Agárdi;Mgr.;33;tlmoèník-prekladate¾;Senec;SMK-MKP;Atilla Agárdi
+11;SMK-MKP;121;Mária;Csizmadiová;JUDr.;44;právnik;Selice;SMK-MKP;Mária Csizmadiová
+11;SMK-MKP;122;Attila;Hacsi;;58;novinár;Rimavská Sobota;SMK-MKP;Attila Hacsi
+11;SMK-MKP;123;Ladislav;Kovács;Ing.;59;ekonóm ininier;Šamorín;SMK-MKP;Ladislav Kovács
+11;SMK-MKP;124;Zoltán;Kelemen;Ing.;35;elektroininier;Nesvady;SMK-MKP;Zoltán Kelemen
+11;SMK-MKP;125;Károly;Peczár;Mgr.;31;pedagóg;Nové Zámky;SMK-MKP;Károly Peczár
+11;SMK-MKP;126;Tibor;Nagy;Ing.;28;technik;Hornı Bar;SMK-MKP;Tibor Nagy
+11;SMK-MKP;127;Mária;Lõrincz;;35;vedúca úètovníèka;Kiarov;SMK-MKP;Mária Lõrincz
+11;SMK-MKP;128;Zsolt;Feszty;;32;farár ref.;Ke;BEZPP;Zsolt Feszty
+11;SMK-MKP;129;Štefan;Gallai;;49;starosta;Bôrka;SMK-MKP;Štefan Gallai
+11;SMK-MKP;130;František;Hontvári;Ing.;40;stavebnı ininier;Sládkovièovo;SMK-MKP;František Hontvári
+11;SMK-MKP;131;László;Gyõrfy;Ing.;47;konate¾;Komárno;SMK-MKP;László Gyõrfy
+11;SMK-MKP;132;Albeta;Bartalosová;;52;podnikate¾;Dolnı Štál;SMK-MKP;Albeta Bartalosová
+11;SMK-MKP;133;Juraj;Varga;;37;pedagóg;irany;SMK-MKP;Juraj Varga
+11;SMK-MKP;134;Tibor;Kõszeghy;Ing.;37;manaér;Mierovo;BEZPP;Tibor Kõszeghy
+11;SMK-MKP;135;Tibor;Stugel;Mgr.;26;pedagóg;Kamenica nad Hronom;SMK-MKP;Tibor Stugel
+11;SMK-MKP;136;Jozef;Hunyák;;54;stavebnı technik;Hajnáèka;SMK-MKP;Jozef Hunyák
+11;SMK-MKP;137;János;Restár;Ing.;42;podnikate¾;Vlèany;SMK-MKP;János Restár
+11;SMK-MKP;138;Peter;Õry;;30;ekonóm;Štvrtok na Ostrove;SMK-MKP;Peter Õry
+11;SMK-MKP;139;Attila;Czíria;Ing.;40;geodet;Komárno;SMK-MKP;Attila Czíria
+11;SMK-MKP;140;Karol;Molnár;;42;strojník energet. zariad.;Kapušianske K¾aèany;SMK-MKP;Karol Molnár
+11;SMK-MKP;141;Kornel;Greman;Ing.;39;strojnı ininier;Kolárovo;SMK-MKP;Kornel Greman
+11;SMK-MKP;142;Gábor;Pallya;MVDr.;39;zverolekár;Galanta;SMK-MKP;Gábor Pallya
+11;SMK-MKP;143;Hajnalka;Polgár;;33;úètovníèka;Bratislava;SMK-MKP;Hajnalka Polgár
+11;SMK-MKP;144;János;Mayer;Mgr.;33;riadite¾ MsKS;Kolárovo;SMK-MKP;János Mayer
+11;SMK-MKP;145;Vince;Erdõs;Ing.;42;podnikate¾;Fi¾akovo;SMK-MKP;Vince Erdõs
+11;SMK-MKP;146;Tibor;Rózsár;;57;technik;Mostová;SMK-MKP;Tibor Rózsár
+11;SMK-MKP;147;Éva;Dohnanec;PhDr.;43;pedagóg;Komárno;SMK-MKP;Éva Dohnanec
+11;SMK-MKP;148;Ladislav;Iván;Ing.;49;po¾nohosp. ininier;Moldava nad Bodvou;SMK-MKP;Ladislav Iván
+11;SMK-MKP;149;László;Együd;;56;technik;Jesenské;SMK-MKP;László Együd
+11;SMK-MKP;150;László;Hóka;Ing.;45;strojnı ininier;Strekov;SMK-MKP;László Hóka
+12;KDH;1;Pavol;Hrušovskı;JUDr.;50;podpredseda NR SR;Nitra;KDH;Pavol Hrušovskı
+12;KDH;2;Ján;Fige¾;Ing.;42;štátny tajomník MZV SR;Èaklov;KDH;Ján Fige¾
+12;KDH;3;Vladimír;Palko;doc. RNDr. CSc.;45;poslanes NR SR;Bratislava;KDH;Vladimír Palko
+12;KDH;4;Pavol;Minárik;RNDr.;45;námestník primátora;Bratislava;KDH;Pavol Minárik
+12;KDH;5;Július;Brocka;Ing.;45;poslanec NR SR;Kriovany nad Dudváhom;KDH;Július Brocka
+12;KDH;6;Daniel;Lipšic;JUDr.;29;advokát;Bratislava;KDH;Daniel Lipšic
+12;KDH;7;František;Mikloško;RNDr.;55;poslanec NR SR;Bratislava;KDH;František Mikloško
+12;KDH;8;Martin;Fronc;doc. Mgr. CSc.;55;štátny tajomník MŠ SR;Divina;KDH;Martin Fronc
+12;KDH;9;Anna;Záborská;MUDr.;54;poslanec NR SR;Bojnice;KDH;Anna Záborská
+12;KDH;10;Peter;Muránsky;Ing. Mgr.;29;poslanec NR SR;Nemce;KDH;Peter Muránsky
+12;KDH;11;Pavol;Abrhan;Ing.;43;manaér;Nové Zámky;KDH;Pavol Abrhan
+12;KDH;12;Jozef;Šimko;Ing.;46;technik;Stropkov;KDH;Jozef Šimko
+12;KDH;13;Andej;Hajduk;;54;vodohospodár;Hatalov;KDH;Andej Hajduk
+12;KDH;14;Mária;Demeterová;Mgr.;53;námestníèka primátora;Bratislava;KDH;Mária Demeterová
+12;KDH;15;Alojz;Pøidal;Mgr.;46;jadrovı fyzik;Kátlovce;KDH;Alojz Pøidal
+12;KDH;16;Jozef;Miklušièák;Mgr.;47;geológ;Námestovo;KDH;Jozef Miklušièák
+12;KDH;17;Mária;Sabolová;Ing.;46;poslanec NR SR;Košice;KDH;Mária Sabolová
+12;KDH;18;Marcela;Pèolinská;Mgr.;49;poslanec NR SR;Ninı Hrabovec;KDH;Marcela Pèolinská
+12;KDH;19;Mária;Majdová;Bc.;29;zdravotná sestra;Vrútky;KDH;Mária Majdová
+12;KDH;20;Alojz;Rakús;doc. MUDr.;55;poslanec NR SR;Bratislava;KDH;Alojz Rakús
+12;KDH;21;Michal;Srholec;Ing.;61;primátor;Skalica;KDH;Michal Srholec
+12;KDH;22;Michal;Bartoš;Mgr.;48;magister sociálnych vied;Smiany;KDH;Michal Bartoš
+12;KDH;23;Jaroslav;Ivan;Ing.;46;ivnostník;Krškany;KDH;Jaroslav Ivan
+12;KDH;24;Ján;Bielik;doc. MUDr. CSc.;47;lekár;Nové Mesto nad Váhom;KDH;Ján Bielik
+12;KDH;25;Jana;Brázdilová;Ing. Mgr.;49;pedagóg;Banská Bystrica;KDH;Jana Brázdilová
+12;KDH;26;Ján;Ondrejka;;45;elektrotechnik;Liptovské Sliaèe;KDH;Ján Ondrejka
+12;KDH;27;Pavol;Bielik;RNDr. CSc.;49;starosta;Bratislava;KDH;Pavol Bielik
+12;KDH;28;Katarína;Smiešková;Ing.;44;ekonómka;Krá¾ová pri Senci;KDH;Katarína Smiešková
+12;KDH;29;Stanislav;Husár;;60;strojnı zámoèník;Partizánske;KDH;Stanislav Husár
+12;KDH;30;Ján;Vanèo;Ing.;52;technik;Nitra;KDH;Ján Vanèo
+12;KDH;31;Pavol;Tarcala;Ing.;36;technik;Bardejov;KDH;Pavol Tarcala
+12;KDH;32;Eugen;Mikuláš;Ing.;38;elektrotechnickı ininier;Vidiná;KDH;Eugen Mikuláš
+12;KDH;33;Miroslav;Tóth;Mgr.;35;vychovávate¾;Pata;KDH;Miroslav Tóth
+12;KDH;34;Ján;Kapala;;54;štátny zamestnanec;Dolnı Kubín;KDH;Ján Kapala
+12;KDH;35;¼ubomír;Bošanskı;Ing.;48;strojnı ininier;Jacovce;KDH;¼ubomír Bošanskı
+12;KDH;36;Ján;Václavik;;50;lesník;Zvolen;KDH;Ján Václavik
+12;KDH;37;Ján;Soliar;Ing.;49;technik;Kemarok;KDH;Ján Soliar
+12;KDH;38;Dušan;Mihálik;;57;štátny zamestnanec;Dubnica nad Váhom;KDH;Dušan Mihálik
+12;KDH;39;Marián;Dúbrava;Ing. Mgr.;39;elektrotechnickı ininier;Dunajská Streda;KDH;Marián Dúbrava
+12;KDH;40;Michal;Pilka;Ing.;59;zástupca starostu;Bratislava;KDH;Michal Pilka
+12;KDH;41;Ján;Vojtko;doc. Ing. PhD.;62;chemickı ininier;Bratislava;KDH;Ján Vojtko
+12;KDH;42;Peter;Belica;Ing.;50;technik;Suèany;KDH;Peter Belica
+12;KDH;43;Ferdinand;Galko;Ing.;53;projektant;Horné Srnie;KDH;Ferdinand Galko
+12;KDH;44;Jozef;Hladík;MVDr.;53;veterinárny lekár;Kúty;KDH;Jozef Hladík
+12;KDH;45;Stanislav;Kahanec;Ing.;48;strojnı ininier;Prešov;KDH;Stanislav Kahanec
+12;KDH;46;František;Berta;;40;starosta;Vieska nad itavou;KDH;František Berta
+12;KDH;47;Róbert;Schmidt;Mgr.;32;pedagóg;Vrbovka;KDH;Róbert Schmidt
+12;KDH;48;Bystrík;Hollı;Ing.;52;starosta;Bratislava;KDH;Bystrík Hollı
+12;KDH;49;Cyril;Korpesio;Ing.;38;ekonóm;Seèovce;KDH;Cyril Korpesio
+12;KDH;50;Ján;Porubskı;MUDr. CSc.;55;lekár;Bratislava;KDH;Ján Porubskı
+12;KDH;51;Jaromír;Janiš;Ing.;52;elektrotechnickı ininier;Bytèa;KDH;Jaromír Janiš
+12;KDH;52;Rudolf;Mikuláš;;53;spojovı mechanik;Hlohovec;KDH;Rudolf Mikuláš
+12;KDH;53;Eleonóra;Porubcová;Mgr.;36;stredoškolskı pedagóg;Prievidza;KDH;Eleonóra Porubcová
+12;KDH;54;Pavol;Maèala;PhDr. CSc.;44;archeológ;Košice;KDH;Pavol Maèala
+12;KDH;55;Marián;Hujo;Ing.;43;ekonóm;Haliè;KDH;Marián Hujo
+12;KDH;56;Pavol;Ruanskı;Ing. Mgr.;54;pedagóg;Ša¾a;KDH;Pavol Ruanskı
+12;KDH;57;Anton;Hrica;;53;rušòovodiè;Stupava;KDH;Anton Hrica
+12;KDH;58;Vladimír;Kokarda;RNDr. PhD.;44;personalista;Košice;KDH;Vladimír Kokarda
+12;KDH;59;Ján;Krivèík;Ing.;55;ekonóm;Povaská Bystrica;KDH;Ján Krivèík
+12;KDH;60;Mária;Homolová;PhDr.;43;psychológ;Priechod;KDH;Mária Homolová
+12;KDH;61;¼ubomír;Šteiniger;;37;informatik;Kysucké Nové Mesto;KDH;¼ubomír Šteiniger
+12;KDH;62;Rudolf;Jánošík;Ing.;42;stavebnı ininier;Bánovce nad Bebravou;KDH;Rudolf Jánošík
+12;KDH;63;Juraj;Andrejuv;MVDr.;48;veterinárny lekár;Svidník;KDH;Juraj Andrejuv
+12;KDH;64;Ján;Moroviè;Ing. PhD.;57;elektrotechnickı ininier;Bratislava;KDH;Ján Moroviè
+12;KDH;65;Monika;Gibalová;PhDr. Mgr. PhD.;42;sociológ;Svit;KDH;Monika Gibalová
+12;KDH;66;Jozef;Švec;Mgr.;30;politológ;Zlaté Moravce;KDH;Jozef Švec
+12;KDH;67;Ján;Koreòovskı;Ing.;51;ekonóm;Bratislava;KDH;Ján Koreòovskı
+12;KDH;68;Ján;Gajdoš;MVDr. CSc.;62;veterinárny lekár;Budimír;KDH;Ján Gajdoš
+12;KDH;69;Rudolf;Bielik;Ing.;39;poèítaèovı technik;Púchov;KDH;Rudolf Bielik
+12;KDH;70;Ján;Zachar;Ing.;43;elektrotechnickı ininier;Bratislava;KDH;Ján Zachar
+12;KDH;71;Jozef;Klokner;Ing.;47;manaér marketingu;Trnava;KDH;Jozef Klokner
+12;KDH;72;Janka;Dzuríková;Mgr.;33;pedagóg;Liptovská Porúbka;KDH;Janka Dzuríková
+12;KDH;73;Marián;Eliáš;Ing.;46;lesnı ininier;Prešov;KDH;Marián Eliáš
+12;KDH;74;Marián;Karvaj;MUDr.;47;lekár;Nové Zámky;KDH;Marián Karvaj
+12;KDH;75;Marián;Kuèera;Ing.;28;strojnı ininier;Zvolenská Slatina;KDH;Marián Kuèera
+12;KDH;76;Michal;Èverèko;RNDr. CSc.;68;vysokoškolskı pedagóg;Košice;KDH;Michal Èverèko
+12;KDH;77;Mária;Biksadská;Ing.;49;chemická ininierka;Ve¾ké Leváre;KDH;Mária Biksadská
+12;KDH;78;Ján;Bendala;Ing.;49;dopravnı ininier;Košice;KDH;Ján Bendala
+12;KDH;79;Pavol;Gurega;Ing.;45;súkromnı podnikate¾;Stará ¼ubovòa;KDH;Pavol Gurega
+12;KDH;80;Anton;Konušiak;Ing.;52;strojnı ininier;Bernolákovo;KDH;Anton Konušiak
+12;KDH;81;Marián;elezník;Ing.;44;po¾nohospodár;Zuberec;KDH;Marián elezník
+12;KDH;82;Ján;Mihala;Ing.;37;technik;Bošáca;KDH;Ján Mihala
+12;KDH;83;Jozef;Harvanèík;Ing.;55;stavebnı ininier;Bratislava;KDH;Jozef Harvanèík
+12;KDH;84;Ján;Kadlec;Ing.;47;banskı ininier;Holíè;KDH;Ján Kadlec
+12;KDH;85;Július;Stanko;Dr. et MVDr.;37;veterinárny lekár;Michalovce;KDH;Július Stanko
+12;KDH;86;Peter;Polák;doc. Ing. PhD.;58;vedeckı pracovník;Bratislava;KDH;Peter Polák
+12;KDH;87;Karol;Velèickı;Ing.;54;technik;Moèenok;KDH;Karol Velèickı
+12;KDH;88;Anna;Vavrincová;Ing.;47;ekonómka;arnovica;KDH;Anna Vavrincová
+12;KDH;89;Róbert;Korec;;31;stredoškolskı pedagóg;Pata;KDH;Róbert Korec
+12;KDH;90;Pavol;Faktor;Ing.;39;ekonóm;Stará Bystrica;KDH;Pavol Faktor
+12;KDH;91;Alica;Harišová;JUDr.;51;právnièka;Plevník - Drienové;KDH;Alica Harišová
+12;KDH;92;Ján;Dzurjuv;Ing.;47;strojnı ininier;Kraèúnovce;KDH;Ján Dzurjuv
+12;KDH;93;Jozef;Ivan;Ing.;52;ekonóm;Zlaté Moravce;KDH;Jozef Ivan
+12;KDH;94;Peter;Stanko;Ing.;35;lesnı ininier;Sobrance;KDH;Peter Stanko
+12;KDH;95;Štefan;Valentoviè;Ing.;48;strojnı ininier;Nová Baòa;KDH;Štefan Valentoviè
+12;KDH;96;Pavol;Pavlásek;doc. Ing. PhD.;54;vysokoškolskı pedagóg;ilina;KDH;Pavol Pavlásek
+12;KDH;97;Vladimír;Vráb;Ing.;45;technik;Turèianske Teplice;KDH;Vladimír Vráb
+12;KDH;98;Anton;Novák;Ing.;48;energetik;Sabinov;KDH;Anton Novák
+12;KDH;99;Milan;Svítek;;43;sam. hospodáriaci ro¾ník;Modra;KDH;Milan Svítek
+12;KDH;100;Marián;Kvasnièka;PhDr.;47;stredoškolskı pedagóg;Trenèín;KDH;Marián Kvasnièka
+12;KDH;101;Vladimír;Schwarzbacher;;46;stavebnı technik;Levoèa;KDH;Vladimír Schwarzbacher
+12;KDH;102;Ján;Èop;Ing.;39;elektrotechnik;Snina;KDH;Ján Èop
+12;KDH;103;Ladislav;Herman;Ing.;59;elektrotechnickı ininier;Košice;KDH;Ladislav Herman
+12;KDH;104;Mária;Jesenková;Ing.;37;starostka;Zbudské Dlhé;KDH;Mária Jesenková
+12;KDH;105;Viera;Janeèková;;50;podnikate¾ka;Bratislava;KDH;Viera Janeèková
+12;KDH;106;Jaroslav;Kavuliè;Mgr.;32;pedagóg;Jaklovce;KDH;Jaroslav Kavuliè
+12;KDH;107;Anton;Gašpár;;48;elektroininier;Záhradné;KDH;Anton Gašpár
+12;KDH;108;Mária;Hliváková;MUDr.;52;lekárka;Paèa;KDH;Mária Hliváková
+12;KDH;109;Štefan;Bederka;doc. Ing. CSc.;65;elektrotechnickı ininier;Bratislava;KDH;Štefan Bederka
+12;KDH;110;Márius;Mika;Ing.;62;stavebnı ininier;Banská Bystrica;KDH;Márius Mika
+12;KDH;111;Elena;Bieliková;Mgr.;42;pedagóg;Piešany;KDH;Elena Bieliková
+12;KDH;112;Jozef;Závodskı;Ing.;57;strojnı ininier;Bratislava;KDH;Jozef Závodskı
+12;KDH;113;Anton;Tkáèik;Ing.;30;krajinnı ininier;Rado¾a;KDH;Anton Tkáèik
+12;KDH;114;Marián;Babej;PaedDr.;38;pedagóg;Vranov nad Top¾ou;KDH;Marián Babej
+12;KDH;115;Ján;Draveckı;PaedDr.;50;pedagóg;Poprad;KDH;Ján Draveckı
+12;KDH;116;Peter;Hornı;;50;technik;Èierne K¾aèany;KDH;Peter Hornı
+12;KDH;117;Mária;Baèikovská;;57;asistentka hygien. sluby;Predmier;KDH;Mária Baèikovská
+12;KDH;118;¼udovít;Košík;;49;strojár;Chynorany;KDH;¼udovít Košík
+12;KDH;119;Rudolf;Polák;;49;starosta;Štefanov;KDH;Rudolf Polák
+12;KDH;120;¼udmila;Jakúbková;;53;starostka;Èervenı Kameò;KDH;¼udmila Jakúbková
+12;KDH;121;Jozef;Bobík;Ing.;50;technik;Michalovce;KDH;Jozef Bobík
+12;KDH;122;Marcel;Gallik;Mgr.;31;pedagóg;Slovenská Ves;KDH;Marcel Gallik
+12;KDH;123;Štefan;Kukuèka;Ing.;56;technik;Beluša;KDH;Štefan Kukuèka
+12;KDH;124;Filip;Bakaj;Ing.;58;metalurg;Bukovec;KDH;Filip Bakaj
+12;KDH;125;Marián;Dittrich;Ing.;58;strojnı ininier;Košice;KDH;Marián Dittrich
+12;KDH;126;Marián;Letko;;59;stavebnı technik;Bratislava;KDH;Marián Letko
+12;KDH;127;Milan;Chabroò;Ing. CSc.;69;po¾nohospodársky ekonóm;Bratislava;KDH;Milan Chabroò
+12;KDH;128;Ján;Hudackı;Ing.;43;elektroininier;Prešov;KDH;Ján Hudackı
+12;KDH;129;Ladislav;Bevilaqua;Ing.;54;chemickı ininier;Martin;KDH;Ladislav Bevilaqua
+12;KDH;130;Pavol;Oparty;Ing.;46;manaér;Oravská Lesná;KDH;Pavol Oparty
+12;KDH;131;Bohumil;Chmelík;doc. MUDr. PhD.;64;vysokoškolskı pedagóg;Trnava;KDH;Bohumil Chmelík
+12;KDH;132;Peter;Haapka;Ing.;54;strojnı ininier;Bratislava;KDH;Peter Haapka
+12;KDH;133;Pavol;Sekáè;Ing.;44;ekonóm;Vysoèany;KDH;Pavol Sekáè
+12;KDH;134;Ján;Brezovskı;Ing.;45;primátor;Hlohovec;KDH;Ján Brezovskı
+12;KDH;135;Juraj;Rubarskı;Ing.  PhD.;31;vysokoškolskı pedagóg;Sabinov;KDH;Juraj Rubarskı
+12;KDH;136;Anna;Holtmanová;Mgr.;47;kultúrna pracovníèka;Bardejov;KDH;Anna Holtmanová
+12;KDH;137;Peter;Štuller;MUDr.;47;detskı lekár;Dunajská Streda;KDH;Peter Štuller
+12;KDH;138;František;Stanislav;Ing.;35;po¾nohospodársky ininier;Rudòany;KDH;František Stanislav
+12;KDH;139;Rudolf;Kováè;MUDr. CSc.;62;lekár;Bratislava;KDH;Rudolf Kováè
+12;KDH;140;Anna;Hudáková;Mgr.;33;administratívny pracovník;Stará ¼ubovòa;KDH;Anna Hudáková
+12;KDH;141;Martin;Kalafut;Dr. Ing.;37;geodet;Nová Dubnica;KDH;Martin Kalafut
+12;KDH;142;Alexander;Bugala;Ing. arch.;42;architekt;Michalovce;KDH;Alexander Bugala
+12;KDH;143;Mária;Bielová;PhDr.;50;pedagóg;Trstená;KDH;Mária Bielová
+12;KDH;144;Michal;Kurák;Ing.;45;elektrotechnik;Humenné;KDH;Michal Kurák
+12;KDH;145;Marta;Šustová;;45;zdravotná sestra;Hlohovec;KDH;Marta Šustová
+12;KDH;146;Anna;Nemèíková;;45;zdravotná sestra;Gelnica;KDH;Anna Nemèíková
+12;KDH;147;František;Vanèo;Ing.;51;strojnı ininier;Èerveník;KDH;František Vanèo
+12;KDH;148;Viliam;Václav;Ing.;51;energetik;Dubnica nad Váhom;KDH;Viliam Václav
+12;KDH;149;Štefan;Ondáš;Ing.;39;strojnı ininier;Krompachy;KDH;Štefan Ondáš
+12;KDH;150;Pavol;Krištof;Mgr.;27;politológ;Piešany;KDH;Pavol Krištof
+14;¼S;1;Magdaléna;Sulanová;Ing.;50;manaér;Bratislava;¼S;Magdaléna Sulanová
+14;¼S;2;Pavol;Halmo;;54;ekonóm;Bratislava;¼S;Pavol Halmo
+14;¼S;3;Mária;Tóthová;;42;fin. poradca;Bratislava;¼S;Mária Tóthová
+14;¼S;4;Viera;Bombarová;;41;ekonóm;Bratislava;¼S;Viera Bombarová
+14;¼S;5;Daniela;Pagáèová;;35;laborantka;Nová Dubnica;¼S;Daniela Pagáèová
+14;¼S;6;Boena;Štefíková;;43;zdrav. sestra;Tuina;BEZPP;Boena Štefíková
+14;¼S;7;Marián;Leineroviè;;51;pedagóg;Bratislava;BEZPP;Marián Leineroviè
+14;¼S;8;Ivan;Griga;;36;realitnı maklér;Hlohovec;BEZPP;Ivan Griga
+14;¼S;9;Ján;Janovec;;62;dôchodca;Ruomberok;BEZPP;Ján Janovec
+14;¼S;10;Eva;Horváthová;;47;adm. pracov.;Bratislava;BEZPP;Eva Horváthová
+14;¼S;11;Ján;Kovbek;;50;technik;Bratislava;¼S;Ján Kovbek
+14;¼S;12;Miroslav;iko;Ing.;31;realitnı mak.;Bratislava;BEZPP;Miroslav iko
+14;¼S;13;Andrea;Pagáèová;;23;obchodníèka;Nová Dubnica;¼S;Andrea Pagáèová
+14;¼S;14;Ondrej;Schütz;;54;opravár;Rákoš;BEZPP;Ondrej Schütz
+14;¼S;15;Štefan;Rakšányi;;51;technik;Bratislava;¼S;Štefan Rakšányi
+14;¼S;16;Viliam;Máyer;;45;zást. riadite¾a;Bratislava;BEZPP;Viliam Máyer
+14;¼S;17;Ivan;Lengyel;Ing.;62;technik;Bratislava;¼S;Ivan Lengyel
+14;¼S;18;Vladimír;Nováèek;;56;podnikate¾;Bratislava;BEZPP;Vladimír Nováèek
+14;¼S;19;Margita;Struhaliková;;60;dôchodca;Bratislava;¼S;Margita Struhaliková
+14;¼S;20;Miloslav;Rovenskı;;60;technik;Bratislava;¼S;Miloslav Rovenskı
+14;¼S;21;Vincent;Struhalík;;63;dôchodca;Bratislava;¼S;Vincent Struhalík
+14;¼S;22;Viera;iaèková;Ing.;53;stav. ininier;Bratislava;¼S;Viera iaèková
+14;¼S;23;Viera;Suchánová;;54;podnikate¾ka;Bratislava;BEZPP;Viera Suchánová
+14;¼S;24;Ladislav;Mikuš;;50;podnikate¾;Bratislava;BEZPP;Ladislav Mikuš
+15;ZRS;1;Ján;¼upták;;56;stav. technik;Banská Bystrica;ZRS;Ján ¼upták
+15;ZRS;2;Milan;Trník;;38;technik;Púchov;ZRS;Milan Trník
+15;ZRS;3;Bartolomej;Sisák;;60;dôchodca;Vechec;ZRS;Bartolomej Sisák
+15;ZRS;4;Ján;Pivoluska;;44;technik;Banská Bystrica;ZRS;Ján Pivoluska
+15;ZRS;5;Štefan;Jaška;;61;dôchodca;Šoporòa;ZRS;Štefan Jaška
+15;ZRS;6;Vladimír;Hodrušskı;MUDr.;60;lekár;Kremnica;ZRS;Vladimír Hodrušskı
+15;ZRS;7;Mária;Hrušková;;51;invalidná dôchodk.;Zvolen;ZRS;Mária Hrušková
+15;ZRS;8;Jozef;Balá;;34;inštalatér;K¾aèno;ZRS;Jozef Balá
+15;ZRS;9;Pavol;Kopèák;Ing.;48;pracovník školstva;Prešov;BEZPP;Pavol Kopèák
+15;ZRS;10;Jozef;Okrak;Ing. CSc.;70;dôchodca;Bratislava;BEZPP;Jozef Okrak
+15;ZRS;11;Erika;Skubíková;;46;vedúca predajne;Liptovskı Mikuláš;BEZPP;Erika Skubíková
+15;ZRS;12;Rastislav;Bašista;;50;technik;Michalovce;ZRS;Rastislav Bašista
+15;ZRS;13;Ján;Huan;;49;robotník;Revúca;ZRS;Ján Huan
+15;ZRS;14;Anna;Bajanová;;48;ved. predajne;Podluany;BEZPP;Anna Bajanová
+15;ZRS;15;Anna;Korèušková;;38;zástupca vedúcej predajne;Tvrdošín;BEZPP;Anna Korèušková
+15;ZRS;16;Jozef;Duplák;;40;automechanik;Topo¾ovka;ZRS;Jozef Duplák
+15;ZRS;17;Ján;Margala;;50;dozorca rušò. depa;Nové Mesto nad Váhom;ZRS;Ján Margala
+15;ZRS;18;Marcela;Prachová;;38;predavaè-pokladník;Stará ¼ubovòa;BEZPP;Marcela Prachová
+15;ZRS;19;Jozef;Gerát;Bc.;39;manaér;Martin;ZRS;Jozef Gerát
+15;ZRS;20;Ondrej;Paulík;;56;strojár-technik;Myjava;ZRS;Ondrej Paulík
+15;ZRS;21;Juraj;Bobok;;36;bezpeènost. pracov.;Prievidza;ZRS;Juraj Bobok
+15;ZRS;22;Margita;Vicáòová;;50;predavaèka;Dolnı Kubín;BEZPP;Margita Vicáòová
+15;ZRS;23;Štefan;Macko;;57;vedúci predajne;Vráble;BEZPP;Štefan Macko
+15;ZRS;24;Anna;Svitková;;45;vedúca predajne;ilina;BEZPP;Anna Svitková
+15;ZRS;25;Pavol;Kowalski;;25;strojnı technik;Zborov;ZRS;Pavol Kowalski
+15;ZRS;26;Jaroslav;Završan;;44;strojnı zámoèník;Raková;ZRS;Jaroslav Završan
+15;ZRS;27;Ladislav;Mokrı;;40;slaboprúdar;Trstená;ZRS;Ladislav Mokrı
+15;ZRS;28;Tibor;Taej;;37;inštalatér;Košice;ZRS;Tibor Taej
+15;ZRS;29;Jozef;Drgoòa;;54;robotník;Choèa;ZRS;Jozef Drgoòa
+15;ZRS;30;Jozef;Varga;;54;mechanik;Nové Zámky;ZRS;Jozef Varga
+15;ZRS;31;¼ubomír;Dado;;44;robotník;Krupina;ZRS;¼ubomír Dado
+15;ZRS;32;Magdaléna;Michalíková;;54;laborantka;Poprad;ZRS;Magdaléna Michalíková
+15;ZRS;33;Eva;Piliarová;;48;predavaèka;Podbrezová;BEZPP;Eva Piliarová
+15;ZRS;34;Karol;Vaštík;;55;robotník;Papradno;ZRS;Karol Vaštík
+15;ZRS;35;Štefan;Garèár;;46;kuchár;Smiany;ZRS;Štefan Garèár
+15;ZRS;36;Anna;Peèková;;39;ved. predajne;¼ubochòa;BEZPP;Anna Peèková
+15;ZRS;37;Ladislav;Koneènı;;51;robotník;Banská Bystrica;ZRS;Ladislav Koneènı
+15;ZRS;38;Jozef;Minarik;;36;obrábaè kovov;Topo¾èany;ZRS;Jozef Minarik
+15;ZRS;39;Eva;Oravcová;;41;predavaèka;Dolnı Kubín;BEZPP;Eva Oravcová
+15;ZRS;40;Jana;Pehenová;;43;vedúca predajne;Hnúša;BEZPP;Jana Pehenová
+15;ZRS;41;Katarína;Brisudová;;29;predavaèka;Malenice;BEZPP;Katarína Brisudová
+15;ZRS;42;Sidónia;Poliaèková;;52;zástup. vedúc. predajne;Višòové;BEZPP;Sidónia Poliaèková
+15;ZRS;43;Renáta;Kaliská;;26;zdravot. sestra;Banská Bystrica;BEZPP;Renáta Kaliská
+15;ZRS;44;Anna;dánska;Ing.;47;po¾nohosp. Ing.;Rudno nad Hronom;ZRS;Anna dánska
+15;ZRS;45;Róbert;Šúpol;;22;po¾nohospodár;Dubnica nad Váhom;ZRS;Róbert Šúpol
+15;ZRS;46;Miroslav;Štofik;;35;robotník;Snina;ZRS;Miroslav Štofik
+15;ZRS;47;Eduard;Frala;;57;technik;Bánovce nad Bebravou;ZRS;Eduard Frala
+15;ZRS;48;Emília;Sulíková;;44;predavaèka;Nové Zámky;ZRS;Emília Sulíková
+15;ZRS;49;Zdenka;Chládková;;48;predavaèka;ilina;BEZPP;Zdenka Chládková
+15;ZRS;50;Viera;Chudá;;47;predavaèka;Martin;BEZPP;Viera Chudá
+15;ZRS;51;Mária;Páleníková;;48;vedúca predajne;Ve¾ké Záluie;BEZPP;Mária Páleníková
+15;ZRS;52;Jozef;Baèa;;47;stavebnı technik;Šarišské Èierne;ZRS;Jozef Baèa
+15;ZRS;53;Janka;Lukáèová;;45;ved. predajne;Prešov;BEZPP;Janka Lukáèová
+15;ZRS;54;Milan;Zloch;;53;zámoèník;Kopèany;ZRS;Milan Zloch
+15;ZRS;55;Anna;Líšková;;46;predavaèka;Turany;BEZPP;Anna Líšková
+15;ZRS;56;Zita;Vozárová;;43;predavaèka;Brezno;BEZPP;Zita Vozárová
+15;ZRS;57;Kvìtoslava;Gulášová;;38;predavaèka;Sereï;BEZPP;Kvìtoslava Gulášová
+15;ZRS;58;Pavol;Èuma;;52;poiarno bezpeènostnı technik;Vranov nad Top¾ou;ZRS;Pavol Èuma
+15;ZRS;59;Marián;Brijak;;29;poiarnik;Šiatorská Bukovinka;ZRS;Marián Brijak
+15;ZRS;60;Gabriela;Tardová;;42;zást. ved. spoloè. stravovania;Dolné Lovèice;BEZPP;Gabriela Tardová
+15;ZRS;61;Eva;Micháliková;;37;ved. predajne;Hriòová;BEZPP;Eva Micháliková
+15;ZRS;62;Peter;Miticzky;;57;robotník;Luèenec;ZRS;Peter Miticzky
+15;ZRS;63;Pavel;Èellár;;56;samostatnı technik vıroby;Staré Hory;BEZPP;Pavel Èellár
+15;ZRS;64;Eva;Parobeková;;38;predavaèka;Hrnèiarske Zaluany;BEZPP;Eva Parobeková
+15;ZRS;65;Viliam;Meravı;Ing.;60;po¾nohosp. in.;Humenné;ZRS;Viliam Meravı
+15;ZRS;66;Mária;Kaštierová;;38;THP;Zvolen;ZRS;Mária Kaštierová
+15;ZRS;67;Jozef;Polák;;35;ivnostník;Zákamenné;ZRS;Jozef Polák
+15;ZRS;68;Jozefa;Riesová;Ing.;44;chemickı ininier;Levice;ZRS;Jozefa Riesová
+15;ZRS;69;Daniela;Ambrušová;;38;úètovníèka;Dvorníky;ZRS;Daniela Ambrušová
+15;ZRS;70;Pavol;Kršiak;;47;technik;Rudno nad Hronom;ZRS;Pavol Kršiak
+15;ZRS;71;Tibor;Štric;;54;vodiè;Banská Štiavnica;ZRS;Tibor Štric
+15;ZRS;72;Iveta;Turèániová;;39;predavaèka;Povaská Bystrica;BEZPP;Iveta Turèániová
+15;ZRS;73;Ján;Štrbák;;56;invalidnı dôchodca;Terchová;ZRS;Ján Štrbák
+15;ZRS;74;Jozef;Fric;;43;robotník;Spišská Nová Ves;ZRS;Jozef Fric
+15;ZRS;75;Jana;Hybenová;;43;uèite¾ka MŠ;Poprad;ZRS;Jana Hybenová
+15;ZRS;76;¼udmila;Dorociaková;;43;kuchárka;Turzovka;ZRS;¼udmila Dorociaková
+15;ZRS;77;Ján;Burcin;;41;stavebnı technik;Medzilaborce;ZRS;Ján Burcin
+15;ZRS;78;Rastislav;Németh;Ing.;36;technik;Otrhánky;ZRS;Rastislav Németh
+15;ZRS;79;Milan;Spodniak;;49;ivnostník;Zvolen;ZRS;Milan Spodniak
+15;ZRS;80;Irena;Bartová;;47;robotníèka;Nesvady;ZRS;Irena Bartová
+15;ZRS;81;Darina;Kondrátová;;47;eriavnièka;Rybník;ZRS;Darina Kondrátová
+15;ZRS;82;Martin;Mikita;Ing.;52;THP;Svidník;ZRS;Martin Mikita
+15;ZRS;83;Vladimír;Maruna;;62;dôchodca;Terchová;ZRS;Vladimír Maruna
+16;¼B;1;Jozef;Kalman;RSDr.;51;politológ;Bratislava;¼B;Jozef Kalman
+16;¼B;2;Anton;Poliak;Ing.;53;predseda PD;Hontianske Moravce;¼B;Anton Poliak
+16;¼B;3;Oliver;Petrík;;40;manaér;Michalovce;¼B;Oliver Petrík
+16;¼B;4;Dušan;Gréger;PhDr.;48;primátor;arnovica;¼B;Dušan Gréger
+16;¼B;5;Ema;Maggiová Kraváriková;PhDr.;47;manaér;Vrbové;¼B;Ema Maggiová Kraváriková
+16;¼B;6;Samuel;Balá;Ing.;43;manaér;Senica;¼B;Samuel Balá
+16;¼B;7;¼ubomír;Štefánik;Ing.;41;vırobnı riadite¾;Skalica;BEZPP;¼ubomír Štefánik
+16;¼B;8;Anton;Antaš;RSDr.;53;podnikate¾;Bratislava;¼B;Anton Antaš
+16;¼B;9;Dušan;Bánovskı;Mgr.;25;študent;Partizánske;¼B;Dušan Bánovskı
+16;¼B;10;Ján;Riapoš;;33;paralympionik;Hodruša - Hámre;BEZPP;Ján Riapoš
+16;¼B;11;Rozália;Šeilingerová;;47;prezidentka Slovenskej spoloènosti sestier;Šamorín;BEZPP;Rozália Šeilingerová
+16;¼B;12;Ján;Kaleja;;56;manaér;Prešov;¼B;Ján Kaleja
+16;¼B;13;František;Lády;;56;robotník;Bratislava;¼B;František Lády
+16;¼B;14;Bohuslav;Sedliak;Ing.;53;vysokoškolskı uèite¾;ilina;BEZPP;Bohuslav Sedliak
+16;¼B;15;Ingrid;Zubková;Mgr.;30;uèite¾ka;Hraò;BEZPP;Ingrid Zubková
+16;¼B;16;Ján;Kán;RSDr.;54;manaér;Zvolen;BEZPP;Ján Kán
+16;¼B;17;Jozef;K¾uska;Ing.;52;ekonóm;Dechtice;¼B;Jozef K¾uska
+16;¼B;18;Tamara;Kubušová;MUDr.;44;lekár;Polomka;¼B;Tamara Kubušová
+16;¼B;19;Oldøich;Havlík;Ing.;47;referent;Nitra;¼B;Oldøich Havlík
+16;¼B;20;Aneka;Poradová;Ing.;43;ekonóm;Luèenec;¼B;Aneka Poradová
+16;¼B;21;Pavel;Švec;;38;vodohospodár;Sabinov;¼B;Pavel Švec
+16;¼B;22;Milan;Olexa;;51;obchodnı riadite¾;Borša;¼B;Milan Olexa
+16;¼B;23;Anna;Èuháková;;60;podnikate¾ka;Dobrá Niva;¼B;Anna Èuháková
+16;¼B;24;Daniel;Demko;Ing.;49;vojak vo vıslube;Banská Bystrica;¼B;Daniel Demko
+16;¼B;25;Milan;Èernı;RSDr.;53;konate¾;Bratislava;¼B;Milan Èernı
+16;¼B;26;Jozef;Filo;Ing.;58;riadite¾;Piešany;¼B;Jozef Filo
+16;¼B;27;Soòa;Poláková;Ing.;56;uèite¾ka;Èadca;¼B;Soòa Poláková
+16;¼B;28;Ján;Borovskı;;47;robotník;Liptovské Revúce;¼B;Ján Borovskı
+16;¼B;29;Marián;Krempaskı;Ing.;53;manaér;Košice;¼B;Marián Krempaskı
+16;¼B;30;Emília;Krotáková;Ing.;52;predseda PD;Jarabina;¼B;Emília Krotáková
+16;¼B;31;Jozef;Èièvák;Mgr.;57;uèite¾;Sabinov;¼B;Jozef Èièvák
+16;¼B;32;Karol;Teicher;Ing.;26;stavbyvedúci;Hnúša;¼B;Karol Teicher
+16;¼B;33;Ján;Miškovskı;Ing.;59;stredoškolskı profesor;Pezinok;¼B;Ján Miškovskı
+16;¼B;34;Ján;Novák;PhDr. RNDr. CSc.;59;vedeckı pracovník;Banská Štiavnica;¼B;Ján Novák
+16;¼B;35;Karol;Klaèanskı;;54;podnikate¾;Topo¾èany;¼B;Karol Klaèanskı
+16;¼B;36;Ján;Vránsky;Ing.;52;odbornı referent;Liptovskı Mikuláš;¼B;Ján Vránsky
+16;¼B;37;Ján;Vojtko;MVDr.;55;veterinárny lekár;Piešany;¼B;Ján Vojtko
+16;¼B;38;Alojz;Španihel;;55;kontrolór;Papradno;¼B;Alojz Španihel
+16;¼B;39;Ján;Micha¾ák;Ing.;48;invalidnı dôchodca;Nitra;¼B;Ján Micha¾ák
+16;¼B;40;Danica;Zimová;Bc.;47;majsterka odbor. vıcviku;Banská Bystrica;BEZPP;Danica Zimová
+16;¼B;41;Zoltán;Adorján;PhDr.;61;vysokoškolskı uèite¾;Bratislava;¼B;Zoltán Adorján
+16;¼B;42;Miroslav;Smatana;Ing.;45;podnikate¾;Povaská Bystrica;¼B;Miroslav Smatana
+16;¼B;43;Marta;Èarnakovièová;;44;uèite¾ka;Krá¾ovskı Chlmec;BEZPP;Marta Èarnakovièová
+16;¼B;44;Gabriela;Gavalcová;;51;referentka;ilina;BEZPP;Gabriela Gavalcová
+16;¼B;45;Daniel;Solèiansky;Ing.;36;ekonóm;Bratislava;BEZPP;Daniel Solèiansky
+16;¼B;46;Vasi¾;Dzadík;;51;podnikate¾;Litmanová;¼B;Vasi¾ Dzadík
+16;¼B;47;Milan;Brada;;52;vedúci rušòového depa;Štefanov nad Oravou;¼B;Milan Brada
+16;¼B;48;Eva;Molnárová;;35;manaér;Revúca;¼B;Eva Molnárová
+16;¼B;49;Vladimír;Èoròak;PhDr.;40;uèite¾;Bardejov;¼B;Vladimír Èoròak
+16;¼B;50;Monika;Letková;;29;materská dovolenka;Ve¾ké Záluie;¼B;Monika Letková
+16;¼B;51;Branislav;Gajdoš;;24;projektant;Topo¾èany;¼B;Branislav Gajdoš
+16;¼B;52;¼udovít;Lukáè;Ing.;43;lesnı ininier;Banská Belá;BEZPP;¼udovít Lukáè
+16;¼B;53;Ladislav;Ïorïoviè;Bc.;29;súdny exekútor;Senica;¼B;Ladislav Ïorïoviè
+16;¼B;54;Vincent;Ondrejko;;60;úradník;Frièovce;¼B;Vincent Ondrejko
+16;¼B;55;Bohuš;Hospodársky;Ing.;51;podnikate¾;Nová Dubnica;¼B;Bohuš Hospodársky
+16;¼B;56;Ondrej;Kosturák;Ing.;42;podnikate¾;Zvolen;¼B;Ondrej Kosturák
+16;¼B;57;Ján;Kamas;;59;chemik;Bratislava;¼B;Ján Kamas
+16;¼B;58;Viera;Henèeková;;37;zdravotná sestra;Trnava;BEZPP;Viera Henèeková
+16;¼B;59;Peter;Pavlov;Ing.;49;podnikate¾;Komárno;¼B;Peter Pavlov
+16;¼B;60;Ladislav;Kohutiar;JUDr.;57;právnik;Prešov;¼B;Ladislav Kohutiar
+16;¼B;61;Martin;Štetiar;Mgr.;26;študent;Èadca;¼B;Martin Štetiar
+16;¼B;62;¼uboš;Štefke;;45;podnikate¾;Dubnica nad Váhom;¼B;¼uboš Štefke
+16;¼B;63;Cyril;Juhás;;23;študent;Ruskov;BEZPP;Cyril Juhás
+16;¼B;64;Ján;Pohanka;;50;podnikate¾;Kováèová;¼B;Ján Pohanka
+16;¼B;65;Štefan;Majdiak;RSDr.;57;policajt na vısluhovom dôchodku;Bratislava;¼B;Štefan Majdiak
+16;¼B;66;Peter;Beljanskı;;39;podnikate¾;Partizánske;¼B;Peter Beljanskı
+16;¼B;67;Anton;Kaderábek;;50;pracovník bezpeènostnej sluby;Nové Zámky;¼B;Anton Kaderábek
+16;¼B;68;Andrea;Hudeková;Mgr.;29;psychológ;Trnava;BEZPP;Andrea Hudeková
+16;¼B;69;Hana;Formánková;;34;úradníèka;Skalica;¼B;Hana Formánková
+16;¼B;70;Vasi¾;Morochoviè;Ing. CSc.;57;riadite¾;Humenné;¼B;Vasi¾ Morochoviè
+16;¼B;71;Jana;Pagáèová;Ing.;43;ekonóm;Handlová;BEZPP;Jana Pagáèová
+16;¼B;72;Jozef;Majsniar;;43;pracovník bezpeènostnej sluby;Hodruša - Hámre;¼B;Jozef Majsniar
+16;¼B;73;Lukáš;Kova¾;;22;manaér;Bratislava;¼B;Lukáš Kova¾
+16;¼B;74;Milan;Durec;Ing.;37;podnikate¾;Myjava;¼B;Milan Durec
+16;¼B;75;Karol;Mikloš;;51;technik;Ša¾a;¼B;Karol Mikloš
+16;¼B;76;František;Zábavník;Ing.;54;predseda PD;Prešov;¼B;František Zábavník
+16;¼B;77;Jana;Chodúrová;Ing.;31;technik;Senica;¼B;Jana Chodúrová
+16;¼B;78;Anika;Lešková;;37;zdravotná sestra;Prešov;BEZPP;Anika Lešková
+16;¼B;79;Kristína;Hanáèková;doc. Dr. CSc.;57;uèite¾ka;Košice;¼B;Kristína Hanáèková
+16;¼B;80;Ján;Ulickı;;29;podnikate¾;Klenovec;¼B;Ján Ulickı
+16;¼B;81;Štefan;Kiròak;RSDr.;53;úradník;Humenné;¼B;Štefan Kiròak
+16;¼B;82;Július;Czapala;Mgr.;38;starosta;Èifáre;¼B;Július Czapala
+16;¼B;83;Magdaléna;Kiszelicová;;49;robotníèka;Levice;¼B;Magdaléna Kiszelicová
+16;¼B;84;Štefan;Èernák;;51;technik;Ve¾kı Krtíš;¼B;Štefan Èernák
+16;¼B;85;Ingrid;Sovišová;PeadDr.;40;vedúca personálneho odd.;Bratislava;¼B;Ingrid Sovišová
+16;¼B;86;Zuzana;Gollvitzerová;Bc.;23;študent;Nitra;¼B;Zuzana Gollvitzerová
+16;¼B;87;Ján;Klobušník;JUDr.;56;právnik;Košice;¼B;Ján Klobušník
+16;¼B;88;Ján;Fabian;Ing.;53;podnikate¾;Dubnica nad Váhom;¼B;Ján Fabian
+16;¼B;89;Peter;Orosz;Ing.;37;podnikate¾;Oèová;¼B;Peter Orosz
+16;¼B;90;Zuzana;Holleyová;Ing.;24;manaér;Povaská Bystrica;¼B;Zuzana Holleyová
+16;¼B;91;Libor;Dohnálek;Ing.;24;technik;Jablonica;¼B;Libor Dohnálek
+16;¼B;92;Ladislav;Gergely;;43;podnikate¾;Komárno;¼B;Ladislav Gergely
+16;¼B;93;¼ubomír;Lupták;Mgr.;35;riadite¾ školy;Skalica;¼B;¼ubomír Lupták
+16;¼B;94;Marta;Harausová;;37;pracovníèka pošty;¼ubovec;¼B;Marta Harausová
+16;¼B;95;Jozef;Lacko;;50;robotník;Prakovce;¼B;Jozef Lacko
+16;¼B;96;Milan;Matuška;;41;strojník;Poltár;¼B;Milan Matuška
+16;¼B;97;Daniel;Melich;Ing.;42;zootechnik;Terany;¼B;Daniel Melich
+16;¼B;98;Ernestína;Lietavová;Mgr.;45;uèite¾ka;Nová Dubnica;¼B;Ernestína Lietavová
+16;¼B;99;Jozef;Hirschman;;44;podnikate¾;Revúca;¼B;Jozef Hirschman
+16;¼B;100;Bibiana;Iriasová;Ing.;33;nazamestnaná;Košice;¼B;Bibiana Iriasová
+16;¼B;101;Miloš;Pikna;;51;manaér;Malacky;¼B;Miloš Pikna
+16;¼B;102;Stanislav;Svrèek;RNDr.;49;uèite¾;Èadca;¼B;Stanislav Svrèek
+16;¼B;103;Ján;Kochan;;51;vojak z povolania;Peèovská Nová Ves;¼B;Ján Kochan
+16;¼B;104;Jozef;Petrík;PhDr.;56;stredoškolskı uèite¾;Šenkvice;¼B;Jozef Petrík
+16;¼B;105;Marián;Pacher;Mgr.;47;právnik;Pukanec;BEZPP;Marián Pacher
+16;¼B;106;¼udmila;Hajstrová;;47;manaér;Rajecké Teplice;¼B;¼udmila Hajstrová
+16;¼B;107;Jozef;Hajtmánek;;62;starosta;Jablonka;¼B;Jozef Hajtmánek
+16;¼B;108;Vladimír;Jusko;;52;pedagóg;Šarišské Micha¾any;¼B;Vladimír Jusko
+16;¼B;109;Jozefína;Šedivá;;41;vedúca školskej jedálne;Borskı Mikuláš;¼B;Jozefína Šedivá
+16;¼B;110;Renáta;Bikárová;;30;invalidnı dôchodca;Košice;¼B;Renáta Bikárová
+16;¼B;111;Michal;Antaš;;52;automechanik;Spišskı Štiavnik;¼B;Michal Antaš
+16;¼B;112;Jozef;Minár;;55;robotník;Bratislava;¼B;Jozef Minár
+16;¼B;113;Milan;Ïuriš;Ing.;51;stavebnı technik;Hlohovec;¼B;Milan Ïuriš
+16;¼B;114;Ján;Danko;;41;technik;arnovica;¼B;Ján Danko
+16;¼B;115;Ján;Bahleda;;52;predseda SBD;Hriòová;¼B;Ján Bahleda
+16;¼B;116;Jozef;Juhász;;29;tlaèiar;Kemarok;¼B;Jozef Juhász
+16;¼B;117;Marián;Madara;;28;nezamestnanı;Nové Mesto nad Váhom;¼B;Marián Madara
+16;¼B;118;Mária;Mraèková;;41;obchodnı zástupca;Ša¾a;¼B;Mária Mraèková
+16;¼B;119;Martin;Andrašèík;;34;vodiè;Kamenica;¼B;Martin Andrašèík
+16;¼B;120;Juraj;Dupinka;;42;ivnostník;Pichne;¼B;Juraj Dupinka
+16;¼B;121;Viera;Baranovièová;Mgr.;53;stredoškolská uèite¾ka;Humenné;¼B;Viera Baranovièová
+16;¼B;122;Michal;Kubajda;;59;dôchodca;Košice;¼B;Michal Kubajda
+16;¼B;123;Roman;Keèkéš;;25;podnikate¾;Hurbanovo;¼B;Roman Keèkéš
+16;¼B;124;Eva;Kadleèíková;;51;vedúca strediska;Košice;¼B;Eva Kadleèíková
+16;¼B;125;Sylvia;Kudlová;;35;vedúca predajne;Bratislava;¼B;Sylvia Kudlová
+16;¼B;126;Dušan;Topor;Ing.;42;finanènı poradca;Nitra;¼B;Dušan Topor
+16;¼B;127;Jozef;Grejták;;63;dôchodca;Bzenov;¼B;Jozef Grejták
+16;¼B;128;Soòa;Hronská;PhDr.;57;kniná redaktorka;Bratislava;¼B;Soòa Hronská
+16;¼B;129;Ján;Koštrna;Mgr.;50;stredoškolskı uèite¾;Levice;¼B;Ján Koštrna
+16;¼B;130;Štefánia;Líšková;Mgr.;39;podnikate¾ka;Zvolen;¼B;Štefánia Líšková
+16;¼B;131;Dušan;Junger;JUDr.;55;policajt na vısluhovom dôchodku;Roòava;¼B;Dušan Junger
+16;¼B;132;Mikuláš;Šoltıs;Ing.;58;strojnı ininier;Prešov;BEZPP;Mikuláš Šoltıs
+16;¼B;133;Milan;Skoèovskı;Ing.;55;obèiansky pracovník justièná strá;Rimavská Sobota;BEZPP;Milan Skoèovskı
+16;¼B;134;Imrich;Dzuròák;;31;ivnostník;Spišskı Hrhov;¼B;Imrich Dzuròák
+16;¼B;135;Valentín;Galenko;Ing.;41;podnikate¾;Humenné;¼B;Valentín Galenko
+16;¼B;136;Jana;Tkáèová;;29;nezamestnaná;Košice;¼B;Jana Tkáèová
+16;¼B;137;Emil;Kuèerák;;47;chemik;Bratislava;¼B;Emil Kuèerák
+16;¼B;138;Ján;Fabián;;49;vojak z povolania;Levice;¼B;Ján Fabián
+16;¼B;139;Peter;Blahút;Ing.;53;konate¾;Košany nad Turcom;BEZPP;Peter Blahút
+16;¼B;140;Drahomír;Horizral;;36;ivnostník;Košice;¼B;Drahomír Horizral
+16;¼B;141;aneta;Baranovièová;;34;obchodnı zástupca;Nové Zámky;¼B;aneta Baranovièová
+16;¼B;142;Michaela;Forišová;;25;predavaèka;Hubošovce;¼B;Michaela Forišová
+16;¼B;143;Jozef;Martinec;;44;ivnostník;Nitra;¼B;Jozef Martinec
+16;¼B;144;Mária;Ádamiková;;41;zdravotná sestra;Bratislava;¼B;Mária Ádamiková
+16;¼B;145;Jozef;Jakubík;Ing.;50;technik;Práznovce;¼B;Jozef Jakubík
+16;¼B;146;Peter;Herman;;44;ivnostník;Bratislava;BEZPP;Peter Herman
+16;¼B;147;Janka;Ivanièová;;50;robotníèka;Detva;¼B;Janka Ivanièová
+16;¼B;148;Margita;Planèárová;;54;kuchárka;Nové Mesto nad Váhom;¼B;Margita Planèárová
+16;¼B;149;Alexander;Barabits;Mgr.;60;riadite¾ základnej školy;Trebišov;BEZPP;Alexander Barabits
+16;¼B;150;Igor;Kubiš;Ing.;44;novinár;Ivanka pri Dunaji;¼B;Igor Kubiš
+17;ANO;1;Pavol;Rusko;PhDr.;39;súkromnı podnikate¾;Bratislava;ANO;Pavol Rusko
+17;ANO;2;¼ubomír;Lintner;;53;novinár;Bratislava;ANO;¼ubomír Lintner
+17;ANO;3;Ján;Drgonec;JUDr. DrSc.;50;advokát;Bratislava;ANO;Ján Drgonec
+17;ANO;4;Eva;Èerná;;38;novinárka;Bratislava;ANO;Eva Èerná
+17;ANO;5;Anton;Danko;Ing.;43;viceprimátor mesta;Poprad;ANO;Anton Danko
+17;ANO;6;Imrich;Béreš;Ing.;40;ekonóm - finanèník;Bratislava;ANO;Imrich Béreš
+17;ANO;7;Robert;Nemcsics;Ing.;40;manaér;Bratislava;ANO;Robert Nemcsics
+17;ANO;8;Rudolf;Zajac;MUDr.;51;lekár;Bratislava;BEZPP;Rudolf Zajac
+17;ANO;9;Jirko;Malchárek;Ing.;36;poslanec NR SR;Bratislava;ANO;Jirko Malchárek
+17;ANO;10;Rudolf;Chmel;doc. PhDr. DrSc.;63;literárny vedec;Bratislava;ANO;Rudolf Chmel
+17;ANO;11;Jozef;Banáš;Ing.;53;riadiaci pracovník;Bratislava;ANO;Jozef Banáš
+17;ANO;12;František;Tóth;Ing.;39;riadite¾ gymnázia;Bratislava;BEZPP;František Tóth
+17;ANO;13;Jozef;Heriban;PhDr.;49;marketingovı manaér;Bratislava;ANO;Jozef Heriban
+17;ANO;14;Beáta;Brestenská;doc. RNDr. PhD.;47;vysokoškolská pedagogièka;Bratislava;ANO;Beáta Brestenská
+17;ANO;15;Branislav;Opaternı;RNDr.;39;konzultant;Bratislava;ANO;Branislav Opaternı
+17;ANO;16;Michal;Horváth;Ing. PhD.;41;ekonóm;Bratislava;ANO;Michal Horváth
+17;ANO;17;Marta;Dachová;JUDr.;34;manaérka;Vysoké Tatry;ANO;Marta Dachová
+17;ANO;18;Stanislav;Kropilák;;47;športovı manaér;Bratislava;ANO;Stanislav Kropilák
+17;ANO;19;Pavol;Kuljaèek;Ing.;51;stavebnı ininier;Bratislava;ANO;Pavol Kuljaèek
+17;ANO;20;Jozef;Masarik;prof. RNDr. DrSc.;42;vysokoškolskı pedagóg;Bratislava;ANO;Jozef Masarik
+17;ANO;21;Peter;Biroš;MUDr.;52;lekár;Prešov;ANO;Peter Biroš
+17;ANO;22;Iveta;Henzélyová;Mgr.;39;pedagogièka;Košice;ANO;Iveta Henzélyová
+17;ANO;23;Kamila;Jandzíková;Mgr.;38;manaérka;Banská Bystrica;ANO;Kamila Jandzíková
+17;ANO;24;Juraj;Plechlo;Ing.;37;riadiaci pracovník;Bratislava;ANO;Juraj Plechlo
+17;ANO;25;Rastislav;Eliáš;;25;podnikate¾;Myjava;ANO;Rastislav Eliáš
+17;ANO;26;Martin;Cifra;;32;úradník;Piešany;ANO;Martin Cifra
+17;ANO;27;Anna;Benková;JUDr.;41;právnièka;Nové Zámky;ANO;Anna Benková
+17;ANO;28;¼ubomír;Bernát;;48;primátor;Vrútky;BEZPP;¼ubomír Bernát
+17;ANO;29;Imrich;Hamarèák;Ing.;47;štátny zamestnanec;Stropkov;ANO;Imrich Hamarèák
+17;ANO;30;Igor;Kozák;Ing.;57;manaér;Košice;ANO;Igor Kozák
+17;ANO;31;Emil;Potoèník;;49;úradník;Rimavská Sobota;ANO;Emil Potoèník
+17;ANO;32;Magdaléna;Hadaèová;;53;riadite¾ka sekretariátu;Košice;ANO;Magdaléna Hadaèová
+17;ANO;33;Ladislav;Boik;JUDr.;50;právnik;Prievidza;ANO;Ladislav Boik
+17;ANO;34;Karol;Èesnek;Ing.;37;vodohospodár;Trnava;ANO;Karol Èesnek
+17;ANO;35;Miroslav;Aschengeschvantner;Ing.;36;podnikate¾;Jacovce;ANO;Miroslav Aschengeschvantner
+17;ANO;36;Peter;Popelka;ak. mal.;47;podnikate¾;Martin;ANO;Peter Popelka
+17;ANO;37;Anna;Ondrušeková;PaedDr.;43;riadite¾ka galérie;Poprad;ANO;Anna Ondrušeková
+17;ANO;38;Vlastimil;Ondrejka;JUDr.;49;právnik;Seèovce;ANO;Vlastimil Ondrejka
+17;ANO;39;Jozef;Lahkı;Ing.;50;podnikate¾;Zvolen;ANO;Jozef Lahkı
+17;ANO;40;Jindøich;Šafáø;;47;podnikate¾;Bratislava;ANO;Jindøich Šafáø
+17;ANO;41;Peter;Štefánik;Ing.;51;podnikate¾;Trenèín;ANO;Peter Štefánik
+17;ANO;42;Igor;Šipula;Ing.;39;podnikate¾;Dunajská Streda;ANO;Igor Šipula
+17;ANO;43;Radovan;Benïák;;32;technik;Nitra;ANO;Radovan Benïák
+17;ANO;44;Martin;Horanskı;;35;podnikate¾;Martin;ANO;Martin Horanskı
+17;ANO;45;Jaroslav;Suchı;PaedDr.;43;uèite¾;Humenné;ANO;Jaroslav Suchı
+17;ANO;46;Jaroslav;Pástor;Mgr.;42;manaér;Košice;ANO;Jaroslav Pástor
+17;ANO;47;Martin;Gonda;;46;starosta;Beòuš;ANO;Martin Gonda
+17;ANO;48;Gabriel;Almáši;JUDr.;39;advokát;Bratislava;ANO;Gabriel Almáši
+17;ANO;49;Peter;Šastnı;MUDr.;32;lekár;Senica;ANO;Peter Šastnı
+17;ANO;50;Tibor;Sklut;;39;starosta obce;Horná Potôò;ANO;Tibor Sklut
+17;ANO;51;Juraj;Kisely;PhDr. CSc.;49;psychológ;Nové Zámky;ANO;Juraj Kisely
+17;ANO;52;Peter;Hacaj;Mgr.;53;riadite¾ gymnázia;Dolnı Kubín;BEZPP;Peter Hacaj
+17;ANO;53;Ján;Mita¾;Ing.;45;podnikate¾;Vranov nad Top¾ou;ANO;Ján Mita¾
+17;ANO;54;Ján;Kováèik;JUDr.;39;právnik;Košice;ANO;Ján Kováèik
+17;ANO;55;František;Kán;Ing.;41;úradník;Revúca;ANO;František Kán
+17;ANO;56;Pavel;Derkay;Ing.;40;podnikate¾;Bratislava;ANO;Pavel Derkay
+17;ANO;57;Monika;Geletová;Ing.;34;manaérka;Bánovce nad Bebravou;ANO;Monika Geletová
+17;ANO;58;Peter;Hurtík;Ing.;32;manaér;Piešany;ANO;Peter Hurtík
+17;ANO;59;Július;Bizoò;;42;vedúci pracovník;Tlmaèe;ANO;Július Bizoò
+17;ANO;60;Jozef;Tholt;MUDr.;47;lekár;Dolnı Kubín;BEZPP;Jozef Tholt
+17;ANO;61;Ján;Mariniè;Ing.;38;podnikate¾;Snina;ANO;Ján Mariniè
+17;ANO;62;Angela;Michòová;Ing.;54;ekonómka;Košice;ANO;Angela Michòová
+17;ANO;63;Ján;Korista;;43;technik;Nová Baòa;BEZPP;Ján Korista
+17;ANO;64;Július;Šubík;Ing.;30;manaér;Bratislava;ANO;Július Šubík
+17;ANO;65;Štefan;Kvasnica;Mgr.;42;právnik;Myjava;ANO;Štefan Kvasnica
+17;ANO;66;Viktor;Béreš;Ing.;25;manaér;Holíè;ANO;Viktor Béreš
+17;ANO;67;Miroslav;Kováè;Ing.;48;riadiaci pracovník;Zlaté Moravce;ANO;Miroslav Kováè
+17;ANO;68;Dušan;Tomaník;Ing.;50;podnikate¾;Bytèa;ANO;Dušan Tomaník
+17;ANO;69;Vladimír;Cahajla;JUDr.;51;právnik;Bardejov;ANO;Vladimír Cahajla
+17;ANO;70;Michal;Jalèovík;MUDr.;51;lekár;Trebišov;ANO;Michal Jalèovík
+17;ANO;71;Kamil;Rajkoviè;Ing.;25;manaér;Revúca;ANO;Kamil Rajkoviè
+17;ANO;72;Viliam;Páleník;doc. RNDr. PhD.;45;vedeckı pracovník;Bratislava;ANO;Viliam Páleník
+17;ANO;73;Pavol;Ferianec;;35;podnikate¾;Rudník;ANO;Pavol Ferianec
+17;ANO;74;Dezider;Plavy;;32;podnikate¾;Dunajská Streda;ANO;Dezider Plavy
+17;ANO;75;Milan;Šebesta;Ing.;48;podnikate¾;Levice;ANO;Milan Šebesta
+17;ANO;76;Peter;Jantulík;;29;podnikate¾;Èadca;ANO;Peter Jantulík
+17;ANO;77;Juraj;Seman;;44;štátny zamestnanec;Spišská Nová Ves;ANO;Juraj Seman
+17;ANO;78;¼ubica;Mrvíková;MUDr.;48;lekárka;Košice;ANO;¼ubica Mrvíková
+17;ANO;79;Helena;Kokavcová;;48;podnikate¾ka;Brezno;ANO;Helena Kokavcová
+17;ANO;80;Miroslav;Šotník;Ing.;39;riadite¾ poboèky banky;Bratislava;ANO;Miroslav Šotník
+17;ANO;81;Ivan;Novák;MUDr.;56;lekár;Liptovskı Mikuláš;ANO;Ivan Novák
+17;ANO;82;¼ubomír;Fábik;;36;podnikate¾;Èastkov;ANO;¼ubomír Fábik
+17;ANO;83;Katarína;Katonová;Mgr.;36;magistra;Topo¾èany;ANO;Katarína Katonová
+17;ANO;84;Vladimír;Majer;MVDr.;41;podnikate¾;Liptovskı Mikuláš;ANO;Vladimír Majer
+17;ANO;85;Mária;Šimková;Ing.;37;uèite¾ka;Prešov;ANO;Mária Šimková
+17;ANO;86;Vojtech;Bodnár;Ing.;44;manaér;Košice;ANO;Vojtech Bodnár
+17;ANO;87;Anna;Václavíková;Ing. arch.;50;architektka;Luèenec;BEZPP;Anna Václavíková
+17;ANO;88;Martin;Kochan;Ing.;24;obchodnı riadite¾;Rovinka;ANO;Martin Kochan
+17;ANO;89;Miloslav;Kobulda;;41;manaér;Kanianka;ANO;Miloslav Kobulda
+17;ANO;90;Mária;Adámeková;;40;ekonómka;Nitra;ANO;Mária Adámeková
+17;ANO;91;Mikuláš;Janèek;Ing.;56;manaér;ilina;ANO;Mikuláš Janèek
+17;ANO;92;Renáta;Zichová;Mgr.;39;ivnostníèka;Stará ¼ubovòa;ANO;Renáta Zichová
+17;ANO;93;Peter;Horbaj;doc. Ing. PhDr.;46;pedagóg;Košice;ANO;Peter Horbaj
+17;ANO;94;Gabriel;Jellmann;Ing.;48;podnikate¾;Rimavská Sobota;ANO;Gabriel Jellmann
+17;ANO;95;Jozef;Tomenga;Ing.;49;obchodno-technickı riadite¾;Banská Bystrica;ANO;Jozef Tomenga
+17;ANO;96;Peter;Kocnár;;52;manaér;Trenèín;ANO;Peter Kocnár
+17;ANO;97;Peter;Gádoši;Ing.;35;manaér;Trnava;ANO;Peter Gádoši
+17;ANO;98;Helena;Venclová;Mgr.;44;pedagogièka;Topo¾èany;ANO;Helena Venclová
+17;ANO;99;Mária;Keratová;;53;uèite¾ka;Ruomberok;BEZPP;Mária Keratová
+17;ANO;100;Mária;¼achová;;23;manaérka;Sabinov;ANO;Mária ¼achová
+17;ANO;101;Ladislav;Olexa;Ing.;49;manaér;Košice;ANO;Ladislav Olexa
+17;ANO;102;Karol;Krist;Ing.;38;úradník;iar nad Hronom;ANO;Karol Krist
+17;ANO;103;Peter;Mazúr;Ing.;55;podnikate¾;Stupava;ANO;Peter Mazúr
+17;ANO;104;Ján;Martinisko;Ing.;49;uèite¾;Dubnica nad Váhom;ANO;Ján Martinisko
+17;ANO;105;Pavel;Daòko;MUDr.;36;lekár;Piešany;ANO;Pavel Daòko
+17;ANO;106;Štefan;Klemen;Ing.;53;úradník;Komárno;ANO;Štefan Klemen
+17;ANO;107;Ivan;Lobík;Ing.;59;uèite¾;Kysucké Nové Mesto;ANO;Ivan Lobík
+17;ANO;108;Jozef;Harviš;PhDr.;53;uèite¾;Svidník;ANO;Jozef Harviš
+17;ANO;109;Gabriela;Borovská;JUDr.;43;právnièka;Michalovce;ANO;Gabriela Borovská
+17;ANO;110;Vojtech;Koóš;;27;podnikate¾;Cerovo;ANO;Vojtech Koóš
+17;ANO;111;Patrik;Dvoøák;;28;podnikate¾;Bratislava;ANO;Patrik Dvoøák
+17;ANO;112;Pavol;Valúch;Ing.;39;podnikate¾;Stará Turá;ANO;Pavol Valúch
+17;ANO;113;Imrich;Antala;Ing.;41;úradník;Trnava;ANO;Imrich Antala
+17;ANO;114;Milan;Klenko;Ing.;45;konate¾ spoloènosti;Kura¾any;ANO;Milan Klenko
+17;ANO;115;Július;Zentko;Ing.;52;technik;Spišská Belá;ANO;Július Zentko
+17;ANO;116;Anna;Jacková;Ing.;54;ekonómka;Košice;ANO;Anna Jacková
+17;ANO;117;Karol;Letko;Ing.;36;riadite¾;Zvolen;ANO;Karol Letko
+17;ANO;118;Ivana;Knieová;Ing.;25;riadite¾ka;Bratislava;ANO;Ivana Knieová
+17;ANO;119;Vladimír;Marko;;34;podnikate¾;Chynorany;ANO;Vladimír Marko
+17;ANO;120;Alena;Junková;;41;manaérka;Skalica;ANO;Alena Junková
+17;ANO;121;Martin;Rauèina;Ing.;49;prednosta SR;Nové Zámky;ANO;Martin Rauèina
+17;ANO;122;Peter;Kustra;Bc.;36;podnikate¾;Martin;ANO;Peter Kustra
+17;ANO;123;Štefan;Antoòák;;49;ivnostník;Medzilaborce;ANO;Štefan Antoòák
+17;ANO;124;Gabriel;Fischer;Ing.;53;manaér;Košice;ANO;Gabriel Fischer
+17;ANO;125;Ján;Šály;;36;podnikate¾;Rudno nad Hronom;ANO;Ján Šály
+17;ANO;126;Vladimír;Mihálik;Mgr.;43;koordinátor dopravy;Bratislava;ANO;Vladimír Mihálik
+17;ANO;127;Ján;Luhovı;Ing.;39;podnikate¾;Púchov;ANO;Ján Luhovı
+17;ANO;128;Roman;Kristiník;;33;uèite¾;Senica;ANO;Roman Kristiník
+17;ANO;129;Ivan;Maèura;PhDr.;63;pedagóg;Nitra;ANO;Ivan Maèura
+17;ANO;130;Ján;Mo¾a;;39;podnikate¾;Dolnı Kubín;ANO;Ján Mo¾a
+17;ANO;131;Dušan;Dranèák;PhDr.;42;uèite¾;Humenné;ANO;Dušan Dranèák
+17;ANO;132;Kristína;Priesterová;Ing.;48;manaérka;Košice;ANO;Kristína Priesterová
+17;ANO;133;Jaroslav;Mihá¾;Ing.;44;agronóm;Dolné Plachtince;BEZPP;Jaroslav Mihá¾
+17;ANO;134;Roman;Feranc;;26;obchodnı zástupca;Bratislava;ANO;Roman Feranc
+17;ANO;135;Jaroslav;Kucbel;Ing.;35;podnikate¾;Senica;ANO;Jaroslav Kucbel
+17;ANO;136;¼uboslav;Mazánik;Ing.;52;konate¾ spoloènosti;Komárno;ANO;¼uboslav Mazánik
+17;ANO;137;Vladimír;Menich;JUDr.;47;podnikate¾;Martin;ANO;Vladimír Menich
+17;ANO;138;Ján;Zorièák;JUDr.;51;komerènı právnik;Batizovce;ANO;Ján Zorièák
+17;ANO;139;Michal;Ihnatko;MUDr.;45;lekár;Košice;ANO;Michal Ihnatko
+17;ANO;140;Milan;Marko;Ing.;51;riadite¾ školy;Luèenec;BEZPP;Milan Marko
+17;ANO;141;Veronika;Toèková;Ing.;27;vedúca marketingu;Bratislava;ANO;Veronika Toèková
+17;ANO;142;Peter;Caletka;;37;podnikate¾;Popudinské Moèid¾any;ANO;Peter Caletka
+17;ANO;143;Zuzana;Škublová;Ing.;24;asistentka;Ša¾a;BEZPP;Zuzana Škublová
+17;ANO;144;Zuzana;Mazúrová;Mgr.;25;manaérka;Stupava;ANO;Zuzana Mazúrová
+17;ANO;145;Beáta;Baèiková;Mgr.;32;manaérka;Bratislava;ANO;Beáta Baèiková
+17;ANO;146;O¾ga;Fijková;;29;asistentka;Bardejov;BEZPP;O¾ga Fijková
+17;ANO;147;Vladimír;Moša;Ing.;55;kontrolór;Košice;ANO;Vladimír Moša
+17;ANO;148;Dagmar;Skaèanová;;23;podnikate¾ka;Vráble;ANO;Dagmar Skaèanová
+17;ANO;149;Ján;Olexa;Ing.;39;manaér;Košice;ANO;Ján Olexa
+17;ANO;150;Ivana;Kvietková;;37;sociálna pracovníèka;Brezno;ANO;Ivana Kvietková
+18;B-RRS;1;František;Dugoviè;;53;robotník;Blatné;B-RRS;František Dugoviè
+18;B-RRS;2;Jana;Fraòová;;36;robotníèka;Èataj;B-RRS;Jana Fraòová
+18;B-RRS;3;Ján;Chlebák;;35;baník;Revúca;B-RRS;Ján Chlebák
+18;B-RRS;4;Mária;Markuliaková;;31;robotníèka;Cífer;B-RRS;Mária Markuliaková
+18;B-RRS;5;Milan;Albertus;;46;vodiè;Senec;B-RRS;Milan Albertus
+18;B-RRS;6;Katarína;Juššíková;;37;kuchárka;Muráò;B-RRS;Katarína Juššíková
+18;B-RRS;7;Milan;Kauch;;41;robotník;Podhoroï;B-RRS;Milan Kauch
+18;B-RRS;8;Jana;Lindvaiová;;22;zdravotná sestra;Poproè;B-RRS;Jana Lindvaiová
+18;B-RRS;9;Vladimír;Kriška;;52;vodiè;Senec;B-RRS;Vladimír Kriška
+18;B-RRS;10;Mária;Jakabová;;33;robotníèka;Kaplna;B-RRS;Mária Jakabová
+18;B-RRS;11;Peter;Melich;;30;baník;Revúca;B-RRS;Peter Melich
+18;B-RRS;12;Mariana;Tokarèíková;;31;robotníèka;Smiany;B-RRS;Mariana Tokarèíková
+18;B-RRS;13;Martina;Kenická;;24;krajèírka;Banská Bystrica;B-RRS;Martina Kenická
+18;B-RRS;14;Emília;Sujová;;21;robotníèka;Zvolen;B-RRS;Emília Sujová
+18;B-RRS;15;O¾ga;Zervanová;;31;robotníèka;Bratislava;B-RRS;O¾ga Zervanová
+18;B-RRS;16;Jaroslav;Korpala;;33;baník - údrbár;Revúca;B-RRS;Jaroslav Korpala
+18;B-RRS;17;Lenka;Grgaèová;;23;operátor;Trnava;B-RRS;Lenka Grgaèová
+18;B-RRS;18;Jozef;Koèi;;49;vodiè;Senec;B-RRS;Jozef Koèi
+18;B-RRS;19;Martina;Hrivòáková;;21;cukrárka;Trnava;B-RRS;Martina Hrivòáková
+18;B-RRS;20;Alexander;Zachar;;49;maliar;Poniky;B-RRS;Alexander Zachar
+18;B-RRS;21;Patrícia;Boháèiková;;27;robotníèka;Nitra;B-RRS;Patrícia Boháèiková
+18;B-RRS;22;Jozef;Knap;;47;murár;Blatné;B-RRS;Jozef Knap
+18;B-RRS;23;Adriana;Dobšinská;;32;robotníèka;Revúca;B-RRS;Adriana Dobšinská
+18;B-RRS;24;Miroslav;Makula;;31;robotník;Smiany;B-RRS;Miroslav Makula
+18;B-RRS;25;Mária;Sojková;;46;robotníèka;Trnava;B-RRS;Mária Sojková
+18;B-RRS;26;Milan;Buzna;;37;robotník - eleziar;K¾aèno;B-RRS;Milan Buzna
+18;B-RRS;27;Svetlana;Gondová;;36;manager maloobchodu;Slovenská ¼upèa;B-RRS;Svetlana Gondová
+18;B-RRS;28;Vladimír;Tarkaniè;;42;eleziar - viazaè;Vranov nad Top¾ou;B-RRS;Vladimír Tarkaniè
+18;B-RRS;29;Lıdia;Porubská;;21;uèite¾ - vychovávate¾;Trstená;B-RRS;Lıdia Porubská
+18;B-RRS;30;Jaroslav;Gembickı;;44;baník;Revúca;B-RRS;Jaroslav Gembickı
+18;B-RRS;31;Marcela;Slivošová;;21;zdravotná sestra;Trnava;B-RRS;Marcela Slivošová
+18;B-RRS;32;Jaroslava;Jobeková;;36;robotníèka;Šúrovce;B-RRS;Jaroslava Jobeková
+18;B-RRS;33;Ondrej;Janko;;39;vodiè;Reca;B-RRS;Ondrej Janko
+18;B-RRS;34;Boena;Gešková;;21;barmanka;Revúca;B-RRS;Boena Gešková
+18;B-RRS;35;Mária;Jeremiašová;;32;robotníèka;Smiany;B-RRS;Mária Jeremiašová
+18;B-RRS;36;Juraj;Krian;;38;skladník;Bratislava;B-RRS;Juraj Krian
+18;B-RRS;37;Michaela;Kuèerová;;21;èašníèka;Trnava;B-RRS;Michaela Kuèerová
+18;B-RRS;38;Jozef;Benkovskı;;34;robotník;Èataj;B-RRS;Jozef Benkovskı
+18;B-RRS;39;Marcela;Hunyáková;;32;robotníèka;Jelšava;B-RRS;Marcela Hunyáková
+18;B-RRS;40;Milan;Frenko;;33;robotník;Kováèová;B-RRS;Milan Frenko
+18;B-RRS;41;Mária;Roubalíková;;24;predavaèka;Igram;B-RRS;Mária Roubalíková
+18;B-RRS;42;Rudolf;Poša;;35;vodiè;Senec;B-RRS;Rudolf Poša
+18;B-RRS;43;Eva;Macková;;23;zdravotná sestra;Poproè;B-RRS;Eva Macková
+18;B-RRS;44;Stanislav;Chobot;;46;robotník;Vıèapy - Opatovce;B-RRS;Stanislav Chobot
+18;B-RRS;45;Jozef;Ferko;;26;robotník;Revúca;B-RRS;Jozef Ferko
+18;B-RRS;46;Ingrid;Panèušková;;29;robotníèka;Nitra;B-RRS;Ingrid Panèušková
+18;B-RRS;47;Jozef;Valentíny;;37;robotník;Podhorany;B-RRS;Jozef Valentíny
+18;B-RRS;48;Marcel;Bahleda;;26;robotník;Zvolen;B-RRS;Marcel Bahleda
+18;B-RRS;49;Mária;Valášková;;42;robotníèka;Trnava;B-RRS;Mária Valášková
+18;B-RRS;50;Milan;Škorvaga;;45;robotník;Trnava;B-RRS;Milan Škorvaga
+19;AR;1;Henrieta;Blumenfeldová;;45;scenáristka;Košice;AR;Henrieta Blumenfeldová
+19;AR;2;Ivan;Bròo;;60;novinár;Košice;BEZPP;Ivan Bròo
+19;AR;3;Terézia;Semaòáková;;54;sociálna prac.;Kemarok;AR;Terézia Semaòáková
+19;AR;4;Ladislav;Krajèoviè;Mgr.;46;chemik;Bratislava;AR;Ladislav Krajèoviè
+19;AR;5;Jozefa;Poláková;JUDr.;53;manager;Košice;AR;Jozefa Poláková
+19;AR;6;Eugen;Servátka;;56;banskı technik;Spišské Podhradie;AR;Eugen Servátka
+19;AR;7;Ján;Farkaš;Ing.;51;geodet;Košice;AR;Ján Farkaš
+19;AR;8;Štefan;Polakoviè;;45;podnikate¾;Bratislava;AR;Štefan Polakoviè
+19;AR;9;Margita;Svobodová;JUDr.;50;právnièka;Bratislava;AR;Margita Svobodová
+19;AR;10;Tomáš;Groch;;26;promoter;Košice;AR;Tomáš Groch
+19;AR;11;Darina;Škvaøilova;;51;pedagóg;Košice;AR;Darina Škvaøilova
+19;AR;12;Iveta;Mišová;Mgr.;41;sociálna prac.;Bratislava;AR;Iveta Mišová
+19;AR;13;Severin;Praenica;;34;technik - strojár;Liptovská Osada;AR;Severin Praenica
+19;AR;14;Marián;Mišík;JUDr.;58;právnik;Bratislava;AR;Marián Mišík
+19;AR;15;Marek;Ondrejka;;25;investiènı manaér;Banská Bystrica;AR;Marek Ondrejka
+19;AR;16;Adriana;Jurkovièová;;32;podnikate¾ka;Bratislava;AR;Adriana Jurkovièová
+19;AR;17;Martin;Mišina;;23;manager;Prešov;AR;Martin Mišina
+19;AR;18;Július;Dömös;Ing.;45;manager;Bratislava;BEZPP;Július Dömös
+19;AR;19;Eva;Èernáková;Ing.;34;manager;Košice;AR;Eva Èernáková
+19;AR;20;Peter;Dribòák;;23;manager;Košice;AR;Peter Dribòák
+19;AR;21;Ján;Strausz;;39;podnikate¾;Bratislava;BEZPP;Ján Strausz
+19;AR;22;Lıdia;Alföldyová;;39;manager;Bratislava;BEZPP;Lıdia Alföldyová
+19;AR;23;Anna;Thomayova;Ing.;50;pedagóg;Kemarok;AR;Anna Thomayova
+19;AR;24;Martin;Ga¾aš;;22;manager;Košice;AR;Martin Ga¾aš
+19;AR;25;Silvia;Fiantová;;23;špeditérka;Košice;AR;Silvia Fiantová
+19;AR;26;Denisa;Altmanová;Ing.;25;ekonómka;Košice;AR;Denisa Altmanová
+19;AR;27;Anna;Malová;;40;operátorka;Topo¾èany;AR;Anna Malová
+19;AR;28;Darina;Poldaufová-Tkaèiková;;62;hereèka;Košice;AR;Darina Poldaufová-Tkaèiková
+19;AR;29;Zdenek;Martinec;;45;podnikate¾;Bratislava;AR;Zdenek Martinec
+19;AR;30;Marian;Popoviè;Dpt.;59;stav. technik;Spišské Podhradie;AR;Marian Popoviè
+19;AR;31;Rudolf;Svat;;23;manager;Košice;AR;Rudolf Svat
+19;AR;32;¼ubica;Sitárová;;22;študentka;Košice;BEZPP;¼ubica Sitárová
+19;AR;33;Tatiana;Kamenická;Ing.;24;chemièka;Spišské Podhradie;AR;Tatiana Kamenická
+19;AR;34;Juraj;Marton;JUDr.;56;právnik;Košice;AR;Juraj Marton
+19;AR;35;Ivana;Bartošová;;28;prevádzkárka;Košice;AR;Ivana Bartošová
+19;AR;36;Mária;Švédová-Šèuroková;;57;dôchodkyòa;Košice;AR;Mária Švédová-Šèuroková
+19;AR;37;Valéria;Travnièková;;45;úradníèka;Košice;AR;Valéria Travnièková
+19;AR;38;Mikuláš;Jelínek;;31;vodiè;Košice;AR;Mikuláš Jelínek
+19;AR;39;Jaroslav;Duška;;40;vıskum. prac.;Košice;AR;Jaroslav Duška
+19;AR;40;Pavol;Tomašoviè;;54;námorník;Košice;AR;Pavol Tomašoviè
+20;SDA;1;Peter;Weiss;PhDr. CSc.;50;vysokoškolskı uèite¾;Bratislava;SDA;Peter Weiss
+20;SDA;2;Milan;Ftáènik;doc. RNDr. CSc.;45;vysokoškolskı uèite¾;Bratislava;SDA;Milan Ftáènik
+20;SDA;3;Erika;Kvapilová;;42;vedecká pracovníèka;Bratislava;SDA;Erika Kvapilová
+20;SDA;4;Zdenko;Trebu¾a;JUDr.;47;primátor mesta;Košice;SDA;Zdenko Trebu¾a
+20;SDA;5;Jozef;Stank;;61;minister;Bratislava;BEZPP;Jozef Stank
+20;SDA;6;Darina;Kapra¾ová;JUDr.;47;právnièka - manaérka;Prešov;SDA;Darina Kapra¾ová
+20;SDA;7;Ladislav;Orosz;doc. JUDr. CSc.;43;právnik;Košice;SDA;Ladislav Orosz
+20;SDA;8;Ivan;Štefunko;;25;politológ;Spišská Teplica;BEZPP;Ivan Štefunko
+20;SDA;9;Peter;Kresák;doc. JUDr. CSc.;48;vysokoškolskı uèite¾;Bratislava;BEZPP;Peter Kresák
+20;SDA;10;Janka;Gregorová;;41;ekonómka;Banská Bystrica;SDA;Janka Gregorová
+20;SDA;11;¼udomír;Šlahor;;55;manaér;Piešany;SDA;¼udomír Šlahor
+20;SDA;12;František;Kardoš;Ing.;57;primátor mesta;Roòava;SDA;František Kardoš
+20;SDA;13;Margita;Adamèíková;JUDr.;44;právnièka;Košice;SDA;Margita Adamèíková
+20;SDA;14;Ján;Polák;Mgr.;51;zástupca prednostu OÚ;Èadca;SDA;Ján Polák
+20;SDA;15;Jozef;Bakoš;;55;manaér;Nitra;SDA;Jozef Bakoš
+20;SDA;16;Silvia;Porubänová;;40;sociologièka;Bratislava;SDA;Silvia Porubänová
+20;SDA;17;Vincent;Timko;JUDr.;52;starosta obce;Poproè;SDA;Vincent Timko
+20;SDA;18;Ján;Kišš;;52;primátor;Stará Turá;SDA;Ján Kišš
+20;SDA;19;Ján;Boroš;Ing.;42;elektrotechnickı ininier;Ve¾kı Krtíš;SDA;Ján Boroš
+20;SDA;20;Ján;Gallo;doc. Ing. CSc.;55;vysokoškolskı pedagóg;Nitra;SDA;Ján Gallo
+20;SDA;21;Jozef;Gajdoš;;48;manaér;Makov;SDA;Jozef Gajdoš
+20;SDA;22;Nataša;Mocáková;Mgr.;39;vedúca oddelenia OÚ;Humenné;SDA;Nataša Mocáková
+20;SDA;23;Dana;Benkovièová;PhDr.;50;mediálna analytièka;Bratislava;SDA;Dana Benkovièová
+20;SDA;24;Viliam;Kurinec;Ing.;33;manaér;Sládkovièovo;SDA;Viliam Kurinec
+20;SDA;25;Michal;Kopka;MVDr. CSc.;47;manaér v obchodnej firme;Košice;SDA;Michal Kopka
+20;SDA;26;Alena;Frtúsová;MUDr.;44;lekárka-hygienièka;Levice;SDA;Alena Frtúsová
+20;SDA;27;Oskar;Németh;;49;vojak vo vıslube;Topo¾èany;SDA;Oskar Németh
+20;SDA;28;Roman;Hradeckı;PhDr.;43;pracovník v kultúre;Banská Bystrica;BEZPP;Roman Hradeckı
+20;SDA;29;O¾ga;Šèepková;Mgr.;53;uèite¾ka základnej školy;Nové Mesto nad Váhom;SDA;O¾ga Šèepková
+20;SDA;30;Mária;Kramárová;PhDr.;56;uèite¾ka;Ruomberok;SDA;Mária Kramárová
+20;SDA;31;Dušan;Suchı;;58;uèite¾;Levoèa;SDA;Dušan Suchı
+20;SDA;32;Norbert;Šatan;;31;podnikate¾;Malacky;SDA;Norbert Šatan
+20;SDA;33;Július;Rampaskó;RSDr.;50;ivnostník;Dunajská Streda;SDA;Július Rampaskó
+20;SDA;34;Pavol;Mutafov;PhDr.;47;starosta MÈ Košice II;Košice;SDA;Pavol Mutafov
+20;SDA;35;Alexander;Pastorek;;41;vedúci riadiaci pracovník;Ime¾;SDA;Alexander Pastorek
+20;SDA;36;Ján;Štubòa;Ing.;49;drevársky ininier;Zvolen;SDA;Ján Štubòa
+20;SDA;37;Július;Pohanka;Ing.;38;podnikate¾;Povaská Bystrica;SDA;Július Pohanka
+20;SDA;38;Roman;Velkov;Mgr.;26;politológ;Liptovskı Mikuláš;SDA;Roman Velkov
+20;SDA;39;Peter;Zajac;Mgr.;45;uèite¾;Giraltovce;SDA;Peter Zajac
+20;SDA;40;Zora;Maková;;46;manaérka;Bratislava;SDA;Zora Maková
+20;SDA;41;Jaroslav;Císar;Ing.;42;manaér;Trnava;SDA;Jaroslav Císar
+20;SDA;42;Kornélia;Ujlakyová;Ing.;38;predsedníèka po¾nohospod. drustva;Oborín;SDA;Kornélia Ujlakyová
+20;SDA;43;František;Mrázik;;42;súkromnı podnikate¾;ihárec;SDA;František Mrázik
+20;SDA;44;Juraj;Kniebügl;Bc.;46;pedagogickı zamestnanec;Hliník nad Hronom;SDA;Juraj Kniebügl
+20;SDA;45;Peter;Valjent;;52;podnikate¾;Bánovce nad Bebravou;SDA;Peter Valjent
+20;SDA;46;Marta;Krásna;;52;ivnostníèka;Turèianske Teplice;SDA;Marta Krásna
+20;SDA;47;Miroslava;Kovalèíková;Mgr.;28;historièka umenia;Spišská Belá;SDA;Miroslava Kovalèíková
+20;SDA;48;Peter;Wittgrúber;;28;novinár;Pezinok;BEZPP;Peter Wittgrúber
+20;SDA;49;Mária;Vargová;;46;referentka;Tomášikovo;SDA;Mária Vargová
+20;SDA;50;Peter;Èaji;MVDr.;44;veterinárny lekár;Streda nad Bodrogom;SDA;Peter Èaji
+20;SDA;51;Igor;Bartoviè;Ing.;42;pracovník štátnej správy;Šurany;SDA;Igor Bartoviè
+20;SDA;52;Emília;Blahútová;Mgr.;52;stredoškolská uèite¾ka;Luèenec;SDA;Emília Blahútová
+20;SDA;53;Igor;Škultéty;;38;hotelovı recepènı;Prievidza;SDA;Igor Škultéty
+20;SDA;54;¼ubomír;Bláha;PaedDr.;51;primátor;Dolnı Kubín;SDA;¼ubomír Bláha
+20;SDA;55;Edita;Oláhová;PhDr.;43;novinárka;Stará ¼ubovòa;SDA;Edita Oláhová
+20;SDA;56;Ladislav;Lehockı;Ing.;49;podnikate¾ - projektant;Bratislava;SDA;Ladislav Lehockı
+20;SDA;57;Igor;Nicák;RNDr.;39;vedúci kancelárie prednostu;Piešany;SDA;Igor Nicák
+20;SDA;58;Štefan;Jutka;JUDr.;55;právnik - riadite¾ DaD;Košice;SDA;Štefan Jutka
+20;SDA;59;Michal;Feik;;23;študent;Levice;BEZPP;Michal Feik
+20;SDA;60;Daniela;Pršebicová;Ing.;45;technicko-ekonomická zástupkyòa;Revúca;SDA;Daniela Pršebicová
+20;SDA;61;Ján;Krumpolec;;41;technik;Nová Dubnica;SDA;Ján Krumpolec
+20;SDA;62;Mikuláš;Takáè;Ing.;55;ininier - strojár;Martin;SDA;Mikuláš Takáè
+20;SDA;63;¼ubomír;Marko;Ing.;52;súkromnı podnikate¾;Poprad;SDA;¼ubomír Marko
+20;SDA;64;Ján;Lipiansky;Ing.;55;ekonóm;Bratislava;SDA;Ján Lipiansky
+20;SDA;65;Michal;Èopjan;Ing.;55;technik;Senica;SDA;Michal Èopjan
+20;SDA;66;Július;Strcu¾a;;29;robotník;Spišská Nová Ves;SDA;Július Strcu¾a
+20;SDA;67;Ján;Kovalèík;PhDr.;46;stredoškolskı profesor;Beladice;SDA;Ján Kovalèík
+20;SDA;68;Viktória;Chanová;Mgr.;50;súkromná lekárnièka;Hronskı Beòadik;SDA;Viktória Chanová
+20;SDA;69;Jaroslava;Botošová;;49;stredoškolská profesorka;Púchov;SDA;Jaroslava Botošová
+20;SDA;70;Radoslav;Chovanèík;;23;recepènı;Liptovskı Mikuláš;SDA;Radoslav Chovanèík
+20;SDA;71;Ján;Pencák;Ing.;55;stredoškolskı uèite¾;Humenné;SDA;Ján Pencák
+20;SDA;72;Martin;Èierny;;22;študent;Bratislava;SDA;Martin Èierny
+20;SDA;73;Marta;Rajèányová;Ing. CSc.;55;ivnostníèka;Trnava;SDA;Marta Rajèányová
+20;SDA;74;Jana;Frankovièová;Mgr.;37;uèite¾ka;Poproè;SDA;Jana Frankovièová
+20;SDA;75;Anna;Gontková;;42;ekonómka;Nitra;SDA;Anna Gontková
+20;SDA;76;Ernest;Mésároš;Ing.;52;daòovı poradca;Sliaè;SDA;Ernest Mésároš
+20;SDA;77;Jelena;Koáriková;Ing.;42;vedúca hospodárska pracovníèka;Partizánske;SDA;Jelena Koáriková
+20;SDA;78;¼udmila;Vozárová;Mgr.;55;vedúca oddelenia;Ruomberok;SDA;¼udmila Vozárová
+20;SDA;79;Ivan;Dunèko;Ing.;38;vedúci oddelenia MsÚ;Levoèa;SDA;Ivan Dunèko
+20;SDA;80;Dušan;Prokop;Ing.;57;podnikate¾;Malacky;SDA;Dušan Prokop
+20;SDA;81;Ladislav;Borovszkı;;29;manaér;Ve¾ké Ú¾any;SDA;Ladislav Borovszkı
+20;SDA;82;Jaroslav;Mezencev;Ing.;36;stavebnı ininier;Košice;SDA;Jaroslav Mezencev
+20;SDA;83;Igor;Gális;Ing.;42;pracovník verejnej správy;Krušovce;SDA;Igor Gális
+20;SDA;84;Kornélia;Èunderlíková;Mgr.;42;stredoškolská uèite¾ka;iar nad Hronom;SDA;Kornélia Èunderlíková
+20;SDA;85;Daniela;Lokšíková;;46;administratívna pracovníèka;Ilava;SDA;Daniela Lokšíková
+20;SDA;86;Viera;Maslíková;Ing.;32;stavebná ininierka;Èadca;SDA;Viera Maslíková
+20;SDA;87;Andrej;Dudáš;Mgr.;52;riadite¾ Centra vo¾ného èasu;Svidník;SDA;Andrej Dudáš
+20;SDA;88;Jozef;Bátory;;50;odbornı referent;Malacky;SDA;Jozef Bátory
+20;SDA;89;Jozef;Havlík;;56;dôchodca;Piešany;SDA;Jozef Havlík
+20;SDA;90;Zuzana;Onderková;;46;zamestnankyòa verejnej správy;Košice;SDA;Zuzana Onderková
+20;SDA;91;Milan;Sebenskı;Ing.;40;ekonóm;Komárno;SDA;Milan Sebenskı
+20;SDA;92;Pavel;Pelikán;MUDr.;39;lekár;Revúca;SDA;Pavel Pelikán
+20;SDA;93;Ján;Minár;Mgr.;48;novinár;Martin;SDA;Ján Minár
+20;SDA;94;Bohdan;Görög;;40;samostatnı referent predaja;Stará Turá;SDA;Bohdan Görög
+20;SDA;95;Jozef;Kovalèík;Ing.;54;ekonóm;Spišská Belá;SDA;Jozef Kovalèík
+20;SDA;96;Daniel;Šmihula;MUDr. Mgr.;30;právnik;Bratislava;SDA;Daniel Šmihula
+20;SDA;97;Milan;Mišík;;54;ivnostník;Vrádište;SDA;Milan Mišík
+20;SDA;98;František;Andrejko;;43;projektant;Michalovce;SDA;František Andrejko
+20;SDA;99;Ladislav;Košièár;;46;chemik;Ša¾a;SDA;Ladislav Košièár
+20;SDA;100;Branislav;Vilmon;Ing.;32;programátor - analytik;Banská Bystrica;SDA;Branislav Vilmon
+20;SDA;101;Janka;Trúsiková;;48;nezamestnaná;Stará Turá;SDA;Janka Trúsiková
+20;SDA;102;Anna;Badušková;Mgr.;59;uèite¾ka - dôchodkyòa;ilina;SDA;Anna Badušková
+20;SDA;103;Jozef;Marák;Mgr.;43;uèite¾;Stará ¼ubovòa;SDA;Jozef Marák
+20;SDA;104;Mária;Voleková;Mgr.;48;pedagogièka;Bratislava;SDA;Mária Voleková
+20;SDA;105;Milan;Pástvy;Ing.;49;ivnostník;Hlohovec;SDA;Milan Pástvy
+20;SDA;106;Pavol;Duòák;MVDr.;43;štátny zamestnanec;Košice;SDA;Pavol Duòák
+20;SDA;107;Anna;Vaòová;;33;vedúca riadiaca pracovníèka;Topo¾èany;SDA;Anna Vaòová
+20;SDA;108;Ines;Kentošová;Mgr.;39;pracovníèka v banke;Zvolen;SDA;Ines Kentošová
+20;SDA;109;Juraj;Kazda;PhDr.;55;stredoškolskı profesor;Nové Mesto nad Váhom;BEZPP;Juraj Kazda
+20;SDA;110;Pavel;Kubiš;;53;technik;Turzovka;SDA;Pavel Kubiš
+20;SDA;111;Katarína;Koneèná;;44;odborná úètovníèka;Vysoké Tatry;SDA;Katarína Koneèná
+20;SDA;112;Bronislav;Weigl;Ing.;46;vedúci pracovník;Bratislava;SDA;Bronislav Weigl
+20;SDA;113;Štefánia;Kulhanová;;41;ekonómka;Košice;SDA;Štefánia Kulhanová
+20;SDA;114;Zita;Krištofová;;41;pracovníèka ŠS;Levice;SDA;Zita Krištofová
+20;SDA;115;Milan;Brdársky;Ing.;49;hutnícky ininier;Revúca;SDA;Milan Brdársky
+20;SDA;116;Vladislav;Michaloviè;;28;študent;Prievidza;SDA;Vladislav Michaloviè
+20;SDA;117;Ján;Peteja;Ing.;55;smenovı dispeèer;ilina;SDA;Ján Peteja
+20;SDA;118;Agnesa;Grecová;Mgr.;51;uèite¾ka;Humenné;SDA;Agnesa Grecová
+20;SDA;119;Angel;Nikolov;;31;manaér;Bratislava;SDA;Angel Nikolov
+20;SDA;120;Dušan;Sarka;Ing.;50;stavebnı technik;Košice;SDA;Dušan Sarka
+20;SDA;121;Marian;Ment;;22;študent;Nitra;SDA;Marian Ment
+20;SDA;122;Dalibor;Surkoš;Ing.;42;primátor banskı ininier;Ve¾kı Krtíš;SDA;Dalibor Surkoš
+20;SDA;123;Jaroslav;Belianskı;;44;nezamestnanı;Partizánske;SDA;Jaroslav Belianskı
+20;SDA;124;Tatiana;Slotová;;42;uèite¾ka materskej školy;Ruomberok;SDA;Tatiana Slotová
+20;SDA;125;Ján;Maturkaniè;Ing.;37;po¾nohospodársky ininier;Humenné;SDA;Ján Maturkaniè
+20;SDA;126;Ján;Borsuk;Ing.;57;informatik - analytik;Bratislava;SDA;Ján Borsuk
+20;SDA;127;Miloš;Šubák;Ing.;39;manaér;Michalovce;SDA;Miloš Šubák
+20;SDA;128;Andrej;Buch;Ing.;27;odborovı pracovník chémie;Nitra;SDA;Andrej Buch
+20;SDA;129;Ivan;Hrèka;Ing.;51;stavebnı ininier;Zvolen;SDA;Ivan Hrèka
+20;SDA;130;Radoslav;Nekoranec;Bc.;30;vychovávate¾;Skalité;SDA;Radoslav Nekoranec
+20;SDA;131;Slavomír;Varga;;27;zdravotník;Ve¾opolie;SDA;Slavomír Varga
+20;SDA;132;Jozef;Barborík;Ing.;57;ekonóm;Bratislava;SDA;Jozef Barborík
+20;SDA;133;Iveta;Cimboláková;;39;laborantka - špecialistka;Košice;SDA;Iveta Cimboláková
+20;SDA;134;Marta;Eckhardtová;Ing.;46;ekonómka;Zlaté Moravce;SDA;Marta Eckhardtová
+20;SDA;135;Andrea;Kniebüglová;Bc.;22;študentka;Hliník nad Hronom;SDA;Andrea Kniebüglová
+20;SDA;136;Lenka;Litváková;;23;študentka;Ivanka pri Dunaji;SDA;Lenka Litváková
+20;SDA;137;Marta;Sèureková;Ing.;41;daòová poradkyòa;Prešov;SDA;Marta Sèureková
+20;SDA;138;Emília;Krajòáková;doc. CSc.;47;vysokoškolská pedagogièka;Košice;SDA;Emília Krajòáková
+20;SDA;139;Ján;Kalapoš;Ing.;41;chemickı ininier;Sobrance;SDA;Ján Kalapoš
+20;SDA;140;Daniela;Bognárová;;50;ekonómka;Levice;SDA;Daniela Bognárová
+20;SDA;141;Jaroslav;Kašèák;;38;súkromnı podnikate¾;Stropkov;SDA;Jaroslav Kašèák
+20;SDA;142;Magdaléna;Kanócová;Mgr.;56;uèite¾ka;Novosad;SDA;Magdaléna Kanócová
+20;SDA;143;Michal;Vojník;Mgr.;53;riadite¾ školského zariadenia;Michalovce;SDA;Michal Vojník
+20;SDA;144;Pavel;Dirbák;;54;súkromnı podnikate¾;Luèenec;SDA;Pavel Dirbák
+20;SDA;145;Miriam;Pavlíková;;23;študentka;Poprad;BEZPP;Miriam Pavlíková
+20;SDA;146;Rastislav;Dudáš;;25;ivnostník;Košice;BEZPP;Rastislav Dudáš
+20;SDA;147;Juraj;Rozkoš;Ing.;53;ekonóm;Košice;SDA;Juraj Rozkoš
+20;SDA;148;Ján;Tegi;;56;vedúci technickıch sluieb;Stráske;SDA;Ján Tegi
+20;SDA;149;Vojtech;Lauko;PaedDr.;47;stredoškolskı uèite¾;Luèenec;SDA;Vojtech Lauko
+20;SDA;150;Ján;Štofan;;44;vodiè MHD;Prešov;SDA;Ján Štofan
+21;SNJ;1;Stanislav;Pánis;;52;ekonóm;Bratislava;SNJ;Stanislav Pánis
+21;SNJ;2;Stanislav;Svorad;;50;remeselník;Nitra;SNJ;Stanislav Svorad
+21;SNJ;3;Slavomír;Janèok;;23;študent práva;Spišská Nová Ves;SNJ;Slavomír Janèok
+21;SNJ;4;Tibor Karol;Mojš;Dr. h. c.;52;velkokomtúr BOSCM;Bratislava;SNJ;Tibor Karol Mojš
+21;SNJ;5;Jozef;Borcovan;Mgr.;33;stredoškolskı uèite¾;Nitra;SNJ;Jozef Borcovan
+21;SNJ;6;Pavel;Hatala;Ing.;61;chemik - strojár;Bratislava;SNJ;Pavel Hatala
+21;SNJ;7;Vojtech;Erdélyi;MUDr.;51;lekár;Stupava;SNJ;Vojtech Erdélyi
+21;SNJ;8;Vladimír;Drábik;;48;ivnostník;Bratislava;SNJ;Vladimír Drábik
+21;SNJ;9;Marcel;Lopušník;;41;inštalatér;Banská Bystrica;SNJ;Marcel Lopušník
+21;SNJ;10;Ernest;Pápay;JUDr. Ing.;73;právnik;Bratislava;BEZPP;Ernest Pápay
+21;SNJ;11;Marek;Klementík;;26;lesník;Dobšiná;SNJ;Marek Klementík
+21;SNJ;12;Júlia;Pribinová;;22;štátny zamestnanec;Bratislava;SNJ;Júlia Pribinová
+21;SNJ;13;Peter;Peuker;;49;elektromechanik;Banská Bystrica;SNJ;Peter Peuker
+21;SNJ;14;Andrea;Maová;;27;zdravotná sestra;Nitra;SNJ;Andrea Maová
+21;SNJ;15;Pavol;Mièík;;33;podnikate¾;Piešany;SNJ;Pavol Mièík
+21;SNJ;16;Eva;Balková;;49;uèite¾ka;Trstená;SNJ;Eva Balková
+21;SNJ;17;Milan;Hanes;MUDr.;43;lekár;Lúky;SNJ;Milan Hanes
+21;SNJ;18;Edita;Horváthová;;49;stavebnı technik;Štúrovo;SNJ;Edita Horváthová
+21;SNJ;19;Rudolf;Vasky;;51;finanènı ininier;Bratislava;SNJ;Rudolf Vasky
+21;SNJ;20;Peter;Poláèik;;51;stavebnı technik;Bratislava;SNJ;Peter Poláèik
+21;SNJ;21;Vladimír;Vodák;;22;telekom. technik;Dobšiná;SNJ;Vladimír Vodák
+21;SNJ;22;Viera;Šuchterová;;48;súkromnı podnikate¾;Bratislava;SNJ;Viera Šuchterová
+21;SNJ;23;Mojmír;Klampárik;;42;èalúnnik dekoratér;Bratislava;SNJ;Mojmír Klampárik
+21;SNJ;24;Albeta;Elexová;;52;podnikate¾;Košice;SNJ;Albeta Elexová
+21;SNJ;25;Anton;Hrabovskı;;52;zámoèník;Košice;SNJ;Anton Hrabovskı
+21;SNJ;26;Jozef;Ševèík;Ing.;42;vojak z povolania;Nové Mesto nad Váhom;BEZPP;Jozef Ševèík
+21;SNJ;27;Radoslav;Krupár;;23;lesník;Dobšiná;SNJ;Radoslav Krupár
+21;SNJ;28;Eva;Lepáèková;;26;ivnostník;Trstená;SNJ;Eva Lepáèková
+21;SNJ;29;Štefan;Savary;;46;invalidnı dôchodca;Topo¾a;SNJ;Štefan Savary
+21;SNJ;30;Tomáš;Slovák;;21;potravinár;Šenkvice;SNJ;Tomáš Slovák
+21;SNJ;31;Jozef;Adamièka;;52;invalidnı dôchodca;Rybany;SNJ;Jozef Adamièka
+21;SNJ;32;Bohumil;Cienik;;55;invalidnı dôchodca;Banská Bystrica;SNJ;Bohumil Cienik
+21;SNJ;33;Dagmar;Hamrlíková;;36;predavaèka;Poprad;SNJ;Dagmar Hamrlíková
+21;SNJ;34;Štefan;Lehuta;;22;murár;Trnava;SNJ;Štefan Lehuta
+21;SNJ;35;Ladislav;Jonáš;;23;informátor;Banská Bystrica;SNJ;Ladislav Jonáš
+21;SNJ;36;Ján;Šuchter;;28;súkromnı podnikate¾;Bratislava;SNJ;Ján Šuchter
+21;SNJ;37;Zuzana;Bukovièová;;52;zdravotná sestra;Trenèín;SNJ;Zuzana Bukovièová
+21;SNJ;38;Peter;Javor;;32;vıpravca;Vinohrady nad Váhom;SNJ;Peter Javor
+21;SNJ;39;Ivan;Porubskı;;58;uèite¾;Banská Bystrica;SNJ;Ivan Porubskı
+21;SNJ;40;Gabriela;Kuèíková;;34;sklad. prac.;Trnava;SNJ;Gabriela Kuèíková
+21;SNJ;41;Vladimír;Šintál;;35;elektrikár;Šenkvice;SNJ;Vladimír Šintál
+21;SNJ;42;Ladislav;Štuller;;23;mechanik strojov a zar.;Roòava;SNJ;Ladislav Štuller
+21;SNJ;43;Radoslav;Tomka;;23;ivnostník;Poprad;SNJ;Radoslav Tomka
+21;SNJ;44;Vladimír;Vitek;;33;predajca;Trnava;SNJ;Vladimír Vitek
+21;SNJ;45;Daniel;Tagaj;;21;automechanik;Banská Bystrica;SNJ;Daniel Tagaj
+21;SNJ;46;Jarmila;Hercegová;;32;sklad. prac.;Buková;SNJ;Jarmila Hercegová
+21;SNJ;47;Vladimír;Lozgaš;;45;invalidnı dôchodca;Detva;SNJ;Vladimír Lozgaš
+21;SNJ;48;Adriana;Grosingerová;;36;úètovníèka;Trnava;SNJ;Adriana Grosingerová
+21;SNJ;49;Jaroslav;Krupár;;21;lesník;Dobšiná;SNJ;Jaroslav Krupár
+21;SNJ;50;Eva;Viteková;;62;dôchodkyòa;Trnava;SNJ;Eva Viteková
+21;SNJ;51;Ivan;ilka;;24;elektrikár;Prievidza;SNJ;Ivan ilka
+21;SNJ;52;Milan;Daniel;;26;strojnı mechanik;Trnava;SNJ;Milan Daniel
+21;SNJ;53;Branislav;Akšteiner;;36;robotník;Svit;SNJ;Branislav Akšteiner
+21;SNJ;54;Miroslav;Jakubec;;23;stránik;Trnava;SNJ;Miroslav Jakubec
+21;SNJ;55;Zuzana;Viteková;;29;úètovníèka;Trnava;SNJ;Zuzana Viteková
+21;SNJ;56;Miroslav;Rakyta;;22;kuchár;Banská Bystrica;SNJ;Miroslav Rakyta
+21;SNJ;57;Milan;Gašparoviè;;23;robotník;Trnava;SNJ;Milan Gašparoviè
+21;SNJ;58;Martin;Šofranko;;23;automechanik;Roòava;SNJ;Martin Šofranko
+21;SNJ;59;Ján;Široò;;77;agrotechnik;Ruomberok;SNJ;Ján Široò
+21;SNJ;60;Peter;Glemba;;21;stolár;Trnava;SNJ;Peter Glemba
+21;SNJ;61;Daniela;Viteková;;22;nákupca;Trnava;SNJ;Daniela Viteková
+21;SNJ;62;Ján;Bríla;;24;pracovník bezpeènostnej sluby;Poprad;SNJ;Ján Bríla
+21;SNJ;63;Marián;Ladlenica;;29;skladník;Špaèince;SNJ;Marián Ladlenica
+21;SNJ;64;Sláva;Ferèáková;;21;študent;Zeleneè;SNJ;Sláva Ferèáková
+21;SNJ;65;Tomáš;Šamaj;;21;vodiè;Trnava;SNJ;Tomáš Šamaj
+21;SNJ;66;Zuzana;Kureková;;42;predavaèka;Roòava;SNJ;Zuzana Kureková
+22;NOSNP;1;Ján;Garai;;56;energetik;Nové Zámky;NOSNP;Ján Garai
+22;NOSNP;2;Štefan;Jagerèík;doc. Ing. CSc.;54;rektor;Liptovskı Mikuláš;BEZPP;Štefan Jagerèík
+22;NOSNP;3;Henrieta;Hurná;dipl. sestra;28;zdravotná sestra;Benkovce;NOSNP;Henrieta Hurná
+22;NOSNP;4;Zdeno;Mahrík;Ing.;39;technik;Trenèín;BEZPP;Zdeno Mahrík
+22;NOSNP;5;Jozef;Komár;;56;dôchodca;Bojnice;NOSNP;Jozef Komár
+22;NOSNP;6;Jozef;Magu¾ák;Ing.;43;mechanik;Košice;BEZPP;Jozef Magu¾ák
+22;NOSNP;7;Štefan;Kyse¾;;63;staveb. technik;Komárno;NOSNP;Štefan Kyse¾
+22;NOSNP;8;Boena;Timková;Ing.;54;ekonómka;Nitra;BEZPP;Boena Timková
+22;NOSNP;9;Štefan;Haulik;;54;ekonóm;Nové Zámky;NOSNP;Štefan Haulik
+22;NOSNP;10;Martin;Tvrdı;;29;strojár;Lodno;BEZPP;Martin Tvrdı
+22;NOSNP;11;Jana;Svetlíková;PaedDr.;43;pedagóg;Prievidza;NOSNP;Jana Svetlíková
+22;NOSNP;12;Ján;Chovan;JUDr.;58;právnik;Vaec;BEZPP;Ján Chovan
+22;NOSNP;13;Jozef;Komaèka;;50;technik;Prievidza;NOSNP;Jozef Komaèka
+22;NOSNP;14;Vladimír;Guba;;51;strojár;Òagov;BEZPP;Vladimír Guba
+22;NOSNP;15;Miroslav;Mikula;Ing.;47;ekonóm;Kladzany;NOSNP;Miroslav Mikula
+22;NOSNP;16;Vladislav;Sloboda;;53;stroj. technik;Boleráz;BEZPP;Vladislav Sloboda
+22;NOSNP;17;Renáta;Stanèeková;Ing.;37;ekonómka;iar nad Hronom;NOSNP;Renáta Stanèeková
+22;NOSNP;18;Štefan;Šipoš;;50;po¾nohosp.;Nitra;BEZPP;Štefan Šipoš
+22;NOSNP;19;Mária;Gava¾ová;;41;ekonómka;Humenné;NOSNP;Mária Gava¾ová
+22;NOSNP;20;Anton;Gajdošík;;53;technik;ilina;BEZPP;Anton Gajdošík
+22;NOSNP;21;Ernest;Kováè;;60;technik;eliezovce;NOSNP;Ernest Kováè
+22;NOSNP;22;Ján;Krajèi;Ing.;49;technik;Povaská Bystrica;BEZPP;Ján Krajèi
+22;NOSNP;23;Helena;Frantová;;62;zdr. sestra;iar nad Hronom;NOSNP;Helena Frantová
+22;NOSNP;24;Mária;Ebergényiová;Ing.;53;ekonómka;Bratislava;BEZPP;Mária Ebergényiová
+22;NOSNP;25;Veronika;Baková;;54;robotníèka;Nové Zámky;NOSNP;Veronika Baková
+22;NOSNP;26;Štefan;Liššinskı;;50;stav. technik;Sabinov;BEZPP;Štefan Liššinskı
+22;NOSNP;27;¼udmila;Kováèová;;28;úètovníèka;Rybník;NOSNP;¼udmila Kováèová
+22;NOSNP;28;Ján;Nemec;Ing.;66;pedagóg;Košice;BEZPP;Ján Nemec
+22;NOSNP;29;Valéria;Daòová;PaedDr.;60;pedagóg;Brezno;NOSNP;Valéria Daòová
+22;NOSNP;30;Juraj;Bukran;Ing.;57;ekonóm;Luèenec;BEZPP;Juraj Bukran
+22;NOSNP;31;Eleonóra;Èapèeková;;53;technièka;Banská Bystrica;NOSNP;Eleonóra Èapèeková
+22;NOSNP;32;Mária;Šestáková;;53;ekonómka;Trnava;BEZPP;Mária Šestáková
+22;NOSNP;33;Renáta;Baloghová;;33;po¾nohospodár;Nové Zámky;NOSNP;Renáta Baloghová
+22;NOSNP;34;Zdenìk;Zubek;Ing.;59;ekonóm;Liptovskı Hrádok;BEZPP;Zdenìk Zubek
+22;NOSNP;35;Jana;Petri¾áková;;21;študentka;Stará ¼ubovòa;NOSNP;Jana Petri¾áková
+22;NOSNP;36;Rudolf;Latko;;49;technik;Divina;BEZPP;Rudolf Latko
+22;NOSNP;37;Milan;Venglar;Mgr.;37;pedagóg;Humenné;NOSNP;Milan Venglar
+22;NOSNP;38;Milan;Udan;;51;stroj. technik;Stará ¼ubovòa;BEZPP;Milan Udan
+22;NOSNP;39;Rudolf;Englart;Ing.;46;podnikate¾;Banská Bystrica;NOSNP;Rudolf Englart
+22;NOSNP;40;¼udmila;ahúnová;;44;ekonóm;iar nad Hronom;BEZPP;¼udmila ahúnová
+22;NOSNP;41;Ján;Ihrackı;;31;dopravák;iar nad Hronom;NOSNP;Ján Ihrackı
+22;NOSNP;42;Mária;Hadvidáková;;40;technik;Prešov;BEZPP;Mária Hadvidáková
+22;NOSNP;43;Nadeda;Nemcová;;52;úradníèka;Handlová;NOSNP;Nadeda Nemcová
+22;NOSNP;44;František;Bárnik;Ing.;49;mechanizátor;Bytèa;BEZPP;František Bárnik
+22;NOSNP;45;Veronika;Asztalosová;;23;úradníèka;Kolárovo;NOSNP;Veronika Asztalosová
+22;NOSNP;46;Mikuláš;Czocher;Ing.;61;stavbár;Liptovskı Mikuláš;BEZPP;Mikuláš Czocher
+22;NOSNP;47;Margita;Lintnerová;;48;úradníèka;iar nad Hronom;NOSNP;Margita Lintnerová
+22;NOSNP;48;Vlasta;Barcíková;;46;technik;Zvolen;BEZPP;Vlasta Barcíková
+22;NOSNP;49;Imrich;Hajduk;Ing.;45;strojár;Vranov nad Top¾ou;NOSNP;Imrich Hajduk
+22;NOSNP;50;Eva;Paická;;44;ekonóm;Rudina;BEZPP;Eva Paická
+22;NOSNP;51;Ján;Jedlièka;;37;technik;ilina;BEZPP;Ján Jedlièka
+22;NOSNP;52;Karol;Mészáros;;65;zootechnik;eliezovce;NOSNP;Karol Mészáros
+22;NOSNP;53;Pavel;Gál;;57;lesník;Krupina;NOSNP;Pavel Gál
+22;NOSNP;54;Eva;Sobolová;;46;úradníèka;iar nad Hronom;NOSNP;Eva Sobolová
+22;NOSNP;55;Jozef;uffa;;73;pedagóg;Krupina;NOSNP;Jozef uffa
+22;NOSNP;56;Ján;Grolmus;;57;technik;Prievidza;NOSNP;Ján Grolmus
+22;NOSNP;57;Adriana;Šiková;;33;predavaèka;Hurbanovo;NOSNP;Adriana Šiková
+22;NOSNP;58;Dušan;Medveï;Ing.;47;technik;Prievidza;NOSNP;Dušan Medveï
+22;NOSNP;59;Marek;Kurajda;;39;montér;Pohronská Polhora;NOSNP;Marek Kurajda
+22;NOSNP;60;Ján;Turcel;;52;sústruník;Prievidza;NOSNP;Ján Turcel
+22;NOSNP;61;Eva;Tàniková;;48;strojárka;iar nad Hronom;NOSNP;Eva Tàniková
+22;NOSNP;62;Katarína;Butášová;;39;úradníèka;Levice;NOSNP;Katarína Butášová
+22;NOSNP;63;Dušan;Cina;;53;technik;Vranov nad Top¾ou;NOSNP;Dušan Cina
+22;NOSNP;64;Pavol;Hudák;;65;robotník;Prievidza;NOSNP;Pavol Hudák
+22;NOSNP;65;Jana;Babinská;Mgr.;68;pedagóg;iar nad Hronom;NOSNP;Jana Babinská
+22;NOSNP;66;Jozef;Èonka;;63;robotník;Liptovská Porúbka;NOSNP;Jozef Èonka
+22;NOSNP;67;Pavel;Demian;Ing.;61;ekonóm;Štúrovo;NOSNP;Pavel Demian
+22;NOSNP;68;Miroslav;Mihalik;;45;robotník;Humenné;NOSNP;Miroslav Mihalik
+22;NOSNP;69;Alexander;Csikesz;;45;technik;Nesvady;NOSNP;Alexander Csikesz
+22;NOSNP;70;Ivan;Jányi;Mgr.;35;vısk. prac.;Nová Baòa;NOSNP;Ivan Jányi
+22;NOSNP;71;Aladár;Chochula;MUDr.;69;lekár;Handlová;NOSNP;Aladár Chochula
+22;NOSNP;72;Ján;Èandík;;21;robotník;Juskova Vo¾a;NOSNP;Ján Èandík
+22;NOSNP;73;Tomáš;Rudinskı;;22;robotník;Rybník;NOSNP;Tomáš Rudinskı
+22;NOSNP;74;Pavol;Iboš;;55;sústruník;Prievidza;NOSNP;Pavol Iboš
+22;NOSNP;75;Andrea;Baranová;;30;úradníèka;Vranov nad Top¾ou;NOSNP;Andrea Baranová
+22;NOSNP;76;Pavol;Krnáè;;50;úètovník;Svätı Peter;NOSNP;Pavol Krnáè
+22;NOSNP;77;Július;Zachar;;51;robotník;Prievidza;NOSNP;Július Zachar
+22;NOSNP;78;Martin;Molek;;31;robotník;Jasenovce;NOSNP;Martin Molek
+22;NOSNP;79;Ján;Ïurika;;50;zootechnik;Ime¾;NOSNP;Ján Ïurika
+22;NOSNP;80;Ján;Dzina;Ing.;65;technik;Bystrièany;NOSNP;Ján Dzina
+22;NOSNP;81;Anna;Fecenková;;42;úradníèka;Sedliská;NOSNP;Anna Fecenková
+22;NOSNP;82;Štefan;Pagurka;;52;obchodník;Pribeta;NOSNP;Štefan Pagurka
+22;NOSNP;83;Dušan;Prievalskı;;50;technik;Bojnice;NOSNP;Dušan Prievalskı
+22;NOSNP;84;Anna;Stašková;;40;úradník;Vranov nad Top¾ou;NOSNP;Anna Stašková
+22;NOSNP;85;Ladislav;Nagy;;62;technik;Nové Zámky;NOSNP;Ladislav Nagy
+22;NOSNP;86;Marián;Ševèík;Ing.;40;technik;Poluvsie;NOSNP;Marián Ševèík
+22;NOSNP;87;Helena;Ševèíková;Mgr.;37;pedagóg;Poluvsie;NOSNP;Helena Ševèíková
+22;NOSNP;88;Dáša;Tokáriková;;30;úradník;Teplièka nad Váhom;NOSNP;Dáša Tokáriková
+22;NOSNP;89;Jeannette;Zmarková;;28;zdr. sestra;Nové Zámky;NOSNP;Jeannette Zmarková
+22;NOSNP;90;Monika;Hudecová;;22;úradník;Oslany;NOSNP;Monika Hudecová
+22;NOSNP;91;Helena;Pajdová;;58;zdr. sestra;Komárno;NOSNP;Helena Pajdová
+22;NOSNP;92;Jurana;Sitárová;;55;dôchodkyòa;Prievidza;NOSNP;Jurana Sitárová
+22;NOSNP;93;Róbert;Iboš;;24;technik;Prievidza;NOSNP;Róbert Iboš
+22;NOSNP;94;Rudolf;Jakab;;37;technik;Pribeta;NOSNP;Rudolf Jakab
+22;NOSNP;95;Angela;Ibošová;;28;technik;Prievidza;NOSNP;Angela Ibošová
+22;NOSNP;96;Aneka;Komárová;;53;predavaèka;Bojnice;NOSNP;Aneka Komárová
+22;NOSNP;97;Martin;Nemec;;27;technik;Šútovce;NOSNP;Martin Nemec
+22;NOSNP;98;Judita;Dunová;;75;predavaèka;Handlová;NOSNP;Judita Dunová
+22;NOSNP;99;Karolína;Pachyngerová;;26;ekonómka;Banská Bystrica;NOSNP;Karolína Pachyngerová
+22;NOSNP;100;Ján;Kuma;;45;technik;Ptièie;NOSNP;Ján Kuma
+22;NOSNP;101;Marta;Kodojová;;65;dôchodkyòa;iar nad Hronom;NOSNP;Marta Kodojová
+22;NOSNP;102;Milan;Karaš;;48;podnikate¾;Nové Zámky;NOSNP;Milan Karaš
+22;NOSNP;103;Štefan;Hudák;;45;technik;Stará ¼ubovòa;NOSNP;Štefan Hudák
+22;NOSNP;104;Juraj;Šelep;;45;robotník;Stará ¼ubovòa;NOSNP;Juraj Šelep
+22;NOSNP;105;Ján;Bittner;;61;technik;Kamienka;NOSNP;Ján Bittner
+22;NOSNP;106;Viliam;Nagy;;42;technik;Andovce;NOSNP;Viliam Nagy
+22;NOSNP;107;Juraj;Decsi;;54;technik;Nové Zámky;NOSNP;Juraj Decsi
+22;NOSNP;108;Ján;Selep;Ing.;73;dôchodca;Hniezdne;NOSNP;Ján Selep
+22;NOSNP;109;Albeta;Filipovièová;;57;dôchodkyòa;Šurany;NOSNP;Albeta Filipovièová
+22;NOSNP;110;Denisa;Konèerová;Ing.;28;technièka;Nové Zámky;NOSNP;Denisa Konèerová
+22;NOSNP;111;Elena;Rusòáková;Mgr.;40;pedagóg;Makov;NOSNP;Elena Rusòáková
+22;NOSNP;112;¼ubomír;Juriš;;48;technik;Liptovskı Hrádok;NOSNP;¼ubomír Juriš
+23;SNS;1;Anna;Malíková;RNDr.;42;pedagóg;Èadca;SNS;Anna Malíková
+23;SNS;2;Jozef;Prokeš;RNDr. CSc.;52;fyzik;Nitra;SNS;Jozef Prokeš
+23;SNS;3;Jaroslav;Paška;Ing. arch.;48;vysokoškolskı pedagóg;Marianka;SNS;Jaroslav Paška
+23;SNS;4;Ján;Burian;Ing. arch.;47;architekt;ilina;SNS;Ján Burian
+23;SNS;5;Peter;Súlovskı;Ing.;53;ekonóm;Bratislava;SNS;Peter Súlovskı
+23;SNS;6;Miroslav;Kotian;Ing.;50;manaér;Bojnice;SNS;Miroslav Kotian
+23;SNS;7;Ivan;Eibner;PaedDr.;52;pedagóg;Rapovce;SNS;Ivan Eibner
+23;SNS;8;Dušan;Mašlonka;Ing.;35;podnikate¾;Ve¾ká Lomnica;SNS;Dušan Mašlonka
+23;SNS;9;Viliam;Oberhauser;Ing. CSc.;54;národohospodár;Zvolen;SNS;Viliam Oberhauser
+23;SNS;10;Imrich;Sládeèek;;44;podnikate¾;Trnava;SNS;Imrich Sládeèek
+23;SNS;11;Marián;Lukáè;Ing.;46;strojnı ininier;Sobrance;SNS;Marián Lukáè
+23;SNS;12;Milan;Marko;;45;technik;Levice;SNS;Milan Marko
+23;SNS;13;Dušan;Gonda;Ing.;25;ekonóm;Zvolen;SNS;Dušan Gonda
+23;SNS;14;Andrej;Trnovec;RNDr.;39;hydrogeológ;Bratislava;BEZPP;Andrej Trnovec
+23;SNS;15;Jozef;Fibich;Ing.;46;strojnı ininier;Nové Zámky;BEZPP;Jozef Fibich
+23;SNS;16;Miroslav;Zigo;;30;súkromnı podnikate¾;Lisková;SNS;Miroslav Zigo
+23;SNS;17;Milan;Staòo;Ing.;37;lesnı ininier;Horná Poruba;SNS;Milan Staòo
+23;SNS;18;Peter;Bizovskı;MUDr.;45;lekár;Stará ¼ubovòa;SNS;Peter Bizovskı
+23;SNS;19;Peter;Lisı;Ing.;58;zástupca primátora;Zlaté Moravce;SNS;Peter Lisı
+23;SNS;20;Vladimír;Král;;56;elektrotechnik;Ivanka pri Dunaji;SNS;Vladimír Král
+23;SNS;21;Vladimír Jozef;Dlhopolèek;Ing.;55;ekonóm;Hlohovec;SNS;Vladimír Jozef Dlhopolèek
+23;SNS;22;Pavol;Juríèek;RNDr.;57;chemik;Košice;SNS;Pavol Juríèek
+23;SNS;23;Jozef;Šku¾avík;;43;mechanik TV;Podvysoká;SNS;Jozef Šku¾avík
+23;SNS;24;Milan;Rybanskı;Ing.;48;manaér;Bojnice;SNS;Milan Rybanskı
+23;SNS;25;Igor;Šufliarsky;Ing.;45;strojnı ininier;Zvolen;SNS;Igor Šufliarsky
+23;SNS;26;Cyril;Leško;;50;súkromnı podnikate¾;upèany;SNS;Cyril Leško
+23;SNS;27;Ján;Petruška;MUDr.;55;lekár;Nitra;SNS;Ján Petruška
+23;SNS;28;Rastislav;Bednárik;doc. PhDr. CSc.;52;vedeckı pracovník;Bratislava;SNS;Rastislav Bednárik
+23;SNS;29;Miroslav;Orihel;Ing.;46;technik;Trnava;SNS;Miroslav Orihel
+23;SNS;30;Jozef;Maári;Ing.;53;primátor;Trstená;BEZPP;Jozef Maári
+23;SNS;31;Jozef;Zábojník;Ing.;36;manaér;Povaská Bystrica;SNS;Jozef Zábojník
+23;SNS;32;Rudolf;Slivka;MUDr.;55;lekár;Luèenec;SNS;Rudolf Slivka
+23;SNS;33;Rudolf;Schuster;;50;technik;Poprad;SNS;Rudolf Schuster
+23;SNS;34;Vladimír;Kanás;Ing.;47;elektrotechnik;Ve¾kı Kır;SNS;Vladimír Kanás
+23;SNS;35;Karol;Bunèák;;58;súkromnı podnikate¾;Bratislava;SNS;Karol Bunèák
+23;SNS;36;Milan;Zelenák;Ing.;51;súkromnı podnikate¾;Galanta;SNS;Milan Zelenák
+23;SNS;37;Maximilián;Cvengroš;Ing.;54;technik;Spišská Nová Ves;SNS;Maximilián Cvengroš
+23;SNS;38;Miroslav;Chabada;;37;technik;Vrútky;SNS;Miroslav Chabada
+23;SNS;39;Anton;Vanko;Ing.;53;manaér;Ilava;SNS;Anton Vanko
+23;SNS;40;Pavol;Kapusta;PaedDR.;58;štátny zamestnanec;Banská Bystrica;SNS;Pavol Kapusta
+23;SNS;41;Jozef;Leniè;;53;technik;Vranov nad Top¾ou;SNS;Jozef Leniè
+23;SNS;42;Juraj;Sedliaèik;Ing.;45;technik;Ša¾a;SNS;Juraj Sedliaèik
+23;SNS;43;Jozef;Javorka;Ing.;55;starosta;Slovenskı Grob;SNS;Jozef Javorka
+23;SNS;44;Marek;Andráš;Mgr.;26;uèite¾;Plechotice;BEZPP;Marek Andráš
+23;SNS;45;Valentín;Švidroò;RNDr. CSc.;54;uèite¾;Košice;SNS;Valentín Švidroò
+23;SNS;46;Peter;Ozsvald;Ing.;27;technik;Nesluša;SNS;Peter Ozsvald
+23;SNS;47;Jozef Dušan;Bezák;;55;technik;Chynorany;SNS;Jozef Dušan Bezák
+23;SNS;48;Ján;Sekereš;;50;technik;Detva;SNS;Ján Sekereš
+23;SNS;49;Ivan;Mihok;;60;dôchodca;Humenné;SNS;Ivan Mihok
+23;SNS;50;Ludovit;Viglaš;;34;starosta;Èaka;SNS;Ludovit Viglaš
+23;SNS;51;Ján;Rozbora;;49;súkromnı podnikate¾;Malacky;SNS;Ján Rozbora
+23;SNS;52;Anna;Šimková;;45;súkromná podnikate¾ka;Gelnica;SNS;Anna Šimková
+23;SNS;53;Jana;Breinská;Mgr.;27;uèite¾ka;Zemplínske Hradište;BEZPP;Jana Breinská
+23;SNS;54;O¾ga;Búryová;Mgr.;42;uèite¾ka;Krupina;SNS;O¾ga Búryová
+23;SNS;55;Jozef;Sakmar;;23;manaér;Košice;SNS;Jozef Sakmar
+23;SNS;56;Ondrej;Jackulík;Ing.;53;súkromnı podnikate¾;Námestovo;SNS;Ondrej Jackulík
+23;SNS;57;Pavol;Halaè;MVDr.;47;veterinár;Bánovce nad Bebravou;SNS;Pavol Halaè
+23;SNS;58;Milan;Ïurica;;55;súkromnı podnikate¾;Stropkov;SNS;Milan Ïurica
+23;SNS;59;Jaroslav;Boik;;49;elektrotechnik;Jacovce;SNS;Jaroslav Boik
+23;SNS;60;Miloš;Èernák;Ing.;47;strojnı ininier;Bratislava;SNS;Miloš Èernák
+23;SNS;61;Martin;Michalèák;Ing.;40;manaér;Trnava;SNS;Martin Michalèák
+23;SNS;62;Drahoslav;Drotár;Bc.;22;súkromnı podnikate¾;Valaliky;SNS;Drahoslav Drotár
+23;SNS;63;Ondrej;Skotnickı;Ing.;38;strojnı ininier;Bytèa;SNS;Ondrej Skotnickı
+23;SNS;64;Peter;Škoda;Mgr.;27;manaér;Nové Mesto nad Váhom;SNS;Peter Škoda
+23;SNS;65;Ján;Hukel;;68;dôchodca;Hriòová;SNS;Ján Hukel
+23;SNS;66;Dušan;Novák;Ing.;47;technik;Belá nad Cirochou;SNS;Dušan Novák
+23;SNS;67;Ján;Demo;;46;súkromnı podnikate¾;Zlaté Moravce;SNS;Ján Demo
+23;SNS;68;Igor;Kadraba;Ing.;52;technik;Bratislava;SNS;Igor Kadraba
+23;SNS;69;Jozef;Jaša;Bc.;53;sociálny pracovník;Holíè;SNS;Jozef Jaša
+23;SNS;70;Štefan;Po¾aško;RSDr.;58;starosta;Vrbnica;SNS;Štefan Po¾aško
+23;SNS;71;Ivan;Hašto;;34;starosta;Trebostovo;SNS;Ivan Hašto
+23;SNS;72;Ján;Allina;;59;ivnostník;Brezová pod Bradlom;SNS;Ján Allina
+23;SNS;73;Štefan;Babiš;MUDr.;58;lekár-gynekológ;Torna¾a;SNS;Štefan Babiš
+23;SNS;74;Jozef;Bogdan;Ing.;48;finanènı poradca;Hertník;SNS;Jozef Bogdan
+23;SNS;75;Silvester;Kaèák;Ing.;50;po¾nohospodársky ininier;Hul;SNS;Silvester Kaèák
+23;SNS;76;Miroslav;Rybár;;40;súkromnı podnikate¾;Pezinok;SNS;Miroslav Rybár
+23;SNS;77;Jozefína;Hrašnová;Mgr.;51;profesorka;Trnava;SNS;Jozefína Hrašnová
+23;SNS;78;Rastislav;Staroò;Ing.;54;ekológ;Košice;SNS;Rastislav Staroò
+23;SNS;79;Vladimír;Sagan;;46;starosta;Brezany;SNS;Vladimír Sagan
+23;SNS;80;Rudolf;Kocnár;Ing.;54;stavebnı ininier;Prievidza;SNS;Rudolf Kocnár
+23;SNS;81;Ivan;Jároši;Mgr.;62;dôchodca;Rimavská Sobota;SNS;Ivan Jároši
+23;SNS;82;Cyril;Dudáš;;44;súkromnı podnikate¾;Svidník;SNS;Cyril Dudáš
+23;SNS;83;Štefan;Paulov;MUDr.;51;lekár;Nitra;SNS;Štefan Paulov
+23;SNS;84;Ján;Mráz;Ing.;48;ivnostník;Bratislava;SNS;Ján Mráz
+23;SNS;85;Jarmila;Matelová;Mgr.;49;uèite¾ka;Senica;SNS;Jarmila Matelová
+23;SNS;86;Kvetoslava;Ledecká;;49;ekonómka;Poprad;SNS;Kvetoslava Ledecká
+23;SNS;87;Viliam;Zopp;Ing.;63;stavebnı ininier;Bratislava;BEZPP;Viliam Zopp
+23;SNS;88;Milan;Pauèula;JUDr.;66;právnik;Ruomberok;BEZPP;Milan Pauèula
+23;SNS;89;Michal;Števko;;78;pedagóg;Nitra;BEZPP;Michal Števko
+23;SNS;90;Juraj;Pagáè;Ing.;26;ekonóm;Ruomberok;SNS;Juraj Pagáè
+23;SNS;91;Milan;Zvada;;59;majster autoservisu;Ruomberok;SNS;Milan Zvada
+23;SNS;92;Anton;Lagiò;;37;starosta;Preèín;SNS;Anton Lagiò
+23;SNS;93;Anna;Ragulová;JUDr.;45;právnièka;Hornı Badín;SNS;Anna Ragulová
+23;SNS;94;Štefan;Rievaj;;51;súkromnı podnikate¾;Pliešovce;SNS;Štefan Rievaj
+23;SNS;95;Alexander;Hlavatı;Ing.;42;technickı námestník;Šurany;SNS;Alexander Hlavatı
+23;SNS;96;Viliam;Vittek;Ing.;56;súkromnı podnikate¾;Bratislava;SNS;Viliam Vittek
+23;SNS;97;Miroslav;Rybanskı;RNDr.;48;súkromnı podnikate¾;Piešany;SNS;Miroslav Rybanskı
+23;SNS;98;Štefan;Hegedüš;;59;súkromnı podnikate¾;Seèovce;SNS;Štefan Hegedüš
+23;SNS;99;Marian;Schmidt;Ing.;48;lesnı ininier;Varín;SNS;Marian Schmidt
+23;SNS;100;Renáta;Boriková;Ing.;38;štátny zamestnanec;Partizánske;SNS;Renáta Boriková
+23;SNS;101;Peter;Nemec;;45;robotník;Breznièka;SNS;Peter Nemec
+23;SNS;102;Radoslav;Lackoviè;Ing.;42;súkromnı podnikate¾;Ve¾ká Lomnica;SNS;Radoslav Lackoviè
+23;SNS;103;František;Ondrejkov;Ing.;51;strojnı ininier;Bratislava;SNS;František Ondrejkov
+23;SNS;104;Albeta;Cvanigová;;41;riadiaci pracovník;Šuòava;BEZPP;Albeta Cvanigová
+23;SNS;105;Tibor;Šafárik;JUDr.;60;advokát;Košice;SNS;Tibor Šafárik
+23;SNS;106;Anna;Bieliková;;52;starostka;Ïurèiná;SNS;Anna Bieliková
+23;SNS;107;Pavel;Borko;;47;technik;Kamenec pod Vtáènikom;SNS;Pavel Borko
+23;SNS;108;Vojtech;Roth;MVDr.;31;zverolekár;Kokava nad Rimavicou;SNS;Vojtech Roth
+23;SNS;109;Anna;Mita¾ová;;38;technik;Zámutov;SNS;Anna Mita¾ová
+23;SNS;110;Igor;Miòo;Ing.;41;strojnı ininier;Ruskovce;SNS;Igor Miòo
+23;SNS;111;Emília;Pašková;;50;rehabilitaèná pracovníèka;ilina;SNS;Emília Pašková
+23;SNS;112;Stanislav;Badaè;Ing.;47;strojnı ininier;Brvnište;SNS;Stanislav Badaè
+23;SNS;113;¼udovít;Vicena;RSDr.;49;štátny zamestnanec;Jelšava;SNS;¼udovít Vicena
+23;SNS;114;Gustáv;Socháò;;52;mechanik;Tvrdošín;SNS;Gustáv Socháò
+23;SNS;115;Jaroslav;Šepe¾a;Ing.;41;kameraman;Humenné;SNS;Jaroslav Šepe¾a
+23;SNS;116;Silvia;Burèíková;;24;sekretárka;Spišská Nová Ves;SNS;Silvia Burèíková
+23;SNS;117;Magdaléna;Šípošová;Mgr.;51;uèite¾ka;Ve¾ké Blahovo;SNS;Magdaléna Šípošová
+23;SNS;118;Peter;Škola;Ing.;33;po¾nohospodársky ininier;Jasenové;SNS;Peter Škola
+23;SNS;119;Štefan;Obloinskı;MUDr.;64;lekár;Dubnica nad Váhom;SNS;Štefan Obloinskı
+23;SNS;120;Július;Horváth;Ing.;47;manaér;Rimavská Sobota;SNS;Július Horváth
+23;SNS;121;Eva;Durbanová;Mgr.;45;uèite¾ka;Snina;SNS;Eva Durbanová
+23;SNS;122;Milan;Pilár;;36;stolár;Habovka;SNS;Milan Pilár
+23;SNS;123;Karol;Alexa;;43;ivnostník;Michalovce;SNS;Karol Alexa
+23;SNS;124;Ján;Mièkalík;;37;ivnostník;Trstená;SNS;Ján Mièkalík
+23;SNS;125;Viliam;Weber;;36;novinár;Trenèín;SNS;Viliam Weber
+23;SNS;126;Peter;Fischer;Ing.;42;strojnı ininier;Valaská;SNS;Peter Fischer
+23;SNS;127;Michal;Bulko;JUDr.;52;komerènı právnik;Stará ¼ubovòa;SNS;Michal Bulko
+23;SNS;128;Miroslav;Vnenèák;;38;ivnostník;Rabèa;SNS;Miroslav Vnenèák
+23;SNS;129;Ladislav;Dráb;Ing. CSc.;57;elektroininier;Trenèín;SNS;Ladislav Dráb
+23;SNS;130;Zdena;Hyáková;Mgr.;35;štátny zamestnanec;Púchov;SNS;Zdena Hyáková
+23;SNS;131;Ján;Kašèák;Ing.;53;dôstojník vo vıslube;iar nad Hronom;SNS;Ján Kašèák
+23;SNS;132;Martin;Hanák;Ing.;30;lesnı ininier;Svidník;SNS;Martin Hanák
+23;SNS;133;Marek;Mališ;;23;študent;Detvianska Huta;SNS;Marek Mališ
+23;SNS;134;Milan;Šuša;Ing.;52;štátny zamestnanec;Lysá pod Makytou;SNS;Milan Šuša
+23;SNS;135;Ján;Hríò;;43;geodet;Dolná Strehová;SNS;Ján Hríò
+23;SNS;136;Mária;Germušková;;39;chemièka;upèany;SNS;Mária Germušková
+23;SNS;137;Peter;Va¾ko;;28;študent;Košice;SNS;Peter Va¾ko
+23;SNS;138;Milan;Jadroò;Ing.;43;manaér;Prievidza;SNS;Milan Jadroò
+23;SNS;139;Juraj;Chromèo;;24;študent;Vranov nad Top¾ou;SNS;Juraj Chromèo
+23;SNS;140;Peter;Brtko;;58;technik;Námestovo;SNS;Peter Brtko
+23;SNS;141;Marián;Ivanko;Ing.;58;stavebnı ininier;Košice;SNS;Marián Ivanko
+23;SNS;142;Ján;ák;;63;dôchodca;Habovka;SNS;Ján ák
+23;SNS;143;Milan;Husovskı;Ing.;58;po¾nohospodársky ininier;Prešov;SNS;Milan Husovskı
+23;SNS;144;Jozef;Karabelly;Ing.;44;ivnostník;Banská Štiavnica;SNS;Jozef Karabelly
+23;SNS;145;Peter;Martinec;;55;obchodnı manaér;Zlaté Moravce;SNS;Peter Martinec
+23;SNS;146;Marián;Sandt;;32;robotník;Košice;SNS;Marián Sandt
+23;SNS;147;Rastislav;Hankovskı;;29;robotník;Lukavica;SNS;Rastislav Hankovskı
+23;SNS;148;Jozef;Šuhajda;;42;vodiè;Štiavnièka;SNS;Jozef Šuhajda
+23;SNS;149;Jozef;Ïubek;Ing.;30;technik;Seèovce;BEZPP;Jozef Ïubek
+23;SNS;150;Viliam;Mokráò;Ing.;44;stavebnı ininier;Bratislava;BEZPP;Viliam Mokráò
+24;ROSA;1;Miroslav;Koènár;;46;vodiè;Vinièné;ROSA;Miroslav Koènár
+24;ROSA;2;Vladimír;Abrahám;;52;elektrikár;iar nad Hronom;ROSA;Vladimír Abrahám
+24;ROSA;3;Terézia;Chlebová;;60;všeob. ekonómka;Levice;ROSA;Terézia Chlebová
+24;ROSA;4;Štefan;Ösze;;63;dôchodca;Bratislava;ROSA;Štefan Ösze
+24;ROSA;5;Vladimír;ivojinov;;55;robotník;Nové Zámky;ROSA;Vladimír ivojinov
+24;ROSA;6;Emil;Bardaè;;44;vodiè;Bratislava;ROSA;Emil Bardaè
+24;ROSA;7;Antonín;Zajác;;35;sústruník;Nitra;ROSA;Antonín Zajác
+24;ROSA;8;Jaroslava;Cvešperová;;50;podnikate¾ka;Bratislava;KÈaS;Jaroslava Cvešperová
+24;ROSA;9;Zuzana;Cinge¾ová;;49;eriavníèka;Moldava nad Bodvou;ROSA;Zuzana Cinge¾ová
+24;ROSA;10;Karel;Volnı;;40;zváraè;Alekšince;ROSA;Karel Volnı
+24;ROSA;11;František;Juriš;;34;automechanik;Bratislava;ROSA;František Juriš
+24;ROSA;12;Zdeno;Šuška;;49;riadite¾ CVÈ;Nová Baòa;ROSA;Zdeno Šuška
+24;ROSA;13;Mária;Vargová;;53;ekonómka;Dubník;ROSA;Mária Vargová
+24;ROSA;14;Dušan;Gál;;45;údrbár;Sereï;ROSA;Dušan Gál
+24;ROSA;15;Helena;Cimermanová;;35;úètovníèka;Banská Bystrica;ROSA;Helena Cimermanová
+24;ROSA;16;Eva;Šmihulová;;51;adm. prac.;Bratislava;KÈaS;Eva Šmihulová
+24;ROSA;17;Vojtech;Blaho;;48;sklenár;Èastá;ROSA;Vojtech Blaho
+24;ROSA;18;Vladimír;Benedek;Ing.;55;podnikate¾;Seèovce;ROSA;Vladimír Benedek
+24;ROSA;19;Július;Rubinskı;;58;pedagóg;Levice;ROSA;Július Rubinskı
+24;ROSA;20;Július;Rigó;;60;mlynár;Šurany;ROSA;Július Rigó
+24;ROSA;21;Štefan;Dianiška;;59;zváraè;Banská Bystrica;ROSA;Štefan Dianiška
+24;ROSA;22;Anton;Altman;;48;eriavnik;Košice;ROSA;Anton Altman
+24;ROSA;23;Peter;Paulus;;55;vojak z povolania;Levice;ROSA;Peter Paulus
+24;ROSA;24;Pavol;Hrubı;Mgr.;47;pedagóg;Bratislava;KÈaS;Pavol Hrubı
+24;ROSA;25;Iveta;Kanevová;;43;ekonómka;Banská Bystrica;ROSA;Iveta Kanevová
+24;ROSA;26;Beata;Drahošová;;52;knihovníèka;Nové Zámky;ROSA;Beata Drahošová
+24;ROSA;27;Miroslava;Baláová;;26;pedagóg;Prievidza;ROSA;Miroslava Baláová
+24;ROSA;28;Rudolf;Baranec;;53;automechanik;Banská Bystrica;ROSA;Rudolf Baranec
+24;ROSA;29;Miroslav;Janoèko;;29;recepènı;Košice;ROSA;Miroslav Janoèko
+24;ROSA;30;František;Luica;;42;vodiè;Nové Zámky;ROSA;František Luica
+24;ROSA;31;Andrea;Rušèinová;;26;chemièka;Košice;ROSA;Andrea Rušèinová
+24;ROSA;32;Jan;Vašut;Ing.;61;dôchodca;Bratislava;KÈaS;Jan Vašut
+24;ROSA;33;Štefan;Varga;;39;murár;Košice;ROSA;Štefan Varga
+24;ROSA;34;Anna;Ráczová;;51;in. dôchodkyòa;Moldava nad Bodvou;ROSA;Anna Ráczová
+24;ROSA;35;Jaroslav;Báni;;44;elektrotechnik;Bratislava;ROSA;Jaroslav Báni
+24;ROSA;36;Ján;Mészáros;;51;automechanik;Dvory nad itavou;ROSA;Ján Mészáros
+24;ROSA;37;Andrej;Danèo;;43;obrábaè kovov;Bratislava;ROSA;Andrej Danèo
+24;ROSA;38;František;K¾uèár;;54;uèite¾;Košice;ROSA;František K¾uèár
+24;ROSA;39;Jozef;Sedliak;;50;podnikate¾;Levice;ROSA;Jozef Sedliak
+24;ROSA;40;Tibor;Bában;;53;podnikate¾;Branè;ROSA;Tibor Bában
+24;ROSA;41;Jaroslav;Buèka;;42;vodiè;Bratislava;ROSA;Jaroslav Buèka
+24;ROSA;42;¼udevít;Füri;;52;po¾nopodnikate¾;Jur nad Hronom;ROSA;¼udevít Füri
+24;ROSA;43;Stanislav;Makula;;27;maliar;Košice;ROSA;Stanislav Makula
+24;ROSA;44;Milan;Fogaš;;39;signalista;Brunovce;BEZPP;Milan Fogaš
+24;ROSA;45;Darina;Mièková;;49;zdravot. sestra;Bratislava;ROSA;Darina Mièková
+24;ROSA;46;Roman;Chlebo;;27;stroj. technik;Levice;ROSA;Roman Chlebo
+24;ROSA;47;Henrieta;Hanèinová;;33;uèite¾ka;Moldava nad Bodvou;ROSA;Henrieta Hanèinová
+24;ROSA;48;Juraj;Rojka;;35;sústruník;Jarok;ROSA;Juraj Rojka
+24;ROSA;49;Silvia;Szalaiová;;29;dispeèerka;Branè;ROSA;Silvia Szalaiová
+24;ROSA;50;Jana;Pecková;;37;predavaèka;Banská Bystrica;ROSA;Jana Pecková
+24;ROSA;51;Marián;Èí;;43;automechanik;Sása;ROSA;Marián Èí
+24;ROSA;52;Marek;Horváth;;27;prípr. vsádzky;Moldava nad Bodvou;ROSA;Marek Horváth
+24;ROSA;53;Štefan;Garai;;55;brúsiè kovov;Kolta;ROSA;Štefan Garai
+24;ROSA;54;Vojtech;Hugyec;;41;zámoèník;Èata;ROSA;Vojtech Hugyec
+24;ROSA;55;Ingrita;Kováèová;;32;pokladníèka;Trebišov;ROSA;Ingrita Kováèová
+24;ROSA;56;Július;Budinskı;;53;nezamestnanı;Nová Baòa;ROSA;Július Budinskı
+24;ROSA;57;Dušan;Tabaèiar;;42;automechanik;Bratislava;ROSA;Dušan Tabaèiar
+24;ROSA;58;Dušan;Szentkereszty;;47;podnikate¾;Krškany;ROSA;Dušan Szentkereszty
+24;ROSA;59;Zoltán;Szabó;;28;valcovaè kov.;Moldava nad Bodvou;ROSA;Zoltán Szabó
+24;ROSA;60;František;Štefák;;23;stolár;Nitra;ROSA;František Štefák
+24;ROSA;61;Zdenko;Èernok;;45;stránik;Banská Bystrica;ROSA;Zdenko Èernok
+24;ROSA;62;Milan;Béreš;;51;pekár;Košice;ROSA;Milan Béreš
+24;ROSA;63;Marcela;igová;;32;sprievodkyòa;Košice;ROSA;Marcela igová
+24;ROSA;64;Peter;Šebo;;34;vojak z pov.;Levice;ROSA;Peter Šebo
+24;ROSA;65;Vojtech;Varga;;55;podnikate¾;Dubník;ROSA;Vojtech Varga
+24;ROSA;66;Kristína;Èajková;;31;nezamestnaná;Moldava nad Bodvou;ROSA;Kristína Èajková
+24;ROSA;67;Zdenìk;Purma;;24;èašník;Nitra;ROSA;Zdenìk Purma
+24;ROSA;68;Norbert;Marcinek;;31;murár;Blatné;ROSA;Norbert Marcinek
+24;ROSA;69;Robert;Beòa;;44;technik;Levice;ROSA;Robert Beòa
+24;ROSA;70;Viera;Bérešová;;49;robotníèka;Košice;ROSA;Viera Bérešová
+24;ROSA;71;Otto;Šterbenskı;;64;dôchodca;Košice;ROSA;Otto Šterbenskı
+24;ROSA;72;Rudolf;Varga;;28;zámoèník;Košice;ROSA;Rudolf Varga
+24;ROSA;73;František;Záleák;;50;robotník;Štúrovo;ROSA;František Záleák
+25;ROISR;1;Milan;Šèuka;;55;podnikate¾;Košice;ROISR;Milan Šèuka
+25;ROISR;2;Milan;Miiè;Ing.;49;podnikate¾;Košice;ROISR;Milan Miiè
+25;ROISR;3;Miroslav;Didiáš;Ing.;42;štátny zamestnanec;Poprad;ROISR;Miroslav Didiáš
+25;ROISR;4;Jozef;Èervenák;;41;sociálny pracovník;Roòava;ROISR;Jozef Èervenák
+25;ROISR;5;Ernest;Študij;PhDr.;59;uèite¾;Giraltovce;ROISR;Ernest Študij
+25;ROISR;6;Igor;Novák;Ing.;53;podnikate¾;Nové Zámky;ROISR;Igor Novák
+25;ROISR;7;Štefan;Kaliaš;Mgr.;28;uèite¾;Vranov nad Top¾ou;ROISR;Štefan Kaliaš
+25;ROISR;8;Radoslav;Šèuka;;28;podnikate¾;Poprad;ROISR;Radoslav Šèuka
+25;ROISR;9;Jozef;Ravasz;;53;novinár;Dunajská Streda;ROISR;Jozef Ravasz
+25;ROISR;10;František;Billı;;29;podnikate¾;Bardejov;ROISR;František Billı
+25;ROISR;11;Igor;Duda;Ing.;34;redaktor Slov. rozhlasu;Prešov;ROISR;Igor Duda
+25;ROISR;12;Karol;Mihálik;;52;robotník;Bardejov;ROISR;Karol Mihálik
+25;ROISR;13;Karol;Kanaloš;;47;podnikate¾;Trebišov;ROISR;Karol Kanaloš
+25;ROISR;14;Jozef;Gabèo;Ing.;25;podnikate¾;Janovce;ROISR;Jozef Gabèo
+25;ROISR;15;Ladislav;Šaòa;;43;starosta;Košice;ROISR;Ladislav Šaòa
+25;ROISR;16;Jozefína;Tomášová;;30;podnikate¾;Zámutov;ROISR;Jozefína Tomášová
+25;ROISR;17;Peter;Horváth;;37;podnikate¾;Hanušovce nad Top¾ou;ROISR;Peter Horváth
+25;ROISR;18;Gejza;Horváth;;51;robotník;Mníšek nad Hnilcom;ROISR;Gejza Horváth
+25;ROISR;19;Júlia;Veselá;;32;podnikate¾;Smiany;ROISR;Júlia Veselá
+25;ROISR;20;Miroslav;Koky;;39;podnikate¾;Poprad;ROISR;Miroslav Koky
+25;ROISR;21;Jozef;Ády;;41;podnikate¾;Leles;ROISR;Jozef Ády
+25;ROISR;22;Jozef;Lukáè;;48;podnikate¾;Prešov;ROISR;Jozef Lukáè
+25;ROISR;23;Bartolomej;Lakatoš;;43;podnikate¾;Boany;ROISR;Bartolomej Lakatoš
+25;ROISR;24;Zlata;Jankovièová;;44;podnikate¾;Hontianske Tesáre;ROISR;Zlata Jankovièová
+25;ROISR;25;Miroslav;Balog;;37;podnikate¾;Košice;ROISR;Miroslav Balog
+25;ROISR;26;Rudolf;Horváth;;53;podnikate¾;Markušovce;ROISR;Rudolf Horváth
+25;ROISR;27;Viktor;Polmoš;;41;podnikate¾;Ve¾ká Lomnica;ROISR;Viktor Polmoš
+25;ROISR;28;Ladislav;Balog;;26;podnikate¾;Košice;ROISR;Ladislav Balog
+25;ROISR;29;Ernest;Samko;;45;podnikate¾;Kameòany;ROISR;Ernest Samko
+25;ROISR;30;Emil;Hudi;;39;podnikate¾;Košice;ROISR;Emil Hudi
+25;ROISR;31;Rudolf;Tišer;;55;podnikate¾;Ve¾ké Kapušany;ROISR;Rudolf Tišer
+25;ROISR;32;Ondrej;Oraèko;;46;podnikate¾;Jurské;ROISR;Ondrej Oraèko
+25;ROISR;33;Ján;Kroka;;41;podnikate¾;So¾;ROISR;Ján Kroka
+25;ROISR;34;Ján;Dávid;;49;podnikate¾;Vranov nad Top¾ou;ROISR;Ján Dávid
+25;ROISR;35;¼udovít;Pecha;;65;podnikate¾;Spišské Tomášovce;ROISR;¼udovít Pecha
+25;ROISR;36;František;Ferenc;;48;podnikate¾;Vyšnı Mirošov;ROISR;František Ferenc
+25;ROISR;37;Eva;Oláhová;;22;podnikate¾;Stropkov;ROISR;Eva Oláhová
+25;ROISR;38;Robert;Bendik;;27;podnikate¾;Košice;ROISR;Robert Bendik
+25;ROISR;39;Ján;Fráter;;43;podnikate¾;Košice;ROISR;Ján Fráter
+25;ROISR;40;Jozef;Horváth;;40;podnikate¾;Hanušovce nad Top¾ou;ROISR;Jozef Horváth
+25;ROISR;41;Dušan;Brendza;;33;podnikate¾;Raslavice;ROISR;Dušan Brendza
+25;ROISR;42;Jozef;Fabian;;53;podnikate¾;Kurima;ROISR;Jozef Fabian
+25;ROISR;43;Milan;Daèo;;25;podnikate¾;Košice;ROISR;Milan Daèo
+25;ROISR;44;Jozef;Mitráš;;30;podnikate¾;Bystrá;ROISR;Jozef Mitráš
+25;ROISR;45;Martin;Tancoš;;54;podnikate¾;Èaklov;ROISR;Martin Tancoš
+25;ROISR;46;Ladislav;Ferenc;;47;podnikate¾;Vyšnı Mirošov;ROISR;Ladislav Ferenc
+25;ROISR;47;Štefan;Holub;;45;podnikate¾;Gánovce;ROISR;Štefan Holub
+25;ROISR;48;Justina;Šèuková;;42;podnikate¾;Vikartovce;ROISR;Justina Šèuková
+25;ROISR;49;Jozef;Èonka;;45;podnikate¾;Hranovnica;ROISR;Jozef Èonka
+25;ROISR;50;Dušan;Billy;;36;podnikate¾;Lenartov;ROISR;Dušan Billy
+25;ROISR;51;Viktor;Krošèen;;63;podnikate¾;Hrabušice;ROISR;Viktor Krošèen
+25;ROISR;52;Ernest;Balog;;37;podnikate¾;Stropkov;ROISR;Ernest Balog
+25;ROISR;53;Peter;Piskor;;28;podnikate¾;Stráske;ROISR;Peter Piskor
+25;ROISR;54;Dagmar;Balogová;;38;podnikate¾;Stropkov;ROISR;Dagmar Balogová
+25;ROISR;55;Ondrej;Pišta;;39;podnikate¾;Stará Lesná;ROISR;Ondrej Pišta
+25;ROISR;56;Marián;Bubenèík;;26;podnikate¾;Dobšiná;ROISR;Marián Bubenèík
+25;ROISR;57;František;Èervenák;;37;podnikate¾;Dobšiná;ROISR;František Èervenák
+25;ROISR;58;Matilda;Kapralová;;52;podnikate¾;Stráne pod Tatrami;ROISR;Matilda Kapralová
+25;ROISR;59;Gustáv;Oraèko;;56;podnikate¾;Jakubany;ROISR;Gustáv Oraèko
+25;ROISR;60;Július;iga;;46;podnikate¾;Jelšava;ROISR;Július iga
+25;ROISR;61;Milan;Šanta;;55;podnikate¾;Rybník;ROISR;Milan Šanta
+25;ROISR;62;Alexander;Sási;;30;podnikate¾;Košice;ROISR;Alexander Sási
+25;ROISR;63;Ladislav;Študy;;45;podnikate¾;Giraltovce;ROISR;Ladislav Študy
+25;ROISR;64;Albeta;Horváthová;;52;podnikate¾;Spišské Podhradie;ROISR;Albeta Horváthová
+25;ROISR;65;František;Paèan;;47;podnikate¾;Bystrany;ROISR;František Paèan
+25;ROISR;66;Dionız;Horváth;;37;podnikate¾;Košice;ROISR;Dionız Horváth
+25;ROISR;67;Elena;Dobiášová;;45;podnikate¾;Zvolen;ROISR;Elena Dobiášová
+25;ROISR;68;Jozef;Tišer;;47;podnikate¾;Betlanovce;ROISR;Jozef Tišer
+25;ROISR;69;Pavol;Šarközi;;32;podnikate¾;Košice;ROISR;Pavol Šarközi
+25;ROISR;70;Milan;Krošèen;;44;podnikate¾;Letanovce;ROISR;Milan Krošèen
+25;ROISR;71;Marián;Gábor;;38;podnikate¾;Vtáèkovce;ROISR;Marián Gábor
+25;ROISR;72;Marián;Miigár;;33;podnikate¾;ehra;ROISR;Marián Miigár
+25;ROISR;73;Marián;Gábor;;41;podnikate¾;Kecerovce;ROISR;Marián Gábor
+25;ROISR;74;Július;Klempár;;47;podnikate¾;Kemarok;ROISR;Július Klempár
+25;ROISR;75;Andrea;Didiášová;Ing.;28;podnikate¾;Zvolen;ROISR;Andrea Didiášová
+25;ROISR;76;Stanislav;Horváth;;24;podnikate¾;Blaice;ROISR;Stanislav Horváth
+25;ROISR;77;Marián;Ikri;;29;podnikate¾;Roòava;ROISR;Marián Ikri
+25;ROISR;78;Michal;Kašo;;63;dôchodca;Humenné;ROISR;Michal Kašo
+25;ROISR;79;Rudolf;Gai;;53;podnikate¾;Štrba;ROISR;Rudolf Gai
+25;ROISR;80;Jozef;Sinu;;42;podnikate¾;Bidovce;ROISR;Jozef Sinu
+25;ROISR;81;Milan;Holub;;62;podnikate¾;Levoèa;ROISR;Milan Holub
+25;ROISR;82;¼ubomír;Puška;;43;podnikate¾;Luèivná;ROISR;¼ubomír Puška
+25;ROISR;83;Ján;Dodák;;34;podnikate¾;Muráò;ROISR;Ján Dodák
+25;ROISR;84;Róbert;Bikár;;29;podnikate¾;Košice;ROISR;Róbert Bikár
+25;ROISR;85;Jozef;Lazák;;33;podnikate¾;Gemerská Ves;ROISR;Jozef Lazák
+25;ROISR;86;Alexander;Horváth;;25;podnikate¾;Košice;ROISR;Alexander Horváth
+25;ROISR;87;František;Sivák;;36;podnikate¾;Cige¾ka;ROISR;František Sivák
+25;ROISR;88;Alexander;Kállai;;44;banskı technik;Vojany;ROISR;Alexander Kállai
+25;ROISR;89;Jozef;Vaòo;;43;technik;Ïurkov;ROISR;Jozef Vaòo
+25;ROISR;90;¼udovít;Petik;;50;robotník;Prešov;ROISR;¼udovít Petik
+25;ROISR;91;Erika;Baloghová;;40;nezamestnaná;Košice;ROISR;Erika Baloghová
+26;PSNS;1;Ján;Slota;Ing.;48;primátor;ilina;P SNS;Ján Slota
+26;PSNS;2;Ján;Sitek;Ing.;46;starosta;Podbiel;P SNS;Ján Sitek
+26;PSNS;3;Štefan;Zelník;MUDr.;47;lekár;ilina;P SNS;Štefan Zelník
+26;PSNS;4;Melánia;Kolláriková;Ing.;58;ininierka chémie;Piešany;P SNS;Melánia Kolláriková
+26;PSNS;5;Dušan;Švantner;Ing.;55;strojnı ininier;Brezno;P SNS;Dušan Švantner
+26;PSNS;6;Víazoslav;Moric;Ing. CSc.;56;technik;Martin;P SNS;Víazoslav Moric
+26;PSNS;7;Rastislav;Šepták;Ing.;34;technik;Dubnica nad Váhom;P SNS;Rastislav Šepták
+26;PSNS;8;Kamil;Bartoviè;Ing.;41;primátor;Šurany;P SNS;Kamil Bartoviè
+26;PSNS;9;Rudolf;Puèík;JUDr.;45;advokát;Senec;P SNS;Rudolf Puèík
+26;PSNS;10;Ivan;Gallo;;72;dôchodca;ilina;SDchS;Ivan Gallo
+26;PSNS;11;Peter;Dubravay;PhDr.;57;primátor;Kysucké Nové Mesto;P SNS;Peter Dubravay
+26;PSNS;12;Jozef;Líška;;64;uèite¾;Divín;P SNS;Jozef Líška
+26;PSNS;13;Michal;Hajduk;Ing.;44;po¾nohosp. ininier;Belá nad Cirochou;P SNS;Michal Hajduk
+26;PSNS;14;Jozef;Michtalík;JUDr.;66;dôchodca;Ve¾ké Rovné;SDchS;Jozef Michtalík
+26;PSNS;15;Ján;Mokrı;;46;starosta;Èereòany;P SNS;Ján Mokrı
+26;PSNS;16;Jozef;Ïuraèka;Ing.;47;súkr. podnikate¾;Hrnèiarovce nad Parnou;P SNS;Jozef Ïuraèka
+26;PSNS;17;Stanislav;Blahús;Ing.;49;technik;Roòava;P SNS;Stanislav Blahús
+26;PSNS;18;Karol;Gordík;JUDr.;48;komerènı právnik;ilina;P SNS;Karol Gordík
+26;PSNS;19;Marián;Kòako;Ing.;38;šéfredaktor;Povaská Bystrica;P SNS;Marián Kòako
+26;PSNS;20;Andrej;Brtko;;58;inšpektor;Brezno;P SNS;Andrej Brtko
+26;PSNS;21;Miroslav;Michalec;;40;technik;Majcichov;P SNS;Miroslav Michalec
+26;PSNS;22;Juliana;Brezinská;;52;technièka;Cabaj - Èápor;P SNS;Juliana Brezinská
+26;PSNS;23;Bohumil;Hujsi;;49;technik;Trnava;P SNS;Bohumil Hujsi
+26;PSNS;24;Jindro;Poèta;;47;novinár-publicista;Prešov;P SNS;Jindro Poèta
+26;PSNS;25;Katarína;olèáková;;46;úradníèka;Trebišov;P SNS;Katarína olèáková
+26;PSNS;26;Ivan;Janec;;47;súkr. podnikate¾;Nová Bystrica;P SNS;Ivan Janec
+26;PSNS;27;Peter;Šoltıs;;47;technik;Dubnica nad Váhom;P SNS;Peter Šoltıs
+26;PSNS;28;Jozef;Hrdlièka;;47;riadite¾ MFK;Zvolen;P SNS;Jozef Hrdlièka
+26;PSNS;29;Jozef;Hospodár;;42;súkr.podnikate¾;Bratislava;P SNS;Jozef Hospodár
+26;PSNS;30;¼udmila;Raèeková;;52;adm. pracovníèka;Nitra;P SNS;¼udmila Raèeková
+26;PSNS;31;Marek;Bobko;Ing.;29;ininier kvality;Trnava;P SNS;Marek Bobko
+26;PSNS;32;Eva;Kotvasová;Mgr.;27;špecial. pedagóg;Vranov nad Top¾ou;P SNS;Eva Kotvasová
+26;PSNS;33;Peter;Pamula;;31;technik;Dobšiná;P SNS;Peter Pamula
+26;PSNS;34;Miroslav;Jánošík;Ing.;36;technik;Podhradie;P SNS;Miroslav Jánošík
+26;PSNS;35;Jaroslav;Izák;Ing. arch.;47;primátor;Handlová;P SNS;Jaroslav Izák
+26;PSNS;36;Erik;Kubeša;;23;podnikate¾;Banská Bystrica;P SNS;Erik Kubeša
+26;PSNS;37;Albeta;Roháèková;MUDr.;31;lekárka;Bratislava;P SNS;Albeta Roháèková
+26;PSNS;38;Eleonóra;Danišová;Ing.;39;stroj. technológ;Nitra;P SNS;Eleonóra Danišová
+26;PSNS;39;Richard;Bohunickı;Ing.;30;ekonóm;Trnava;P SNS;Richard Bohunickı
+26;PSNS;40;Alfonz;Cichı;;55;pedagog. pracovník;Stropkov;P SNS;Alfonz Cichı
+26;PSNS;41;Marcela;Nemcová;;28;admin. pracovníèka;Košice;P SNS;Marcela Nemcová
+26;PSNS;42;Marian;Janušek;Ing.;42;stavebnı ininier;ilina;P SNS;Marian Janušek
+26;PSNS;43;Július;Šedík;;63;dôchodca;Ladce;P SNS;Július Šedík
+26;PSNS;44;Ján;Hudec;;46;súkr. podnikate¾;Divín;P SNS;Ján Hudec
+26;PSNS;45;Ján;Havránek;Ing.;61;elektrotech. ininier;Bratislava;P SNS;Ján Havránek
+26;PSNS;46;Dagmar;Ligaèová;Mgr.;37;uèite¾ka ZŠ;Nitra;P SNS;Dagmar Ligaèová
+26;PSNS;47;Ján;Horeckı;Ing.;54;riadite¾ PD;Trnava;P SNS;Ján Horeckı
+26;PSNS;48;Jozef;Biroš;Ing.;45;zootechnik;Sabinov;P SNS;Jozef Biroš
+26;PSNS;49;Milan;Kokoruïa;;52;elektrikár;Košice;P SNS;Milan Kokoruïa
+26;PSNS;50;Stanislav;Mican;Ing.;52;technik;Ruomberok;P SNS;Stanislav Mican
+26;PSNS;51;Jozef;Švihel;Bc.;43;pedagóg;Ladce;P SNS;Jozef Švihel
+26;PSNS;52;Ferdinand;Bevilaqua;Ing.;50;lesnı ininier;Brezno;P SNS;Ferdinand Bevilaqua
+26;PSNS;53;Pavol;Rehák;Ing.;50;hlavnı radca MPSR;Bratislava;P SNS;Pavol Rehák
+26;PSNS;54;Štefan;Ninan;Ing.;67;dôchodca;Trnava;P SNS;Štefan Ninan
+26;PSNS;55;Radoslav;Gáll;;29;strojnı technik;Drienov;P SNS;Radoslav Gáll
+26;PSNS;56;Ivan;Šoltés;;59;stavebnı technik;Košice;P SNS;Ivan Šoltés
+26;PSNS;57;Daniel;Klaèko;MUDr.;49;lekár;ilina;P SNS;Daniel Klaèko
+26;PSNS;58;Igor;Detko;Ing.;29;podnikate¾;Prievidza;P SNS;Igor Detko
+26;PSNS;59;Igor;Pavúk;Ing.;41;technik;Brezno;P SNS;Igor Pavúk
+26;PSNS;60;Jozef;Fleško;;39;ivnostník;Bratislava;P SNS;Jozef Fleško
+26;PSNS;61;Ernest;Chnapko;;53;vodiè;Piešany;P SNS;Ernest Chnapko
+26;PSNS;62;Ján;Polašèík;;40;agronóm;Stropkov;P SNS;Ján Polašèík
+26;PSNS;63;Marián;Bálint;;49;hutník;Gelnica;P SNS;Marián Bálint
+26;PSNS;64;Ladislav;Feiler;;50;technik;Kysucké Nové Mesto;P SNS;Ladislav Feiler
+26;PSNS;65;Jaroslav;Chudı;;48;dôchodca;Bánovce nad Bebravou;P SNS;Jaroslav Chudı
+26;PSNS;66;Emília;Bódiková;;37;uèite¾ka;Luèenec;P SNS;Emília Bódiková
+26;PSNS;67;Miroslav;Suchı;PaedDr.;57;ivnostník;Stupava;P SNS;Miroslav Suchı
+26;PSNS;68;Zita;Bruncková;Ing.;50;riadite¾ka DD;Piešany;P SNS;Zita Bruncková
+26;PSNS;69;Miroslav;Nytra;;39;ivnostník;Poprad;P SNS;Miroslav Nytra
+26;PSNS;70;Štefan;Seke¾skı;;48;podnikate¾;Košice;P SNS;Štefan Seke¾skı
+26;PSNS;71;¼ubomír;Knapec;;58;riadite¾ ŠH;Rosina;P SNS;¼ubomír Knapec
+26;PSNS;72;Mikuláš;Sedláèek;Ing.;64;dôchodca;Trenèín;P SNS;Mikuláš Sedláèek
+26;PSNS;73;Viera;Nosková;Ing.;47;štátny zamestnanec;Závadka;P SNS;Viera Nosková
+26;PSNS;74;Miloslav;Vajdiš;;38;robotník;Bratislava;P SNS;Miloslav Vajdiš
+26;PSNS;75;Martin;Valúch;Ing.;26;ekonomic. ininier;Piešany;P SNS;Martin Valúch
+26;PSNS;76;Jaroslav;Michalov;;46;stavebnı technik;Vranov nad Top¾ou;P SNS;Jaroslav Michalov
+26;PSNS;77;Ján;Slabı;;50;vedúci prevádzky;Trebišov;P SNS;Ján Slabı
+26;PSNS;78;Jozefa;Lobotková;PaedDr.;52;riadite¾ka DSS;Bytèa;P SNS;Jozefa Lobotková
+26;PSNS;79;Cyril;Duvaè;Ing.;57;ekonóm;Dubnica nad Váhom;P SNS;Cyril Duvaè
+26;PSNS;80;Iveta;Vilhanová;;39;súkr. podnikate¾ka;Luèenec;P SNS;Iveta Vilhanová
+26;PSNS;81;¼udovít;Kollár;RNDr.;53;geofyzik;Bratislava;P SNS;¼udovít Kollár
+26;PSNS;82;Monika;Benkovská;RNDr.;44;stredoškol. uèite¾ka;Povoda;P SNS;Monika Benkovská
+26;PSNS;83;Matej;Šulej;;52;ivnostník;Ve¾ká Lomnica;P SNS;Matej Šulej
+26;PSNS;84;Alexander;Blumenfeld;;52;súkr. podnikate¾;Košice;BEZPP;Alexander Blumenfeld
+26;PSNS;85;Juraj;Šrámek;Ing. arch.;38;projektant;Ruomberok;P SNS;Juraj Šrámek
+26;PSNS;86;Ján;Mokrı;;22;podnikate¾;Èereòany;P SNS;Ján Mokrı
+26;PSNS;87;Jozef;Kalman;Ing.;33;súkr. podnikate¾;Pohorelá;BEZPP;Jozef Kalman
+26;PSNS;88;Alexander;Breza;;48;vıkonnı riadite¾;Bratislava;P SNS;Alexander Breza
+26;PSNS;89;Ivan;Ferenèík;Ing.;64;ekonóm;Piešany;P SNS;Ivan Ferenèík
+26;PSNS;90;Milan;Husár;;39;podnikate¾;Spišská Teplica;P SNS;Milan Husár
+26;PSNS;91;¼ubomíra;Chromèíková;MUDr.;51;lekár-hygienik;Roòava;P SNS;¼ubomíra Chromèíková
+26;PSNS;92;Jaroslav;Lamoš;Ing.;35;podnikate¾;ilina;P SNS;Jaroslav Lamoš
+26;PSNS;93;Radoslav;Krchnávek;Ing.;29;konštruktér;Nemšová;P SNS;Radoslav Krchnávek
+26;PSNS;94;Martin;Môcik;;48;súkr. podnikate¾;Nemecká;P SNS;Martin Môcik
+26;PSNS;95;Silvia;Mrázová;Ing.;41;ekonóm;Bratislava;P SNS;Silvia Mrázová
+26;PSNS;96;Jaroslav;Harajèik;;51;mechanik;Trnava;P SNS;Jaroslav Harajèik
+26;PSNS;97;Zuzana;Imrichová;;25;ivnostník;Svit;P SNS;Zuzana Imrichová
+26;PSNS;98;Ján;Papcun;;55;technik;Jaklovce;P SNS;Ján Papcun
+26;PSNS;99;Peter;Sovík;Ing.;38;technik;Martin;P SNS;Peter Sovík
+26;PSNS;100;Marian;Krajèoviech;;32;kuchár;Povaská Bystrica;P SNS;Marian Krajèoviech
+26;PSNS;101;Peter;Baliak;Ing.;41;starosta;Beòuš;BEZPP;Peter Baliak
+26;PSNS;102;Eduard;Púèik;Ing.;40;ekonóm;Bratislava;P SNS;Eduard Púèik
+26;PSNS;103;Elena;Zacharová;;50;sekretárka;Piešany;P SNS;Elena Zacharová
+26;PSNS;104;Dana;Vrzalová;Ing.;28;podnikate¾ka;Svit;P SNS;Dana Vrzalová
+26;PSNS;105;Alojz;Koneènı;;68;dôchodca;Košice;P SNS;Alojz Koneènı
+26;PSNS;106;Peter;Kubala;;39;súkr. podnikate¾;Nesluša;P SNS;Peter Kubala
+26;PSNS;107;Jozef;Uhlík;Ing.;50;tech. pracovník;Dubnica nad Váhom;P SNS;Jozef Uhlík
+26;PSNS;108;Miroslav;Šuba;Ing.;63;dôchodca;Senec;P SNS;Miroslav Šuba
+26;PSNS;109;Albeta;Staníková;;48;laborantka;Trnava;P SNS;Albeta Staníková
+26;PSNS;110;Eva;Jaššová;PhDr.;48;psychologièka;Bratislava;P SNS;Eva Jaššová
+26;PSNS;111;Ján;Eliáš;Ing.;43;stavebnı ininier;Kotešová;P SNS;Ján Eliáš
+26;PSNS;112;¼udovít;Lipovskı;;26;podnikate¾;Prievidza;P SNS;¼udovít Lipovskı
+26;PSNS;113;Miloš;Štolfa;RNDr.;45;ekológ;ilina;P SNS;Miloš Štolfa
+26;PSNS;114;Vladimír;Šimonèiè;Ing.;27;ininier ekonómie;Chtelnica;P SNS;Vladimír Šimonèiè
+26;PSNS;115;Ján;Kme;Ing.;49;technik;Martin;P SNS;Ján Kme
+26;PSNS;116;Jozef;Zuber;Ing.;50;dôchodca;Trenèín;P SNS;Jozef Zuber
+26;PSNS;117;Monika;Borgu¾ová;PhDr.;56;konate¾ka firmy;Bratislava;P SNS;Monika Borgu¾ová
+26;PSNS;118;Jozef;Maras;Ing.;44;súkr. podnikate¾;Trnava;P SNS;Jozef Maras
+26;PSNS;119;Štefan;Gaòa;Dr.;58;podnikate¾;Hlboké nad Váhom;P SNS;Štefan Gaòa
+26;PSNS;120;Rudolf;Bagín;;47;strojvedúci;Dubnica nad Váhom;P SNS;Rudolf Bagín
+26;PSNS;121;Marián;Badinskı;Mgr.;29;pedagóg;Partizánske;P SNS;Marián Badinskı
+26;PSNS;122;Jozef;Štolc;;42;ivnostník;Pezinok;P SNS;Jozef Štolc
+26;PSNS;123;Janka;Danišková;Ing.;45;technik;Turany;P SNS;Janka Danišková
+26;PSNS;124;Dušan;Krähenbil;;42;podnikate¾;Prievidza;P SNS;Dušan Krähenbil
+26;PSNS;125;Ladislav;Cikora;MUDr.;53;lekár;Bratislava;P SNS;Ladislav Cikora
+26;PSNS;126;Andrej;Vidra;Ing.;27;zootechnik;ilina;P SNS;Andrej Vidra
+26;PSNS;127;Alfred;Nicholson;;46;programátor-analytik;Bratislava;P SNS;Alfred Nicholson
+26;PSNS;128;Miloš;Tomašoviè;;45;robotník;Bánovce nad Bebravou;P SNS;Miloš Tomašoviè
+26;PSNS;129;Samuel;Trabak;;41;ivnostník;Senec;P SNS;Samuel Trabak
+26;PSNS;130;Daniela;Bílková;;45;podnikate¾ka;ilina;P SNS;Daniela Bílková
+26;PSNS;131;Terézia;Dúhová;Ing.;61;ivnostníèka;ilina;P SNS;Terézia Dúhová
+26;PSNS;132;Daniel;Vislockı;Ing.;27;konštruktér;ilina;P SNS;Daniel Vislockı
+26;PSNS;133;Rudolf;Pecko;;55;technik;ilina;P SNS;Rudolf Pecko
+26;PSNS;134;¼udovít;Ïuratnı;;48;ivnostník;ilina;P SNS;¼udovít Ïuratnı
+26;PSNS;135;Adriana;Tomašèíková;Ing.;31;ekonóm;Lietava;P SNS;Adriana Tomašèíková
+26;PSNS;136;Milan;Kubík;;37;technik;ilina;P SNS;Milan Kubík
+26;PSNS;137;Jarmila;Demková;;40;dipl. sestra;Bratislava;P SNS;Jarmila Demková
+26;PSNS;138;Henrich;Paur;;29;úètovník;ilina;P SNS;Henrich Paur
+26;PSNS;139;¼ubomír;Gajdoš;;53;ivnostník;Bratislava;P SNS;¼ubomír Gajdoš
+26;PSNS;140;František;Pavelek;Ing.;63;dôchodca;ilina;SDchS;František Pavelek
+26;PSNS;141;Marianna;Kaspøíková;;52;referent;ilina;P SNS;Marianna Kaspøíková
+26;PSNS;142;Jaroslav;Mierny;Ing.;48;súkr. podnikate¾;Povaská Bystrica;P SNS;Jaroslav Mierny
+26;PSNS;143;Marián;Špajdel;;29;podnikate¾;Trnava;P SNS;Marián Špajdel
+26;PSNS;144;Eva;Vavricová;Ing.;50;ekonóm;ilina;P SNS;Eva Vavricová
+26;PSNS;145;Milan;Veber;Ing.;64;dôchodca;ilina;SDchS;Milan Veber
+26;PSNS;146;René;Francl;;31;vodiè;ilina;P SNS;René Francl
+26;PSNS;147;Ladislav;Szalay;;42;súkr. podnikate¾;Bratislava;P SNS;Ladislav Szalay
+26;PSNS;148;Mária;Šujanská;;28;ivnostníèka;ilina;P SNS;Mária Šujanská
+26;PSNS;149;Pavel;Javoran;MUDr.;61;lekár;ilina;SDchS;Pavel Javoran
+26;PSNS;150;František;Janec;Ing.;65;dôchodca;ilina;SDchS;František Janec
