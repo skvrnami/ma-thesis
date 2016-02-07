@@ -1,0 +1,206 @@
+---
+title: "Life & Death of Minor Parties"
+author: "Michael Škvròák"
+date: "February 6, 2016"
+output: 
+  html_document: 
+    fig_height: 7
+---
+# Replication materials & coding instructions
+
+This is a collection of replication materials and coding instruction created for my master thesis on minor political parties in the Czech Republic, Slovak Republic, and Poland. 
+
+## Dataset
+
+I created data-set of all political parties which failed to gain a mandate in a parliamentary elections (elections to the lower house of parliament) in the Czech & Slovak republics and Poland. 
+The data include all minor parties competing in the elections during the following elections:
+
+* Czech Republic - 1992, 1996, 1998, 2002, 2006, 2010, (2013)
+
+* Slovak Republic - 1994, 1998, 2002, 2006, 2010, 2012, (2016)
+
+* Poland - 1993, 1997, 2001, 2005, 2007, 2011, (2015)
+
+The time frame was restricted due to data availability limitations. The results of election in years in parentheses were used to code persistence the minor parties which run in the previous elections.
+
+## Variables
+The data-set used for statistical analysis of persistence of minor political parties includes the following variables:
+
+* name - name of the minor party (in original language)
+* year - the election year
+* votes - share of votes the party received
+* subsidy - did the party receive subsidies from the state for its result in the election? 1 = Yes; 0 = No.
+* runAgain - did the party run in the consecutive election? 1 = Yes; 0 = No.
+* change - did the party merge or split and run in the consecutive election? 1 = Yes; 0 = No.
+* otherList - did the party's candidates run on a list of other party? 1 = Yes; 0 = No.
+* candidate - share of candidates the party nominated (1 = the party nominated the maximum possible count of candidates; 0 = the party nominated no one)
+* absCandidate - number of candidates the party nominated
+* progComplex - word count for the party's election manifesto
+* cz - a dummy variable for parties from the Czech Republic
+* sk - a dummy variable for parties from the Slovak Republic
+* pl - a dummy variable for parties from Poland
+
+Typology of parties (adapted from Sikk 2011):
+
+* purifier - a purifier party: strong ideological motivation, occupies a niche captured by an established party (typically a party belonging to the same party family as an already established party in the party system)
+* newProject - a party-project of newness: weak ideological motivation, occupies a niche captured by an established party (typically a protest party belonging to ideological mainstream, instead of strong ideological appeals it emphasizes high corruption, unbearable bureaucracy, common sense etc.)
+* prophet - a prophet party: strong ideological motivation, doesn't occupy a niche captured by an established party (typically a party which belongs to a party family not represented in the party system, e.g. the Greens etc.)
+* proloc - a prolocutor party: weak ideological motivation, doesn't occupy a niche captured by an established party (a party trying to represent an ignored group, often close to an interest group or social movement etc.)
+
+The typology of parties was recoded in two variables:
+
+* mainstream - parties belonging to the ideological mainstream (purifiers, projects of newness) = 1; others = 0
+* ideology - strong ideological motivation is present (purifiers, prophets) = 1; others = 0
+
+Origin of political parties:
+
+* origNew - genuinely new political party which was created after a successful collection of signatures necessary for party registration
+* origSplit - party was created by former members of previously established party
+* origMerge - party or coalition was created by unification of several parties for the purpose of running in an election
+* origShell - party emerged through re-naming an existing party and doesn't have anything in common with the former party (e.g. completely new leadership & different ideological motivation)
+
+## Data collection
+The data were collected using official sources as results of election (volby.sk, statistics.sk, pkw.pl). 
+The election manifestos were acquired through the  Internet Archive ([archive.org](archive.org)) which contains backups of websites including websites of political parties. In addition of that, some election manifestos were collected from compilations of election manifestos (as Wybory 1993: Partie i ich programy, Wybory 1997, and Wybory 2001 edited by I. S³odkowska). When the election manifestos were unavailable, the party's type was coded according to secondary sources (newspaper articles etc.).
+
+Data on changes of parties were collected from political parties' registers run by [the Ministry of Interior of the Slovak Republic](http://www.ives.sk/registre/), [the Ministry of Interior of the Czech Republic](http://aplikace.mvcr.cz/seznam-politickych-stran/). The register of Polish political parties is not available on-line. Thus, secondary sources were used.  
+
+# Analysis
+
+The following analysis was conducted using R (R Core Team 2015) with some packages (Jackman 2015, others to be filled in...)
+
+## Descriptive statistics
+
+```{r, echo=FALSE}
+data <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/data.csv")
+cz <- data[data$cz==1, ]
+sk <- data[data$sk==1, ]
+pl <- data[data$pl==1, ]
+```
+
+### Purifiers
+```{r, echo=FALSE}
+print("Number of purifiers in CZE")
+table(cz$purifier, cz$year)
+print("Number of purifiers in SVK")
+table(sk$purifier, sk$year)
+print("Number of purifiers in Poland")
+table(pl$purifier, pl$year)
+```
+
+### Projects of newness
+```{r, echo=FALSE}
+print("Number of projects of newness in CZE")
+table(cz$newProject, cz$year)
+print("Number of projects of newness in SVK")
+table(sk$newProject, sk$year)
+print("Number of projects of newness in PL")
+table(pl$newProject, pl$year)
+```
+
+### Prophets
+```{r, echo=FALSE}
+print("Number of prophets in CZE")
+table(cz$prophet, cz$year)
+print("Number of prophets in SVK")
+table(sk$prophet, sk$year)
+print("Number of prophets in PL")
+table(pl$prophet, pl$year)
+```
+
+### Prolocutors
+```{r, echo=FALSE}
+print("Number of prolocutors in CZE")
+table(cz$proloc, cz$year)
+print("Number of prolocutors in SVK")
+table(sk$proloc, sk$year)
+print("Number of prolocutors in PL")
+table(pl$proloc, pl$year)
+```
+
+Notes: 
+
+* influence of electoral law (subsidies/fees for running in the elections) on number of parties (e.g. the number of projects of newness rose rapidly in 2002 due to lower fees necessary for registration a party list (500,000 CZK in 1998 vs. 15,000 CZK in 2002)). In addition, conjecture of lower constraints for running in the election and dissatisfaction with the so-called Opposition agreement (Cesta zmìny, Nadìje and other parties). 
+
+* high number of prolocutors in Poland in the 1993 parliamentary election because of interest organizations running in the election. 
+
+Origin of parties and their functioning in the system:
+
+* minor parties may become a shell for political entrepreneurs. Hanley (2012: 129) argues that the Public Affairs or the (Czech) Green Party were "captured and re-launched by outsiders entering the political sphere". The logic of kidnapping a party seems irrational (except for the cases when you're trying to establish a green party with actual green ideology and creating a second green party would probably be incomprehensible for the voters) as you pass a test of your support. A party which is not able to collect signatures will not be able to succeed in an election (Tavits wrote about that, higher constrains for running in the election prevents future losers from running).
+However, it was a viable strategy for far-right parties as Marián Kotleba's People's Party - Our Slovakia (¼SNS) which hi-jacked the Friends of Wine Party. We may speculate that it is easier for far-right parties to attract voters than collect signatures because voting is secret but the collection of signatures takes place in the public. In addition, ¼SNS had only 44 candidates in their first election which signifies of their low social capital and membership base lacking resources for the collection of signatures. 
+* Besides the parties with genuine intention of running and gaining votes for themselves, minor parties may be used as "dummy parties" (instead of dummy candidates in single-mandate districts unrecognizable from other candidates). E.g. a minor party was renamed to the Ordinary People in order to prevent I. Matoviè from setting up the party of the same name. Instead, he registered the Ordinary People and Independent Persons Party. 
+Also, minor parties may be used for other dirty tricks as the Greens (Zelení) in Slovakia who used their time for TV advertisement guaranteed for every political party running in the election to air a commercial unrecognizable from a commercial of other (minor) party.
+
+
+## Statistical analysis of minor parties' persistence
+```{r, echo=FALSE}
+data <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/data.csv")
+suppressPackageStartupMessages(library(pscl))
+
+```
+
+```{r}
+mod <- glm(runAgain ~ subsidy + mainstream + ideology, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod2 <- glm(runAgain ~ subsidy + mainstream + ideology + origShell + origMerge + origSplit, data=data, family="binomial")
+summary(mod2)
+pR2(mod2)
+```
+
+###Interpretation of models
+The first model shows that besides state subsidies the party's type influnces its chances to run in the consecutive election. More specifically, prophet parties are the most likely to run again, then purifiers and prolocutors follow and projects of newness are least likely to persist.  
+Also, the origin of a party influences its probability to run in the next election. The minor parties which were created by a split from or a merger with an existing country are less likely to participate in the following election. However, it doesn't mean that they cease to exist. Instead, as the results of statistical analysis below show, the political parties transform again.  
+The probability of party transformation into a new subject rises when the party belongs to the ideological mainstream. But the strength of ideological motivation is not important. This is understandable as parties outside of the ideological mainstream have lower number of possible coalition partners...
+
+## Analysis of minor parties' change
+```{r}
+mod_ch <- glm(change ~ subsidy + candidate + mainstream + ideology + origShell + origMerge + origSplit, data=data, family="binomial")
+summary(mod_ch)
+pR2(mod_ch)
+```
+
+Considering minor parties' change, there are several options what may happen:
+
+* the minor party merges with other party (the minor party dissapears)
+* the minor party's candidates occur on lists of other party/parties, but they remain to be members of the minor party
+* the minor party's candidates occur on lists of other party/parties (without continuation of their party identity/membership)
+
+Some charts are [here](http://skvrnami.github.io/). It seems that established political parties rarely nominate a candidate who run on a minor party's list in the previous election, probably because they have enough of their candidates (and it would cause internal clashes...).
+New parties (TOP09, VV, ANO etc.) sometimes exploit candidates from minor parties. 
+Also, there is a flux of candidates between minor parties. 
+
+```{r, echo=FALSE}
+library(ggplot2)
+sk1216ord <- read.csv("~/sk1216ord.csv", sep=";")
+sk1216ord$party1 <- as.character(sk1216ord$party1)
+sk1216ord$party2 <- as.character(sk1216ord$party2)
+sk1216ord$select <- sk1216ord$party1==sk1216ord$party2
+sk26ord_minor <- sk1216ord[sk1216ord$minor==1, ]
+sk26ord_est <- sk1216ord[sk1216ord$minor==0, ]
+
+p <- ggplot(sk26ord_minor, aes(x=order1, y=order2))
+p+geom_point(aes(color=select)) + labs(title="Position of candidates in Slovakia, 2012-16, minor parties only", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
+print("Correlation:")
+cor(sk26ord_minor$order1, sk26ord_minor$order2)
+
+p <- ggplot(sk26ord_est, aes(x=order1, y=order2))
+p+geom_point(aes(color=select)) + labs(title="Position of candidates in Slovakia, 2012-16, established parties", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
+print("Correlation:")
+cor(sk26ord_est$order1, sk26ord_est$order2)
+```
+
+# Resources:
+Jackman, Simon (2015). pscl: Classes and Methods for R Developed in the
+  Political Science Computational Laboratory, Stanford University. Department of
+  Political Science, Stanford University. Stanford, California. R package
+  version 1.4.9. URL http://pscl.stanford.edu/
+  
+R Core Team (2015). R: A language and environment for statistical computing.
+  R Foundation for Statistical Computing, Vienna, Austria. URL
+  https://www.R-project.org/.
+  
+Sikk, A. 2011. Newness as a winning formula for new political parties. *Party politics* 18(4) 465–486, DOI: 10.1177/1354068810389631.
