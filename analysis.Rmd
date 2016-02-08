@@ -8,7 +8,9 @@ output:
 ---
 # Replication materials & coding instructions
 
-This is a collection of replication materials and coding instruction created for my master thesis on minor political parties in the Czech Republic, Slovak Republic, and Poland. 
+```{r, echo=FALSE}
+#This is a collection of replication materials and coding instruction created for my master thesis on minor political parties in the Czech Republic, Slovak Republic, and Poland. 
+```
 
 ## Dataset
 
@@ -31,8 +33,6 @@ The data-set used for statistical analysis of persistence of minor political par
 * votes - share of votes the party received
 * subsidy - did the party receive subsidies from the state for its result in the election? 1 = Yes; 0 = No.
 * runAgain - did the party run in the consecutive election? 1 = Yes; 0 = No.
-* change - did the party merge or split and run in the consecutive election? 1 = Yes; 0 = No.
-* otherList - did the party's candidates run on a list of other party? 1 = Yes; 0 = No.
 * candidate - share of candidates the party nominated (1 = the party nominated the maximum possible count of candidates; 0 = the party nominated no one)
 * absCandidate - number of candidates the party nominated
 * progComplex - word count for the party's election manifesto
@@ -58,6 +58,12 @@ Origin of political parties:
 * origSplit - party was created by former members of previously established party
 * origMerge - party or coalition was created by unification of several parties for the purpose of running in an election
 * origShell - party emerged through re-naming an existing party and doesn't have anything in common with the former party (e.g. completely new leadership & different ideological motivation)
+
+These variables I would like to code, but the distinction between change and running on a list of other party is not clear (see below)
+
+* change - did the party merge or split and run in the consecutive election? 1 = Yes; 0 = No.
+* otherList - did the party's candidates run on a list of other party? 1 = Yes; 0 = No.
+
 
 ## Data collection
 The data were collected using official sources as results of election (volby.sk, statistics.sk, pkw.pl). 
