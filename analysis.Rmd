@@ -137,6 +137,23 @@ However, it was a viable strategy for far-right parties as Marián Kotleba's Peop
 * Besides the parties with genuine intention of running and gaining votes for themselves, minor parties may be used as "dummy parties" (instead of dummy candidates in single-mandate districts unrecognizable from other candidates). E.g. a minor party was renamed to the Ordinary People in order to prevent I. Matoviè from setting up the party of the same name. Instead, he registered the Ordinary People and Independent Persons Party. 
 Also, minor parties may be used for other dirty tricks as the Greens (Zelení) in Slovakia who used their time for TV advertisement guaranteed for every political party running in the election to air a commercial unrecognizable from a commercial of other (minor) party.
 
+Birth of Slovak parties
+
+```{r, echo=FALSE}
+library(ggplot2)
+svk_register_summary <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/svk_register_summary.csv", sep=";")
+plot <- ggplot()
+plot + geom_line(data = svk_register_summary, aes(x=year, y=newParty, color="new parties registered")) + geom_line(data=svk_register_summary, aes(x=year, y=changeParty, color="'recycled' parties")) + labs(color="Origin of parties", x="Year", y="Number of parties", title="Birth of Slovak parties") + theme(legend.position="top")
+```
+
+
+Birth of parties in the Czech and Slovak Republics 
+```{r, echo=FALSE}
+register_cz_summary <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/register_cz_summary.csv", sep=";")
+plot2 <- ggplot()
+plot2 + geom_line(data = svk_register_summary, aes(x=year, y=newParty, color="new parties registered (SK)")) + geom_line(data=svk_register_summary, aes(x=year, y=changeParty, color="'recycled' parties (SK)")) + geom_line(data=register_cz_summary, aes(x=year, y=newParty, color="new parties registered (CZ)"))+ labs(x="Year", y="Number of parties", title="Birth of parties") + theme(legend.position="top")
+```
+
 
 ## Statistical analysis of minor parties' persistence
 ```{r, echo=FALSE}
