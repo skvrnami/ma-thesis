@@ -77,6 +77,81 @@ The following analysis was conducted using R (R Core Team 2015) with some packag
 
 ## Descriptive statistics
 
+Birth of Slovak parties
+
+```{r, echo=FALSE}
+library(ggplot2)
+svk_register_summary <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/svk_register_summary.csv", sep=";")
+plot <- ggplot()
+plot + geom_line(data = svk_register_summary, aes(x=year, y=newParty, color="new parties registered")) + geom_line(data=svk_register_summary, aes(x=year, y=changeParty, color="'recycled' parties")) + labs(color="Origin of parties", x="Year", y="Number of parties", title="Birth of Slovak parties") + theme(legend.position="top")
+```
+
+
+Birth of parties in the Czech and Slovak Republics 
+```{r, echo=FALSE}
+register_cz_summary <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/cz_register_summary.csv", sep=";")
+plot2 <- ggplot()
+plot2 + geom_line(data = svk_register_summary, aes(x=year, y=newParty, color="new parties registered (SK)")) + geom_line(data=svk_register_summary, aes(x=year, y=changeParty, color="'recycled' parties (SK)")) + geom_line(data=register_cz_summary, aes(x=year, y=newParty, color="new parties registered (CZ)"))+ labs(x="Year", y="Number of parties", title="Birth of parties") + theme(legend.position="top")
+```
+
+Number of competing minor parties
+
+```{r, echo=FALSE}
+electionData <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/electionData.csv", sep=";")
+library(ggplot2)
+number_ticks <- function(n) {function(limits) pretty(limits, n)}
+plot_election <- ggplot()
+plot_election + geom_line(data=electionData, aes(x=year, y=parties, color=country)) + labs(color="Country", x="Year", y="Number of parties", title="Number of minor parties competing in the election (1992-2015)") + theme(legend.position="top") + scale_x_continuous(breaks=number_ticks(12)) + expand_limits(y=0)
+```
+
+
+
+```{r, echo=FALSE}
+electionData <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/electionData.csv", sep=";")
+electionCZE <- electionData[electionData$country == "CZE", ]
+electionSVK <- electionData[electionData$country == "SVK", ]
+electionPL <- electionData[electionData$country == "PL", ]
+
+library(ggplot2)
+plot_cz <- ggplot()
+plot_cz + geom_line(data=electionCZE, aes(x=year, y=parties, color="<5%")) + geom_line(data=electionCZE, aes(x=year, y=partiesUnder3, color="<3%")) + geom_line(data=electionCZE, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in the Czech Republic") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
+
+plot_sk <- ggplot()
+plot_sk + geom_line(data=electionSVK, aes(x=year, y=parties, color="<5%")) + geom_line(data=electionSVK, aes(x=year, y=partiesUnder3, color="<3%")) + geom_line(data=electionSVK, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in the Slovak Republic") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
+
+plot_pl <- ggplot()
+plot_pl + geom_line(data=electionPL, aes(x=year, y=parties, color="<5%")) + geom_line(data=electionPL, aes(x=year, y=partiesUnder3, color="<3%")) + geom_line(data=electionPL, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in Poland") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
+```
+
+## Correlations 
+###(when do minor parties emerge)
+```{r, echo=FALSE}
+electionData <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/electionData.csv")
+parties <- cbind(electionData$parties, electionData$gdpLag1, electionData$unemployedLag1, electionData$transitionY)
+colnames(parties) <- c("Number of parties", "GDP growth", "Unemployment", "democratic exp.")
+P <- cor(parties)
+library(corrplot)
+corrplot(P,order="AOE",type="upper", method="color", tl.pos="tp")
+corrplot(P,add=TRUE, type="lower", method="number",order="AOE", col="black", diag=FALSE,tl.pos="n", cl.pos="n")
+```
+
+###(when do voters vote them)
+```{r, echo=FALSE}
+electionData <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/electionData.csv")
+votes <- cbind(electionData$votes, electionData$gdpLag1, electionData$unemployedLag1, electionData$parties, electionData$transitionY)
+colnames(votes) <- c("Share of votes", "GDP growth", "Unemployment", "Number of parties", "democratic exp.")
+V <- cor(votes)
+library(corrplot)
+corrplot(V,order="AOE",type="upper", method="color",tl.pos="tp")
+corrplot(V,add=TRUE, type="lower", method="number",order="AOE", col="black", diag=FALSE,tl.pos="n", cl.pos="n")
+
+library(ggplot2)
+wasted_votes <- ggplot()
+wasted_votes + geom_line(data=electionData, aes(x=year, y=votes, color=country)) + labs(x="Year", y="Share of votes", title="Wasted votes (1992-2012)")  + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
+```
+
+
+
 ```{r, echo=FALSE}
 data <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/data.csv")
 cz <- data[data$cz==1, ]
@@ -136,24 +211,6 @@ Origin of parties and their functioning in the system:
 However, it was a viable strategy for far-right parties as Marián Kotleba's People's Party - Our Slovakia (¼SNS) which hi-jacked the Friends of Wine Party. We may speculate that it is easier for far-right parties to attract voters than collect signatures because voting is secret but the collection of signatures takes place in the public. In addition, ¼SNS had only 44 candidates in their first election which signifies of their low social capital and membership base lacking resources for the collection of signatures. 
 * Besides the parties with genuine intention of running and gaining votes for themselves, minor parties may be used as "dummy parties" (instead of dummy candidates in single-mandate districts unrecognizable from other candidates). E.g. a minor party was renamed to the Ordinary People in order to prevent I. Matoviè from setting up the party of the same name. Instead, he registered the Ordinary People and Independent Persons Party. 
 Also, minor parties may be used for other dirty tricks as the Greens (Zelení) in Slovakia who used their time for TV advertisement guaranteed for every political party running in the election to air a commercial unrecognizable from a commercial of other (minor) party.
-
-Birth of Slovak parties
-
-```{r, echo=FALSE}
-library(ggplot2)
-svk_register_summary <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/svk_register_summary.csv", sep=";")
-plot <- ggplot()
-plot + geom_line(data = svk_register_summary, aes(x=year, y=newParty, color="new parties registered")) + geom_line(data=svk_register_summary, aes(x=year, y=changeParty, color="'recycled' parties")) + labs(color="Origin of parties", x="Year", y="Number of parties", title="Birth of Slovak parties") + theme(legend.position="top")
-```
-
-
-Birth of parties in the Czech and Slovak Republics 
-```{r, echo=FALSE}
-register_cz_summary <- read.csv("C:/Users/Michal/OneDrive/MA_thesis/data/register_cz_summary.csv", sep=";")
-plot2 <- ggplot()
-plot2 + geom_line(data = svk_register_summary, aes(x=year, y=newParty, color="new parties registered (SK)")) + geom_line(data=svk_register_summary, aes(x=year, y=changeParty, color="'recycled' parties (SK)")) + geom_line(data=register_cz_summary, aes(x=year, y=newParty, color="new parties registered (CZ)"))+ labs(x="Year", y="Number of parties", title="Birth of parties") + theme(legend.position="top")
-```
-
 
 ## Statistical analysis of minor parties' persistence
 ```{r, echo=FALSE}
