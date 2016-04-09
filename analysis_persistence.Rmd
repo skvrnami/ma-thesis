@@ -123,3 +123,24 @@ print("Correlation:")
 cor(sk26ord_est$order1, sk26ord_est$order2)
 ```
 
+```{r}
+library(RCurl)
+library(foreign)
+library(ggplot2)
+url <- "https://rawgit.com/skvrnami/ma-thesis/master/data_candidates/svk_turnover/sk1216ord.csv"
+turnoverData <- getURL(url)
+turnoverData <- read.csv(textConnection(turnoverData))
+
+sk26ord_minor <- turnoverData[turnoverData$minor==1, ]
+sk26ord_est <- turnoverData[turnoverData$minor==0, ]
+
+p <- ggplot(sk26ord_minor, aes(x=order1, y=order2))
+p+geom_point(aes(color=loyal)) + labs(title="Position of candidates in Slovakia, 2012-16, minor parties only", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
+print("Correlation:")
+cor(sk26ord_minor$order1, sk26ord_minor$order2)
+
+p <- ggplot(turnoverData, aes(x=order1, y=order2))
+p+geom_point(aes(color=improveParty)) + labs(title="Position of candidates in Slovakia, 2012-16", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate move to a better party?") + theme(legend.position="top")
+
+```
+
