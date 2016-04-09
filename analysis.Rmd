@@ -116,11 +116,20 @@ library(ggplot2)
 plot_cz <- ggplot()
 plot_cz + geom_line(data=electionCZE, aes(x=year, y=parties, color="<5%")) + geom_line(data=electionCZE, aes(x=year, y=partiesUnder3, color="<3%")) + geom_line(data=electionCZE, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in the Czech Republic") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
 
+plot_cz2 <- ggplot()
+plot_cz2 + geom_line(data=electionCZE, aes(x=year, y=parties, color="all minor parties")) + geom_line(data=electionCZE, aes(x=year, y=partiesOver3, color=">3%")) + geom_line(data=electionCZE, aes(x=year, y=partiesOver1, color=">1%")) + geom_line(data=electionCZE, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in the Czech Republic") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
+
 plot_sk <- ggplot()
 plot_sk + geom_line(data=electionSVK, aes(x=year, y=parties, color="<5%")) + geom_line(data=electionSVK, aes(x=year, y=partiesUnder3, color="<3%")) + geom_line(data=electionSVK, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in the Slovak Republic") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
 
+plot_sk2 <- ggplot()
+plot_sk2 + geom_line(data=electionSVK, aes(x=year, y=parties, color="all minor parties")) + geom_line(data=electionSVK, aes(x=year, y=partiesOver3, color=">3%")) + geom_line(data=electionSVK, aes(x=year, y=partiesOver1, color=">1%")) + geom_line(data=electionSVK, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in the Slovak Republic") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
+
 plot_pl <- ggplot()
 plot_pl + geom_line(data=electionPL, aes(x=year, y=parties, color="<5%")) + geom_line(data=electionPL, aes(x=year, y=partiesUnder3, color="<3%")) + geom_line(data=electionPL, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in Poland") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
+
+plot_pl2 <- ggplot()
+plot_pl2 + geom_line(data=electionPL, aes(x=year, y=parties, color="all minor parties")) + geom_line(data=electionPL, aes(x=year, y=partiesOver3, color=">3%")) + geom_line(data=electionPL, aes(x=year, y=partiesOver1, color=">1%")) + geom_line(data=electionPL, aes(x=year, y=partiesUnder1, color="<1%")) + labs(x="Year", y="Number of parties", title="Vote shares of minor parties in Poland") + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
 ```
 
 ## Correlations 
@@ -150,7 +159,17 @@ wasted_votes <- ggplot()
 wasted_votes + geom_line(data=electionData, aes(x=year, y=votes, color=country)) + labs(x="Year", y="Share of votes", title="Wasted votes (1992-2012)")  + theme(legend.position="top", legend.title=element_blank()) + expand_limits(y=0)
 ```
 
-
+### without the CZE
+```{r, echo=FALSE}
+electionData <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/electionData.csv")
+votes_cz <- electionData[electionData$country!="CZE", ]
+votes_cz2 <- cbind(votes_cz$votes, votes_cz$gdpLag1, votes_cz$unemployedLag1, votes_cz$parties, votes_cz$transitionY)
+colnames(votes_cz2) <- c("Share of votes", "GDP growth", "Unemployment", "Number of parties", "democratic exp.")
+V <- cor(votes_cz2)
+library(corrplot)
+corrplot(V,order="AOE",type="upper", method="color",tl.pos="tp")
+corrplot(V,add=TRUE, type="lower", method="number",order="AOE", col="black", diag=FALSE,tl.pos="n", cl.pos="n")
+```
 
 ```{r, echo=FALSE}
 data <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/data.csv")
@@ -162,41 +181,41 @@ pl <- data[data$pl==1, ]
 ### Purifiers
 ```{r, echo=FALSE}
 print("Number of purifiers in CZE")
-table(cz$purifier, cz$year)
+table(cz$purifier[cz$purifier==1], cz$year[cz$purifier==1])
 print("Number of purifiers in SVK")
-table(sk$purifier, sk$year)
+table(sk$purifier[sk$purifier==1], sk$year[sk$purifier==1])
 print("Number of purifiers in Poland")
-table(pl$purifier, pl$year)
+table(pl$purifier[pl$purifier==1], pl$year[pl$purifier==1])
 ```
 
 ### Projects of newness
 ```{r, echo=FALSE}
 print("Number of projects of newness in CZE")
-table(cz$newProject, cz$year)
+table(cz$newProject[cz$newProject==1], cz$year[cz$newProject==1])
 print("Number of projects of newness in SVK")
-table(sk$newProject, sk$year)
+table(sk$newProject[sk$newProject==1], sk$year[sk$newProject==1])
 print("Number of projects of newness in PL")
-table(pl$newProject, pl$year)
+table(pl$newProject[pl$newProject==1], pl$year[pl$newProject==1])
 ```
 
 ### Prophets
 ```{r, echo=FALSE}
 print("Number of prophets in CZE")
-table(cz$prophet, cz$year)
+table(cz$prophet[cz$prophet==1], cz$year[cz$prophet==1])
 print("Number of prophets in SVK")
-table(sk$prophet, sk$year)
+table(sk$prophet[sk$prophet==1], sk$year[sk$prophet==1])
 print("Number of prophets in PL")
-table(pl$prophet, pl$year)
+table(pl$prophet[pl$prophet==1], pl$year[pl$prophet==1])
 ```
 
 ### Prolocutors
 ```{r, echo=FALSE}
 print("Number of prolocutors in CZE")
-table(cz$proloc, cz$year)
+table(cz$proloc[cz$proloc==1], cz$year[cz$proloc==1])
 print("Number of prolocutors in SVK")
-table(sk$proloc, sk$year)
+table(sk$proloc[sk$proloc==1], sk$year[sk$proloc==1])
 print("Number of prolocutors in PL")
-table(pl$proloc, pl$year)
+table(pl$proloc[pl$proloc==1], pl$year[pl$proloc==1])
 ```
 
 Notes: 
@@ -212,66 +231,6 @@ However, it was a viable strategy for far-right parties as Marián Kotleba's Peop
 * Besides the parties with genuine intention of running and gaining votes for themselves, minor parties may be used as "dummy parties" (instead of dummy candidates in single-mandate districts unrecognizable from other candidates). E.g. a minor party was renamed to the Ordinary People in order to prevent I. Matoviè from setting up the party of the same name. Instead, he registered the Ordinary People and Independent Persons Party. 
 Also, minor parties may be used for other dirty tricks as the Greens (Zelení) in Slovakia who used their time for TV advertisement guaranteed for every political party running in the election to air a commercial unrecognizable from a commercial of other (minor) party.
 
-## Statistical analysis of minor parties' persistence
-```{r, echo=FALSE}
-data <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/data.csv")
-suppressPackageStartupMessages(library(pscl))
-
-```
-
-```{r}
-mod <- glm(runAgain ~ subsidy + mainstream + ideology, data=data, family="binomial")
-summary(mod)
-pR2(mod)
-```
-
-```{r}
-mod2 <- glm(runAgain ~ subsidy + mainstream + ideology + origShell + origMerge + origSplit, data=data, family="binomial")
-summary(mod2)
-pR2(mod2)
-```
-
-###Interpretation of models
-The first model shows that besides state subsidies the party's type influnces its chances to run in the consecutive election. More specifically, prophet parties are the most likely to run again, then purifiers and prolocutors follow and projects of newness are least likely to persist.  
-Also, the origin of a party influences its probability to run in the next election. The minor parties which were created by a split from or a merger with an existing country are less likely to participate in the following election. However, it doesn't mean that they cease to exist. Instead, as the results of statistical analysis below show, the political parties transform again.  
-The probability of party transformation into a new subject rises when the party belongs to the ideological mainstream. But the strength of ideological motivation is not important. This is understandable as parties outside of the ideological mainstream have lower number of possible coalition partners...
-
-## Analysis of minor parties' change
-```{r}
-mod_ch <- glm(change ~ subsidy + candidate + mainstream + ideology + origShell + origMerge + origSplit, data=data, family="binomial")
-summary(mod_ch)
-pR2(mod_ch)
-```
-
-Considering minor parties' change, there are several options what may happen:
-
-* the minor party merges with other party (the minor party dissapears)
-* the minor party's candidates occur on lists of other party/parties, but they remain to be members of the minor party
-* the minor party's candidates occur on lists of other party/parties (without continuation of their party identity/membership)
-
-Some charts are [here](http://skvrnami.github.io/). It seems that established political parties rarely nominate a candidate who run on a minor party's list in the previous election, probably because they have enough of their candidates (and it would cause internal clashes...).
-New parties (TOP09, VV, ANO etc.) sometimes exploit candidates from minor parties. 
-Also, there is a flux of candidates between minor parties. 
-
-```{r, echo=FALSE}
-library(ggplot2)
-sk1216ord <- read.csv("~/sk1216ord.csv", sep=";")
-sk1216ord$party1 <- as.character(sk1216ord$party1)
-sk1216ord$party2 <- as.character(sk1216ord$party2)
-sk1216ord$select <- sk1216ord$party1==sk1216ord$party2
-sk26ord_minor <- sk1216ord[sk1216ord$minor==1, ]
-sk26ord_est <- sk1216ord[sk1216ord$minor==0, ]
-
-p <- ggplot(sk26ord_minor, aes(x=order1, y=order2))
-p+geom_point(aes(color=select)) + labs(title="Position of candidates in Slovakia, 2012-16, minor parties only", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
-print("Correlation:")
-cor(sk26ord_minor$order1, sk26ord_minor$order2)
-
-p <- ggplot(sk26ord_est, aes(x=order1, y=order2))
-p+geom_point(aes(color=select)) + labs(title="Position of candidates in Slovakia, 2012-16, established parties", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
-print("Correlation:")
-cor(sk26ord_est$order1, sk26ord_est$order2)
-```
 
 # Resources:
 Jackman, Simon (2015). pscl: Classes and Methods for R Developed in the

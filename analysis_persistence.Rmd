@@ -1,0 +1,125 @@
+---
+title: "analysis_persistence"
+author: "Michael Škvrňák"
+date: "March 7, 2016"
+output: html_document
+---
+
+## Statistical analysis of minor parties' persistence
+```{r, echo=FALSE}
+data <- read.csv2("C:/Users/Michal/OneDrive/MA_thesis/data/data.csv")
+suppressPackageStartupMessages(library(pscl))
+suppressPackageStartupMessages(library(car))
+```
+
+```{r}
+mod <- glm(runAgain ~ subsidy + mainstream + ideology, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod2 <- glm(runAgain ~ subsidy + mainstream + ideology + origMerge + origSplit, data=data, family="binomial")
+summary(mod2)
+pR2(mod2)
+```
+
+```{r}
+mod <- glm(runAgain ~ votes + mainstream + ideology, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod <- glm(runAgain ~ candidate + mainstream + ideology, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod <- glm(runAgain ~ votes + subsidy + candidate + mainstream + ideology, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod <- glm(runAgain ~ subsidy + candidate + mainstream + ideology, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod <- glm(runAgain ~ subsidy + votes + mainstream + ideology, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod <- glm(runAgain ~ subsidy + mainstream + ideology + pl + sk + post2000, data=data, family="binomial")
+summary(mod)
+pR2(mod)
+```
+
+```{r}
+mod12 <- glm(runAgain ~ subsidy + mainstream + ideology + pl + sk, data=data, family="binomial")
+summary(mod12)
+pR2(mod12)
+```
+
+
+```{r}
+mod13 <- glm(runAgain ~ candidate + mainstream + ideology + pl + sk, data=data, family="binomial")
+summary(mod13)
+pR2(mod13)
+vif(mod13)
+```
+
+
+```{r}
+mod14 <- glm(runAgain ~ subsidy + candidate + mainstream + ideology + pl + sk, data=data, family="binomial")
+summary(mod14)
+pR2(mod14)
+```
+
+###Interpretation of models
+The first model shows that besides state subsidies the party's type influnces its chances to run in the consecutive election. More specifically, prophet parties are the most likely to run again, then purifiers and prolocutors follow and projects of newness are least likely to persist.  
+Also, the origin of a party influences its probability to run in the next election. The minor parties which were created by a split from or a merger with an existing country are less likely to participate in the following election. However, it doesn't mean that they cease to exist. Instead, as the results of statistical analysis below show, the political parties transform again.  
+The probability of party transformation into a new subject rises when the party belongs to the ideological mainstream. But the strength of ideological motivation is not important. This is understandable as parties outside of the ideological mainstream have lower number of possible coalition partners...
+
+## Analysis of minor parties' change
+```{r}
+mod_ch <- glm(change ~ subsidy + candidate + mainstream + ideology + origShell + origMerge + origSplit, data=data, family="binomial")
+summary(mod_ch)
+pR2(mod_ch)
+```
+
+Considering minor parties' change, there are several options what may happen:
+
+* the minor party merges with other party (the minor party dissapears)
+* the minor party's candidates occur on lists of other party/parties, but they remain to be members of the minor party
+* the minor party's candidates occur on lists of other party/parties (without continuation of their party identity/membership)
+
+Some charts are [here](http://skvrnami.github.io/). It seems that established political parties rarely nominate a candidate who run on a minor party's list in the previous election, probably because they have enough of their candidates (and it would cause internal clashes...).
+New parties (TOP09, VV, ANO etc.) sometimes exploit candidates from minor parties. 
+Also, there is a flux of candidates between minor parties. 
+
+```{r, echo=FALSE}
+library(ggplot2)
+sk1216ord <- read.csv("~/sk1216ord.csv", sep=";")
+sk1216ord$party1 <- as.character(sk1216ord$party1)
+sk1216ord$party2 <- as.character(sk1216ord$party2)
+sk1216ord$select <- sk1216ord$party1==sk1216ord$party2
+sk26ord_minor <- sk1216ord[sk1216ord$minor==1, ]
+sk26ord_est <- sk1216ord[sk1216ord$minor==0, ]
+
+p <- ggplot(sk26ord_minor, aes(x=order1, y=order2))
+p+geom_point(aes(color=select)) + labs(title="Position of candidates in Slovakia, 2012-16, minor parties only", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
+print("Correlation:")
+cor(sk26ord_minor$order1, sk26ord_minor$order2)
+
+p <- ggplot(sk26ord_est, aes(x=order1, y=order2))
+p+geom_point(aes(color=select)) + labs(title="Position of candidates in Slovakia, 2012-16, established parties", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
+print("Correlation:")
+cor(sk26ord_est$order1, sk26ord_est$order2)
+```
+
