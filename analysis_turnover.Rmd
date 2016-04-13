@@ -51,6 +51,21 @@ p+geom_point(aes(color=improveParty)) + labs(title="Position of candidates in Sl
 
 ```
 
+
+```{r}
+library(RCurl)
+library(foreign)
+library(ggplot2)
+url <- "https://rawgit.com/skvrnami/ma-thesis/master/data_candidates/svk_turnover/sk9816ord.csv"
+sk9816ord <- getURL(url)
+sk9816ord <- read.csv(textConnection(sk9816ord))
+
+table(sk9816ord$loyal, sk9816ord$minorMajor)
+table(sk9816ord$loyal, sk9816ord$minorMinor)
+table(sk9816ord$loyal, sk9816ord$majorMajor)
+table(sk9816ord$loyal, sk9816ord$majorMinor)
+```
+
 ```{r}
 library(RCurl)
 library(foreign)
@@ -85,20 +100,132 @@ minorMajor <- sk9816ord[sk9816ord$minorMajor==1, ]
 # major <- sk9816ord[sk9816ord$minor==0, ]
 
 p <- ggplot(minorMajor, aes(x=order1, y=order2))
-p+geom_point(aes(color=loyal)) + labs(title="Position of candidates in Slovakia, 1998-2016, minor parties", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switched between parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
+p+geom_point(aes(color=loyal)) + labs(title="Candidates improving the status of their party, Slovakia 1998-2016", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switched between parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
 
 # p <- ggplot(major, aes(x=order1, y=order2))
 # p+geom_point(aes(color=loyal)) + labs(title="Position of candidates in Slovakia, 2012-16, major parties", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
 
+table(minorMajor$loyal, minorMajor$improvePosition)
+
 ```
 
 ```{r}
-model1 <- lm(order2 ~ order1 + loyal + minor + origPartyDissolved, data=sk9816ord)
+library(RCurl)
+library(foreign)
+library(ggplot2)
+url <- "https://rawgit.com/skvrnami/ma-thesis/master/data_candidates/svk_turnover/sk9816ord.csv"
+sk9816ord <- getURL(url)
+sk9816ord <- read.csv(textConnection(sk9816ord))
+
+sk9816ord$loyal <- as.factor(sk9816ord$loyal)
+major <- sk9816ord[sk9816ord$minor==0, ]
+
+p <- ggplot(major, aes(x=order1, y=order2))
+p+geom_point(aes(color=loyal)) + labs(title="Candidate from major parties, Slovakia 1998-2016", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switched between parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+
+```
+
+#Major => minor
+```{r}
+library(RCurl)
+library(foreign)
+library(ggplot2)
+url <- "https://rawgit.com/skvrnami/ma-thesis/master/data_candidates/svk_turnover/sk9816ord.csv"
+sk9816ord <- getURL(url)
+sk9816ord <- read.csv(textConnection(sk9816ord))
+
+sk9816ord$loyal <- as.factor(sk9816ord$loyal)
+majorMinor <- sk9816ord[sk9816ord$majorMinor==1, ]
+
+p <- ggplot(majorMinor, aes(x=order1, y=order2))
+p+geom_point(aes(color=loyal)) + labs(title="Candidate from major parties, Slovakia 1998-2016", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switched between parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+
+table(majorMinor$loyal, majorMinor$improvePosition)
+
+```
+
+#Minor => minor
+```{r}
+library(RCurl)
+library(foreign)
+library(ggplot2)
+url <- "https://rawgit.com/skvrnami/ma-thesis/master/data_candidates/svk_turnover/sk9816ord.csv"
+sk9816ord <- getURL(url)
+sk9816ord <- read.csv(textConnection(sk9816ord))
+
+sk9816ord$loyal <- as.factor(sk9816ord$loyal)
+sk9816ord$origPartyDissolved <- as.factor(sk9816ord$origPartyDissolved)
+minorMinor <- sk9816ord[sk9816ord$minorMinor==1, ]
+
+p <- ggplot(minorMinor, aes(x=order1, y=order2))
+p+geom_point(aes(color=origPartyDissolved)) + labs(title="Candidates in minor parties", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate's former party stop running in an election?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+
+p <- ggplot(minorMinor, aes(x=order1, y=order2))
+p+geom_point(aes(color=loyal)) + labs(title="Candidates in minor parties", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switch between political parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+```
+
+#Minor => minor
+```{r}
+library(RCurl)
+library(foreign)
+library(ggplot2)
+url <- "https://rawgit.com/skvrnami/ma-thesis/master/data_candidates/svk_turnover/sk9816ord.csv"
+sk9816ord <- getURL(url)
+sk9816ord <- read.csv(textConnection(sk9816ord))
+
+sk9816ord$loyal <- as.factor(sk9816ord$loyal)
+sk9816ord$origPartyDissolved <- as.factor(sk9816ord$origPartyDissolved)
+minorMinor <- sk9816ord[sk9816ord$minorMinor==1, ]
+
+p <- ggplot(minorMinor, aes(x=order1, y=order2))
+p+geom_point(aes(color=origPartyDissolved)) + labs(title="Candidates in minor parties", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate's former party stop running in an election?") + theme(legend.position="top") + geom_abline(intercept = 0, slope=1) + scale_color_manual(values=c("black", "red"), labels=c("No", "Yes"))
+
+p <- ggplot(minorMinor, aes(x=order1, y=order2))
+p+geom_point(aes(color=loyal)) + labs(title="Candidates in minor parties", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switch between political parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+
+table(minorMinor$loyal, minorMinor$improvePosition)
+
+table(minorMinor$origPartyDissolved, minorMinor$improvePosition)
+
+table(minorMinor$improveParty, minorMinor$improvePosition)
+```
+
+#Major => major
+```{r}
+library(RCurl)
+library(foreign)
+library(ggplot2)
+url <- "https://rawgit.com/skvrnami/ma-thesis/master/data_candidates/svk_turnover/sk9816ord.csv"
+sk9816ord <- getURL(url)
+sk9816ord <- read.csv(textConnection(sk9816ord))
+
+sk9816ord$loyal <- as.factor(sk9816ord$loyal)
+sk9816ord$origPartyDissolved <- as.factor(sk9816ord$origPartyDissolved)
+majorMajor <- sk9816ord[sk9816ord$majorMajor==1, ]
+
+p <- ggplot(majorMajor, aes(x=order1, y=order2))
+p+geom_point(aes(color=loyal)) + labs(title="Candidates in major parties", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switch between political parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+
+table(majorMajor$loyal, majorMajor$improvePosition)
+```
+
+
+```{r}
+model1 <- lm(change ~ order1 + loyal + minor + origPartyDissolved, data=sk9816ord)
 summary(model1)
 ```
 
 ```{r}
-model2 <- lm(order2 ~ order1 + loyal*minor + origPartyDissolved, data=sk9816ord)
+model2 <- lm(change ~ order1 + loyal*minor + origPartyDissolved, data=sk9816ord)
 summary(model2)
 ```
 
+```{r}
+model3 <- lm(change ~ order1 + loyal*minorMajor + loyal*minorMinor + origPartyDissolved, data=sk9816ord)
+summary(model3)
+```
+
+```{r}
+model4 <- lm(change ~ loyal + minorMajor + minorMinor + origPartyDissolved, data=sk9816ord)
+summary(model4)
+```
