@@ -188,6 +188,13 @@ table(minorMinor$loyal, minorMinor$improvePosition)
 table(minorMinor$origPartyDissolved, minorMinor$improvePosition)
 
 table(minorMinor$improveParty, minorMinor$improvePosition)
+
+table(minorMinor$improveParty, minorMinor$new2)
+
+table(minorMinor$new2, minorMinor$improvePosition)
+
+minorNew <- minorMinor[minorMinor$new2 == 1,]
+table(minorNew$improveParty, minorNew$improvePosition)
 ```
 
 #Major => major
@@ -211,21 +218,39 @@ table(majorMajor$loyal, majorMajor$improvePosition)
 
 
 ```{r}
-model1 <- lm(change ~ order1 + loyal + minor + origPartyDissolved, data=sk9816ord)
+model1 <- lm(change ~ order1 + switch + minor + origPartyDissolved, data=sk9816ord)
 summary(model1)
 ```
 
 ```{r}
-model2 <- lm(change ~ order1 + loyal*minor + origPartyDissolved, data=sk9816ord)
+model1 <- lm(change ~ order1 + switch + minor, data=sk9816ord)
+summary(model1)
+```
+
+```{r}
+model2 <- lm(change ~ order1 + switch*minor + origPartyDissolved, data=sk9816ord)
 summary(model2)
 ```
 
 ```{r}
-model3 <- lm(change ~ order1 + loyal*minorMajor + loyal*minorMinor + origPartyDissolved, data=sk9816ord)
+model3 <- lm(change ~ order1 + switch*minorMajor + switch*minorMinor + origPartyDissolved, data=sk9816ord)
 summary(model3)
 ```
 
 ```{r}
-model4 <- lm(change ~ loyal + minorMajor + minorMinor + origPartyDissolved, data=sk9816ord)
+model3 <- lm(change ~ order1 + switch*minorMajor + switch*minorMinor + switch*majorMajor, data=sk9816ord)
+summary(model3)
+```
+
+```{r}
+model4 <- lm(change ~ switch + minorMajor + minorMinor + origPartyDissolved, data=sk9816ord)
 summary(model4)
 ```
+
+```{r}
+library(googleVis)
+sankey_sk1216 <- read.csv("~/GitHub/ma-thesis/data_candidates/sankey_sk1216.csv", sep=";")
+plot(gvisSankey(sankey_sk1216, from="party1", to="party2", weight="count", options=list(
+               height=500)))
+```
+
