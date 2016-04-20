@@ -243,10 +243,6 @@ summary(model3)
 ```
 
 ```{r}
-model3 <- lm(change ~ order1 + switchMiMa + switchMiMi + switchMaMa + switchMaMi + new2, data=sk9816ord)
-summary(model3)
-```
-```{r}
 model4 <- lm(change ~ switch + minorMajor + minorMinor + origPartyDissolved, data=sk9816ord)
 summary(model4)
 ```
