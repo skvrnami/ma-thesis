@@ -13,6 +13,26 @@ suppressPackageStartupMessages(library(car))
 ```
 
 ```{r}
+run1 <- data[data$runAgain == 1, ]
+run0 <- data[data$runAgain == 0, ]
+var.test(run1$candidate, run0$candidate)
+wilcox.test(run1$candidate, run0$candidate)
+
+run1cz <- data[data$runAgain == 1 & data$cz ==1, ]
+run0cz <- data[data$runAgain == 0 & data$cz ==1, ]
+wilcox.test(run1cz$candidate, run0cz$candidate)
+
+run1sk <- data[data$runAgain == 1 & data$sk ==1, ]
+run0sk <- data[data$runAgain == 0 & data$sk ==1, ]
+wilcox.test(run1sk$candidate, run0sk$candidate)
+
+run1pl <- data[data$runAgain == 1 & data$pl ==1, ]
+run0pl <- data[data$runAgain == 0 & data$pl ==1, ]
+wilcox.test(run1pl$candidate, run0pl$candidate)
+```
+
+
+```{r}
 mod <- glm(runAgain ~ subsidy + mainstream + ideology, data=data, family="binomial")
 summary(mod)
 pR2(mod)
@@ -133,6 +153,7 @@ turnoverData <- read.csv(textConnection(turnoverData))
 
 sk26ord_minor <- turnoverData[turnoverData$minor==1, ]
 sk26ord_est <- turnoverData[turnoverData$minor==0, ]
+sk26ord_minor$loyal <- as.factor(sk26ord_minor$loyal)
 
 p <- ggplot(sk26ord_minor, aes(x=order1, y=order2))
 p+geom_point(aes(color=loyal)) + labs(title="Position of candidates in Slovakia, 2012-16, minor parties only", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))

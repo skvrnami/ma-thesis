@@ -87,6 +87,7 @@ p+geom_point(aes(color=loyal)) + labs(title="Position of candidates in Slovakia,
 ```
 
 
+minor => major
 ```{r}
 library(RCurl)
 library(foreign)
@@ -100,7 +101,7 @@ minorMajor <- sk9816ord[sk9816ord$minorMajor==1, ]
 # major <- sk9816ord[sk9816ord$minor==0, ]
 
 p <- ggplot(minorMajor, aes(x=order1, y=order2))
-p+geom_point(aes(color=loyal)) + labs(title="Candidates improving the status of their party, Slovakia 1998-2016", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switched between parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+p+geom_point(aes(shape=loyal), size=2) + labs(x="candidate's position in t", y="candidate's position in t+1", shape="Did the candidate switch parties?") + theme(legend.position="top") + scale_shape_manual(values=c(1, 16), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
 
 # p <- ggplot(major, aes(x=order1, y=order2))
 # p+geom_point(aes(color=loyal)) + labs(title="Position of candidates in Slovakia, 2012-16, major parties", x="candidate's position in 2012", y="candidate's position in 2016", color="Did the candidate change the party?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No"))
@@ -138,7 +139,7 @@ sk9816ord$loyal <- as.factor(sk9816ord$loyal)
 majorMinor <- sk9816ord[sk9816ord$majorMinor==1, ]
 
 p <- ggplot(majorMinor, aes(x=order1, y=order2))
-p+geom_point(aes(color=loyal)) + labs(title="Candidate from major parties, Slovakia 1998-2016", x="candidate's position in t", y="candidate's position in t+1", color="Did the candidate switched between parties?") + theme(legend.position="top") + scale_color_manual(values=c("red", "black"), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
+p+geom_point(aes(shape=loyal), size=2) + labs(x="candidate's position in t", y="candidate's position in t+1", shape="Did the candidate switch parties?") + theme(legend.position="top") + scale_shape_manual(values=c(1, 16), labels=c("Yes", "No")) + geom_abline(intercept = 0, slope=1)
 
 table(majorMinor$loyal, majorMinor$improvePosition)
 
@@ -246,6 +247,30 @@ summary(model3)
 model4 <- lm(change ~ switch + minorMajor + minorMinor + origPartyDissolved, data=sk9816ord)
 summary(model4)
 ```
+
+```{r}
+model1 <- lm(change2 ~ order1 + switch + minor, data=sk9816ord)
+summary(model1)
+```
+
+```{r}
+model2 <- lm(change2 ~ order1 + switch*minor + origPartyDissolved, data=sk9816ord)
+summary(model2)
+```
+
+```{r}
+model3 <- lm(change2 ~ order1 + switch*minorMajor + switch*minorMinor + origPartyDissolved, data=sk9816ord)
+summary(model3)
+```
+
+```{r}
+model3 <- lm(change2 ~ order1 + switch*minorMajor + switch*minorMinor + switch*majorMajor, data=sk9816ord)
+summary(model3)
+```
+
+```{r}
+model4 <- lm(change2 ~ switch + minorMajor + minorMinor + origPartyDissolved, data=sk9816ord)
+summary(model4)
 
 ```{r}
 library(googleVis)

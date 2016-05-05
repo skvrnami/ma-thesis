@@ -1,0 +1,442 @@
+;again;party1;party2;mp;loyal
+1;Kužílek Oldøich;ODA;ODA;1;1
+2;Odehnal Martin;ODA;ODA;0;1
+3;Mirka Vladimír;ODA;ODA;0;1
+4;Topinka Petr;ODA;ODA;0;1
+5;Kratochvíl Miloslav;ODA;ODA;0;1
+6;Cirnfus Slavomír;ODA;ODA;0;1
+7;Mizerová Ivana;ODA;ODA;0;1
+8;Dobal Viktor;ODA;ODA;1;1
+9;Knob Vilibald;ODA;ODA;0;1
+10;Èeška Roman;ODA;ODA;0;1
+11;Bláhovec Jiøí;ODA;ODA;0;1
+12;Èerbák Miroslav;ODA;ODA;1;1
+13;Kafka Jan;ODA;ODA;0;1
+14;Cháb Milan;ODA;ODA;0;1
+15;Ledvinka Karel;ODA;ODA;1;1
+16;Kulka Dušan;ODA;ODA;0;1
+17;Doskoèil Jan;ODA;ODA;0;1
+18;Nýèová Vítìzslava;ODA;ODA;0;1
+19;Roudnická Jiøina;ODA;ODA;0;1
+20;Kynèl Milan;ODA;ODA;0;1
+21;Kamaryt Josef;ODA;ODA;0;1
+22;Lojdová Kateøina;ODA;ODA;1;1
+23;Menšík Karel;ODA;ODA;0;1
+24;Trojan Zdenìk;ÈSSD;ÈSSD;1;1
+25;Gross Stanislav;ÈSSD;ÈSSD;1;1
+26;Havlíèek Ivan;ÈSSD;ÈSSD;0;1
+27;Volfová Jana;ÈSSD;ÈSSD;0;1
+28;Tomèík Jan;ÈSSD;ÈSSD;0;1
+29;Gubín Oleg;ÈSSD;ÈSSD;0;1
+30;Výrut Karel;ÈSSD;ÈSSD;0;1
+31;Maòásek Jaroslav;ÈSSD;ÈSSD;0;1
+32;Pácha Oldøich;ÈSSD;ÈSSD;0;1
+33;Valecký Miroslav;ÈSSD;ÈSSD;0;1
+34;Zeman Eduard;ÈSSD;ÈSSD;1;1
+35;Prùša Jiøí;ÈSSD;ÈSSD;0;1
+36;Brožík František;ÈSSD;ÈSSD;1;1
+37;Prùša Josef;ÈSSD;ÈSSD;0;1
+38;Straka Jaroslav;ÈSSD;ÈSSD;0;1
+39;Matìcha Miroslav;ÈSSD;ÈSSD;0;1
+40;Foldyna Jaroslav;ÈSSD;ÈSSD;0;1
+41;Farmaèka Jaroslav;ÈSSD;ÈSSD;0;1
+42;Èevela Rostislav;ÈSSD;ÈSSD;0;1
+43;Novotný Milan;ÈSSD;ÈSSD;0;1
+44;Bøezina Jiøí;ÈSSD;ÈSSD;0;1
+45;Grulich Václav;ÈSSD;ÈSSD;1;1
+46;Škromach Zdenìk;ÈSSD;ÈSSD;0;1
+47;Jašek Pavel;ÈSSD;ÈSSD;0;1
+48;Vymìtal Vojtìch;ÈSSD;ÈSSD;0;1
+49;Kinzel Ivan;ÈSSD;ÈSSD;0;1
+50;Václavek Jiøí;ÈSSD;ÈSSD;0;1
+51;Prášek Jiøí;ÈSSD;ÈSSD;0;1
+52;Vetchý Vladimír;ÈSSD;ÈSSD;0;1
+53;Fischerová Eva;ÈSSD;ÈSSD;1;1
+54;Košík Lubomír;ÈSSD;ÈSSD;0;1
+55;Køeèek Stanislav;HSD-SMS;ÈSSD;0;0
+56;Kmenta Josef;HSD-SMS;CAO;0;0
+57;Brech Petr;HSD-SMS;LB;0;0
+58;Kraus Michal;HSD-SMS;ÈSSD;1;0
+59;Polách Jan;HSD-SMS;SDL;0;0
+60;Skoèovský Miloš;HSD-SMS;ÈMUS;1;0
+61;Jegla Jan;HSD-SMS;ÈMUS;1;0
+62;Kavan Petr;HSD-SMS;HSMSMNSJ;1;0
+63;Štambera Dalibor;HSD-SMS;ÈMUS;1;0
+64;Doèkal Vítìzslav;HSD-SMS;HSMSMNSJ;0;0
+65;Katròák Josef;HSD-SMS;MNS-HSS;0;0
+66;Dresler Rudolf;HSD-SMS;HSMSMNSJ;0;0
+67;Žemla Jaroslav;HSD-SMS;ÈMUS;0;0
+68;Rudinský František;HSD-SMS;HSMSMNSJ;0;0
+69;Opatøil Rudolf;HSD-SMS;ÈMUS;1;0
+70;Kaèenka František;HSD-SMS;ÈMUS;1;0
+71;Broulík Jaroslav;HSD-SMS;ÈMUS;1;0
+72;Hubová Marta;HSD-SMS;ODA;1;0
+73;Kolomazník Karel;HSD-SMS;ÈMUS;0;0
+74;Alt Vladimír;HSD-SMS;ÈMUS;0;0
+75;Koníèek Josef;HDŽJ;DŽJ;0;0
+76;Malkovská Zdeòka;HDŽJ;DŽJ;0;0
+77;Pauer Jaroslav;NSS-ÈSNS;SD-LSNS;0;0
+78;Sušický Jiøí;NSS-ÈSNS;PB;0;0
+79;Kylián Josef;NSS-ÈSNS;ODA;0;0
+80;Ruprich Vít;D92;ODA;0;0
+81;Zemánek Richard;SRNDJ;DEU;0;0
+82;Decker Jan;KDU-ÈSL;KDU-ÈSL;1;1
+83;Janeèek Josef;KDU-ÈSL;KDU-ÈSL;1;1
+84;Strnadel Tomáš;KDU-ÈSL;KDU-ÈSL;0;1
+85;Sova Karel;KDU-ÈSL;KDU-ÈSL;0;1
+86;Blažek Jiøí;KDU-ÈSL;KDU-ÈSL;0;1
+87;Bøicháèek Petr;KDU-ÈSL;KDU-ÈSL;0;1
+88;Volenec Václav;KDU-ÈSL;KDU-ÈSL;0;1
+89;Hájek Milan;KDU-ÈSL;KDU-ÈSL;0;1
+90;Plánièka Pavel;KDU-ÈSL;KDU-ÈSL;0;1
+91;Málek Jiøí;KDU-ÈSL;KDU-ÈSL;0;1
+92;Bureš Jan;KDU-ÈSL;KDU-ÈSL;0;1
+93;Výborný Miloslav;KDU-ÈSL;KDU-ÈSL;1;1
+94;Severa Pavel;KDU-ÈSL;KDU-ÈSL;1;1
+95;Málek Jan;KDU-ÈSL;KDU-ÈSL;0;1
+96;Bednáø Josef;KDU-ÈSL;KDU-ÈSL;0;1
+97;Filip Zdenìk;KDU-ÈSL;KDU-ÈSL;0;1
+98;Kasal Jan;KDU-ÈSL;KDU-ÈSL;1;1
+99;Karas Jiøí;KDU-ÈSL;KDU-ÈSL;1;1
+100;Bìlehrádek Stanislav;KDU-ÈSL;KDU-ÈSL;1;1
+101;Uøièáø Jiøí;KDU-ÈSL;KDU-ÈSL;1;1
+102;Havíø František;KDU-ÈSL;KDU-ÈSL;0;1
+103;Kubát Miloslav;KDU-ÈSL;KDU-ÈSL;0;1
+104;Nedomanský Leopold;KDU-ÈSL;KDU-ÈSL;0;1
+105;Ambrozek Libor;KDU-ÈSL;KDU-ÈSL;0;1
+106;Krákora Jiøí;KDU-ÈSL;KDU-ÈSL;0;1
+107;Mach Bedøich;KDU-ÈSL;KDU-ÈSL;0;1
+108;Kubiš Josef;KDU-ÈSL;KDU-ÈSL;1;1
+109;Breník Jan;KDU-ÈSL;KDU-ÈSL;0;1
+110;Procházka Vladimír;KDU-ÈSL;KDU-ÈSL;1;1
+111;Mádr Rostislav;KDU-ÈSL;KDU-ÈSL;0;1
+112;Janèar Jiøí;KDU-ÈSL;KDU-ÈSL;0;1
+113;Vysloužil Karel;KDU-ÈSL;ODA;0;0
+114;Hanzlík Tomáš;KDU-ÈSL;KDU-ÈSL;0;1
+115;Hutaø Jan;HSS;ÈMUS;0;0
+116;Kadlec Zdenìk;HSS;LB;0;0
+117;Kozmon Aladár;HSS;CAO;0;0
+118;Skøebský Miloslav;HSS;MNS-HSS;0;0
+119;Válek Karel;HSS;ÈMUS;0;0
+120;Spáèil Jaroslav;HSS;MNS-HSS;0;0
+121;Hirš Pavel;LSU;ODS;1;0
+122;Bodenlos Vavøinec;LSU;SD-LSNS;0;0
+123;Maøík Miroslav;LSU;SZ;0;0
+124;Vyvadil Jiøí;LSU;ÈSSD;1;0
+125;Sýkora Jaroslav;LSU;ÈMUS;1;0
+126;Dvoøák Miroslav;LSU;ÈMUS;0;0
+127;Vydra Josef;LSU;ÈSSD;0;0
+128;Holubièka Jaroslav;LSU;ÈMUS;0;0
+129;Vaèkáø Jiøí;LSU;KDU-ÈSL;1;0
+130;Tichava Vlastimil;LSU;SD-LSNS;0;0
+131;Kadlec Milan;LSU;SZ;0;0
+132;Bezdìkovský Vladimír;LSU;ÈMUS;0;0
+133;Langová Milena;LSU;ÈMUS;0;0
+134;Kadubec Jiøí;LSU;SZ;0;0
+135;Rùžièka Jiøí;LSU;SZ;0;0
+136;Pospíšil Rudolf;LSU;SD-LSNS;0;0
+137;Tomášek Jan;LSU;ÈMUS;0;0
+138;Pohlová Marta;LSU;SZ;0;0
+139;Víšek Josef;LSU;ÈMUS;0;0
+140;Sommer Jaroslav;LSU;ÈMUS;0;0
+141;Bachr Jiøí;LSU;SZ;0;0
+142;Hejátko Jaroslav;LSU;ÈMUS;0;0
+143;Nekvapil Josef;LSU;SZ;0;0
+144;Havelka František;LSU;ÈMUS;0;0
+145;Radil Václav;LSU;SD-LSNS;0;0
+146;Hronová Marie;LSU;SZ;0;0
+147;Melichar Vladimír;LSU;SD-LSNS;0;0
+148;Kalík Jindøich;LSU;ODA;0;0
+149;Vainar Rostislav;LSU;ÈMUS;0;0
+150;Dienstbier Ondøej;OH;SD-LSNS;0;0
+151;Hanuš Miloslav;OH;SD-LSNS;0;0
+152;Forman Petr;OH;ODA;0;0
+153;Kasalický Ivan;OH;SD-LSNS;0;0
+154;Schovánek Pavel;OH;SD-LSNS;0;0
+155;Bubák Jiøí;OH;SD-LSNS;0;0
+156;Lasovský Petr;OH;SD-LSNS;0;0
+157;Hudeèek Karel;OH;SD-LSNS;0;0
+158;Líbal Vladimír;OH;SD-LSNS;0;0
+159;Lerch Jan;OH;SD-LSNS;0;0
+160;Hájek Josef;OH;SD-LSNS;0;0
+161;Ulahel František;OH;SD-LSNS;0;0
+162;Nožièka Václav;OH;SD-LSNS;0;0
+163;Kozánek Petr;OH;SD-LSNS;0;0
+164;Holomek Karel;OH;SD-LSNS;0;0
+165;Štìrba Miloslav;OH;SD-LSNS;0;0
+166;Svobodová Eva;OH;SD-LSNS;0;0
+167;Neèas Josef;OH;SD-LSNS;0;0
+168;Straka Miloslav;OH;ODA;0;0
+169;Bílek František;OH;SD-LSNS;0;0
+170;Pokorný Ivan;OH;SD-LSNS;0;0
+171;Zlatuška Jiøí;OH;SD-LSNS;0;0
+172;Trnka František;OH;SD-LSNS;1;0
+173;Siuda Antonín;OH;ÈSSD;0;0
+174;Sýkora Milan;OH;SD-LSNS;0;0
+175;Hornišer Ivan;OH;SD-LSNS;0;0
+176;Šafáø František;OH;DEU;0;0
+177;Zaorálek Lubomír;OH;ÈSSD;0;0
+178;Krampera Zdenìk;SPR-RSÈ;SPR-RSÈ;0;1
+179;Šoler Jiøí;SPR-RSÈ;CAO;1;0
+180;Ciplová Marcela;SPR-RSÈ;SPR-RSÈ;0;1
+181;Valach Vítìzslav;SPR-RSÈ;ÈMUS;1;0
+182;Vik Jan;SPR-RSÈ;SPR-RSÈ;1;1
+183;Kašpárek Miroslav;SPR-RSÈ;NEZ;1;0
+184;Talášek František;SPR-RSÈ;SPR-RSÈ;0;1
+185;Kraus Pavel;KAN;DEU;0;0
+186;Pokorná Ivanka;KAN;DEU;0;0
+187;Gajdorus Miloslav;KAN;DEU;0;0
+188;Orság František;KAN;DEU;0;0
+189;Pavelka Jiøí;KAN;ODS;0;0
+190;Zboøil Zdenìk;KAN;DEU;0;0
+191;Stiborová Marie;LB (KSÈM);LB;1;0
+192;Exner Václav;LB (KSÈM);KSÈM;1;0
+193;Vorlíèek Zdenìk;LB (KSÈM);LB;1;0
+194;Papež Václav;LB (KSÈM);SÈK;0;0
+195;Jùn Jiøí;LB (KSÈM);KSÈM;0;0
+196;Vìrteláø Václav;LB (KSÈM);KSÈM;0;0
+197;Franzlová Olga;LB (KSÈM);LB;0;0
+198;Dolejš Jiøí;LB (KSÈM);KSÈM;0;0
+199;Èapka Cyril;LB (KSÈM);KSÈM;0;0
+200;Silber Radomír;LB (KSÈM);KSÈM;0;0
+201;Zeman Jan;LB (KSÈM);KSÈM;0;0
+202;Ortman Jaroslav;LB (KSÈM);LB;1;0
+203;Frank Václav;LB (KSÈM);KSÈM;1;0
+204;Grospiè Stanislav;LB (KSÈM);KSÈM;0;0
+205;Duras Jaroslav;LB (KSÈM);LB;0;0
+206;Jirák Jaroslav;LB (KSÈM);KSÈM;0;0
+207;Skála Karel;LB (KSÈM);KSÈM;0;0
+208;Bumbová Stanislava;LB (KSÈM);LB;1;0
+209;Pacourková Vlasta;LB (KSÈM);SDL;0;0
+210;Klíma Josef;LB (KSÈM);SDL;0;0
+211;Ryzka Jiøí;LB (KSÈM);SDL;0;0
+212;Hrbková Olga;LB (KSÈM);KSÈM;0;0
+213;Maryt Jiøí;LB (KSÈM);LB;1;0
+214;Lagová Hana;LB (KSÈM);LB;1;0
+215;Váchalová Anna;LB (KSÈM);LB;1;0
+216;Podlipský František;LB (KSÈM);KSÈM;0;0
+217;Václav Josef;LB (KSÈM);KSÈM;0;0
+218;Èelišová Kvìtoslava;LB (KSÈM);KSÈM;1;0
+219;Èapek Miroslav;LB (KSÈM);LB;1;0
+220;Chudoba Martin;LB (KSÈM);LB;1;0
+221;Žižka Jaroslav;LB (KSÈM);LB;1;0
+222;Brynychová Ludmila;LB (KSÈM);KSÈM;1;0
+223;Maixner František;LB (KSÈM);KSÈM;0;0
+224;Machaò Oldøich;LB (KSÈM);SDL;0;0
+225;Majerèín Josef;LB (KSÈM);KSÈM;0;0
+226;Horník Jindøich;LB (KSÈM);LB;0;0
+227;Burger Michal;LB (KSÈM);KSÈM;0;0
+228;Šínová Dana;LB (KSÈM);SDL;0;0
+229;Bernášek Jindøich;LB (KSÈM);SÈK;0;0
+230;Kysela Jan;LB (KSÈM);SÈK;0;0
+231;Štrait Jaroslav;LB (KSÈM);KSÈM;1;0
+232;Mandík Josef;LB (KSÈM);KSÈM;1;0
+233;Svobodová Alena;LB (KSÈM);KSÈM;0;0
+234;Kutílek Jan;LB (KSÈM);LB;0;0
+235;Zelinka Libor;LB (KSÈM);LB;0;0
+236;Snopek Václav;LB (KSÈM);KSÈM;0;0
+237;Hrazdíra Antonín;LB (KSÈM);LB;0;0
+238;Èundrle Václav;LB (KSÈM);LB;1;0
+239;Èechák Vojtìch;LB (KSÈM);LB;1;0
+240;Matulka Dalibor;LB (KSÈM);KSÈM;1;0
+241;Navrátil Jan;LB (KSÈM);KSÈM;1;0
+242;Kováèik Pavel;LB (KSÈM);KSÈM;0;0
+243;Strušková Marta;LB (KSÈM);KSÈM;0;0
+244;Boháèková Ludmila;LB (KSÈM);KSÈM;0;0
+245;Levák Leopold;LB (KSÈM);KSÈM;0;0
+246;Hanák Pavel;LB (KSÈM);LB;0;0
+247;Šaur Vladimír;LB (KSÈM);KSÈM;0;0
+248;Býèek Ladislav;LB (KSÈM);KSÈM;0;0
+249;Švec Jiøí;LB (KSÈM);KSÈM;0;0
+250;Videcký Jaroslav;LB (KSÈM);SDL;0;0
+251;Kleibl Jiøí;LB (KSÈM);KSÈM;0;0
+252;Machalík Jiøí;LB (KSÈM);LB;1;0
+253;Soural Jaroslav;LB (KSÈM);LB;1;0
+254;Palas Jaroslav;LB (KSÈM);ÈSSD;1;0
+255;Kluèka Václav;LB (KSÈM);LB;1;0
+256;Kuchaø Vlastislav;LB (KSÈM);LB;1;0
+257;Škodová Vilemína;LB (KSÈM);KSÈM;0;0
+258;Hanzelková Helena;LB (KSÈM);LB;0;0
+259;Rumpíková Eva;LB (KSÈM);LB;0;0
+260;Suchý František;LB (KSÈM);SDL;0;0
+261;Laga Petr;LB (KSÈM);KSÈM;0;0
+262;Petráš Antonín;LB (KSÈM);KSÈM;0;0
+263;Krušina Jaroslav;LB (KSÈM);KSÈM;0;0
+264;Cardová Jaroslava;LB (KSÈM);KSÈM;0;0
+265;Gajdáèek Petr;LB (KSÈM);KSÈM;0;0
+266;Hoš Vladimír;LB (KSÈM);KSÈM;0;0
+267;Bureš Eduard;ODS;ODS;1;1
+268;Klíma Jiøí;ODS;ODS;0;1
+269;Tlustý Vlastimil;ODS;ODS;1;1
+270;Èerný Jan;ODS;ODS;1;1
+271;Benda Marek;ODS;ODS;1;1
+272;Koucký Jan;ODS;ODS;1;1
+273;Krása Václav;ODS;ODS;1;1
+274;Klas Jan;ODS;ODS;1;1
+275;Lobkowicz Michal;ODS;ODS;1;1
+276;Trojan Václav;ODS;ODS;1;1
+277;Pešek Pavel;ODS;ODS;1;1
+278;Bejlek Jan;ODS;ODS;0;1
+279;Valut František;ODS;ODS;0;1
+280;Röschová Anna;ODS;ODS;1;1
+281;Peèenka Antonín;ODS;ODS;0;1
+282;Èermák Petr;ODS;ODS;1;1
+283;Haringer Jiøí;ODS;KDU-ÈSL;1;0
+284;Mandelík Richard;ODS;ODS;1;1
+285;Melichar Jaroslav;ODS;ODS;1;1
+286;Brodský Karel;ODS;ODS;0;1
+287;Kozel František;ODS;ODS;1;1
+288;Lukáš Vìnceslav;ODS;KDU-ÈSL;1;0
+289;Honajzer Jiøí;ODS;ODS;1;1
+290;Tollner Pavel;ODS;KDU-ÈSL;1;0
+291;Fejfar Tomáš;ODS;ODS;1;1
+292;Syka Martin;ODS;ODS;1;1
+293;Koláø Robert;ODS;ODS;1;1
+294;Zahradníèek Jan;ODS;KDU-ÈSL;1;0
+295;Matysková Vìra;ODS;ODS;0;1
+296;Nejezchleb Karel;ODS;ODS;0;1
+297;Tomek Jiøí;ODS;ODS;0;1
+298;Baøinka Vlastimil;ODS;ODS;0;1
+299;Novák Jiøí;ODS;ODS;1;1
+300;Pavlíková Jiøina;ODS;ODS;1;1
+301;Ullmann Josef;ODS;ODS;1;1
+302;Mašek Ivan;ODA;ODA;1;1
+303;Špaèek Radim;ODA;ODA;1;1
+304;Kalvoda Jan;ODA;ODA;1;1
+305;Vondrouš Jan;ODA;ODA;0;1
+306;Troup Zdenìk;ODA;ODA;0;1
+307;Kotek Jiøí;ODA;ODA;0;1
+308;Michálek Martin;ODA;ODA;0;1
+309;Èerný Milan;ODA;SPR-RSÈ;0;0
+310;Dolejší Stanislava;ODA;ODA;0;1
+311;Bakalíková Lýdie;ODA;ODA;0;1
+312;Èerná Milada;ODA;ODA;0;1
+313;Hofhanzl Èestmír;ODA;ODA;1;1
+314;Veleba Lubor;ODA;ODA;0;1
+315;Studený Miroslav;ODA;ODA;0;1
+316;Kyselý Josef;ODA;ODA;0;1
+317;Machovec Karel;ÈSSD;ÈSSD;0;1
+318;Semrád Milan;ÈSSD;ÈSSD;0;1
+319;Buzková Petra;ÈSSD;ÈSSD;1;1
+320;Prùša František;ÈSSD;ÈSSD;0;1
+321;Vítek Jaroslav;ÈSSD;ÈSSD;0;1
+322;Kožíšek Oldøich;ÈSSD;ÈSSD;0;1
+323;Strachota Antonín;ÈSSD;ÈSSD;0;1
+324;Hrdý Karel;ÈSSD;KDU-ÈSL;1;0
+325;Zelníèek František;ÈSSD;ÈSSD;0;1
+326;Chobot František;ÈSSD;ÈSSD;0;1
+327;Ostøanský Jiøí;ÈSSD;ÈSSD;0;1
+328;Gola František;ÈSSD;ÈSSD;0;1
+329;Kylar Leoš;HSD-SMS;HSMSMNSJ;0;0
+330;Hrdonka Václav;HSD-SMS;LB;0;0
+331;Macháèek Jiøí;HSD-SMS;ÈMUS;1;0
+332;Fuchsová Jana;HSD-SMS;HSMSMNSJ;0;0
+333;Marša Igor;HSD-SMS;HSMSMNSJ;0;0
+334;Kupka Jaroslav;HSD-SMS;HSMSMNSJ;0;0
+335;Konsbul Otakar;HSD-SMS;ÈMUS;0;0
+336;Trecha Jiøí;HSD-SMS;MNS-HSS;0;0
+337;Sobol Slavomír;HSD-SMS;HSMSMNSJ;0;0
+338;Šabata Miloslav;D92;CAO;0;0
+339;Stibral Jiøí;KDU-ÈSL;DEU;0;0
+340;Duchek Karel;KDU-ÈSL;KDU-ÈSL;0;1
+341;Hora Václav;KDU-ÈSL;KDU-ÈSL;0;1
+342;Šmrha Václav;KDU-ÈSL;KDU-ÈSL;0;1
+343;Mach Karel;KDU-ÈSL;KDU-ÈSL;1;1
+344;Jelínek Jan;KDU-ÈSL;KDU-ÈSL;0;1
+345;Fuèík Václav;KDU-ÈSL;KDU-ÈSL;0;1
+346;Houdek Jiøí;KDU-ÈSL;KDU-ÈSL;0;1
+347;Talíø Jaromír;KDU-ÈSL;KDU-ÈSL;0;1
+348;Šulc Petr;KDU-ÈSL;KDU-ÈSL;0;1
+349;Veselka Jiøí;KDU-ÈSL;KDU-ÈSL;0;1
+350;Válek Vojtìch;KDU-ÈSL;KDU-ÈSL;0;1
+351;Derner Vladimír;KDU-ÈSL;KDU-ÈSL;0;1
+352;Rafaja František;KDU-ÈSL;KDU-ÈSL;0;1
+353;Novák Antonín;KDU-ÈSL;KSÈM;0;0
+354;Veselý Josef;SÈPŽR;SD-LSNS;0;0
+355;Novotný Ladislav;SÈPŽR;SD-LSNS;0;0
+356;Vlk Ivan;SÈPŽR;SD-LSNS;0;0
+357;Kratochvíl Vladimír;SÈPŽR;SD-LSNS;0;0
+358;Štìpánek Zdenìk;HSS;ÈMUS;0;0
+359;Streckerová Vendulka;HSS;ÈMUS;0;0
+360;Kostýlek Eduard;HSS;SÈK;0;0
+361;Klíma Karel;LSU;SZ;0;0
+362;Pøíhoda Zdenìk;LSU;SZ;0;0
+363;Pajtl Ivan;LSU;NEZ;0;0
+364;Oslej Dušan;LSU;SZ;0;0
+365;Kollár Evžen;LSU;SZ;0;0
+366;Sopko Kamil;LSU;SZ;0;0
+367;Kozák Stanislav;LSU;KDU-ÈSL;1;0
+368;Vlèek Jaroslav;LSU;ÈSSD;1;0
+369;Orgoníková Hana;LSU;ÈSSD;1;0
+370;Vraný Jan;LSU;KDU-ÈSL;1;0
+371;Drápela Jiøí;LSU;ÈMUS;1;0
+372;Køížek Josef;LSU;ÈMUS;1;0
+373;Kalousek Jaroslav;LSU;SD-LSNS;0;0
+374;Ruschka Evžen;LSU;SD-LSNS;0;0
+375;Skopal Jaroslav;LSU;SD-LSNS;0;0
+376;Jelínek Josef;LSU;ODA;0;0
+377;Boloòský Stanislav;OH;NEZ;0;0
+378;Sokol Tomáš;OH;SD-LSNS;0;0
+379;Novák František;OH;SD-LSNS;0;0
+380;Kunetka Ivan;OH;SD-LSNS;0;0
+381;Novák Jaroslav;SPR-RSÈ;SPR-RSÈ;1;1
+382;Vlèek Zdenìk;SPR-RSÈ;LB;1;0
+383;Matoušková Eva;SPR-RSÈ;ODA;1;0
+384;Valenta Josef;SPR-RSÈ;SPR-RSÈ;1;1
+385;Unger Jaroslav;SPR-RSÈ;NEZ;1;0
+386;Loukota Milan;SPR-RSÈ;SPR-RSÈ;1;1
+387;Vrcha Oldøich;SPR-RSÈ;SPR-RSÈ;1;1
+388;Pešek Milan;SPR-RSÈ;SPR-RSÈ;0;1
+389;Èech František;KAN;ÈSSD;0;0
+390;Vamberová Daniela;KAN;DEU;0;0
+391;Ganzwohl Vladimír;KAN;CAO;0;0
+392;Kny Richard;KAN;DEU;0;0
+393;Øebíèek Miloš;KAN;CAO;0;0
+394;Dražan Tomáš;KAN;DEU;0;0
+395;Šíma Daniel;KAN;ODS;0;0
+396;Puk Jaromír;KAN;ODA;0;0
+397;Kasperèík Karel;KAN;DEU;0;0
+398;Votava Vratislav;LB (KSÈM);KSÈM;1;0
+399;Sádlo Jiøí;LB (KSÈM);LB;0;0
+400;Rožánek Karel;LB (KSÈM);KSÈM;0;0
+401;Mašek Jiøí;LB (KSÈM);SD-LSNS;0;0
+402;Izakoviè Pavol;LB (KSÈM);SDL;0;0
+403;Èapský Jaroslav RS;LB (KSÈM);KSÈM;0;0
+404;Bezdíèek Petr;LB (KSÈM);LB;0;0
+405;Bunïálek Pavel;NEI;MNS-HSS;0;0
+406;Payne Jiøí;ODS;ODS;1;1
+407;Marvanová Hana;ODS;ODS;1;1
+408;Koháèek Petr;ODS;ODS;1;1
+409;Páv Tomáš;ODS;ODS;1;1
+410;Gjuriè Andrej;ODS;ODS;1;1
+411;Zemina Ondøej;ODS;ODS;1;1
+412;Krámek Jan;ODS;ODS;1;1
+413;Koláøová Milena;ODS;ODS;1;1
+414;Tichotová Pøibyslava;ODS;DEU;0;0
+415;Krejèí Petr;ODS;ODS;0;1
+416;Vlach Jiøí;ODS;ODS;1;1
+417;Rosol Jindøich;ODS;ODS;0;1
+418;Volák Stanislav;ODS;ODS;1;1
+419;Vrzal Ivan;ODS;ODS;1;1
+420;Budinský Vladimír;ODS;ODS;1;1
+421;Kadlecová Milada;ODS;ODS;1;1
+422;Holub Josef;ODS;ODS;1;1
+423;Vojíø Oldøich;ODS;ODS;0;1
+424;Bartoš Vladimír;ODS;ODS;0;1
+425;Panenka Pavel;ODS;ODS;0;1
+426;Stráský Jan;ODS;ODS;1;1
+427;Jaroš Emil;ODS;ODS;1;1
+428;Zima Anton;ODS;ODS;1;1
+429;Pìnièka Stanislav;ODS;ODS;1;1
+430;Nájemník Václav;ODS;ODS;1;1
+431;Horníková Zdeòka;ODS;ODS;0;1
+432;Uhde Milan;ODS;ODS;1;1
+433;Pøibáò Martin;ODS;ODS;1;1
+434;Vlèek Vlastimil;ODS;ODS;1;1
+435;Zicha Vlastimil;ODS;ODS;0;1
+436;Vejvoda Ladislav;ODS;ODS;0;1
+437;Novák Rostislav;ODS;ODS;0;1
+438;Pejøil František;ODS;ODS;0;1
+439;Novák Libor;ODS;ODS;1;1
+440;Neèas Petr;ODS;ODS;1;1
+441;Kalus Jaromír;ODS;ODS;1;1
